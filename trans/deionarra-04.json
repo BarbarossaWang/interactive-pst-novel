@@ -1,0 +1,325 @@
+{
+ "chapter": "Deionarra",
+ "chunk": "deionarra-04",
+ "items": [
+  {
+   "i": 67,
+   "zh": "“停尸间里没有叫这个名字的人，无论活人还是死人。”他的嘴角抽动了一下，而让我意外的是，他竟抽着鼻子嗅了嗅空气，嗅了片刻。",
+   "notes": [
+    "主语是 <code>No one of that name</code>，<code>of that name</code> 作后置定语修饰 <code>No one</code>；<code>reside</code> 是正式用词，等于 live/dwell，常见于公文或阴森场合的措辞。",
+    "<code>living or dead</code> 是补充说明的插入语，用形容词并列代替 <code>whether they are living or dead</code>，句子更利落。",
+    "<code>to my surprise</code> 是“使我意外的是”，在句中作插入性状语，位置灵活（句首、句中、句末皆可）。"
+   ],
+   "vocab": [
+    {
+     "w": "reside",
+     "p": "/rɪˈzaɪd/",
+     "t": "v.",
+     "z": "居住，驻留（较正式，此处指长住于某处）"
+    },
+    {
+     "w": "Mortuary",
+     "p": "/ˈmɔːtʃuəri/",
+     "t": "n.",
+     "z": "停尸间，殡仪馆（本章专指印记城的停尸间）"
+    },
+    {
+     "w": "twitched",
+     "p": "/twɪtʃt/",
+     "t": "v.",
+     "z": "抽动，抽搐（嘴角等不受控地动一下）"
+    },
+    {
+     "w": "sniffed",
+     "p": "/snɪft/",
+     "t": "v.",
+     "z": "嗅，抽鼻闻（sniff the air 嗅空气）"
+    },
+    {
+     "w": "to my surprise",
+     "p": "",
+     "t": "短语",
+     "z": "令我意外的是（作插入语）"
+    }
+   ]
+  },
+  {
+   "i": 68,
+   "zh": "“呃……那一定是我说错了。”我在心里暗暗骂自己不该说出那个名字。尘人当然会知道自己死者的名字。我一时语塞，又编出一个借口：“我是来见达尔的。”",
+   "notes": [
+    "<code>must have misspoke</code> 是“must + have + 过去分词”，表示对过去事情的肯定推测：“一定是我说错了”。<code>misspeak</code> 意为“说错话”。",
+    "<code>cursed myself for using that name</code> 中 <code>for + 动名词</code> 表示“因（做了）某事而……”，与 <code>blame sb. for</code> 结构相通。",
+    "<code>floundered</code> 本义是“在泥水或深水中挣扎”，引申为“语无伦次、手足无措”，比 struggle to speak 更生动。"
+   ],
+   "vocab": [
+    {
+     "w": "misspoke",
+     "p": "/ˌmɪsˈspəʊk/",
+     "t": "v.",
+     "z": "说错了话（misspeak 的过去式）"
+    },
+    {
+     "w": "cursed",
+     "p": "/kɜːst/",
+     "t": "v.",
+     "z": "诅咒，咒骂（curse oneself 暗骂自己）"
+    },
+    {
+     "w": "Dustmen",
+     "p": "/ˈdʌstmən/",
+     "t": "n.",
+     "z": "尘人，灰烬党（印记城教派，尊崇死亡）"
+    },
+    {
+     "w": "floundered",
+     "p": "/ˈflaʊndəd/",
+     "t": "v.",
+     "z": "挣扎，支吾慌乱（此处指一时语塞）"
+    },
+    {
+     "w": "came up with",
+     "p": "",
+     "t": "短语",
+     "z": "想出，编造出（主意、借口等）"
+    }
+   ]
+  },
+  {
+   "i": 69,
+   "zh": "“达尔？抄写员达尔在上层楼的接待室里。”索戈的嘴角又微微一抽。“他相当忙，身体也一天不如一天。除非你有要紧事，否则我劝你别去打扰他。”",
+   "notes": [
+    "<code>Dhall the Scrivener</code> 是“名词 + 头衔/绰号”的同位语写法，等于 Dhall, who is the Scrivener。<code>scrivener</code> 是古语，指抄写员、文书。",
+    "<code>can be found in…</code> 是被动语态表示“可在某处找到”，比 <code>is in</code> 更委婉、更像公务口吻。",
+    "<code>Unless you have pressing business, I would not disturb him.</code> 中 <code>unless</code> 引导否定条件状语从句；<code>would not</code> 是委婉的建议/劝阻语气，并非过去时。"
+   ],
+   "vocab": [
+    {
+     "w": "Scrivener",
+     "p": "/ˈskrɪvənə(r)/",
+     "t": "n.",
+     "z": "抄写员，文书（古语，此处为达尔的称号）"
+    },
+    {
+     "w": "receiving room",
+     "p": "",
+     "t": "短语",
+     "z": "接待室，会客室"
+    },
+    {
+     "w": "twitched",
+     "p": "/twɪtʃt/",
+     "t": "v.",
+     "z": "抽动（嘴角等轻微而不自主地动）"
+    },
+    {
+     "w": "pressing",
+     "p": "/ˈpresɪŋ/",
+     "t": "adj.",
+     "z": "紧迫的，急迫的（pressing business 要紧事）"
+    },
+    {
+     "w": "disturb",
+     "p": "/dɪˈstɜːb/",
+     "t": "v.",
+     "z": "打扰，搅扰"
+    }
+   ]
+  },
+  {
+   "i": 70,
+   "zh": "“达尔怎么了？”",
+   "notes": [
+    "<code>What's wrong with…?</code> 是询问“某人/某物出了什么毛病”的固定句式，比 <code>What happened to…</code> 更强调“不对劲、有问题”。",
+    "此处是简短的一问，与前后索戈冗长而冷漠的答话形成节奏对比，衬托“我”的警惕与不安。"
+   ],
+   "vocab": [
+    {
+     "w": "wrong with",
+     "p": "",
+     "t": "短语",
+     "z": "（与 what 连用）……出了什么毛病；What is wrong with…? 是询问状况/病症的固定问法"
+    },
+    {
+     "w": "Dhall",
+     "p": "",
+     "t": "n.",
+     "z": "达尔（停尸间的抄写员，专名音译）"
+    }
+   ]
+  },
+  {
+   "i": 71,
+   "zh": "“哦，他没什么毛病。达尔只是……”索戈磕了一下牙。“……老了。他长期专心为死者编目，如今已近尽头。他染上了痨病，死亡无疑很快便会随之而来。”",
+   "notes": [
+    "<code>run its course</code> 是固定搭配，指（疾病、事态、任期等）自然发展至结束，“走到尽头、自然终结”。",
+    "<code>His long devotion to cataloging the dead</code> 中 <code>devotion to</code> 后接动名词，表示“对……的长期投入”。",
+    "<code>Death will no doubt soon follow the wasting sickness he has contracted.</code> 中 <code>follow</code> 意为“紧随其后发生”；<code>he has contracted</code> 是省略了 <code>that</code> 的定语从句，修饰 <code>the wasting sickness</code>。"
+   ],
+   "vocab": [
+    {
+     "w": "clicked his teeth",
+     "p": "",
+     "t": "短语",
+     "z": "磕牙，牙齿打响声（表不耐或古怪的强调）"
+    },
+    {
+     "w": "devotion",
+     "p": "/dɪˈvəʊʃn/",
+     "t": "n.",
+     "z": "献身，专注（devotion to sth. 对某事的热忱）"
+    },
+    {
+     "w": "cataloging",
+     "p": "/ˈkætəlɒɡɪŋ/",
+     "t": "v.",
+     "z": "编目，分类登记（此处指登记死者）"
+    },
+    {
+     "w": "run its course",
+     "p": "",
+     "t": "习语",
+     "z": "自然发展至终结，走到尽头"
+    },
+    {
+     "w": "wasting sickness",
+     "p": "",
+     "t": "短语",
+     "z": "痨病，消耗性疾病（使身体日渐消瘦的病症）"
+    }
+   ]
+  },
+  {
+   "i": 72,
+   "zh": "“你知道，这事我可以改天再来。你现在能让我出去吗？”索戈点了点头，嘴角又抽了一下。",
+   "notes": [
+    "<code>I could do this another time</code> 用 <code>could</code> 而非 <code>can</code>，语气更委婉退让，像是在给自己找台阶下。",
+    "<code>let me out</code> 是“放我出去、让我出去”的固定说法，<code>out</code> 作宾语补足语。<code>another time</code> 意为“改天，另找时间”。",
+    "结尾的 <code>the corner of his mouth twitched</code> 与前面数次重复，成为索戈的标志性动作，暗示他心知肚明却不动声色。"
+   ],
+   "vocab": [
+    {
+     "w": "another time",
+     "p": "",
+     "t": "短语",
+     "z": "改天，另找时间"
+    },
+    {
+     "w": "let me out",
+     "p": "",
+     "t": "短语",
+     "z": "放我出去，让我出去"
+    },
+    {
+     "w": "nodded",
+     "p": "/ˈnɒdɪd/",
+     "t": "v.",
+     "z": "点头（表示同意）"
+    },
+    {
+     "w": "twitched",
+     "p": "/twɪtʃt/",
+     "t": "v.",
+     "z": "抽动，抽了一下"
+    }
+   ]
+  },
+  {
+   "i": 73,
+   "zh": "“呃……当然，当然。我这就给你开正门。”他走到门边，把门锁打开。我强烈地感觉他知道我在撒谎，但出于他自己的某种缘故，他不想拆穿我，或者根本不在乎我做什么。我匆匆离开了那座建筑。",
+   "notes": [
+    "<code>Why… of course, of course.</code> 中的 <code>Why</code> 是感叹词，表示轻微的惊讶或恍然，并非“为什么”，常见于旧式英语对白。",
+    "<code>for reasons of his own</code> 意为“出于他自己的（不愿明说的）理由”，是描述人物动机含蓄不明的常用短语。",
+    "<code>didn't want to expose me, or didn't care what I did</code> 用 <code>or</code> 并列两个否定谓语，把“有意放过”和“根本不在意”两种可能并列悬置，制造悬念。"
+   ],
+   "vocab": [
+    {
+     "w": "front gate",
+     "p": "",
+     "t": "短语",
+     "z": "正门，前门（此处指停尸间大门）"
+    },
+    {
+     "w": "unlocked",
+     "p": "/ˌʌnˈlɒkt/",
+     "t": "v.",
+     "z": "开锁，打开（锁）"
+    },
+    {
+     "w": "expose",
+     "p": "/ɪkˈspəʊz/",
+     "t": "v.",
+     "z": "揭露，拆穿（此处指揭穿谎言）"
+    },
+    {
+     "w": "for reasons of his own",
+     "p": "",
+     "t": "短语",
+     "z": "出于他自己的（不便明言的）理由"
+    },
+    {
+     "w": "hurried",
+     "p": "/ˈhʌrid/",
+     "t": "v.",
+     "z": "匆忙（hurry to do sth. 急忙做某事）"
+    }
+   ]
+  },
+  {
+   "i": 74,
+   "zh": "* * *",
+   "notes": [
+    "<code>* * *</code> 是小说中常见的分节符号，表示场景转换或时间跳跃，中文排版通常原样保留，也可写作“……”。",
+    "此处用它把“我”离开停尸间与接下来停尸间内石板的异动切开，形成电影式的镜头切换；后一段又以停尸间石板起笔，前后形成巧妙的呼应（<code>A slab in the Mortuary</code>）。"
+   ],
+   "vocab": [
+    {
+     "w": "* * *",
+     "p": "",
+     "t": "短语",
+     "z": "分节符：表示场景转换、时间跳跃（中文可保留原样）"
+    }
+   ]
+  },
+  {
+   "i": 75,
+   "zh": "停尸间里的一块石板，不久前上面还躺着一个不朽者的尸体。房中摇曳的灯光投下流动的影子。细心的人或许会注意到，有些影子并不随灯光而动，而是自行移动，仿佛被某种恶意的意志驱使。那些影子在石板周围游移了片刻，像是在搜寻什么。随后一切恢复如初；仅存的影子，只是物体简单地遮住光线所投下的那些。",
+   "notes": [
+    "<code>A slab in the Mortuary, where…</code> 是名词短语构成的“无谓语”描写句，用 <code>where</code> 引导定语从句补充说明石板的位置与状态，制造悬置、静默的镜头感。",
+    "<code>a short time before</code> 与过去时 <code>lay</code> 搭配，表示“在（当时）不久之前”，是叙事中回指的常用时间标记。",
+    "<code>as if driven by a malign intelligence</code> 中 <code>as if + 过去分词</code> 是省略结构，完整为 <code>as if they were driven by…</code>，表示与事实相反的揣测。"
+   ],
+   "vocab": [
+    {
+     "w": "slab",
+     "p": "/slæb/",
+     "t": "n.",
+     "z": "厚板，石板（此处指停尸间的停尸石板）"
+    },
+    {
+     "w": "immortal",
+     "p": "/ɪˈmɔːtl/",
+     "t": "n.",
+     "z": "不朽者，不死之人（此处指无名氏）"
+    },
+    {
+     "w": "flickering",
+     "p": "/ˈflɪkərɪŋ/",
+     "t": "adj.",
+     "z": "闪烁不定的，摇曳的（灯光）"
+    },
+    {
+     "w": "malign",
+     "p": "/məˈlaɪn/",
+     "t": "adj.",
+     "z": "恶意的，有害的（malign intelligence 恶意的意志）"
+    },
+    {
+     "w": "questing",
+     "p": "/ˈkwestɪŋ/",
+     "t": "v.",
+     "z": "搜寻，探寻（此处指影子四处摸索寻找）"
+    }
+   ]
+  }
+ ]
+}

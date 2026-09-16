@@ -1,0 +1,707 @@
+{
+ "chapter": "The Mortuary",
+ "chunk": "the-mortuary-03",
+ "items": [
+  {
+   "i": 45,
+   "zh": "“我记得你之前没提过……这些看尸人到底是什么来头？”",
+   "notes": [
+    "<code>I don’t think you mentioned it before</code> 是否定前置的委婉说法：字面是“我不认为你提过”，实际等于“你没提过吧”，语气比 <code>You didn’t mention it</code> 更缓和、更像随口一问。",
+    "<code>caretakers</code> 在这里不是“照顾者”，而是“看管尸体的人”，与后文 <code>caretaker</code> 的职业含义一致。",
+    "破折号加省略号表示说话人一边想一边说，译文保留这种迟疑感。"
+   ],
+   "vocab": [
+    {
+     "w": "caretakers",
+     "p": "/ˈkeəteɪkəz/",
+     "t": "n.",
+     "z": "看管者；（此处）看尸人、停尸间的管理员"
+    },
+    {
+     "w": "mentioned",
+     "p": "/ˈmenʃnd/",
+     "t": "v.",
+     "z": "提到，说起（mention 的过去分词）"
+    },
+    {
+     "w": "before",
+     "p": "/bɪˈfɔː/",
+     "t": "adv.",
+     "z": "以前，先前"
+    }
+   ]
+  },
+  {
+   "i": 46,
+   "zh": "“他们管自己叫‘尘人’。你想认不出来都难：这帮家伙痴迷黑色，脸上还带着死尸般的僵硬。一群脑子坏掉的食尸鬼、拜死教徒；他们相信人人都该死……早死总比晚死好。”我心里琢磨起这些看尸人来。",
+   "notes": [
+    "<code>You can’t miss ’em</code> 是口语习语，字面“你不可能错过他们”，意思是“他们太显眼了，一眼就能认出”。<code>’em</code> 是 <code>them</code> 的口语缩写。",
+    "<code>sooner better than later</code> 是尘人挂在嘴边的信条式说法，正常说法是 <code>sooner rather than later</code>（宜早不宜迟），原文故意省略 <code>rather</code>，显得粗野、像口号。",
+    "<code>an obsession with black and rigor mortis of the face</code> 用 <code>obsession with</code>（对……的痴迷）与法医用语 <code>rigor mortis</code>（尸僵）并置来刻画他们；末句 <code>I wondered about…</code> 从对话转回第一人称内心旁白。"
+   ],
+   "vocab": [
+    {
+     "w": "Dustmen",
+     "p": "/ˈdʌstmen/",
+     "t": "n.",
+     "z": "尘人（灰烬党），停尸间的看管者团体"
+    },
+    {
+     "w": "rigor mortis",
+     "p": "/ˌrɪɡə ˈmɔːtɪs/",
+     "t": "n.",
+     "z": "尸僵；（此处形容面孔僵硬无表情）"
+    },
+    {
+     "w": "addled",
+     "p": "/ˈædld/",
+     "t": "adj.",
+     "z": "头脑糊涂的，昏乱的（addled brain 的常见搭配）"
+    },
+    {
+     "w": "ghoulish",
+     "p": "/ˈɡuːlɪʃ/",
+     "t": "adj.",
+     "z": "食尸鬼般的；病态嗜死的"
+    },
+    {
+     "w": "death-worshippers",
+     "p": "/ˈdeθ wɜːʃɪpəz/",
+     "t": "n.",
+     "z": "拜死教徒，崇拜死亡的人"
+    }
+   ]
+  },
+  {
+   "i": 47,
+   "zh": "“我有点糊涂……我逃不逃走，跟这些尘人有什么关系？”",
+   "notes": [
+    "<code>I’m confused…</code> 用省略号表现出无名氏记忆残缺、说话迟疑的状态，译文保留这种断断续续的语感。",
+    "<code>care if I escape</code> 中 <code>care</code> 是“在乎、介意”，<code>why do these Dustmen care</code> 直译为“他们为什么在乎”，意译成“跟他们有什么关系”更符合中文口吻。",
+    "注意这里主语是 <code>these Dustmen</code>，与上文的 <code>caretakers</code> 指同一批人。"
+   ],
+   "vocab": [
+    {
+     "w": "confused",
+     "p": "/kənˈfjuːzd/",
+     "t": "adj.",
+     "z": "困惑的，糊涂的"
+    },
+    {
+     "w": "escape",
+     "p": "/ɪˈskeɪp/",
+     "t": "v.",
+     "z": "逃走，逃脱"
+    },
+    {
+     "w": "care",
+     "p": "/keə/",
+     "t": "v.",
+     "z": "在乎，介意（常用于疑问和否定）"
+    }
+   ]
+  },
+  {
+   "i": 48,
+   "zh": "“你刚才没在听吗？！我说过，尘人相信人人都得死，早死总比晚死好。你觉得你见过的那些尸体，是进了停尸名册更舒坦，还是出来更舒坦？”话头一起，我发现自己满肚子都是问题。",
+   "notes": [
+    "<code>Weren’t you listening?!</code> 是否定疑问句表责备，相当于“你怎么没在听”；全大写 <code>EVERYBODY’S</code> 表示莫提加重语气、近乎吼叫。",
+    "<code>the dead book</code> 是黑话，指“死者名册”，引申为“死掉、入册”；<code>happier in the dead book than out of it</code> 是莫提的阴冷玩笑：进册（死）比出册（活）更幸福。",
+    "末句 <code>Once started, I found I was full of questions.</code> 中 <code>Once started</code> 是省略结构，相当于 <code>Once I had started asking</code>。"
+   ],
+   "vocab": [
+    {
+     "w": "Dusties",
+     "p": "/ˈdʌstiz/",
+     "t": "n.",
+     "z": "尘人的昵称（Dustmen 的口语简称）"
+    },
+    {
+     "w": "dead book",
+     "p": "",
+     "t": "习语",
+     "z": "（俚）死者名册；婉指死亡、一命归西"
+    },
+    {
+     "w": "corpses",
+     "p": "/kɔːpsɪz/",
+     "t": "n.",
+     "z": "尸体（corpse 的复数）"
+    },
+    {
+     "w": "Once started",
+     "p": "",
+     "t": "句型",
+     "z": "一旦开了头（省略主语的状语从句，等于 Once I had started）"
+    }
+   ]
+  },
+  {
+   "i": 49,
+   "zh": "“这里的这些尸体……都是从哪儿来的？”",
+   "notes": [
+    "<code>where did they all come from</code> 是疑问词加介词的结构，<code>come from</code> 意为“来自、出自”。",
+    "省略号表示说话人目光扫过尸体、话说到一半的停顿，译文用同样的省略号保留节奏。",
+    "<code>all</code> 在这里是同位语，强调“全部、都”，不必译作“所有的它们”。"
+   ],
+   "vocab": [
+    {
+     "w": "corpses",
+     "p": "/kɔːpsɪz/",
+     "t": "n.",
+     "z": "尸体（corpse 的复数）"
+    },
+    {
+     "w": "come from",
+     "p": "",
+     "t": "短语",
+     "z": "来自，出自（询问来源）"
+    }
+   ]
+  },
+  {
+   "i": 50,
+   "zh": "“死亡每天都光顾诸界，老大。这些傻大个儿，全是那些死后把身体卖给看尸人的可怜虫剩下的东西。”",
+   "notes": [
+    "<code>Death visits the Planes every day</code> 把 Death 当作每天来访的客人，是拟人手法，<code>the Planes</code> 指“诸界、各位面”。",
+    "<code>all that’s left of</code> 意为“……所剩下的全部”，是常用结构；<code>poor sods</code> 是英式俚语，“可怜的倒霉蛋”。",
+    "<code>sold their bodies to the caretakers after death</code> 说明尸体是生前立约卖出的，这是理解停尸间设定的关键背景。"
+   ],
+   "vocab": [
+    {
+     "w": "lummoxes",
+     "p": "/ˈlʌməksɪz/",
+     "t": "n.",
+     "z": "笨手笨脚的傻大个儿（lummox 的复数）"
+    },
+    {
+     "w": "sods",
+     "p": "/sɒdz/",
+     "t": "n.",
+     "z": "（英俚）家伙，倒霉蛋（poor sod 可怜虫）"
+    },
+    {
+     "w": "chief",
+     "p": "/tʃiːf/",
+     "t": "n.",
+     "z": "（称呼）老大，头儿"
+    },
+    {
+     "w": "Planes",
+     "p": "/pleɪnz/",
+     "t": "n.",
+     "z": "诸界，各位面（《异域》设定的多元世界）"
+    }
+   ]
+  },
+  {
+   "i": 51,
+   "zh": "“你先前说过，得保证我不去杀那些女尸。为什么？”",
+   "notes": [
+    "<code>Before you said something about…</code> 中的 <code>Before</code> 是口语用法，等于“刚才、先前”。",
+    "<code>making sure I didn’t kill any female corpses</code> 是动名词短语作介词宾语，<code>make sure</code> 后接从句表示“确保、保证”。",
+    "<code>any</code> 在否定句中表示“任何一个”，<code>any female corpses</code> 即“任何一具女尸”。"
+   ],
+   "vocab": [
+    {
+     "w": "making sure",
+     "p": "",
+     "t": "短语",
+     "z": "确保，保证（make sure 的动名词形式）"
+    },
+    {
+     "w": "female",
+     "p": "/ˈfiːmeɪl/",
+     "t": "adj.",
+     "z": "女性的，雌性的"
+    },
+    {
+     "w": "Why?",
+     "p": "/waɪ/",
+     "t": "adv.",
+     "z": "为什么（此处独词成句，语气直接）"
+    }
+   ]
+  },
+  {
+   "i": 52,
+   "zh": "“什——你说真的？听着，老大，这些死掉的小妞，可是咱俩这种硬汉最后的机会。我们得讲骑士风度……不许为了钥匙把她们砍开，不许把胳膊腿卸下来，诸如此类。”我搞不懂莫提要把话头引到哪儿去。",
+   "notes": [
+    "<code>Wh —</code> 是单词被打断的写法（<code>What</code> 只说了一半），表示莫提的错愕；<code>chits</code> 是带贬义的口语，指“小妞、丫头”，<code>bashers</code> 在印记城俚语里指“打手、猛人”。",
+    "<code>no hacking them up for keys, no lopping their limbs off</code> 是并列的 <code>no + doing</code> 结构，表达禁令，语气生硬直白。",
+    "<code>where Morte was leading</code> 中 <code>lead</code> 意为“把话题引向”，即“他到底想说什么”。"
+   ],
+   "vocab": [
+    {
+     "w": "chits",
+     "p": "/tʃɪts/",
+     "t": "n.",
+     "z": "（贬义口语）小妞，丫头（chit 的复数）"
+    },
+    {
+     "w": "bashers",
+     "p": "/ˈbæʃəz/",
+     "t": "n.",
+     "z": "（印记城俚）打手，猛人；家伙"
+    },
+    {
+     "w": "chivalrous",
+     "p": "/ˈʃɪvəlrəs/",
+     "t": "adj.",
+     "z": "有骑士风度的，侠义的"
+    },
+    {
+     "w": "hacking",
+     "p": "/ˈhækɪŋ/",
+     "t": "v.",
+     "z": "乱砍，劈开（hack up 砍碎）"
+    },
+    {
+     "w": "lopping",
+     "p": "/ˈlɒpɪŋ/",
+     "t": "v.",
+     "z": "砍掉，剁下（lop off 砍下肢体）"
+    }
+   ]
+  },
+  {
+   "i": 53,
+   "zh": "“最后的机会？你在说什么？”",
+   "notes": [
+    "<code>Last Chance?</code> 用问号加重复对方用词的方式反问，中文同样以重复“最后的机会”来表现追问。",
+    "<code>What are you talking about?</code> 是口语中表示“你在说什么、你什么意思”的固定说法，不要逐字译成“你正在谈论什么”。"
+   ],
+   "vocab": [
+    {
+     "w": "Last Chance",
+     "p": "",
+     "t": "短语",
+     "z": "最后的机会（此处为莫提的调侃说法）"
+    },
+    {
+     "w": "What are you talking about",
+     "p": "",
+     "t": "句型",
+     "z": "你在说什么；你什么意思"
+    }
+   ]
+  },
+  {
+   "i": 54,
+   "zh": "“老大，她们是死的，我们也是死的……明白我的意思了吧？嗯？嗯？”这下我算是懂了，可就是难以相信。",
+   "notes": [
+    "<code>THEY’re dead, WE’re dead</code> 用大写并置两个短句，形成强烈的对照与暗示，中文用“她们是死的，我们也是死的”保留对称。",
+    "<code>see where I’m going?</code> 是固定口语，意为“明白我要说什么吗、跟上我的思路了吗”。",
+    "<code>Eh? Eh?</code> 是两声追问式的语气词，莫提在挤眉弄眼地暗示，译文用“嗯？嗯？”对应。"
+   ],
+   "vocab": [
+    {
+     "w": "see where I'm going",
+     "p": "",
+     "t": "习语",
+     "z": "明白我要说什么吗；懂我的意思吧"
+    },
+    {
+     "w": "Eh?",
+     "p": "/eɪ/",
+     "t": "感叹词",
+     "z": "嗯？（用于追问或求认同）"
+    },
+    {
+     "w": "difficulty believing",
+     "p": "",
+     "t": "短语",
+     "z": "难以相信（have difficulty doing sth 做某事有困难）"
+    }
+   ]
+  },
+  {
+   "i": 55,
+   "zh": "“你不是认真的吧。”",
+   "notes": [
+    "<code>You can’t be serious.</code> 是表示难以置信的固定说法，意为“你不是认真的吧/你在开玩笑吧”。",
+    "这句是陈述句形式而非疑问句，句末在原文用句号，中文也不加问号，才能保留无名氏冷淡、不肯相信的态度。"
+   ],
+   "vocab": [
+    {
+     "w": "serious",
+     "p": "/ˈsɪəriəs/",
+     "t": "adj.",
+     "z": "认真的，当真的"
+    },
+    {
+     "w": "You can’t be serious",
+     "p": "",
+     "t": "句型",
+     "z": "你不是认真的吧（表示难以置信）"
+    }
+   ]
+  },
+  {
+   "i": 56,
+   "zh": "“老大，跟这些走起路来一瘸一拐的姑娘搭讪，开头的话我们都已经有了。咱们至少都死过一回：有的是话题可聊。她们会欣赏咱们这种有死亡经验的男人。”",
+   "notes": [
+    "<code>we already got an opening line</code> 中 <code>opening line</code> 指搭讪时的“开场白”；<code>got</code> 代替 <code>have got</code>，是口语化的完成式。",
+    "<code>limping ladies</code> 是莫提为尸体起的俏皮称呼，直译“跛行的女士”，暗示尸体走动时僵直踉跄。",
+    "<code>They’ll appreciate men with our kind of death experience</code> 中 <code>appreciate</code> 意为“欣赏、领情”，<code>men with…</code> 是介词短语作后置定语；本段连用缩略形式（<code>We’ve</code>、<code>we’ll</code>、<code>They’ll</code>），体现莫提说话又快又随意。"
+   ],
+   "vocab": [
+    {
+     "w": "opening line",
+     "p": "",
+     "t": "短语",
+     "z": "开场白；（搭讪用的）第一句话"
+    },
+    {
+     "w": "limping",
+     "p": "/ˈlɪmpɪŋ/",
+     "t": "adj.",
+     "z": "跛行的，一瘸一拐的"
+    },
+    {
+     "w": "appreciate",
+     "p": "/əˈpriːʃieɪt/",
+     "t": "v.",
+     "z": "欣赏，领情，感激"
+    },
+    {
+     "w": "death experience",
+     "p": "",
+     "t": "短语",
+     "z": "死亡经历（莫提的双关玩笑）"
+    }
+   ]
+  },
+  {
+   "i": 57,
+   "zh": "“可是……等等……你之前不是说过，我没死吗？”",
+   "notes": [
+    "<code>didn’t you say before that…</code> 是否定疑问句，用来反驳对方的自相矛盾，语气比直接陈述更尖锐。",
+    "多个省略号连用表现无名氏被搞糊涂、边想边说；<code>wait</code> 在此是插入语“等等”，不是“等待”。",
+    "<code>I’m not dead</code> 用现在时，指当下“我没死”这一状态。"
+   ],
+   "vocab": [
+    {
+     "w": "wait",
+     "p": "/weɪt/",
+     "t": "v.",
+     "z": "（此处作插入语）等等；等一下"
+    },
+    {
+     "w": "didn’t you say",
+     "p": "",
+     "t": "句型",
+     "z": "你不是说过……吗（否定疑问句用于反问）"
+    }
+   ]
+  },
+  {
+   "i": 58,
+   "zh": "“嗯……好吧，你也许没死，可我是死的。而且从我站的地方看，我不介意跟这儿几具细皮瘦骨的好尸体合睡一口棺材。”莫提开始咯咯咬牙，像是已经等不及了。“当然啦，看尸人得先肯把她们让出来，而这可不太可能……”",
+   "notes": [
+    "<code>from where I’m standing</code> 是习语，字面“从我所站的位置看”，意为“依我看来、在我看来”。",
+    "<code>wouldn’t mind doing sth</code> 表示“不介意做某事”，是委婉表达意愿的说法，比 <code>want</code> 含蓄；<code>as if in anticipation</code> 意为“仿佛在期待着什么”。",
+    "<code>’Course</code> 是 <code>Of course</code> 的口语省略；<code>part with</code> 意为“让出、舍弃”。"
+   ],
+   "vocab": [
+    {
+     "w": "from where I'm standing",
+     "p": "",
+     "t": "习语",
+     "z": "在我看来，依我的立场看"
+    },
+    {
+     "w": "sinewy",
+     "p": "/ˈsɪnjuːi/",
+     "t": "adj.",
+     "z": "肌腱发达的，瘦而结实的"
+    },
+    {
+     "w": "cadavers",
+     "p": "/kəˈdeɪvəz/",
+     "t": "n.",
+     "z": "尸体（cadaver 的复数，医学用语）"
+    },
+    {
+     "w": "clacking",
+     "p": "/ˈklækɪŋ/",
+     "t": "v.",
+     "z": "发出咔哒声（此处写骷髅咬牙）"
+    },
+    {
+     "w": "part with",
+     "p": "",
+     "t": "短语",
+     "z": "让出，放弃，与……分离"
+    }
+   ]
+  },
+  {
+   "i": 59,
+   "zh": "莫提接着说：“听着，老大。你刚跟死亡亲过嘴，脑子还有点糊涂。所以给你两条建议：第一，有问题就问我，行吗？”",
+   "notes": [
+    "<code>Morte continued, “…”</code> 是先叙述后引语的格式，表示同一人在延续说话，中文用“莫提接着说”加冒号处理。",
+    "<code>your kiss with death</code> 是比喻，把濒死或复活说成“与死亡的一吻”，译文保留这个意象。",
+    "<code>two bits of advice</code> 中 advice 是不可数名词，要借助 <code>a bit of / a piece of</code> 计数；<code>if you got questions</code> 用 <code>got</code> 代替 <code>have</code>，是非正式口语用法。"
+   ],
+   "vocab": [
+    {
+     "w": "addled",
+     "p": "/ˈædld/",
+     "t": "adj.",
+     "z": "头脑昏乱的，糊涂的"
+    },
+    {
+     "w": "bits of advice",
+     "p": "",
+     "t": "短语",
+     "z": "几条建议（advice 不可数，需用量词）"
+    },
+    {
+     "w": "kiss with death",
+     "p": "",
+     "t": "短语",
+     "z": "与死亡的一吻（喻濒死经历）"
+    },
+    {
+     "w": "ask me",
+     "p": "",
+     "t": "短语",
+     "z": "问我（有疑问就来找我）"
+    }
+   ]
+  },
+  {
+   "i": 60,
+   "zh": "“好吧……我会……尽量记住的。”",
+   "notes": [
+    "<code>I’ll… try to remember that.</code> 中 <code>try to do sth</code> 表示“尽力去做某事”，中间插入省略号表现无名氏答话时的犹豫与不确定。",
+    "<code>that</code> 指代莫提前面提出的建议，是回指用法，中文可省译为“记住的”。"
+   ],
+   "vocab": [
+    {
+     "w": "try to remember",
+     "p": "",
+     "t": "短语",
+     "z": "尽量记住，努力去记"
+    },
+    {
+     "w": "All right",
+     "p": "/ɔːl ˈraɪt/",
+     "t": "短语",
+     "z": "好吧（表示勉强同意）"
+    }
+   ]
+  },
+  {
+   "i": 61,
+   "zh": "“第二，你要是真像看上去那么健忘，那就开始把事情写下来——碰到什么可能要紧的东西，就随手记下来，免得忘了。”",
+   "notes": [
+    "<code>half as forgetful as you seem to be</code> 是 <code>as…as</code> 比较结构前加 <code>half</code>，表示“有你看起来的一半那么健忘”，即“哪怕只是稍微那么健忘”。",
+    "<code>whenever you come across something that might be important</code> 中 <code>come across</code> 意为“偶然遇到”，<code>that</code> 引导定语从句修饰 <code>something</code>。",
+    "<code>start writing stuff down</code> 与 <code>jot it down</code> 都是“记下来”的口语说法，后者更强调“随手、草草写下”。"
+   ],
+   "vocab": [
+    {
+     "w": "forgetful",
+     "p": "/fəˈɡetfl/",
+     "t": "adj.",
+     "z": "健忘的，记性差的"
+    },
+    {
+     "w": "come across",
+     "p": "",
+     "t": "短语",
+     "z": "偶然遇到，碰巧发现"
+    },
+    {
+     "w": "jot it down",
+     "p": "",
+     "t": "短语",
+     "z": "随手记下来，草草写下"
+    },
+    {
+     "w": "stuff",
+     "p": "/stʌf/",
+     "t": "n.",
+     "z": "（口语）东西，事情"
+    }
+   ]
+  },
+  {
+   "i": 62,
+   "zh": "“要是我身上带着那本本该有的日志，我就会这么做。”对那个拿走日志的人，我心里泛起一丝怒火。",
+   "notes": [
+    "<code>If I had that journal I was supposed to have with me, I’d do that.</code> 是虚拟语气：从句用过去时 <code>had</code>，主句用 <code>would + 动词</code>，表示与现在事实相反。",
+    "<code>be supposed to</code> 意为“按理应该、本该”，<code>I was supposed to have with me</code> 是定语从句修饰 <code>journal</code>。",
+    "<code>a touch of anger</code> 中 <code>a touch of</code> 表示“一点点、一丝”，是名词性量词搭配。"
+   ],
+   "vocab": [
+    {
+     "w": "journal",
+     "p": "/ˈdʒɜːnl/",
+     "t": "n.",
+     "z": "日志，日记本（游戏中用于记录任务）"
+    },
+    {
+     "w": "was supposed to",
+     "p": "",
+     "t": "句型",
+     "z": "本该，按理应该（表预期或义务）"
+    },
+    {
+     "w": "a touch of",
+     "p": "",
+     "t": "短语",
+     "z": "一丝，一点点（a touch of anger 一丝怒火）"
+    },
+    {
+     "w": "removed",
+     "p": "/rɪˈmuːvd/",
+     "t": "v.",
+     "z": "拿走，取走（remove 的过去式）"
+    }
+   ]
+  },
+  {
+   "i": 63,
+   "zh": "“那就重新起一本，老大。没什么损失。这地方羊皮纸和墨水多的是，够你用到老。”",
+   "notes": [
+    "<code>Start a new one, then</code> 是祈使句，<code>then</code> 用在句末表示“那么、那就”，带出结论。",
+    "<code>No loss.</code> 是省略句，等于 <code>It’s no loss.</code>“没什么可惜的”，口语中常省略主语和系动词。",
+    "<code>plenty of… to last you</code> 中 <code>to last you</code> 是不定式表结果，意为“足够你用（很久）”。"
+   ],
+   "vocab": [
+    {
+     "w": "No loss",
+     "p": "",
+     "t": "短语",
+     "z": "没什么损失，不可惜"
+    },
+    {
+     "w": "parchment",
+     "p": "/ˈpɑːtʃmənt/",
+     "t": "n.",
+     "z": "羊皮纸，羊皮纸文稿"
+    },
+    {
+     "w": "ink",
+     "p": "/ɪŋk/",
+     "t": "n.",
+     "z": "墨水"
+    },
+    {
+     "w": "last you",
+     "p": "",
+     "t": "短语",
+     "z": "够你用（一段时间）"
+    }
+   ]
+  },
+  {
+   "i": 64,
+   "zh": "“嗯——好吧。反正也不碍事……那我就新起一本。”",
+   "notes": [
+    "<code>Hmmmm.</code> 是拖长的思索声，表示沉吟、勉强接受，中文用“嗯——”处理。",
+    "<code>It couldn’t hurt.</code> 是口语惯用句，意为“反正没坏处、试试也无妨”。",
+    "<code>then</code> 再次出现在句末，表示“那就……”，呼应莫提上一句的 <code>then</code>。"
+   ],
+   "vocab": [
+    {
+     "w": "It couldn’t hurt",
+     "p": "",
+     "t": "句型",
+     "z": "反正没坏处，试试也无妨"
+    },
+    {
+     "w": "Hmmmm",
+     "p": "/m̩/",
+     "t": "感叹词",
+     "z": "嗯（拖长的沉吟声，表示思索或勉强同意）"
+    }
+   ]
+  },
+  {
+   "i": 65,
+   "zh": "“用它来记下你的行踪。要是你对要紧的事开始犯迷糊——比如你是谁……更要紧的是，我是谁——就用它来提个醒。”",
+   "notes": [
+    "<code>keep track of</code> 是固定搭配，“记录、掌握……的动态”；<code>your movements</code> 指“你的行踪、去过的地方”。",
+    "<code>get cloudy on important things</code> 中 <code>cloudy</code> 本义“多云的”，此处引申为“（记忆）模糊不清”，<code>get + adj.</code> 表示状态变化。",
+    "<code>refresh your memory</code> 是固定搭配，“帮你恢复记忆、提醒你想起”；<code>more importantly</code> 是插入语，莫提借此把话题拉回自己身上，是典型的自恋玩笑。"
+   ],
+   "vocab": [
+    {
+     "w": "keep track of",
+     "p": "",
+     "t": "短语",
+     "z": "记录，掌握……的情况"
+    },
+    {
+     "w": "movements",
+     "p": "/ˈmuːvmənts/",
+     "t": "n.",
+     "z": "行动，行踪（此处指去过的地方、做过的事）"
+    },
+    {
+     "w": "cloudy",
+     "p": "/ˈklaʊdi/",
+     "t": "adj.",
+     "z": "模糊不清的，糊涂的（引申义）"
+    },
+    {
+     "w": "refresh your memory",
+     "p": "",
+     "t": "短语",
+     "z": "帮你恢复记忆，提醒你一下"
+    },
+    {
+     "w": "more importantly",
+     "p": "",
+     "t": "adv.",
+     "z": "更重要的是（用作插入语）"
+    }
+   ]
+  },
+  {
+   "i": 66,
+   "zh": "下一个房间里还有更多那种……僵尸。它们四处游荡，多半显然是在执行尘人派下的活儿。不过其中一具特别引起了我的注意。那具男尸正沿一条三角形的路线笨重地走着。每到三角形的一个角，它就停一下，然后转身，踉踉跄跄地朝下一个角走去。它的头骨一侧刺着“965”。我走近时，它停下来，直勾勾地盯着我。",
+   "notes": [
+    "<code>more of the … zombies</code> 中省略号表示无名氏一时找不到合适的词来形容，中文用“那种……僵尸”保留这种语塞感；<code>most obviously on tasks set by the Dustmen</code> 中 <code>set by</code> 是过去分词短语作后置定语，修饰 <code>tasks</code>。",
+    "<code>caught my attention</code> 是固定搭配“引起某人注意”；<code>though</code> 表转折，把视线从群体收束到个体。",
+    "<code>lumbering along a triangular path</code> 与 <code>staggered towards the next corner</code> 用现在分词和并列动词描写僵尸僵直、笨拙的动作；<code>“965” was tattooed on the side of its skull.</code> 是被动语态，主语是编号，强调刺在颅侧的记号。"
+   ],
+   "vocab": [
+    {
+     "w": "zombies",
+     "p": "/ˈzɒmbiz/",
+     "t": "n.",
+     "z": "僵尸，行尸（zombie 的复数）"
+    },
+    {
+     "w": "wandering",
+     "p": "/ˈwɒndərɪŋ/",
+     "t": "v.",
+     "z": "漫游，游荡（wander about 四处游荡）"
+    },
+    {
+     "w": "lumbering",
+     "p": "/ˈlʌmbərɪŋ/",
+     "t": "v.",
+     "z": "笨重地移动（lumber along 笨拙地走）"
+    },
+    {
+     "w": "staggered",
+     "p": "/ˈstæɡəd/",
+     "t": "v.",
+     "z": "踉跄，摇晃着走"
+    },
+    {
+     "w": "tattooed",
+     "p": "/təˈtuːd/",
+     "t": "v.",
+     "z": "被刺上花纹（tattoo 的过去分词，此处为被动语态）"
+    }
+   ]
+  }
+ ]
+}

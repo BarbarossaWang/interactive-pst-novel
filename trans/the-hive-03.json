@@ -1,0 +1,719 @@
+{
+ "chapter": "The Hive",
+ "chunk": "the-hive-03",
+ "items": [
+  {
+   "i": 45,
+   "zh": "“每扇门都有把钥匙，都有的……用上这把钥匙，它们就露出真面目……拱门变成传送门，画框变成传送门，窗户变成传送门……个个都急着把你送到别——处去。它们把你偷走……”她抬起右手那团熔成一坨的肉。“而有时候，门那头的东西还会从你身上取走一块，当作什一之贡。”",
+   "notes": [
+    "<code>Every door has a KEY it does</code> 句末的 <code>it does</code> 是英式口语里重复助动词的强调，等于“每扇门确实都有”；译成“都有的”来保留这股强调口气。",
+    "<code>t'take</code>、<code>y'someplace</code> 中的 <code>t'</code>、<code>y'</code> 是 <code>to</code>、<code>you</code> 的口语缩略，用来表现她的市井土音。",
+    "<code>a TITHE</code> 全大写表示着重，<code>tithe</code> 本指“什一税、贡纳”，所以这里不只是被夺走一部分，还含“上贡”之意。"
+   ],
+   "vocab": [
+    {
+     "w": "true nature",
+     "p": "",
+     "t": "短语",
+     "z": "本性，真面目"
+    },
+    {
+     "w": "arch",
+     "p": "/ɑːtʃ/",
+     "t": "n.",
+     "z": "拱门，拱形结构"
+    },
+    {
+     "w": "eager",
+     "p": "/ˈiːɡə(r)/",
+     "t": "adj.",
+     "z": "急切的，巴不得的"
+    },
+    {
+     "w": "lump",
+     "p": "/lʌmp/",
+     "t": "n.",
+     "z": "一坨，肿块"
+    },
+    {
+     "w": "TITHE",
+     "p": "/taɪð/",
+     "t": "n.",
+     "z": "什一税，贡纳"
+    }
+   ]
+  },
+  {
+   "i": 46,
+   "zh": "“这些钥匙是什么？”",
+   "notes": [
+    "<code>What are these keys?</code> 用 <code>what</code> 问主语的补足成分（“是什么”），而非问身份；无名氏的问句依旧短促，只想抓住关键。"
+   ],
+   "vocab": [
+    {
+     "w": "these keys",
+     "p": "",
+     "t": "短语",
+     "z": "这些钥匙"
+    },
+    {
+     "w": "keys",
+     "p": "/kiːz/",
+     "t": "n.",
+     "z": "钥匙（key 的复数）"
+    },
+    {
+     "w": "What",
+     "p": "/wɒt/",
+     "t": "pron.",
+     "z": "什么（疑问代词，此处问“是什么”）"
+    }
+   ]
+  },
+  {
+   "i": 47,
+   "zh": "“钥匙，钥匙的数目和这座城的门一样多。一扇门，一把钥匙；一把钥匙，一扇门。”她的牙齿又开始打颤，像是觉得冷。“钥匙又是什么呢……？钥匙可以是随便什么东西。它可能是一种情绪，可能是夹在你食指和小指之间的一根铁钉，可能是一个想了三遍、又倒着想了一遍的念头，也可能是一朵玻璃玫瑰。”她抿紧嘴，想把打颤的牙关稳住，又眯起眼睛。“走不了……走不了……”",
+   "notes": [
+    "<code>‘tween</code> 是 <code>between</code> 的省音写法，前面那个弯引号 ‘ 就是省掉字母的标记。",
+    "<code>a thought thought three times</code> 里第一个 <code>thought</code> 是名词、第二个是过去分词作后置定语，同源词叠用是刻意的文字游戏。",
+    "<code>Every door, a key, every key, a door.</code> 省去谓语，只留对仗的名词，像谚语或咒语一样念出来。"
+   ],
+   "vocab": [
+    {
+     "w": "number",
+     "p": "/ˈnʌmbə(r)/",
+     "t": "v.",
+     "z": "数目达到，共计"
+    },
+    {
+     "w": "chattering",
+     "p": "/ˈtʃætərɪŋ/",
+     "t": "v.",
+     "z": "（牙齿）打颤，咯咯作响"
+    },
+    {
+     "w": "iron nail",
+     "p": "",
+     "t": "短语",
+     "z": "铁钉"
+    },
+    {
+     "w": "in reverse",
+     "p": "",
+     "t": "短语",
+     "z": "倒过来，反向"
+    },
+    {
+     "w": "glass rose",
+     "p": "",
+     "t": "短语",
+     "z": "玻璃玫瑰"
+    }
+   ]
+  },
+  {
+   "i": 48,
+   "zh": "“你是怎么到这里来的？”",
+   "notes": [
+    "<code>How did you get here?</code> 用 <code>how</code> 问方式与途径；对她而言，“到这里”本身就是一场被传送门掳走的灾难。"
+   ],
+   "vocab": [
+    {
+     "w": "get here",
+     "p": "",
+     "t": "短语",
+     "z": "到这里来，抵达此地"
+    },
+    {
+     "w": "did",
+     "p": "/dɪd/",
+     "t": "v.aux",
+     "z": "助动词 do 的过去式，用来构成过去时疑问句"
+    },
+    {
+     "w": "here",
+     "p": "/hɪə(r)/",
+     "t": "adv.",
+     "z": "这里，此处"
+    }
+   ]
+  },
+  {
+   "i": 49,
+   "zh": "“从……”她似乎稍稍平静了些，眼里浮起一片望向千里之外的空茫。“从一个不是这里的地方来，差不多是一辈子以前的事了。俺在一片林间空地上哼着曲子，那儿有两棵倒在一起的枯树。就在那两棵交叠的树中间的空隙里，开了一扇亮闪闪的门，让俺看见门那头的这座城……俺一步跨过去，就落到这儿了。”",
+   "notes": [
+    "<code>a place else from here</code> 是 <code>somewhere else than here</code> 的口语说法，<code>else</code> 后置修饰 <code>place</code>。",
+    "<code>a life-ago</code> 是作者仿 <code>a lifetime ago</code> 造出的词，指“几乎隔了一辈子”。",
+    "<code>I'z stepped through</code> 中 <code>I'z</code> 是 <code>I</code> 的土音写法；<code>stepped through</code> 后省略宾语 <code>it</code>，指穿过那扇门。"
+   ],
+   "vocab": [
+    {
+     "w": "thousand-league stare",
+     "p": "",
+     "t": "短语",
+     "z": "望向千里之外的空茫眼神"
+    },
+    {
+     "w": "glade",
+     "p": "/ɡleɪd/",
+     "t": "n.",
+     "z": "林间空地"
+    },
+    {
+     "w": "hummed",
+     "p": "/hʌmd/",
+     "t": "v.",
+     "z": "哼（曲子）"
+    },
+    {
+     "w": "brilliant",
+     "p": "/ˈbrɪliənt/",
+     "t": "adj.",
+     "z": "明亮的，耀眼的"
+    },
+    {
+     "w": "crossed trees",
+     "p": "",
+     "t": "短语",
+     "z": "交叠在一起的树"
+    }
+   ]
+  },
+  {
+   "i": 50,
+   "zh": "“你为什么回不去？”",
+   "notes": [
+    "<code>go back</code> 是固定搭配“回去、返回”，与第 46 段的 <code>get here</code> 一“来”一“回”正好相对。"
+   ],
+   "vocab": [
+    {
+     "w": "go back",
+     "p": "",
+     "t": "短语",
+     "z": "回去，返回"
+    },
+    {
+     "w": "Why",
+     "p": "/waɪ/",
+     "t": "adv.",
+     "z": "为什么（问原因）"
+    },
+    {
+     "w": "can’t",
+     "p": "/kɑːnt/",
+     "t": "缩略",
+     "z": "cannot 的缩略，不能、无法"
+    }
+   ]
+  },
+  {
+   "i": 51,
+   "zh": "“试过！这里的每一扇门都通向别的——地方。”她打了个寒噤，攥住那只熔烂的右手。“俺穿过三十道传送门，有的是存心的，有的是失足撞上的，没有一道是对的。找不着回去的路……”",
+   "notes": [
+    "<code>ALL</code>、<code>OTHER</code> 全大写是她咬出来的重音，译成“每一扇……别的”来对应。",
+    "<code>thrice-ten</code> 是古旧说法，<code>thrice</code> 为“三次”，合起来即三十。",
+    "<code>a-purpose</code>、<code>a-accident</code> 里的 <code>a-</code> 是方言／古体的副词前缀，等于 <code>on purpose</code> 与 <code>by accident</code>。"
+   ],
+   "vocab": [
+    {
+     "w": "shuddered",
+     "p": "/ˈʃʌdəd/",
+     "t": "v.",
+     "z": "战栗，打寒噤"
+    },
+    {
+     "w": "gripped",
+     "p": "/ɡrɪpt/",
+     "t": "v.",
+     "z": "紧握，攥住"
+    },
+    {
+     "w": "thrice-ten",
+     "p": "",
+     "t": "数词",
+     "z": "三十（古体说法）"
+    },
+    {
+     "w": "portals",
+     "p": "/ˈpɔːtlz/",
+     "t": "n.",
+     "z": "传送门（复数）"
+    },
+    {
+     "w": "a-purpose",
+     "p": "",
+     "t": "短语",
+     "z": "故意地（＝on purpose）"
+    }
+   ]
+  },
+  {
+   "i": 52,
+   "zh": "“总该有一道能把你送回去的传送门。”",
+   "notes": [
+    "<code>There must be</code> 表示推测“一定有”，无名氏用这句话安慰她；<code>that can take you back</code> 是修饰 <code>a portal</code> 的定语从句。"
+   ],
+   "vocab": [
+    {
+     "w": "must be",
+     "p": "",
+     "t": "短语",
+     "z": "一定是，肯定有"
+    },
+    {
+     "w": "take you back",
+     "p": "",
+     "t": "短语",
+     "z": "把你送回去"
+    }
+   ]
+  },
+  {
+   "i": 53,
+   "zh": "“俺连这儿都出不去！就这一个广场！那边，大门后头那块死人的地方还等着俺呢！”她指着大门后面的停尸间，又转回来看我，一脸绝望。“这座城里俺哪儿也去不了！”",
+   "notes": [
+    "<code>th'place of death</code> 是她对停尸间的说法，本段随即点明那就是 the Mortuary。",
+    "<code>her face desperate</code> 是独立主格结构（名词＋形容词），作伴随状语，相当于 <code>with her face desperate</code>。",
+    "<code>th'</code>、<code>th’</code> 都是 <code>the</code> 的省音，与她破碎的口音一致。"
+   ],
+   "vocab": [
+    {
+     "w": "square",
+     "p": "/skweə(r)/",
+     "t": "n.",
+     "z": "广场"
+    },
+    {
+     "w": "Mortuary",
+     "p": "/ˈmɔːtʃəri/",
+     "t": "n.",
+     "z": "停尸间（此处为专名，首字母大写）"
+    },
+    {
+     "w": "desperate",
+     "p": "/ˈdespərət/",
+     "t": "adj.",
+     "z": "绝望的，走投无路的"
+    },
+    {
+     "w": "waits for",
+     "p": "",
+     "t": "短语",
+     "z": "等着，等候（某人）"
+    }
+   ]
+  },
+  {
+   "i": 54,
+   "zh": "“什么东西都可能是门。那边随便一道拱，这边随便一扇门，都可能是传送门；不知道钥匙是什么，就可能给送进另一个可怕的地方去……”她的牙齿又开始打颤。“……俺得离那些封起来的地方远远的，它们全都可能是门，钥匙说不定就揣在俺身上，俺自个儿还不知道……”我实在难以相信。",
+   "notes": [
+    "<code>Anythin'</code>、<code>t'</code>、<code>an'</code> 都是省音写法（anything／to／and），用来标示她的口音。",
+    "<code>could get a-sent</code> 是 <code>get</code>＋过去分词的被动结构，<code>a-</code> 又是方言前缀，意为“可能被送走”。",
+    "<code>I not be knowing it</code> 是方言化的否定式，标准英语为 <code>I wouldn't know it</code>；句末 <code>I found this hard to credit</code> 里 <code>credit</code> 作动词，意为“相信”。"
+   ],
+   "vocab": [
+    {
+     "w": "a-sent",
+     "p": "",
+     "t": "v.",
+     "z": "（方言）被送走（＝sent）"
+    },
+    {
+     "w": "closed spaces",
+     "p": "",
+     "t": "短语",
+     "z": "封闭的空间"
+    },
+    {
+     "w": "not be knowing",
+     "p": "",
+     "t": "短语",
+     "z": "（方言）不知道"
+    },
+    {
+     "w": "horrible",
+     "p": "/ˈhɒrəbl/",
+     "t": "adj.",
+     "z": "可怕的，骇人的"
+    },
+    {
+     "w": "credit",
+     "p": "/ˈkredɪt/",
+     "t": "v.",
+     "z": "相信，信以为真"
+    }
+   ]
+  },
+  {
+   "i": 55,
+   "zh": "“你……你是怕穿过任何一扇门、任何一道拱，因为它可能是传送门？”",
+   "notes": [
+    "<code>ANY</code> 全大写表示强调，无名氏把她的恐惧逻辑重述一遍，既是确认也是难以置信。",
+    "<code>afraid to go through</code> 用 <code>be afraid to do</code> 结构，强调“不敢去做”，而 <code>be afraid of</code> 只说“害怕某事”。"
+   ],
+   "vocab": [
+    {
+     "w": "ANY",
+     "p": "/ˈeni/",
+     "t": "adj.",
+     "z": "任何的（大写表强调）"
+    },
+    {
+     "w": "afraid to",
+     "p": "",
+     "t": "短语",
+     "z": "不敢去做某事"
+    },
+    {
+     "w": "might be",
+     "p": "",
+     "t": "短语",
+     "z": "可能是"
+    }
+   ]
+  },
+  {
+   "i": 56,
+   "zh": "她点点头，牙齿还在打颤。",
+   "notes": [
+    "<code>her teeth chattering</code> 是独立主格（代词＋现在分词）作伴随状语，与第 53 段 <code>her face desperate</code> 结构呼应；“牙齿打颤”反复出现，是后文真相的伏笔。"
+   ],
+   "vocab": [
+    {
+     "w": "nodded",
+     "p": "/ˈnɒdɪd/",
+     "t": "v.",
+     "z": "点头"
+    },
+    {
+     "w": "chattering",
+     "p": "/ˈtʃætərɪŋ/",
+     "t": "v.",
+     "z": "（牙齿）打颤"
+    }
+   ]
+  },
+  {
+   "i": 57,
+   "zh": "“你怕这件事，怕了多久了？”她眯起眼，思索着。",
+   "notes": [
+    "<code>How long have you been afraid of this?</code> 用现在完成进行时，问从过去一直延续到此刻的状态。",
+    "引号外的 <code>She squinted, pondering.</code> 与对白同段，是原文特有的“对白＋动作”混排，译文保留这种紧接的节奏。"
+   ],
+   "vocab": [
+    {
+     "w": "How long",
+     "p": "",
+     "t": "短语",
+     "z": "多久，多长时间"
+    },
+    {
+     "w": "squinted",
+     "p": "/ˈskwɪntɪd/",
+     "t": "v.",
+     "z": "眯起眼睛"
+    },
+    {
+     "w": "pondering",
+     "p": "/ˈpɒndərɪŋ/",
+     "t": "v.",
+     "z": "沉思，反复琢磨"
+    }
+   ]
+  },
+  {
+   "i": 58,
+   "zh": "“从俺最后一次穿过传送门算起，就是俺这只手……”她停住了。“从俺第十个轮转起……俺如今都到第四十个轮转了。”她的牙齿又开始打颤。",
+   "notes": [
+    "<code>Turning</code> 在此是印记城计时用语，一轮即一年，所以 <code>m'tenth Turning</code> 是十岁、<code>fourth tenth Turning</code> 是四十岁，正好印证下段的“三十年”。",
+    "<code>She stops.</code> 用一般现在时，是口语化的历史现在时，把画面拉近、把停顿定格。",
+    "<code>m'hand</code>、<code>m'tenth</code> 里的 <code>m'</code> 即 <code>my</code> 的省音。"
+   ],
+   "vocab": [
+    {
+     "w": "Turning",
+     "p": "/ˈtɜːnɪŋ/",
+     "t": "n.",
+     "z": "轮转（此处指一年）"
+    },
+    {
+     "w": "fourth tenth",
+     "p": "",
+     "t": "短语",
+     "z": "第四十个"
+    },
+    {
+     "w": "portal",
+     "p": "/ˈpɔːtl/",
+     "t": "n.",
+     "z": "传送门"
+    }
+   ]
+  },
+  {
+   "i": 59,
+   "zh": "“三十年？你有三十年没穿过任何一扇门了？”",
+   "notes": [
+    "原文 <code>You've haven’t</code> 把两个助动词叠在一处，是刻意的口语滞涩（标准写法为 <code>You haven't</code>），译文用追问的语气来对应。",
+    "<code>for thirty years</code> 与现在完成时连用，表示这三十年一直延续到说话当下。"
+   ],
+   "vocab": [
+    {
+     "w": "walked through",
+     "p": "",
+     "t": "短语",
+     "z": "穿过，走过"
+    },
+    {
+     "w": "for thirty years",
+     "p": "",
+     "t": "短语",
+     "z": "三十年来"
+    }
+   ]
+  },
+  {
+   "i": 60,
+   "zh": "她的目光似乎稍微清明了些。她抬头看我，牙齿仍在打颤。",
+   "notes": [
+    "<code>Her vision seemed to clear</code> 中 <code>clear</code> 是系动词 <code>seemed</code> 后的表语，意为“变得清明”。",
+    "<code>her teeth still chattering</code> 再次用独立主格收尾，反复的“打颤”一点点堆起不安。"
+   ],
+   "vocab": [
+    {
+     "w": "vision",
+     "p": "/ˈvɪʒn/",
+     "t": "n.",
+     "z": "目光，视力"
+    },
+    {
+     "w": "clear",
+     "p": "/klɪə(r)/",
+     "t": "v.",
+     "z": "变清澈，变清明"
+    },
+    {
+     "w": "looked up",
+     "p": "",
+     "t": "短语",
+     "z": "抬头看"
+    }
+   ]
+  },
+  {
+   "i": 61,
+   "zh": "“既然你能到这儿来，就一定有一道能把你送回去的传送门。只是找到它罢了——”",
+   "notes": [
+    "<code>If you got here</code> 用一般过去时，把“你已经到了这里”当作既成事实来推。",
+    "<code>It’s only a matter of finding it</code> 是固定表达“只是……的问题”，语气轻描淡写，正好与她的惊惧形成反差；破折号表示话被对方打断。"
+   ],
+   "vocab": [
+    {
+     "w": "a matter of",
+     "p": "",
+     "t": "短语",
+     "z": "……的问题，只是……而已"
+    },
+    {
+     "w": "take you back",
+     "p": "",
+     "t": "短语",
+     "z": "把你送回去"
+    },
+    {
+     "w": "got here",
+     "p": "",
+     "t": "短语",
+     "z": "（你）到了这里"
+    }
+   ]
+  },
+  {
+   "i": 62,
+   "zh": "她笑了。她的牙齿打颤并不是因为冷……那些牙齿正在她嘴里游动，牙床随着牙齿的挪移一寸寸扭绞。我眼看着它们升起、退下，彼此磕碰，咯咯作响。她朝我嘶嘶做声。",
+   "notes": [
+    "<code>weren’t chattering because she was cold</code> 重点在否定原因“不是因为冷”，而不是否定打颤这件事本身。",
+    "<code>her gums twisting as the teeth shifted about</code> 又是独立主格＋时间状语从句，句子一层层展开，把恶心而缓慢的恐怖效果拖长。",
+    "<code>hissed</code> 指像蛇一样从齿缝里挤出声来，比 <code>whispered</code> 更阴冷。"
+   ],
+   "vocab": [
+    {
+     "w": "gums",
+     "p": "/ɡʌmz/",
+     "t": "n.",
+     "z": "牙龈，牙床"
+    },
+    {
+     "w": "twisting",
+     "p": "/ˈtwɪstɪŋ/",
+     "t": "v.",
+     "z": "扭绞，扭曲"
+    },
+    {
+     "w": "receded",
+     "p": "/rɪˈsiːdɪd/",
+     "t": "v.",
+     "z": "退去，缩回"
+    },
+    {
+     "w": "rattled",
+     "p": "/ˈrætld/",
+     "t": "v.",
+     "z": "磕碰发出咯咯声"
+    },
+    {
+     "w": "hissed",
+     "p": "/hɪst/",
+     "t": "v.",
+     "z": "嘶嘶作声"
+    }
+   ]
+  },
+  {
+   "i": 63,
+   "zh": "“只要有一道传送门是你失足踏进去的，就足够把那点怕种进你心里。俺穿过三十道，丢了手，烧了皮肉，也丢了心智。”她低头看着自己的脚。“不了，再也不了。”",
+   "notes": [
+    "<code>Only takes ONE portal you steps through a-accident</code> 是 <code>It only takes one portal (that) you step through by accident</code> 的口语省略式，主语 <code>it</code> 被省掉，<code>ONE</code> 大写强调“只要一道”。",
+    "<code>drive th’ FEAR into you</code> 中 <code>drive...into</code> 意为“把……逼进／灌进”，<code>FEAR</code> 大写加重分量。",
+    "<code>N'more, n'more</code> 是 <code>no more</code> 的省音，叠说两次表示彻底的拒绝。"
+   ],
+   "vocab": [
+    {
+     "w": "drive",
+     "p": "/draɪv/",
+     "t": "v.",
+     "z": "驱使，逼入"
+    },
+    {
+     "w": "m'sense",
+     "p": "",
+     "t": "短语",
+     "z": "（方言）俺的心智"
+    },
+    {
+     "w": "burned",
+     "p": "/bɜːnd/",
+     "t": "v.",
+     "z": "烧灼，烧伤"
+    },
+    {
+     "w": "N'more",
+     "p": "",
+     "t": "短语",
+     "z": "（方言）不再了，再也不"
+    }
+   ]
+  },
+  {
+   "i": 64,
+   "zh": "“我很抱歉……要是我能找到什么法子帮你，我一定帮。告辞了。”我希望自己没有对蜂巢里遇见的每个人都许下帮忙的诺言。我猜想，这座城生出苦命人的速度，比任何人——即便他是不死之身——能指望帮得过来的都要快。",
+   "notes": [
+    "<code>if I can find some means to help you, I will</code> 中 <code>will</code> 后面省略了 <code>help you</code>，是避免重复的省略式。",
+    "<code>even if he were immortal</code> 用虚拟语气 <code>were</code>，暗示“即便有人真的不死”的假想，也隐隐指向无名氏自己。",
+    "<code>the city generated unfortunates</code> 把“苦命人”说成城市批量产出之物，是刻薄又冷静的比喻，也透出他的疏离。"
+   ],
+   "vocab": [
+    {
+     "w": "means",
+     "p": "/miːnz/",
+     "t": "n.",
+     "z": "方法，手段"
+    },
+    {
+     "w": "Farewell",
+     "p": "/ˌfeəˈwel/",
+     "t": "int.",
+     "z": "告辞了，再会"
+    },
+    {
+     "w": "unfortunates",
+     "p": "/ʌnˈfɔːtʃənəts/",
+     "t": "n.",
+     "z": "不幸的人，苦命人"
+    },
+    {
+     "w": "immortal",
+     "p": "/ɪˈmɔːtl/",
+     "t": "adj.",
+     "z": "不死的，永生的"
+    },
+    {
+     "w": "suspected",
+     "p": "/səˈspektɪd/",
+     "t": "v.",
+     "z": "猜想，心里估摸"
+    }
+   ]
+  },
+  {
+   "i": 65,
+   "zh": "我路过“聚尘”酒馆，可那儿是尘人的地盘。我已经受够了他们，就没进去。",
+   "notes": [
+    "<code>Gathering Dust</code> 既是酒馆名，也暗合尘人“人终归于尘”的教义，故译作“聚尘”。",
+    "<code>hangout</code> 是口语词，指“常聚的地方、老巢”。",
+    "<code>I had had enough of them</code> 是过去完成时的固定说法“我已经受够了”，其中前一个 <code>had</code> 是助动词、后一个是实义动词。"
+   ],
+   "vocab": [
+    {
+     "w": "passed by",
+     "p": "",
+     "t": "短语",
+     "z": "路过，从旁经过"
+    },
+    {
+     "w": "Gathering Dust",
+     "p": "",
+     "t": "专名",
+     "z": "“聚尘”（酒馆名）"
+    },
+    {
+     "w": "hangout",
+     "p": "/ˈhæŋaʊt/",
+     "t": "n.",
+     "z": "常聚之处，老巢"
+    },
+    {
+     "w": "had had enough",
+     "p": "",
+     "t": "短语",
+     "z": "已经受够了"
+    }
+   ]
+  },
+  {
+   "i": 66,
+   "zh": "“看样子尘人那边丢了一个死人……”",
+   "notes": [
+    "<code>Dusties</code> 是 <code>Dustmen</code> 的贬义昵称，译作“尘人”并保留说话人那点轻慢。",
+    "<code>deaders</code> 是蜂巢俚语，指“死人、尸首”，也就是尘人照管的亡者。",
+    "<code>Looks like</code> 后面省略了主语 <code>it</code>，是口语里常见的省略。"
+   ],
+   "vocab": [
+    {
+     "w": "Looks like",
+     "p": "",
+     "t": "短语",
+     "z": "看样子，看起来"
+    },
+    {
+     "w": "Dusties",
+     "p": "/ˈdʌstiz/",
+     "t": "n.",
+     "z": "尘人（Dustmen 的蔑称）"
+    },
+    {
+     "w": "deaders",
+     "p": "/ˈdedəz/",
+     "t": "n.",
+     "z": "（俚）死人，尸首"
+    },
+    {
+     "w": "lost",
+     "p": "/lɒst/",
+     "t": "v.",
+     "z": "失去，丢了"
+    }
+   ]
+  }
+ ]
+}

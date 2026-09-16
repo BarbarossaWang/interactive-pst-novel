@@ -1,0 +1,682 @@
+{
+ "chapter": "The Mortuary",
+ "chunk": "the-mortuary-04",
+ "items": [
+  {
+   "i": 67,
+   "zh": "“嘿。看来没人告诉这蠢货，他不用再走那套三法则了。”莫提评论道。",
+   "notes": [
+    "<code>Looks like someone forgot to tell this sod to...</code> 是很口语的句式：<code>looks like</code> 后面直接跟一整个句子，等于“看样子……”。",
+    "<code>sod</code> 是英式粗话，本义“草皮”，骂人时指“蠢货、混账东西”，比 <code>berk</code> 更常见、更随意。",
+    "<code>walk</code> 这里不是“走路”那么简单，而是“反复执行、循着某条路线走”，中文用“走那套……”的“走”来对应。"
+   ],
+   "vocab": [
+    {
+     "w": "sod",
+     "p": "/sɒd/",
+     "t": "n.",
+     "z": "（英式俚）蠢货，混账（轻蔑骂人的话）"
+    },
+    {
+     "w": "forgot to",
+     "p": "/fəˈɡɒt tuː/",
+     "t": "短语",
+     "z": "忘了去（做某事）：forget to do sth."
+    },
+    {
+     "w": "commented",
+     "p": "/ˈkɒmentɪd/",
+     "t": "v.",
+     "z": "评论道，说道（comment 的过去式）"
+    }
+   ]
+  },
+  {
+   "i": 68,
+   "zh": "“你这话是什么意思？”",
+   "notes": [
+    "<code>What do you mean?</code> 是追问对方意思时最常用的说法；此处无名氏只问这一句，显出他的困惑与简短。"
+   ],
+   "vocab": [
+    {
+     "w": "What do you mean",
+     "p": "",
+     "t": "句型",
+     "z": "你是什么意思？（追问对方话里的意思）"
+    },
+    {
+     "w": "you mean",
+     "p": "/juː miːn/",
+     "t": "短语",
+     "z": "你的意思，你指的是（mean 表“意指”）"
+    }
+   ]
+  },
+  {
+   "i": 69,
+   "zh": "“这些尸体脑子里剩不下多少东西了，所以一次只能干一件事……只要有人吩咐他们做事，他们就会一直做下去，直到有人叫他们停。这可怜虫大概是完成了什么任务，可别人忘了叫他停下。”",
+   "notes": [
+    "<code>not have much left in the attic</code> 是“阁楼里没剩什么东西”的比喻，指脑子不好使、不够聪明；<code>attic</code> 在这里就是“脑袋”。",
+    "<code>can't do more than one task at a time</code>：<code>more than</code> 与 <code>at a time</code> 搭配，表示“一次不能做超过一件事”。",
+    "<code>until someone tells them to stop</code>：<code>tell sb. to do sth.</code> 结构，<code>to stop</code> 后省略了重复的动词，只留不定式。"
+   ],
+   "vocab": [
+    {
+     "w": "attic",
+     "p": "/ˈætɪk/",
+     "t": "n.",
+     "z": "阁楼；此处俚指“脑袋、脑子”"
+    },
+    {
+     "w": "task",
+     "p": "/tɑːsk/",
+     "t": "n.",
+     "z": "任务，差事"
+    },
+    {
+     "w": "at a time",
+     "p": "/ət ə taɪm/",
+     "t": "短语",
+     "z": "一次，每次（用于 one ... at a time）"
+    },
+    {
+     "w": "probably",
+     "p": "/ˈprɒbəbli/",
+     "t": "adv.",
+     "z": "大概，很可能"
+    }
+   ]
+  },
+  {
+   "i": 70,
+   "zh": "“那个‘三法则’。你刚才那么说是什么意思？”",
+   "notes": [
+    "把要追问的词语用引号单独拎出来放在句首，是英语中常见的强调手段，等于先“点题”再发问。",
+    "<code>What did you mean by that?</code> 比 <code>What do you mean?</code> 更明确指向对方“刚才说过的那句话”。"
+   ],
+   "vocab": [
+    {
+     "w": "What did you mean by that",
+     "p": "",
+     "t": "句型",
+     "z": "你那么说是什么意思？（by 后接所指的言行）"
+    },
+    {
+     "w": "you mean by that",
+     "p": "",
+     "t": "短语",
+     "z": "你那么说的意思（mean by 表示“用……指代/表示”）"
+    }
+   ]
+  },
+  {
+   "i": 71,
+   "zh": "“呃？这么说吧，三法则是那些关于诸位面的‘法则’之一，说的是事情往往三个一起发生……或者说万物都由三部分构成……再不然就是总有三种选择，诸如此类。”",
+   "notes": [
+    "<code>one of those ‘laws’ about the Planes</code> 中 <code>one of + 复数名词</code> 表示“……之一”；<code>those</code> 带一点“你也知道的那类”的口气。",
+    "<code>tend to do sth.</code> 表示“倾向于、往往会发生”；<code>things tending to happen in threes</code> 是“事情成三发生”。",
+    "<code>and so on and so forth</code> 是固定说法，相当于“诸如此类，如此等等”，比单用 <code>and so on</code> 更啰嗦、更口语。"
+   ],
+   "vocab": [
+    {
+     "w": "Rule-of-Three",
+     "p": "/ˌruːl əv ˈθriː/",
+     "t": "n.",
+     "z": "三法则（诸位面流行的规律之说）"
+    },
+    {
+     "w": "tend",
+     "p": "/tend/",
+     "t": "v.",
+     "z": "倾向于，往往会（tend to do sth.）"
+    },
+    {
+     "w": "composed of",
+     "p": "/kəmˈpəʊzd əv/",
+     "t": "短语",
+     "z": "由……构成（be composed of）"
+    },
+    {
+     "w": "and so on and so forth",
+     "p": "",
+     "t": "习语",
+     "z": "诸如此类，如此等等"
+    }
+   ]
+  },
+  {
+   "i": 72,
+   "zh": "“听你这口气，你并不怎么信它。”",
+   "notes": [
+    "<code>You don't sound like...</code> 是“听上去你不像……”的常用句式，用感官动词 <code>sound</code> 加 <code>like</code> 引出一整句话。",
+    "<code>hold much faith in sth.</code> 意为“对……很有信心/很信服”，<code>much</code> 常用于否定句、疑问句，这里被前面的 <code>don't</code> 一并否定。"
+   ],
+   "vocab": [
+    {
+     "w": "sound like",
+     "p": "",
+     "t": "短语",
+     "z": "听起来像……，听上去似乎……"
+    },
+    {
+     "w": "faith",
+     "p": "/feɪθ/",
+     "t": "n.",
+     "z": "信心，信任（hold faith in sth.）"
+    }
+   ]
+  },
+  {
+   "i": 73,
+   "zh": "“要我说，那全是废话。你要是盯住某个数字——随便哪个数字——非要给它安上什么了不起的意义，那你准能找到一大堆巧合。”",
+   "notes": [
+    "<code>a load of wash</code> 是俚语，字面“一堆洗过的水”，实际指“一派胡言、全是废话”；<code>a load of</code> 常接贬义名词。",
+    "<code>if you ask me</code> 是插入语，“要我说、依我看”，用来亮出主观态度。",
+    "<code>If you look for..., and try to..., you're going to find...</code> 是“条件＋结果”的链条，语气笃定，翻成“你准能……”更贴合莫提的自负。"
+   ],
+   "vocab": [
+    {
+     "w": "a load of wash",
+     "p": "",
+     "t": "习语",
+     "z": "（俚）一派胡言，全是废话"
+    },
+    {
+     "w": "attach",
+     "p": "/əˈtætʃ/",
+     "t": "v.",
+     "z": "赋予，附加（attach meaning to sth. 给……加上意义）"
+    },
+    {
+     "w": "coincidences",
+     "p": "/kəʊˈɪnsɪdənsɪz/",
+     "t": "n.",
+     "z": "巧合（coincidence 的复数）"
+    },
+    {
+     "w": "plenty of",
+     "p": "/ˈplenti əv/",
+     "t": "短语",
+     "z": "大量的，许多"
+    }
+   ]
+  },
+  {
+   "i": 74,
+   "zh": "我撇下那具还在沿着三角形路线打转的尸体，走进了隔壁的房间。房间正中，是我到这里以后见到的第一个活人，显然是个尘人。他正在一本巨大的书里写着什么。",
+   "notes": [
+    "<code>left the corpse tracing its triangular path</code> 是 <code>leave sb./sth. doing sth.</code> 结构，表示“让某人/某物一直保持在做某事的状态”。",
+    "<code>In the center of the room was...</code> 是倒装句：地点状语提到句首，句子完全倒装，主语后置，读起来更有画面感。",
+    "<code>the first living person I had seen</code> 中省略了关系代词 <code>that</code>，且用过去完成时 <code>had seen</code>，表示“在此之前的经历中”。"
+   ],
+   "vocab": [
+    {
+     "w": "triangular",
+     "p": "/traɪˈæŋɡjələ/",
+     "t": "adj.",
+     "z": "三角形的"
+    },
+    {
+     "w": "Dustmen",
+     "p": "/ˈdʌstmen/",
+     "t": "n.",
+     "z": "尘人（灰烬党）：以侍奉死亡为教义的教派成员"
+    },
+    {
+     "w": "moved into",
+     "p": "",
+     "t": "短语",
+     "z": "走进，移入（move into 的过去式）"
+    },
+    {
+     "w": "center",
+     "p": "/ˈsentə/",
+     "t": "n.",
+     "z": "中央，正中（in the center of）"
+    }
+   ]
+  },
+  {
+   "i": 75,
+   "zh": "那抄写员看上去非常苍老……皮肤皱缩，还泛着一丝蜡黄，像陈年的羊皮纸。一张棱角分明的脸上嵌着炭灰色的眼睛，一大把白胡子像瀑布一样顺着长袍的前襟垂落。他的呼吸粗重而不匀，可就连他时不时的咳嗽也没能让羽毛笔的沙沙声慢下来。他写的那本书里，一定已经记下了成千上万个名字。我走近他时，他始终没有从手里的活计上抬起头来。",
+   "notes": [
+    "<code>his skin was wrinkled and had a slight trace of yellow</code> 中 <code>have a trace of...</code> 表示“带有一丝……的痕迹”，用于非常轻微的迹象。",
+    "<code>like old parchment</code>、<code>like a waterfall</code> 连用两个 <code>like</code> 明喻（simile），是小说描写人物外貌时常见的铺陈手法。",
+    "<code>did not slow...</code> 是 <code>even...</code> 引出的让步结构：“就连……也没有……”，用否定来强调咳嗽之剧烈与老人之专注。"
+   ],
+   "vocab": [
+    {
+     "w": "wrinkled",
+     "p": "/ˈrɪŋkld/",
+     "t": "adj.",
+     "z": "布满皱纹的"
+    },
+    {
+     "w": "parchment",
+     "p": "/ˈpɑːtʃmənt/",
+     "t": "n.",
+     "z": "羊皮纸（旧时书写材料）"
+    },
+    {
+     "w": "angular",
+     "p": "/ˈæŋɡjələ/",
+     "t": "adj.",
+     "z": "有棱角的，瘦削而轮廓分明的"
+    },
+    {
+     "w": "ragged",
+     "p": "/ˈræɡɪd/",
+     "t": "adj.",
+     "z": "（呼吸）粗重不匀的；破烂的"
+    },
+    {
+     "w": "quill pen",
+     "p": "",
+     "t": "n.",
+     "z": "羽毛笔"
+    }
+   ]
+  },
+  {
+   "i": 76,
+   "zh": "莫提插了进来：“哇，老大！你这是要干什么？！”",
+   "notes": [
+    "<code>chief</code> 在这里是称呼语，“老大、头儿”，莫提常以此来喊无名氏。",
+    "<code>Whoa</code> 是表示惊讶、制止的感叹词；疑问句配感叹号，写出他语气里的急迫和失礼。"
+   ],
+   "vocab": [
+    {
+     "w": "interrupted",
+     "p": "/ˌɪntəˈrʌptɪd/",
+     "t": "v.",
+     "z": "打断，插话（interrupt 的过去式）"
+    },
+    {
+     "w": "chief",
+     "p": "/tʃiːf/",
+     "t": "n.",
+     "z": "（称呼）老大，头儿"
+    },
+    {
+     "w": "Whoa",
+     "p": "/wəʊ/",
+     "t": "感叹词",
+     "z": "哇，慢着（表示惊讶或制止）"
+    }
+   ]
+  },
+  {
+   "i": 77,
+   "zh": "“我打算跟这位抄写员谈一谈。他也许知道我怎么会到这儿来。”",
+   "notes": [
+    "<code>was going to</code> 表示过去已定的打算，等于“本来打算、正要”。",
+    "<code>how I got here</code> 是宾语从句，用陈述语序（不用 did），作 <code>know something about</code> 的介宾内容。",
+    "<code>might know</code> 用情态动词表推测，语气留有余地，符合无名氏心里没底的状态。"
+   ],
+   "vocab": [
+    {
+     "w": "scribe",
+     "p": "/skraɪb/",
+     "t": "n.",
+     "z": "抄写员，书记"
+    },
+    {
+     "w": "might know",
+     "p": "",
+     "t": "句型",
+     "z": "也许知道（might 表不确定的推测）"
+    },
+    {
+     "w": "was going to",
+     "p": "",
+     "t": "短语",
+     "z": "打算要，正要去（过去将来打算）"
+    }
+   ]
+  },
+  {
+   "i": 78,
+   "zh": "“听我说，跟尘人瞎抖你的嘴皮子，那可是最最不该——”",
+   "notes": [
+    "破折号表示话被硬生生打断（后面第 79 段果然被打断），是小说里标记“话没说完”的常规写法。",
+    "<code>rattle your bone-box</code> 是俚语，<code>bone-box</code> 指“嘴”，整个短语意为“喋喋不休、乱说话”。",
+    "<code>should be the LAST thing</code> 中大写的 <code>LAST</code> 是排版上的强调：最不该做的事、最后才会考虑的事。"
+   ],
+   "vocab": [
+    {
+     "w": "rattling your bone-box",
+     "p": "",
+     "t": "习语",
+     "z": "（俚）耍嘴皮子，喋喋不休地说话"
+    },
+    {
+     "w": "Dusties",
+     "p": "/ˈdʌstiz/",
+     "t": "n.",
+     "z": "尘人（Dustmen 的蔑称/昵称）"
+    },
+    {
+     "w": "should be the LAST thing",
+     "p": "",
+     "t": "句型",
+     "z": "最不该做的事（大写 LAST 表强调）"
+    }
+   ]
+  },
+  {
+   "i": 79,
+   "zh": "莫提那通牢骚还没说完，抄写员就剧烈地咳了起来。过了一两息，那阵咳嗽才平息下去，老人的呼吸又恢复成先前那种粗重的喘息。",
+   "notes": [
+    "<code>Before Morte could finish...</code> 是“还没等……就……”的固定表达，用于叙事中制造打断感。",
+    "<code>After a moment or two</code> 中 <code>or two</code> 表示约数，“一两个、两三”；类似还有 <code>a day or two</code>。",
+    "<code>resumed its ragged wheeze</code>：<code>resume</code> 是“重新开始、恢复”，物作主语时带拟人色彩，中文可译作“又恢复成……”。"
+   ],
+   "vocab": [
+    {
+     "w": "violently",
+     "p": "/ˈvaɪələntli/",
+     "t": "adv.",
+     "z": "猛烈地，剧烈地"
+    },
+    {
+     "w": "coughing spell",
+     "p": "",
+     "t": "n.",
+     "z": "一阵咳嗽（spell 指某状态的一段发作）"
+    },
+    {
+     "w": "resumed",
+     "p": "/rɪˈzjuːmd/",
+     "t": "v.",
+     "z": "恢复，重新开始（resume 的过去式）"
+    },
+    {
+     "w": "wheeze",
+     "p": "/wiːz/",
+     "t": "n.",
+     "z": "吃力的喘息声"
+    },
+    {
+     "w": "rant",
+     "p": "/rænt/",
+     "t": "n.",
+     "z": "长篇大论，一通牢骚"
+    }
+   ]
+  },
+  {
+   "i": 80,
+   "zh": "“尤其不该的是，跟生病的尘人换什么内情。走吧，咱们离开这儿。咱们越早给这地方一个难看，就越——”话没说完，抄写员那双灰色的眼睛已经瞟向了我。",
+   "notes": [
+    "<code>swap the chant</code> 是印记城黑话：<code>chant</code> 指“内情、消息”，<code>swap</code> 是“交换”，合起来就是“互通消息、聊内情”。",
+    "<code>shouldn't be swapping</code> 用进行时表“（此刻）不该在做某事”，比 <code>shouldn't swap</code> 更有当场劝阻的意味。",
+    "<code>The quicker we..., the bet—</code> 是 <code>the more... the more...</code> 比较级句式，被破折号截断，属于作者刻意留下的“话没说完”。"
+   ],
+   "vocab": [
+    {
+     "w": "swap",
+     "p": "/swɒp/",
+     "t": "v.",
+     "z": "交换，对换"
+    },
+    {
+     "w": "chant",
+     "p": "/tʃɑːnt/",
+     "t": "n.",
+     "z": "（俚）内情，消息"
+    },
+    {
+     "w": "give this place the laugh",
+     "p": "",
+     "t": "习语",
+     "z": "（俚）从这儿溜之大吉，给这地方一点颜色"
+    },
+    {
+     "w": "flickered",
+     "p": "/ˈflɪkəd/",
+     "t": "v.",
+     "z": "闪动，飞快地扫（目光）"
+    }
+   ]
+  },
+  {
+   "i": 81,
+   "zh": "“岁月的重担压得我好沉啊，不安者。”他放下了羽毛笔。“……不过，耳背还不在我这些病痛之列。”我心想，不知他能不能帮上忙。",
+   "notes": [
+    "<code>The weight of years hangs heavy upon me</code> 是文雅的书面对句，<code>hang heavy upon sb.</code> 意为“沉重地压在某人身上”。",
+    "<code>I do not yet count deafness among my ailments</code> 中 <code>count A among B</code> 是“把 A 算进 B 之中”；<code>do not yet</code> 意为“还没有”。",
+    "老人用 <code>Restless One</code> 称呼无名氏，而“不安者”这个名号本身带着宿命意味；<code>ailments</code> 指各种小病痛。"
+   ],
+   "vocab": [
+    {
+     "w": "Restless One",
+     "p": "",
+     "t": "n.",
+     "z": "不安者（达尔对无名氏的称呼）"
+    },
+    {
+     "w": "quill",
+     "p": "/kwɪl/",
+     "t": "n.",
+     "z": "羽毛笔"
+    },
+    {
+     "w": "deafness",
+     "p": "/ˈdefnəs/",
+     "t": "n.",
+     "z": "耳聋，听不见"
+    },
+    {
+     "w": "ailments",
+     "p": "/ˈeɪlmənts/",
+     "t": "n.",
+     "z": "病痛，小毛病（ailment 的复数）"
+    }
+   ]
+  },
+  {
+   "i": 82,
+   "zh": "“‘不安者’？你认识我？”",
+   "notes": [
+    "原文引号内先重复对方用的称号 <code>‘restless One?’</code>，再加一句反问，是英语口语中“抓住关键词再发问”的自然方式。",
+    "<code>Do you know me?</code> 是现在时的“你认识我吗”，与下文“never known you”形成时间上的对照。"
+   ],
+   "vocab": [
+    {
+     "w": "know me",
+     "p": "",
+     "t": "短语",
+     "z": "认识我（know 表“认识、熟识”）"
+    },
+    {
+     "w": "restless One",
+     "p": "",
+     "t": "n.",
+     "z": "不安者（引号内复述达尔对无名氏的称呼）"
+    }
+   ]
+  },
+  {
+   "i": 83,
+   "zh": "“认识你？我……”说这话时，抄写员的声音里透着一丝苦涩。“我从来就不认识你，不安者。并不比你自己更认识你自己。”他沉默了片刻。“因为你已经忘了，不是吗？”",
+   "notes": [
+    "<code>No more than you have known yourself</code> 是“并不比……更多”的比较句，等于说“我对你的了解，跟你对自己的了解一样少”。",
+    "<code>have you not?</code> 是反意疑问句的书面形式（＝<code>haven't you?</code>），语气更庄重，配合角色的古旧语感。",
+    "<code>For you have forgotten</code> 中的 <code>for</code> 是并列连词，表示“因为”，多用于书面语。"
+   ],
+   "vocab": [
+    {
+     "w": "bitterness",
+     "p": "/ˈbɪtənəs/",
+     "t": "n.",
+     "z": "苦涩，怨恨"
+    },
+    {
+     "w": "No more than",
+     "p": "",
+     "t": "短语",
+     "z": "并不比……多；与……一样不"
+    },
+    {
+     "w": "forgotten",
+     "p": "/fəˈɡɒtn/",
+     "t": "v.",
+     "z": "忘记（forget 的过去分词）"
+    }
+   ]
+  },
+  {
+   "i": 84,
+   "zh": "“你是谁？”",
+   "notes": [
+    "只有三个词的问句，与下面达尔“又来了，又是这个问题”的回应正好构成呼应，翻译时越短越好。"
+   ],
+   "vocab": [
+    {
+     "w": "Who are you",
+     "p": "",
+     "t": "句型",
+     "z": "你是谁？（询问身份）"
+    },
+    {
+     "w": "are you",
+     "p": "",
+     "t": "短语",
+     "z": "你是……（be 动词疑问式，用于一般疑问句）"
+    }
+   ]
+  },
+  {
+   "i": 85,
+   "zh": "“永远是这个疑问。而且永远是个问错了的疑问。”他微微欠身，可这个动作忽然又引得他一阵猛咳。“我……”他停了一下，喘匀了气。“我……是达尔。”",
+   "notes": [
+    "<code>As always, the question. And the wrong question, as always.</code> 用省略句（省略 It is）构成警句式的节奏，<code>as always</code> 前后呼应。",
+    "<code>sent him into a bout of coughing</code>：<code>send sb. into...</code> 意为“使某人陷入（某种状态）”，<code>a bout of</code> 指“一阵（发作）”。",
+    "<code>caught his breath</code> 是固定搭配，“喘匀气、缓过劲来”，与 <code>hold one's breath</code>（屏住呼吸）不同。"
+   ],
+   "vocab": [
+    {
+     "w": "bowed",
+     "p": "/baʊd/",
+     "t": "v.",
+     "z": "鞠躬，欠身（bow 的过去式）"
+    },
+    {
+     "w": "Dhall",
+     "p": "/dɔːl/",
+     "t": "n.",
+     "z": "达尔（停尸间的抄写员，尘人）"
+    },
+    {
+     "w": "bout",
+     "p": "/baʊt/",
+     "t": "n.",
+     "z": "一阵，一场（疾病的发作）"
+    },
+    {
+     "w": "caught his breath",
+     "p": "",
+     "t": "习语",
+     "z": "喘匀气，缓过气来"
+    }
+   ]
+  },
+  {
+   "i": 86,
+   "zh": "“这是什么地方？”",
+   "notes": [
+    "<code>What is this place?</code> 与后面达尔“你又在问……”的回应相扣：无名氏连续抛出最直接、也最无用的问题。"
+   ],
+   "vocab": [
+    {
+     "w": "What is this place",
+     "p": "",
+     "t": "句型",
+     "z": "这是什么地方？"
+    },
+    {
+     "w": "this place",
+     "p": "",
+     "t": "短语",
+     "z": "这个地方，此处（this 指近处的事物）"
+    }
+   ]
+  },
+  {
+   "i": 87,
+   "zh": "“你在停尸间，不安者。你又一次……来……”话没说完，达尔又是一阵剧咳。过了一会儿，他让自己平复下来，呼吸又恢复成那种粗重的喘息。“……这里是等候室，给那些即将脱离此生之影的人用的。”",
+   "notes": [
+    "<code>Again you have... come...</code> 用现在完成时加省略号，暗示这件事“已经不是第一次”，也为后文的轮回主题埋线。",
+    "<code>broke into a fit of coughing</code>：<code>break into</code> 表示“突然开始（某种动作）”，<code>a fit of</code> 与 <code>a bout of</code> 近义，都指“一阵发作”。",
+    "<code>those about to depart...</code> 中 <code>be about to do</code> 意为“即将做”；<code>this life</code> 用 <code>shadow</code>（影子）作隐喻，呼应尘人对“真死”的看法。"
+   ],
+   "vocab": [
+    {
+     "w": "Mortuary",
+     "p": "/ˈmɔːtʃuəri/",
+     "t": "n.",
+     "z": "停尸间，太平间"
+    },
+    {
+     "w": "a fit of coughing",
+     "p": "",
+     "t": "短语",
+     "z": "一阵咳嗽（fit 指疾病的发作）"
+    },
+    {
+     "w": "depart",
+     "p": "/dɪˈpɑːt/",
+     "t": "v.",
+     "z": "离开，启程"
+    },
+    {
+     "w": "calmed himself",
+     "p": "",
+     "t": "短语",
+     "z": "让自己平静下来"
+    }
+   ]
+  },
+  {
+   "i": 88,
+   "zh": "“这里是死者被送来下葬或火化的地方。照料死者，是我们的本分——身为尘人，我们要照看那些已经离开此生之影、正走在通往真死之路上的死者。”达尔的声音低了下去，透着忧虑。“你要是连这地方都认不出来，那你受的伤一定不轻。这里几乎就是你的家了。”",
+   "notes": [
+    "<code>be brought to be interred or cremated</code> 是被动语态叠加目的不定式：被送来，以便被埋葬或火化。",
+    "<code>It is our responsibility as Dustmen to care for...</code> 是 <code>It is + n. + to do</code> 的形式主语句型，<code>as Dustmen</code> 表示“作为尘人（的职责）”。",
+    "<code>exact a heavy toll</code> 是固定搭配，“造成惨重代价/损失”，常与 <code>wounds</code>, <code>death</code>, <code>war</code> 等连用。"
+   ],
+   "vocab": [
+    {
+     "w": "interred",
+     "p": "/ɪnˈtɜːd/",
+     "t": "v.",
+     "z": "埋葬（inter 的过去分词）"
+    },
+    {
+     "w": "cremated",
+     "p": "/krɪˈmeɪtɪd/",
+     "t": "v.",
+     "z": "火化（cremate 的过去分词）"
+    },
+    {
+     "w": "exacted a heavy toll",
+     "p": "",
+     "t": "习语",
+     "z": "造成惨重代价，让人吃尽苦头"
+    },
+    {
+     "w": "True Death",
+     "p": "",
+     "t": "n.",
+     "z": "真死（尘人信仰中彻底消亡的终点）"
+    },
+    {
+     "w": "recognize",
+     "p": "/ˈrekəɡnaɪz/",
+     "t": "v.",
+     "z": "认出，认得"
+    }
+   ]
+  }
+ ]
+}

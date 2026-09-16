@@ -1,0 +1,754 @@
+{
+ "chapter": "The Mortuary",
+ "chunk": "the-mortuary-05",
+ "items": [
+  {
+   "i": 89,
+   "zh": "“生命的影子？”",
+   "notes": [
+    "无名氏把达尔刚刚提到的说法原样抛回去，只加一个问号，构成纯疑问的省略句。英文口语里这种“重复对方的关键词 + 升调”是最省力的追问方式，省略了 <code>What do you mean by ...?</code> 之类的整句。",
+    "译文用“”保留了对白的引号层级：原文中这一句本身带引号，说明它是人物说出来的话，而不是叙述。"
+   ],
+   "vocab": [
+    {
+     "w": "Shadow",
+     "p": "/ˈʃædəʊ/",
+     "t": "n.",
+     "z": "影子；本文中是尘人的核心概念，指“生命”不过是真实存在投下的残影"
+    },
+    {
+     "w": "Shadow of life",
+     "p": "",
+     "t": "短语",
+     "z": "生命的影子；达尔用来指称尘人所认定的这种虚假的“生”"
+    }
+   ]
+  },
+  {
+   "i": 90,
+   "zh": "“没错，一道影子。你瞧，不安者，这种生命……它不是真的。你的命，我的命，都只是影子，是真正的生命曾经存在过的一丝残闪。这个‘生命’，是我们死后才落到的地方。而我们留在这里……被困住，被关在笼子里。直到我们能求得真死。”",
+   "notes": [
+    "<code>Your life, my life, they are shadows</code>：先把两个并列成分提前，再用 <code>they</code> 回指并补出谓语，这种“先点名、后总说”的口语结构在中译时可用“都只是……”来收束。",
+    "<code>And here we remain… trapped. Caged.</code>：两个过去分词单独成句，省略了 <code>we are</code>，形成短促、窒息的节奏，译文用两个“被”字短语保留这种压迫感。",
+    "<code>Until we can achieve the True Death</code>：<code>until</code> 引导时间状语从句，表示“直到……为止”；<code>achieve</code> 与抽象名词搭配，意为“达到、求得”，不是“完成”。"
+   ],
+   "vocab": [
+    {
+     "w": "Restless One",
+     "p": "",
+     "t": "短语",
+     "z": "不安者；尘人对无名氏的称呼，暗指他死后魂魄不得安宁"
+    },
+    {
+     "w": "flickering",
+     "p": "/ˈflɪkərɪŋ/",
+     "t": "n.",
+     "z": "闪烁、忽明忽暗的微光；此处喻指生命只剩一点残迹"
+    },
+    {
+     "w": "trapped",
+     "p": "/træpt/",
+     "t": "adj.",
+     "z": "被困住的，脱不了身的"
+    },
+    {
+     "w": "Caged",
+     "p": "/keɪdʒd/",
+     "t": "adj.",
+     "z": "被关在笼中的；与 trapped 并列，强化无路可逃的处境"
+    },
+    {
+     "w": "True Death",
+     "p": "",
+     "t": "短语",
+     "z": "真死；尘人信仰中彻底归于虚无的终极状态"
+    }
+   ]
+  },
+  {
+   "i": 91,
+   "zh": "“真死？”",
+   "notes": [
+    "又是极短的重复式追问，与第 89 段同一手法；无名氏对白一贯简短、困惑，译文不要加油添醋。",
+    "问号落在引号内，表示整句都是他说的，语气是半信半疑的探问而非质问。"
+   ],
+   "vocab": [
+    {
+     "w": "True Death",
+     "p": "",
+     "t": "短语",
+     "z": "真死；此处被再次提起，成为整段对话的核心术语"
+    },
+    {
+     "w": "True",
+     "p": "/truː/",
+     "t": "adj.",
+     "z": "真正的；与 Death 组合成尘人信仰中的“真死”，与“影子般的生”相对"
+    }
+   ]
+  },
+  {
+   "i": 92,
+   "zh": "“真死就是不存在。一种没有理性、没有感觉、没有激情的状态。”达尔咳了几声，接着喘出一口破碎的气。“一种纯净的状态。”",
+   "notes": [
+    "<code>A state devoid of reason, of sensation, of passion</code>：<code>devoid of</code> 意为“毫无、缺乏”，后面的 <code>of</code> 短语被并列三次，译文用三个“没有”对应，保持排比的节奏。",
+    "<code>gave a ragged breath</code>：<code>ragged</code> 形容呼吸断续、破碎，是刻画达尔病体的固定搭配，比 <code>breathed heavily</code> 更显衰弱。",
+    "最后一句仍是省略句（省略主语与系动词），单独成句强调“纯净”，译文保留“一种……”的独立短句形式。"
+   ],
+   "vocab": [
+    {
+     "w": "non-existence",
+     "p": "/ˌnɒnɪɡˈzɪstəns/",
+     "t": "n.",
+     "z": "不存在，虚无"
+    },
+    {
+     "w": "devoid of",
+     "p": "/dɪˈvɔɪd əv/",
+     "t": "习语",
+     "z": "完全没有……的，毫无……的；后接名词"
+    },
+    {
+     "w": "sensation",
+     "p": "/senˈseɪʃn/",
+     "t": "n.",
+     "z": "感觉，知觉"
+    },
+    {
+     "w": "ragged",
+     "p": "/ˈræɡɪd/",
+     "t": "adj.",
+     "z": "（呼吸、声音）断续的、嘶哑微弱的"
+    },
+    {
+     "w": "purity",
+     "p": "/ˈpjʊərəti/",
+     "t": "n.",
+     "z": "纯净，纯粹"
+    }
+   ]
+  },
+  {
+   "i": 93,
+   "zh": "“也许你可以解释一下，尘人为什么想要我死。”",
+   "notes": [
+    "<code>Perhaps you can explain why...</code>：用 <code>Perhaps</code> + <code>can</code> 把要求说成商量，语气客气而不失直接，比 <code>Explain to me why...</code> 柔和得多，译文用“也许你可以”对等。",
+    "<code>want me dead</code>：<code>want + 宾语 + 形容词</code> 表示“想要某人处于某状态”，不能说成 <code>want me to be died</code>；同类的还有 <code>want it done</code>。"
+   ],
+   "vocab": [
+    {
+     "w": "Perhaps",
+     "p": "/pəˈhæps/",
+     "t": "adv.",
+     "z": "也许，或许；此处用来缓和请求的语气"
+    },
+    {
+     "w": "explain",
+     "p": "/ɪkˈspleɪn/",
+     "t": "v.",
+     "z": "解释，说明"
+    },
+    {
+     "w": "Dustmen",
+     "p": "/ˈdʌstmen/",
+     "t": "n.",
+     "z": "尘人（灰烬党）；崇拜死亡、视生命为影子的教派"
+    },
+    {
+     "w": "want me dead",
+     "p": "",
+     "t": "句型",
+     "z": "想要我死；want + 宾语 + 形容词补语"
+    }
+   ]
+  },
+  {
+   "i": 94,
+   "zh": "达尔叹了口气。“据说有些灵魂永远求不到真死。死亡抛弃了他们，他们的名字也永远不会被写进〈亡者名录〉。像你这样从死亡中醒过来……说明你就是这样的灵魂之一。你的存在，我们教派无法接受。”",
+   "notes": [
+    "<code>It is said (that)...</code>：无人称被动句式，表示“据说”，转述教派公认的说法，比 <code>People say</code> 更书面、更有教条味道。",
+    "<code>Death has forsaken them</code>：<code>forsake</code>（forsook / forsaken）意为“抛弃、离弃”，把死亡拟人化；现在完成时说明这种被弃的状态一直延续至今。",
+    "<code>To awake from death as you have done</code>：不定式短语作主语，<code>as you have done</code> 意为“像你所做的那样”，即“像你这样从死亡中醒来”。"
+   ],
+   "vocab": [
+    {
+     "w": "attain",
+     "p": "/əˈteɪn/",
+     "t": "v.",
+     "z": "达到，获得；常与目标、境界类抽象名词搭配"
+    },
+    {
+     "w": "forsaken",
+     "p": "/fəˈseɪkən/",
+     "t": "v.",
+     "z": "forsake 的过去分词：抛弃，遗弃"
+    },
+    {
+     "w": "penned",
+     "p": "/pend/",
+     "t": "v.",
+     "z": "pen 的过去分词：用笔写下、记入；此处指被记入名录"
+    },
+    {
+     "w": "Dead Book",
+     "p": "",
+     "t": "短语",
+     "z": "〈亡者名录〉；尘人登记死者姓名的册子"
+    },
+    {
+     "w": "unacceptable",
+     "p": "/ˌʌnəkˈseptəbl/",
+     "t": "adj.",
+     "z": "不能接受的，无法容忍的"
+    }
+   ]
+  },
+  {
+   "i": 95,
+   "zh": "“‘无法接受？’这话听着，可不像是给我留了什么好下场。”",
+   "notes": [
+    "原文用单引号 <code>‘ ’</code> 在双引号内再引一层，表示无名氏在重复达尔的用词；中文改用‘’对应这种引号嵌套。",
+    "<code>That doesn’t sound like it leaves me in a good position</code>：<code>sound like + 从句</code> 表示“听起来像是……”；<code>leave sb. in a ... position</code> 意为“使某人处于某种境地”，这里是委婉地自嘲凶多吉少。"
+   ],
+   "vocab": [
+    {
+     "w": "Unacceptable",
+     "p": "/ˌʌnəkˈseptəbl/",
+     "t": "adj.",
+     "z": "无法接受的；被无名氏原样引回来反讽"
+    },
+    {
+     "w": "sound like",
+     "p": "",
+     "t": "短语",
+     "z": "听起来像是……；后可直接接句子"
+    },
+    {
+     "w": "leaves me in a good",
+     "p": "",
+     "t": "短语",
+     "z": "（原文 leaves me in a good position）让我处于有利的境地；此处反用，暗示处境不妙"
+    }
+   ]
+  },
+  {
+   "i": 96,
+   "zh": "“你得明白。你的存在，对他们而言就是一种亵渎。我们教派里有很多人，只要知道你这毛病，就会下令把你烧成灰。”",
+   "notes": [
+    "<code>Your existence is a blasphemy to them</code>：<code>a blasphemy to sb.</code> 意为“对某人来说是亵渎”，名词作表语，语气比形容词更重、更断言式。",
+    "<code>would order you cremated</code>：<code>order + 宾语 + 过去分词</code>，表示“下令让某人被……”，动作的承受者作宾语，避免点明执行者。",
+    "<code>if they were aware of your affliction</code>：虚拟条件，说明目前还没有人知晓；<code>be aware of</code> 是“知道、察觉到”的固定搭配。"
+   ],
+   "vocab": [
+    {
+     "w": "blasphemy",
+     "p": "/ˈblæsfəmi/",
+     "t": "n.",
+     "z": "亵渎，渎神；此处指对教义的严重冒犯"
+    },
+    {
+     "w": "faction",
+     "p": "/ˈfækʃn/",
+     "t": "n.",
+     "z": "派系，教派；印记城里指有明确信条的团体"
+    },
+    {
+     "w": "cremated",
+     "p": "/krɪˈmeɪtɪd/",
+     "t": "v.",
+     "z": "cremate 的过去分词：火化，焚化"
+    },
+    {
+     "w": "aware of",
+     "p": "/əˈweə əv/",
+     "t": "习语",
+     "z": "知道……，意识到……"
+    },
+    {
+     "w": "affliction",
+     "p": "/əˈflɪkʃn/",
+     "t": "n.",
+     "z": "病痛，折磨；此处指无名氏死而复生的“怪症”"
+    }
+   ]
+  },
+  {
+   "i": 97,
+   "zh": "“你就是尘人。可你看起来并不想杀我。为什么？”",
+   "notes": [
+    "<code>But you don’t seem to be in favor of killing me</code>：<code>seem to be</code> 表示推论式的判断；<code>in favor of</code> 意为“赞成、支持”，后接动名词 <code>killing</code>。",
+    "前一句陈述事实，后一句用 <code>But</code> 转折再加 <code>Why not?</code> 式追问，构成“先立后驳”的口语逻辑，译文用“可……并不……”保留这种反差。"
+   ],
+   "vocab": [
+    {
+     "w": "Dustman",
+     "p": "/ˈdʌstmən/",
+     "t": "n.",
+     "z": "尘人（灰烬党成员）；单数形式"
+    },
+    {
+     "w": "seem to be",
+     "p": "",
+     "t": "短语",
+     "z": "看起来是……；表示基于观察的判断"
+    },
+    {
+     "w": "in favor of",
+     "p": "",
+     "t": "习语",
+     "z": "赞成，支持；后接名词或动名词"
+    },
+    {
+     "w": "Why not",
+     "p": "",
+     "t": "句型",
+     "z": "为什么不呢；此处是省略式的追问，要求对方给理由"
+    }
+   ]
+  },
+  {
+   "i": 98,
+   "zh": "“因为把信仰强加于你，是不义的。你必须自己放弃这生命的影子，而不是因为我们逼你。”达尔看上去又要爆发一阵咳嗽，但他费了些力气忍住了。“只要我还守在这个职位上，我就会护着你寻找自己真相的权利。”",
+   "notes": [
+    "<code>forcing our beliefs upon you</code>：动名词短语作主语；<code>force sth. upon sb.</code> 是“把……强加于某人”的固定搭配，<code>upon</code> 也可换成 <code>on</code>。",
+    "<code>on your own</code> 意为“靠你自己、自愿地”，与后半句 <code>not because we force you to</code> 正反对照，突出尘人教义中“自愿”这一关键。",
+    "<code>looked about to break into another coughing jag</code>：<code>be about to do</code> 表示“即将……”；<code>break into</code> 与咳嗽、笑声等搭配，指突然发作；<code>jag</code> 是口语中“一阵（发作）”的说法。"
+   ],
+   "vocab": [
+    {
+     "w": "forcing",
+     "p": "/ˈfɔːsɪŋ/",
+     "t": "v.",
+     "z": "force 的现在分词：强迫，强行施加"
+    },
+    {
+     "w": "upon",
+     "p": "/əˈpɒn/",
+     "t": "prep.",
+     "z": "在……之上；force sth. upon sb. 里表示“加到……身上”"
+    },
+    {
+     "w": "just",
+     "p": "/dʒʌst/",
+     "t": "adj.",
+     "z": "公正的，合乎道义的"
+    },
+    {
+     "w": "on your own",
+     "p": "",
+     "t": "习语",
+     "z": "靠你自己，自愿地；不借助他人或外力"
+    },
+    {
+     "w": "hold it in",
+     "p": "",
+     "t": "短语",
+     "z": "忍住，憋住（咳嗽、笑声、情绪等）"
+    }
+   ]
+  },
+  {
+   "i": 99,
+   "zh": "“你说我来过这里不止一次。那尘人怎么会认不出我？”",
+   "notes": [
+    "<code>How is it that...</code> 是询问原因或道理的固定句式，相当于 <code>Why is it that...</code>，语气偏书面、带点不解。",
+    "<code>more than once</code> 意为“不止一次”，常与现在完成时连用，此处是转述达尔先前的话。",
+    "<code>the Dustmen do not recognize me</code> 用 <code>do</code> 强调否定，暗含“按理说该认出来才对”的疑惑。"
+   ],
+   "vocab": [
+    {
+     "w": "more than once",
+     "p": "",
+     "t": "短语",
+     "z": "不止一次，多次"
+    },
+    {
+     "w": "recognize",
+     "p": "/ˈrekəɡnaɪz/",
+     "t": "v.",
+     "z": "认出，辨认出"
+    },
+    {
+     "w": "How is it that",
+     "p": "",
+     "t": "句型",
+     "z": "怎么会……；用于追问缘由"
+    }
+   ]
+  },
+  {
+   "i": 100,
+   "zh": "“我是个书记员，负责登记所有送进停尸间的躯壳。”达尔猛地咳起来，随后又稳住自己。“只有我看得见躺在石台上那些人的脸。你存在的秘密，在我这里很安全。”",
+   "notes": [
+    "<code>a scribe, a cataloger of all the shells</code>：逗号后的名词短语是同位语，用来解释 <code>a scribe</code> 的具体职责，译文用“负责……”把同位关系讲清楚。",
+    "<code>the dark of your existence lies safe with me</code>：<code>the dark</code> 转指“不为人知的秘密”；<code>lie safe with sb.</code> 意为“在某人手里很安全、不会被泄露”，是地道的书面表达。",
+    "<code>those that lie upon our slabs</code>：<code>those that</code> 相当于 <code>those who</code>，指“那些……的人”；<code>lie</code> 此处是“躺、停放”，不是“说谎”。"
+   ],
+   "vocab": [
+    {
+     "w": "scribe",
+     "p": "/skraɪb/",
+     "t": "n.",
+     "z": "书记员，抄写员；负责记录文书的人"
+    },
+    {
+     "w": "cataloger",
+     "p": "/ˈkætəlɒɡə/",
+     "t": "n.",
+     "z": "编目者，登记造册的人"
+    },
+    {
+     "w": "shells",
+     "p": "/ʃelz/",
+     "t": "n.",
+     "z": "壳，躯壳；尘人对尸体的说法，暗示灵魂已离开"
+    },
+    {
+     "w": "slabs",
+     "p": "/slæbz/",
+     "t": "n.",
+     "z": "石板，石台；此处指停尸间的尸台"
+    },
+    {
+     "w": "lies safe with",
+     "p": "",
+     "t": "短语",
+     "z": "（秘密）在某人处很安全，不会被泄露"
+    }
+   ]
+  },
+  {
+   "i": 101,
+   "zh": "“你知道我是谁吗？”",
+   "notes": [
+    "极短的直接问句，用一般现在时 <code>Do you know...</code> 询问对方当前是否掌握这个信息，而不是询问过程。",
+    "无名氏的问话一贯简短、直指要害，译文不加语气词，保持冷硬。"
+   ],
+   "vocab": [
+    {
+     "w": "Do you know",
+     "p": "",
+     "t": "句型",
+     "z": "你知道……吗；一般现在时询问当下的认知状态"
+    },
+    {
+     "w": "who I am",
+     "p": "",
+     "t": "句型",
+     "z": "我是谁；名词性从句作 know 的宾语，语序不倒装"
+    }
+   ]
+  },
+  {
+   "i": 102,
+   "zh": "“我对你知道的极少，不安者。对那些曾与你同行、如今躺在我们看管之下的人，我知道的也不多。”达尔叹了口气。“我请求你，不要再让别人跟你同行了，不安者——你走到哪里，苦难就跟到哪里。你的担子，就自己扛吧。”",
+   "notes": [
+    "<code>I know scant little of you</code>：<code>scant little</code> 是“少得可怜”的强调说法，<code>know of sb.</code> 意为“对某人有所了解”，比 <code>know sb.</code>（认识本人）程度更浅。",
+    "<code>those that have journeyed with you and who now lie in our keeping</code>：两个关系从句并列修饰 <code>those</code>，一个用 <code>that</code> 一个用 <code>who</code>，语体上略显文雅；<code>in our keeping</code> 意为“由我们保管、看管”。",
+    "<code>where you walk, so walks misery</code>：倒装的书面句式，<code>so</code> 后主谓倒装表示“也如此”，相当于“你走到哪里，苦难也随之而行”；<code>Let your burden be your own</code> 是祈使句，意为“让你的担子只属于你自己”。"
+   ],
+   "vocab": [
+    {
+     "w": "scant",
+     "p": "/skænt/",
+     "t": "adj.",
+     "z": "很少的，不足的；scant little 表示“少之又少”"
+    },
+    {
+     "w": "journeyed",
+     "p": "/ˈdʒɜːnid/",
+     "t": "v.",
+     "z": "journey 的过去分词：旅行，长途跋涉；此处指一同冒险"
+    },
+    {
+     "w": "in our keeping",
+     "p": "",
+     "t": "短语",
+     "z": "由我们保管（看管）着"
+    },
+    {
+     "w": "misery",
+     "p": "/ˈmɪzəri/",
+     "t": "n.",
+     "z": "苦难，悲惨；达尔用来指无名氏一路带来的灾祸"
+    },
+    {
+     "w": "burden",
+     "p": "/ˈbɜːdn/",
+     "t": "n.",
+     "z": "负担，重担"
+    }
+   ]
+  },
+  {
+   "i": 103,
+   "zh": "“还有别人跟我同行过？他们就在这里？”",
+   "notes": [
+    "两个连续的一般疑问句，第二句用 <code>And</code> 承接，语速很快，表现无名氏听到关键信息后的急切追问。",
+    "<code>others who have journeyed with me</code>：<code>others</code> 后接关系从句指“另外那些……的人”；现在完成时强调经历，与第 102 段的时态呼应。"
+   ],
+   "vocab": [
+    {
+     "w": "others",
+     "p": "/ˈʌðəz/",
+     "t": "pron.",
+     "z": "其他人，另外一些人"
+    },
+    {
+     "w": "journeyed with",
+     "p": "",
+     "t": "短语",
+     "z": "与……同行，结伴旅行"
+    },
+    {
+     "w": "here",
+     "p": "/hɪə/",
+     "t": "adv.",
+     "z": "在这里；此处指停尸间内"
+    }
+   ]
+  },
+  {
+   "i": 104,
+   "zh": "“你难道不知道，那位女子的尸体就安放在下面纪念厅里吗？我还以为，她过去是与你同行的……”达尔看上去又要咳起来，随后把气顺了回去。“是我弄错了吗？",
+   "notes": [
+    "<code>Do you not know...</code>：否定疑问句，带有惊讶甚至轻微责备的语气，相当于“你竟然不知道……？”；<code>the woman’s corpse interred in the memorial hall</code> 中 <code>interred</code> 是过去分词作后置定语，等于 <code>which is interred</code>。",
+    "<code>I had thought that she had traveled with you</code>：主句用过去完成时 <code>had thought</code>，表示“我原本以为（现在发现可能不是）”，是英语中表达“原以为”的典型时态搭配。",
+    "<code>then caught his breath</code>：<code>catch one’s breath</code> 意为“缓过气来、喘匀气”，不要与 <code>hold one’s breath</code>（屏住呼吸）混淆。"
+   ],
+   "vocab": [
+    {
+     "w": "corpse",
+     "p": "/kɔːps/",
+     "t": "n.",
+     "z": "尸体，尸首"
+    },
+    {
+     "w": "interred",
+     "p": "/ɪnˈtɜːd/",
+     "t": "v.",
+     "z": "inter 的过去分词：埋葬，安放；此处指安厝于厅中"
+    },
+    {
+     "w": "memorial hall",
+     "p": "",
+     "t": "短语",
+     "z": "纪念厅，追思堂"
+    },
+    {
+     "w": "caught his breath",
+     "p": "",
+     "t": "短语",
+     "z": "缓过气来，把气喘匀"
+    },
+    {
+     "w": "Am I mistaken",
+     "p": "",
+     "t": "句型",
+     "z": "我弄错了吗；委婉地确认自己是否记错"
+    }
+   ]
+  },
+  {
+   "i": 105,
+   "zh": "“她的遗体在哪儿？”我问道，心里却在想，我怎么会认得她。",
+   "notes": [
+    "<code>even as I wondered how I knew her</code>：<code>even as</code> 表示“就在……的同时”，强调两个动作同时发生；<code>even</code> 还带出“偏偏在开口问的时候”的微妙意味。",
+    "<code>wondered how I knew her</code>：宾语从句用陈述语序；<code>know her</code> 在此是“认得她、认识她”之意，而非“了解她”。"
+   ],
+   "vocab": [
+    {
+     "w": "even as",
+     "p": "",
+     "t": "习语",
+     "z": "正当……的时候，就在……的同时"
+    },
+    {
+     "w": "wondered",
+     "p": "/ˈwʌndəd/",
+     "t": "v.",
+     "z": "wonder 的过去式：想知道，心里纳闷"
+    },
+    {
+     "w": "Where is her body",
+     "p": "",
+     "t": "句型",
+     "z": "她的遗体在哪里；body 在此指遗体"
+    }
+   ]
+  },
+  {
+   "i": 106,
+   "zh": "“就在我们下面那一层的西北纪念厅。去看看那儿的尸台……她的名字应该刻在某一块纪念铭牌上。说不定那能唤回你的记忆。”",
+   "notes": [
+    "<code>the northwest memorial hall on the floor below us</code>：介词短语 <code>on the floor below us</code> 作后置定语，指示具体位置，译文按中文习惯把方位提前。",
+    "<code>Mayhap</code> 是 <code>maybe</code> / <code>perhaps</code> 的古旧变体，常见于奇幻作品中以营造古雅语感，可理解为“说不定、也许”。",
+    "<code>should be on one of the memorial plaques</code>：<code>should</code> 在此表示合理的推测，意为“应该（会）在……上”，不是义务。"
+   ],
+   "vocab": [
+    {
+     "w": "memorial hall",
+     "p": "",
+     "t": "短语",
+     "z": "纪念厅；停尸间下层安放死者与铭牌的厅堂"
+    },
+    {
+     "w": "biers",
+     "p": "/bɪəz/",
+     "t": "n.",
+     "z": "bier 的复数：停尸架，尸台"
+    },
+    {
+     "w": "plaques",
+     "p": "/plæks/",
+     "t": "n.",
+     "z": "plaque 的复数：铭牌，纪念牌"
+    },
+    {
+     "w": "Mayhap",
+     "p": "/meɪˈhæp/",
+     "t": "adv.",
+     "z": "古体用法：也许，或许"
+    },
+    {
+     "w": "revive",
+     "p": "/rɪˈvaɪv/",
+     "t": "v.",
+     "z": "使复苏，唤起；revive your memory 即“唤回记忆”"
+    }
+   ]
+  },
+  {
+   "i": 107,
+   "zh": "“还有别的人安放在这里吗，那些曾与我同行的？”",
+   "notes": [
+    "<code>Are any others interred here who journeyed with me?</code>：关系从句 <code>who journeyed with me</code> 与先行词 <code>any others</code> 被 <code>interred here</code> 隔开，形成分隔修饰，翻译时要把它拉回到“别的人”后面才通顺。",
+    "<code>any others</code> 用于疑问句，意为“（还）有别的什么人”，<code>any</code> 在疑问与否定句中替代 <code>some</code>。"
+   ],
+   "vocab": [
+    {
+     "w": "any others",
+     "p": "",
+     "t": "短语",
+     "z": "其他任何（人）；疑问句中用 any 而非 some"
+    },
+    {
+     "w": "interred",
+     "p": "/ɪnˈtɜːd/",
+     "t": "v.",
+     "z": "inter 的过去分词：被埋葬、被安放"
+    },
+    {
+     "w": "journeyed with me",
+     "p": "",
+     "t": "短语",
+     "z": "曾与我同行；这里指过去的冒险同伴"
+    }
+   ]
+  },
+  {
+   "i": 108,
+   "zh": "“肯定有，但我不知道他们的名字，也不知道他们葬在哪儿。像你这样的人走过的路上，跟过许多人，而活下来的没几个。”达尔朝我四周比了比。“所有死者都会到这里来。总有那么几个，曾经与你同行过。",
+   "notes": [
+    "<code>I know not their names, nor where they lie</code>：<code>know not</code> 是古旧的否定形式（相当于 <code>do not know</code>），<code>nor</code> 承接前面的否定并引出并列成分，语体刻意古雅。",
+    "<code>One such as you</code> 意为“像你这样的人”，是固定说法；<code>has left a path many have walked</code> 中 <code>many have walked</code> 是省略了关系词的定语从句，修饰 <code>a path</code>。",
+    "<code>few have survived</code>：<code>few</code> 不加 <code>a</code>，表示“几乎没有几个”，与 <code>a few</code>（有几个）语义相反，是常考的区别。"
+   ],
+   "vocab": [
+    {
+     "w": "Doubtless",
+     "p": "/ˈdaʊtləs/",
+     "t": "adv.",
+     "z": "无疑，肯定；表示很有把握的推测"
+    },
+    {
+     "w": "know not",
+     "p": "",
+     "t": "句型",
+     "z": "古体否定式：不知道；相当于 do not know"
+    },
+    {
+     "w": "nor",
+     "p": "/nɔː/",
+     "t": "conj.",
+     "z": "也不；接在否定句后引出另一个否定内容"
+    },
+    {
+     "w": "such as you",
+     "p": "",
+     "t": "短语",
+     "z": "像你这样的人；such as 引出同类"
+    },
+    {
+     "w": "survived",
+     "p": "/səˈvaɪvd/",
+     "t": "v.",
+     "z": "survive 的过去分词：活下来，幸存"
+    }
+   ]
+  },
+  {
+   "i": 109,
+   "zh": "“我是怎么到这儿来的？”",
+   "notes": [
+    "<code>How did I get here?</code>：一般过去时提问，聚焦“到达”这一已完成的动作；<code>get here</code> 是口语中“到这儿、来到这里”的常用说法，比 <code>arrive here</code> 自然。",
+    "无名氏又一次用最短的问句直取信息，译文保持简练，不补修饰语。"
+   ],
+   "vocab": [
+    {
+     "w": "How did I get here",
+     "p": "",
+     "t": "句型",
+     "z": "我是怎么到这儿来的；get 表示“到达”，口语常用"
+    },
+    {
+     "w": "get",
+     "p": "/ɡet/",
+     "t": "v.",
+     "z": "到达，抵达；与 here/there 连用"
+    }
+   ]
+  },
+  {
+   "i": 110,
+   "zh": "“你那辆发霉的马车把你运到了停尸间，不安者。瞧拉你那辆车上一路躺着、发着臭、烂着的那些忠心臣子有多少，你还以为自己是什么王公贵族呢。”",
+   "notes": [
+    "<code>Your moldy chariot ferried you to the Mortuary</code>：<code>ferry</code> 意为“（用船、车）运送”，此处调侃运尸车像渡船一样把他送来；<code>moldy</code>（发霉的）是达尔辛辣的讽刺笔法。",
+    "<code>You would think you were royalty</code>：<code>would think</code> 表示“（照这情形）你会以为”，后面的 <code>were</code> 是虚拟语气，说明这只是与事实相反的错觉。",
+    "<code>based on the number of loyal subjects that lay stinking and festering</code>：<code>based on</code> 意为“根据……”；<code>lay</code> 是 <code>lie</code>（躺）的过去式，<code>stinking and festering</code> 两个现在分词并列作伴随状态，画面感极强。"
+   ],
+   "vocab": [
+    {
+     "w": "moldy",
+     "p": "/ˈməʊldi/",
+     "t": "adj.",
+     "z": "发霉的，霉烂的"
+    },
+    {
+     "w": "chariot",
+     "p": "/ˈtʃæriət/",
+     "t": "n.",
+     "z": "战车，马车；此处戏称运送尸体的板车"
+    },
+    {
+     "w": "ferried",
+     "p": "/ˈferid/",
+     "t": "v.",
+     "z": "ferry 的过去式：渡运，运送"
+    },
+    {
+     "w": "royalty",
+     "p": "/ˈrɔɪəlti/",
+     "t": "n.",
+     "z": "王室成员，皇亲贵胄"
+    },
+    {
+     "w": "festering",
+     "p": "/ˈfestərɪŋ/",
+     "t": "v.",
+     "z": "fester 的现在分词：溃烂，化脓发臭"
+    }
+   ]
+  }
+ ]
+}

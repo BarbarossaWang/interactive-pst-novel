@@ -1,0 +1,536 @@
+{
+ "chapter": "The Hive",
+ "chunk": "the-hive-05",
+ "items": [
+  {
+   "i": 89,
+   "zh": "“没错，刀客，脑鼠。那帮东西，脏得很。要说普通耗子嘛，不过偷吃存粮、下崽儿、传传瘟疫……顶多算个麻烦，如此而已。可你那颅鼠——就是脑鼠，我专逮的玩意儿——那纯粹是祸害。你要是一下凑齐了一‘把’那小杂碎，它们就开始变精明了……有时候是真精明。”",
+   "notes": [
+    "摊贩的口音全在这一段：<code>yer</code>=your，<code>an’</code>=and，<code>‘andful a’</code>=handful of，<code>wot</code>=what，<code>ye</code>=you。中文用“你那”“你要是一下”这类市井口气来对应。",
+    "<code>they are</code>、<code>they do</code> 这类倒装重复（如 <code>Foul creatures, they are</code>）是英语口语里强调话气的说法，先把表语提到前面、再用代词重复主语，译作“……，脏得很”。",
+    "<code>no more</code> 意为“不过如此、仅此而已”，常放在句末作补充说明，用来给前面的判断收口。"
+   ],
+   "vocab": [
+    {
+     "w": "vermin",
+     "p": "/ˈvɜːmɪn/",
+     "t": "n.",
+     "z": "害虫，害兽（集合名词，单复数同形）"
+    },
+    {
+     "w": "cranium",
+     "p": "/ˈkreɪniəm/",
+     "t": "n.",
+     "z": "颅骨，头盖骨；cranium rat 即“颅鼠”"
+    },
+    {
+     "w": "nuisance",
+     "p": "/ˈnjuːsns/",
+     "t": "n.",
+     "z": "麻烦事，讨厌的东西（比 trouble 程度轻）"
+    },
+    {
+     "w": "pikers",
+     "p": "/ˈpaɪkəz/",
+     "t": "n.",
+     "z": "（俚）小气鬼、小角色；此处带轻蔑意味，指小崽子似的杂碎"
+    },
+    {
+     "w": "multiply",
+     "p": "/ˈmʌltɪplaɪ/",
+     "t": "v.",
+     "z": "繁殖，成倍增多（此处指老鼠下崽）"
+    }
+   ]
+  },
+  {
+   "i": 90,
+   "zh": "“它们会变得更聪明？”",
+   "notes": [
+    "<code>They become more intelligent?</code> 是一句不带助动词的简单疑问句，靠升调完成提问；无名氏一路都用这种短句追问，中文保留其简短、克制的口气。",
+    "<code>become + 形容词</code> 表示状态变化，<code>more intelligent</code> 是 <code>intelligent</code> 的比较级：“变得更聪明”。"
+   ],
+   "vocab": [
+    {
+     "w": "intelligent",
+     "p": "/ɪnˈtelɪdʒənt/",
+     "t": "adj.",
+     "z": "聪明的，有智力的（比 clever 更强调智力水平）"
+    },
+    {
+     "w": "become",
+     "p": "/bɪˈkʌm/",
+     "t": "v.",
+     "z": "变成，变得（系动词，后接形容词或名词）"
+    }
+   ]
+  },
+  {
+   "i": 91,
+   "zh": "“我现在就站在你跟前，还能有假！要是我撞上二十只往上，我立马就撒腿跑回我的摊子，快得跟这样……”他打了个响指来强调。“……我真会跑！你要让这么多只凑成一窝，那……那它们能精明得跟人一样，真的！”",
+   "notes": [
+    "<code>Sure as I'm standin’ here before ye</code> 是赌咒式的口语，字面“就跟我此刻站在你面前一样真”，相当于“千真万确”。注意 <code>Sure as…</code> 后面直接用一般现在时表确信。",
+    "<code>two score</code> 是古旧的计数说法，<code>score</code> 为“二十”，<code>two score</code> 即四十；<code>a score of</code> 也常泛指“许多”。",
+    "<code>why… why, they gets smart</code> 里的 <code>why</code> 不是“为什么”，而是叹词，表示惊讶、迟疑或加重语气；此处译作“那……那”。<code>they gets</code> 是刻意的口音化错误形式（主语复数却用 -s）。"
+   ],
+   "vocab": [
+    {
+     "w": "score",
+     "p": "/skɔː/",
+     "t": "n.",
+     "z": "二十（古旧用法）；two score 即四十"
+    },
+    {
+     "w": "flee",
+     "p": "/fliː/",
+     "t": "v.",
+     "z": "逃跑，逃离（比 run away 更书面，过去式 fled）"
+    },
+    {
+     "w": "snapped",
+     "p": "/snæpt/",
+     "t": "v.",
+     "z": "啪地一弹（手指）、打响指；此处指打榧子强调语气"
+    },
+    {
+     "w": "emphasize",
+     "p": "/ˈemfəsaɪz/",
+     "t": "v.",
+     "z": "强调，着重说明"
+    }
+   ]
+  },
+  {
+   "i": 92,
+   "zh": "“我给你句最实在的忠告，刀客……你要是铁了心去逮脑鼠，就挑小窝的下手。顶多十来只。不过我跟你说……”他凑近过来，一股腐臭的气息喷在我脸上，压低了嗓音：“你要是撞上比这多的……比二十来只还多的……那就跑，跑得像站在痛苦女士的影子里一样快！”说完他又从我面前退开。",
+   "notes": [
+    "<code>be bent on (doing) sth.</code> 是固定搭配，意为“一心要、执意要”，语气比 want to 强得多。",
+    "<code>at most</code> 意为“至多，最多”，与 <code>at least</code>（至少）相对，此处修饰 <code>A dozen or so</code>（十来只）。",
+    "<code>ye run like ye’re in the shadow of the Lady</code> 是拿痛苦女士的阴影作比——在印记城，被痛苦女士盯上等于死路一条，所以这句话的意思是“拼命跑”。"
+   ],
+   "vocab": [
+    {
+     "w": "advice",
+     "p": "/ədˈvaɪs/",
+     "t": "n.",
+     "z": "忠告，建议（不可数名词，不说 an advice）"
+    },
+    {
+     "w": "fetid",
+     "p": "/ˈfetɪd/",
+     "t": "adj.",
+     "z": "恶臭的，腐臭的（多形容口气、气味）"
+    },
+    {
+     "w": "hushed",
+     "p": "/hʌʃt/",
+     "t": "adj.",
+     "z": "压低了的，静下来的（in a hushed tone 压低嗓音）"
+    },
+    {
+     "w": "shadow",
+     "p": "/ˈʃædəʊ/",
+     "t": "n.",
+     "z": "阴影，影子（in the shadow of 在某物的阴影之下）"
+    }
+   ]
+  },
+  {
+   "i": 93,
+   "zh": "“巫术，刀客……是巫术！你要是在一块地方养足了那些小魔头，它们就能长出各式各样邪门的本事！能把一个蠢货的脑子从他耳朵里倒出来，真能！吓人得很……这就是邪门，我跟你说。”",
+   "notes": [
+    "<code>all sorts a’ odd powers</code> 中 <code>all sorts of</code> 意为“各种各样的”；<code>a’</code> 是 of 的口音化省略写法，读作弱化的 /ə/。",
+    "<code>Make a basher’s brain pour out ‘is ears</code> 是使役结构 <code>make sb./sth. do sth.</code>，且把宾语 <code>his brain</code> 提前以示强调，正常语序为 make his brain pour out his ears。",
+    "<code>Downright</code> 作副词时意为“彻头彻尾地、完全地”，<code>Downright frightenin’</code> 即“吓人得很”。"
+   ],
+   "vocab": [
+    {
+     "w": "Sorcery",
+     "p": "/ˈsɔːsəri/",
+     "t": "n.",
+     "z": "巫术，妖术（含贬义，比 magic 更阴邪）"
+    },
+    {
+     "w": "fiends",
+     "p": "/fiːndz/",
+     "t": "n.",
+     "z": "恶魔，魔头；也指“坏蛋、狠角色”"
+    },
+    {
+     "w": "Downright",
+     "p": "/ˈdaʊnraɪt/",
+     "t": "adv./adj.",
+     "z": "完全地，彻头彻尾地；十足的"
+    },
+    {
+     "w": "frightenin'",
+     "p": "/ˈfraɪtnɪŋ/",
+     "t": "adj.",
+     "z": "吓人的，可怕的（-frightening 的口音拼法）"
+    }
+   ]
+  },
+  {
+   "i": 94,
+   "zh": "“你是谁？”",
+   "notes": [
+    "<code>“Who are you?”</code> 只有三个词，与前文“它们会变得更聪明？”一路的简短追问语气一致；中文保留这种直截了当。",
+    "<code>Who are you?</code> 是最基本的身份询问句式，注意英语里问身份用 <code>who</code> 而非 <code>what</code>，回答时也须用 <code>I'm…</code> 而非 <code>My name…</code>。"
+   ],
+   "vocab": [
+    {
+     "w": "Who",
+     "p": "/huː/",
+     "t": "pron.",
+     "z": "谁（疑问代词，此处作表语提问身份）"
+    },
+    {
+     "w": "Who are you",
+     "p": "",
+     "t": "短语",
+     "z": "你是谁（最基本的身份询问句式）"
+    }
+   ]
+  },
+  {
+   "i": 95,
+   "zh": "“啥，我？嗨，我叫克里登，有时候人家叫我克里德——屠鼠者！”他夸张地咧嘴一笑，露出一排排参差不齐、又黄又断、歪七扭八的牙齿。",
+   "notes": [
+    "<code>Wot, me?</code> 是回应“你是谁”时的反问式答话，等于 What, me?（我？），语气带点受宠若惊的自得。",
+    "<code>sometimes called Creed</code> 是过去分词短语作后置定语，相当于 who is sometimes called Creed。",
+    "<code>grandiosely</code> 由 grandiose（夸张的、自命不凡的）派生，此处描写他摆出大人物架势的笑容，带讽刺味道。"
+   ],
+   "vocab": [
+    {
+     "w": "grandiosely",
+     "p": "/ˈɡrændiəʊsli/",
+     "t": "adv.",
+     "z": "夸张地，自命不凡地"
+    },
+    {
+     "w": "exposing",
+     "p": "/ɪkˈspəʊzɪŋ/",
+     "t": "v.",
+     "z": "露出，显露出（此处指露齿）"
+    },
+    {
+     "w": "yellowed",
+     "p": "/ˈjeləʊd/",
+     "t": "adj.",
+     "z": "发黄的（多形容牙齿、纸张）"
+    },
+    {
+     "w": "crooked",
+     "p": "/ˈkrʊkɪd/",
+     "t": "adj.",
+     "z": "歪斜的，弯曲不齐的"
+    },
+    {
+     "w": "ill- matched",
+     "p": "",
+     "t": "adj.",
+     "z": "不般配的，参差不齐的（原文此处带一个多余空格）"
+    }
+   ]
+  },
+  {
+   "i": 96,
+   "zh": "“你看来……比这附近大多数人……要友善些。”",
+   "notes": [
+    "<code>certainly</code> 在此不是“当然”，而是加强肯定语气的副词：“确实、的确”。",
+    "两句破折号式的省略号把 <code>friendlier</code> 单独隔出来，表示无名氏一边掂量措辞一边说；<code>more… than</code> 是“比……更……”的比较结构。"
+   ],
+   "vocab": [
+    {
+     "w": "certainly",
+     "p": "/ˈsɜːtnli/",
+     "t": "adv.",
+     "z": "确实，的确（加强语气，非“当然”）"
+    },
+    {
+     "w": "friendlier",
+     "p": "/ˈfrendliə/",
+     "t": "adj.",
+     "z": "更友善的（friendly 的比较级）"
+    }
+   ]
+  },
+  {
+   "i": 97,
+   "zh": "“嗐，刀客，我在努力嘛。我看是我这行当养出来的……这附近的家伙多半疑神疑鬼，一个个都难打交道，可我想让每个刀客都知道：克里登这儿永远有一张热乎乎的笑脸，还有一串滋滋冒油、刚出锅的鼠肉串儿等着他！”他冲我挤了个眼，还拍了拍我的胳膊。",
+   "notes": [
+    "<code>Result a’ my business</code> 是省略句，完整应为 It’s a result of my business，摊贩说话常把主语和 be 动词一并省掉。",
+    "<code>I thinks</code> 又是刻意的口音化形式：主语为 I 却加 -s，表示说话人没受过教育、市井腔调。",
+    "<code>a peery an’ downright unfriendly lot</code> 中 <code>lot</code> 指“一群人”，<code>peery</code> 是老式俚语“爱打探、疑心重的”，与 unfriendly 并列，可用“疑神疑鬼”“难打交道”分译。"
+   ],
+   "vocab": [
+    {
+     "w": "peery",
+     "p": "/ˈpɪəri/",
+     "t": "adj.",
+     "z": "（古俚）好窥探的，疑神疑鬼的"
+    },
+    {
+     "w": "downright",
+     "p": "/ˈdaʊnraɪt/",
+     "t": "adv.",
+     "z": "完全地，十足地（此处修饰 unfriendly）"
+    },
+    {
+     "w": "lot",
+     "p": "/lɒt/",
+     "t": "n.",
+     "z": "一群人，一伙人（a … lot 常含褒贬评价）"
+    },
+    {
+     "w": "pipin’",
+     "p": "/ˈpaɪpɪŋ/",
+     "t": "adj.",
+     "z": "滚烫的，滋滋作响的（pipin’ hot 即“滚热”）"
+    },
+    {
+     "w": "winked",
+     "p": "/wɪŋkt/",
+     "t": "v.",
+     "z": "眨眼，挤眼（表示意或亲热）"
+    }
+   ]
+  },
+  {
+   "i": 98,
+   "zh": "“我看你是要走了，刀客，不过走之前，要不要来一串顶——好——吃——的鼠肉串儿？就算给你路上垫补的，行不行？”",
+   "notes": [
+    "<code>a’fore</code> 是 before 的口音化拼法，<code>wouldst ye</code> 是古旧的第二人称疑问式（相当于 would you），摊贩故意拽文，与满口土话形成滑稽的反差。",
+    "<code>One for the road</code> 是固定习语，指临上路前喝（吃）的最后一杯/一口，译作“路上垫补的”。",
+    "<code>deee-liscious</code> 把 delicious 的元音拉长拼写，模拟吆喝时拖长音的腔调，中文用破折号拉长“顶——好——吃——”。"
+   ],
+   "vocab": [
+    {
+     "w": "leavin'",
+     "p": "/ˈliːvɪŋ/",
+     "t": "v.",
+     "z": "离开，动身（leaving 的口音拼法）"
+    },
+    {
+     "w": "wouldst",
+     "p": "/wʊdst/",
+     "t": "aux.",
+     "z": "（古）would 的第二人称单数形式，用于疑问表“你愿意……吗”"
+    },
+    {
+     "w": "ratsie",
+     "p": "/ˈrætsi/",
+     "t": "n.",
+     "z": "“鼠鼠儿”，摊贩对烤鼠肉串的爱称（rat + 亲昵后缀 -sie）"
+    }
+   ]
+  },
+  {
+   "i": 99,
+   "zh": "“来一串也无妨……”",
+   "notes": [
+    "<code>Why not…</code> 是口语中表示“有何不可、那就来吧”的应答，句末省略号暗示无名氏话没说完、语气勉强。",
+    "<code>“Why not…”</code> 译作“来一串也无妨”而非“为什么不呢”，是为了保住无名氏那种不带热情的口气。"
+   ],
+   "vocab": [
+    {
+     "w": "Why not",
+     "p": "",
+     "t": "短语",
+     "z": "有何不可；那就……吧（口语应答，含勉强或随意意味）"
+    },
+    {
+     "w": "Why",
+     "p": "/waɪ/",
+     "t": "adv.",
+     "z": "为什么（疑问副词，此处用于反问式应答）"
+    }
+   ]
+  },
+  {
+   "i": 100,
+   "zh": "“好嘞，刀客，好嘞！你要哪一路的？”他用一根脏兮兮的指甲依次点过去。“我这儿有烤的、加香料的、水煮的，还有烧焦的！全是新鲜的，全是香喷喷的……两个只要三枚铜币！”",
+   "notes": [
+    "<code>Wot sort wouldst ye like?</code> 又是土话与古语混搭：<code>wot sort</code> 是 what sort，<code>wouldst ye</code> 是古式 would you，制造摊贩故作斯文的喜感。",
+    "<code>them baked, spiced, boiled, an’ charred</code> 中 <code>them</code> 是口语里代替 those 的用法（不规范但常见），后接四个过去分词并列，指四种做法。",
+    "<code>only three coppers for two</code> 是吆喝价格的典型句式：<code>only</code> 强调便宜，<code>for two</code> 表“买两个”的价钱。"
+   ],
+   "vocab": [
+    {
+     "w": "grimy",
+     "p": "/ˈɡraɪmi/",
+     "t": "adj.",
+     "z": "沾满污垢的，黑乎乎的"
+    },
+    {
+     "w": "spiced",
+     "p": "/spaɪst/",
+     "t": "adj.",
+     "z": "加过香料的，五香的"
+    },
+    {
+     "w": "charred",
+     "p": "/tʃɑːd/",
+     "t": "adj.",
+     "z": "烧焦的，烤糊的"
+    },
+    {
+     "w": "scrumptious",
+     "p": "/ˈskrʌmpʃəs/",
+     "t": "adj.",
+     "z": "（口）极美味的，好吃极了"
+    },
+    {
+     "w": "coppers",
+     "p": "/ˈkɒpəz/",
+     "t": "n.",
+     "z": "铜币（复数；本章指印记城的低值货币）"
+    }
+   ]
+  },
+  {
+   "i": 101,
+   "zh": "“烧焦的。”我答道。这样总该盖住什么怪味儿。",
+   "notes": [
+    "<code>“Charred,” I replied.</code> 把引语直接嵌在句首、主谓后置，是英语小说的常见写法；中文照此保留，显得干脆。",
+    "<code>That should hide any nasty taste</code> 中 <code>should</code> 表推测性的“应该能”，<code>any</code> 在肯定句中作“任何（不好的）”，比 some 更带不确定与防备。",
+    "这一段是无名氏的心理旁白，短促、务实，<code>That should hide…</code> 这种“应该能……”的打算口气，正合他此刻的困惑与将就。"
+   ],
+   "vocab": [
+    {
+     "w": "replied",
+     "p": "/rɪˈplaɪd/",
+     "t": "v.",
+     "z": "回答，答道"
+    },
+    {
+     "w": "nasty",
+     "p": "/ˈnɑːsti/",
+     "t": "adj.",
+     "z": "令人作呕的，难受的（此处指难吃的怪味）"
+    }
+   ]
+  },
+  {
+   "i": 102,
+   "zh": "我把铜币递过去，他手腕一翻，一根木签就穿透了两只烧焦的耗子，摘下来往我手里一塞。他冲我挤了个眼。",
+   "notes": [
+    "<code>in one swift motion</code> 是“一个利落的动作之间”，作方式状语；中文用“手腕一翻”来还原这种流畅感。",
+    "<code>ran a pair of charred rats through with a wooden skewer</code> 是 <code>run sth. through (with sth.)</code> 的用法，意为“用……把……穿透”。",
+    "连续三个动词 <code>ran… unhooked… placed</code> 一气呵成，模拟摊贩手脚麻利；译时也连用短句以保持节奏。"
+   ],
+   "vocab": [
+    {
+     "w": "swift",
+     "p": "/swɪft/",
+     "t": "adj.",
+     "z": "迅速的，麻利的"
+    },
+    {
+     "w": "skewer",
+     "p": "/ˈskjuːə/",
+     "t": "n.",
+     "z": "串肉扦，烤签"
+    },
+    {
+     "w": "unhooked",
+     "p": "/ʌnˈhʊkt/",
+     "t": "v.",
+     "z": "把……从钩上取下"
+    },
+    {
+     "w": "handed over",
+     "p": "",
+     "t": "短语",
+     "z": "交出，递过去（hand over 的过去式）"
+    }
+   ]
+  },
+  {
+   "i": 103,
+   "zh": "“慢用，刀客！”",
+   "notes": [
+    "<code>Enjoy</code> 是 <code>Enjoy it</code> / <code>Enjoy your meal</code> 的省略说法，店主招呼客人时常用，译作“慢用”最合中文习惯。",
+    "称呼 <code>cutter</code> 是印记城对“刀客”的通用称呼，此处摊贩已用它称呼无名氏多次，全章保持统一。"
+   ],
+   "vocab": [
+    {
+     "w": "cutter",
+     "p": "/ˈkʌtə/",
+     "t": "n.",
+     "z": "（印记城俚语）刀客，泛指“伙计、老兄”"
+    },
+    {
+     "w": "Enjoy",
+     "p": "/ɪnˈdʒɔɪ/",
+     "t": "v.",
+     "z": "享用，好好享受（此处为“慢用”的招呼语）"
+    }
+   ]
+  },
+  {
+   "i": 104,
+   "zh": "那耗子外皮烧得焦脆，里头却又嫩又多汁。就是油了些、也肥腻了些，吃起来的味道像某种……别的……肉，我肯定以前吃过。那人一脸期待地望着我。",
+   "notes": [
+    "<code>burnt and crispy outside, but tender and juicy within</code> 是 <code>outside… within</code> 的对照结构，中文用“外皮……里头……”来对应。",
+    "<code>some… other… meat</code> 用省略号把形容词断开，暗示无名氏自己都不敢细想那是什么肉，是全书反复出现的黑色幽默。",
+    "<code>tasting of some meat</code> 中 <code>taste of</code> 意为“尝起来有……的味道”；<code>I was sure I'd had before</code> 是省略了关系代词 that 的定语从句，修饰 meat。"
+   ],
+   "vocab": [
+    {
+     "w": "tender",
+     "p": "/ˈtendə/",
+     "t": "adj.",
+     "z": "（肉）嫩的，易嚼的"
+    },
+    {
+     "w": "juicy",
+     "p": "/ˈdʒuːsi/",
+     "t": "adj.",
+     "z": "多汁的"
+    },
+    {
+     "w": "greasy",
+     "p": "/ˈɡriːsi/",
+     "t": "adj.",
+     "z": "油腻的，沾油的"
+    },
+    {
+     "w": "rich",
+     "p": "/rɪtʃ/",
+     "t": "adj.",
+     "z": "（食物）肥腻厚重的，味浓的"
+    },
+    {
+     "w": "expectantly",
+     "p": "/ɪkˈspektəntli/",
+     "t": "adv.",
+     "z": "期待地，眼巴巴地（等着对方反应）"
+    }
+   ]
+  },
+  {
+   "i": 105,
+   "zh": "“还合口味吧？要不要再来一串？”我摆手表示不要，继续往前走。",
+   "notes": [
+    "<code>Did ye like?</code> 是省略宾语的问法（等于 Did you like it?），口语里极常见。",
+    "<code>Motioning that I didn’t</code> 是现在分词短语作状语，<code>that I didn’t</code> 是宾语从句且省略了重复的动词（didn’t like it）；中文用“我摆手表示不要”化开。",
+    "末句 <code>I continued on</code> 的 <code>on</code> 是副词，表示“继续往前”，比单用 continue 更有“不停下脚步”的意味，收束这一段街头插曲。"
+   ],
+   "vocab": [
+    {
+     "w": "Motioning",
+     "p": "/ˈməʊʃənɪŋ/",
+     "t": "v.",
+     "z": "打手势，示意（motion 的现在分词）"
+    },
+    {
+     "w": "continued on",
+     "p": "",
+     "t": "短语",
+     "z": "继续往前走（on 为副词，强调不停前行）"
+    }
+   ]
+  }
+ ]
+}

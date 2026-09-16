@@ -1,0 +1,701 @@
+{
+ "chapter": "Deionarra",
+ "chunk": "deionarra-03",
+ "items": [
+  {
+   "i": 45,
+   "zh": "“毁掉那让我活着的东西？”我问道。",
+   "notes": [
+    "引号里套着单引号，是英语中引用他人原话的常见写法：外层双引号表示说话人自己，内层单引号表示他在复述戴娜拉刚说过的话。",
+    "<code>keeps me alive</code> 是“使某人活着、维持生命”的固定说法，<code>keep + 宾语 + 形容词</code> 表示“使……保持某状态”。"
+   ],
+   "vocab": [
+    {
+     "w": "Destroy",
+     "p": "/dɪˈstrɔɪ/",
+     "t": "v.",
+     "z": "毁掉，摧毁；此处指彻底终结某种状态"
+    },
+    {
+     "w": "keeps me alive",
+     "p": "",
+     "t": "短语",
+     "z": "使我活着，维系我的生命"
+    }
+   ]
+  },
+  {
+   "i": 46,
+   "zh": "“我知道你必须死去……趁你还能死的时候。这个轮回必须画上句点，我的爱。你本不该过这样的日子。你必须找回那些从你身上被夺走的东西，然后走向更远处，进入亡者的国度。”",
+   "notes": [
+    "<code>The circle must come to a close</code> 中 <code>come to a close</code> 是固定搭配，意为“告终、结束”，比 <code>end</code> 更书面、更有仪式感；<code>circle</code> 在此呼应无名氏反复死而复生的循环。",
+    "<code>be meant for</code> 表示“天生注定适合/属于”，<code>You were not meant for this life</code> 直译是“你并非为这样的生活而造”，故译作“你本不该过这样的日子”。",
+    "<code>that which was taken from you</code> 是较文雅的书面结构，等于 <code>what was taken from you</code>，用 <code>that which</code> 显得庄重、飘渺。"
+   ],
+   "vocab": [
+    {
+     "w": "come to a close",
+     "p": "",
+     "t": "短语",
+     "z": "告终，结束（较书面）"
+    },
+    {
+     "w": "meant for",
+     "p": "",
+     "t": "句型",
+     "z": "注定属于／天生适合（be meant for）"
+    },
+    {
+     "w": "beyond",
+     "p": "/bɪˈjɒnd/",
+     "t": "adv.",
+     "z": "在更远处，往那边；此处指生死之外"
+    },
+    {
+     "w": "the dead",
+     "p": "/ðə ded/",
+     "t": "n.",
+     "z": "死者（定冠词+形容词，表一类人）"
+    }
+   ]
+  },
+  {
+   "i": 47,
+   "zh": "“我会在亡者之殿里等你，我的爱。”她笑了，可笑容里只有哀伤。她闭上眼睛，随着一声空灵的耳语，消散了。",
+   "notes": [
+    "<code>death's halls</code> 是英语文学里对冥界、亡者居所的诗意说法，直译“死亡的殿堂”，译作“亡者之殿”更合中文语感。",
+    "<code>there was only sadness in it</code> 中 <code>it</code> 指前面的 <code>smile</code>，避免重复用名词，是英语常见的代词回指。",
+    "<code>with an ethereal whisper</code> 是 <code>with + 名词</code> 表伴随动作的状语结构，模拟她消散时的声音与方式。"
+   ],
+   "vocab": [
+    {
+     "w": "wait for",
+     "p": "",
+     "t": "短语",
+     "z": "等待（某人／某物）"
+    },
+    {
+     "w": "sadness",
+     "p": "/ˈsædnəs/",
+     "t": "n.",
+     "z": "悲伤，哀伤"
+    },
+    {
+     "w": "ethereal",
+     "p": "/iˈθɪəriəl/",
+     "t": "adj.",
+     "z": "空灵的，缥缈的；如幽灵般不属人间的"
+    },
+    {
+     "w": "whisper",
+     "p": "/ˈwɪspə(r)/",
+     "t": "n.",
+     "z": "低语，耳语"
+    },
+    {
+     "w": "fade",
+     "p": "/feɪd/",
+     "t": "v.",
+     "z": "逐渐消散，隐没；此处指幽魂淡去"
+    }
+   ]
+  },
+  {
+   "i": 48,
+   "zh": "我从戴娜拉的停尸架前转过身，仍为自己许下的诺言而恍惚。莫提用关切的语气问了一句。",
+   "notes": [
+    "<code>turn away from</code> 是“从……转过身去、背对”，常带回避或不忍再看的意味，比单纯的 <code>turn</code> 更有情绪。",
+    "<code>still stunned at what I had promised</code> 中 <code>stunned at</code> 表示“被……震住、惊得发懵”，<code>what</code> 引导的从句作介词宾语。",
+    "<code>bier</code> 指停放遗体或棺木的架子／灵床，与后文戴娜拉的幽魂“站在灵床之上”相呼应。"
+   ],
+   "vocab": [
+    {
+     "w": "I turned away",
+     "p": "",
+     "t": "短语",
+     "z": "我转过身去（turn away from：背对……）"
+    },
+    {
+     "w": "bier",
+     "p": "/bɪə(r)/",
+     "t": "n.",
+     "z": "停尸架，灵床（停放棺木或遗体的台架）"
+    },
+    {
+     "w": "stunned",
+     "p": "/stʌnd/",
+     "t": "adj.",
+     "z": "震惊的，发懵的"
+    },
+    {
+     "w": "concerned",
+     "p": "/kənˈsɜːnd/",
+     "t": "adj.",
+     "z": "关切的，担忧的"
+    }
+   ]
+  },
+  {
+   "i": 49,
+   "zh": "“你回神了吗，头儿？你刚才好像走神走远了。”",
+   "notes": [
+    "<code>You back with me?</code> 是口语中省略 <code>Are</code> 的问句，等于 <code>Are you back with me?</code>，意为“你回过神来了吗、还在听我说话吗”。",
+    "<code>drift out on me</code> 是英语口语里很地道的说法：<code>drift out</code> 指走神、神游，加 <code>on me</code> 表示“（在我面前／跟我在一起时）发生了这种事”，带一点抱怨又亲昵的语气。",
+    "<code>chief</code> 在这里是称呼语，相当于“头儿、老大”，莫提对无名氏常用这类称呼。"
+   ],
+   "vocab": [
+    {
+     "w": "You back with me",
+     "p": "",
+     "t": "短语",
+     "z": "你回过神来了吗（口语省略 Are）"
+    },
+    {
+     "w": "drifted out",
+     "p": "",
+     "t": "短语",
+     "z": "走神了，神游天外（drift out）"
+    },
+    {
+     "w": "on me",
+     "p": "",
+     "t": "习语",
+     "z": "（口语）在我身上／当着我的面发生了某事，含轻微抱怨"
+    },
+    {
+     "w": "chief",
+     "p": "/tʃiːf/",
+     "t": "n.",
+     "z": "头儿，老大（称呼语）"
+    }
+   ]
+  },
+  {
+   "i": 50,
+   "zh": "“不，我没事。你知道刚才那个幽魂是谁吗？”莫提一脸困惑。",
+   "notes": [
+    "<code>I'm fine</code> 是最常用的“我没事、我还好”，可回答对健康状况和情绪状态的关心。",
+    "<code>Do you know who that spirit was?</code> 是“疑问词 + 宾语从句”作动词宾语的典型结构，从句用陈述语序 <code>that spirit was</code>，不倒装。"
+   ],
+   "vocab": [
+    {
+     "w": "spirit",
+     "p": "/ˈspɪrɪt/",
+     "t": "n.",
+     "z": "幽灵，魂灵；此处指戴娜拉的幽魂"
+    },
+    {
+     "w": "puzzled",
+     "p": "/ˈpʌzld/",
+     "t": "adj.",
+     "z": "困惑的，莫名其妙的"
+    }
+   ]
+  },
+  {
+   "i": 51,
+   "zh": "“呃？幽魂？”",
+   "notes": [
+    "<code>Eh?</code> 是表示没听清或惊讶的感叹词，相当于“啊？呃？”，比 <code>What?</code> 更随意、更显糊涂。",
+    "整句只有两个词，是口语里省略整个句子的常见现象——莫提此前完全没看见幽魂，所以先反问确认。"
+   ],
+   "vocab": [
+    {
+     "w": "Eh",
+     "p": "/eɪ/",
+     "t": "感叹词",
+     "z": "呃？啊？（表疑问、没听清或惊讶）"
+    },
+    {
+     "w": "Spirit",
+     "p": "/ˈspɪrɪt/",
+     "t": "n.",
+     "z": "幽灵，魂灵；此处莫提是重复对方的话来反问"
+    }
+   ]
+  },
+  {
+   "i": 52,
+   "zh": "“刚才跟我说话的那个幽灵。那个女的。”",
+   "notes": [
+    "<code>That specter I was talking to</code> 中省略了关系代词，完整形式是 <code>the specter that I was talking to</code>，口语里常省。",
+    "<code>talk to</code> 是“与……说话”，介词 <code>to</code> 不可丢；<code>specter</code> 与 <code>spirit</code> 同义，但更强调阴森、骇人的形象。"
+   ],
+   "vocab": [
+    {
+     "w": "specter",
+     "p": "/ˈspektə(r)/",
+     "t": "n.",
+     "z": "幽灵，鬼影（比 spirit 更阴森）"
+    },
+    {
+     "w": "talking to",
+     "p": "",
+     "t": "短语",
+     "z": "与……交谈（talk to sb.）"
+    }
+   ]
+  },
+  {
+   "i": 53,
+   "zh": "“你刚才跟个女人唠了半天？在哪儿？”莫提四下张望，兴致勃勃。“她长什么样？”",
+   "notes": [
+    "<code>rattle one's bone-box</code> 是《异域镇魂曲》里的俚语，字面“晃自己的骨头盒子”，即“动嘴皮子、唠嗑、闲扯”，多含调侃意味。",
+    "<code>look around</code> 是“环顾四周”；后置的 <code>excited</code> 是分词形容词作状语，补充说明莫提张望时的兴奋神情。",
+    "<code>What did she look like?</code> 是询问外貌的固定句式，注意用 <code>What...look like</code>，而不是 <code>How...look like</code>。"
+   ],
+   "vocab": [
+    {
+     "w": "rattling",
+     "p": "/ˈrætlɪŋ/",
+     "t": "v.",
+     "z": "使发出咔嗒声；此处指唠叨不停"
+    },
+    {
+     "w": "bone-box",
+     "p": "",
+     "t": "n.",
+     "z": "（俚）嘴巴，嘴皮子（字面“骨头盒子”）"
+    },
+    {
+     "w": "looked around",
+     "p": "",
+     "t": "短语",
+     "z": "环顾四周，四下张望"
+    },
+    {
+     "w": "excited",
+     "p": "/ɪkˈsaɪtɪd/",
+     "t": "adj.",
+     "z": "兴奋的，激动的"
+    },
+    {
+     "w": "look like",
+     "p": "",
+     "t": "句型",
+     "z": "看起来像；（问外貌）长得什么样"
+    }
+   ]
+  },
+  {
+   "i": 54,
+   "zh": "“她就在灵床上面。你没看见她？”",
+   "notes": [
+    "<code>right on top of</code> 中 <code>right</code> 是副词，加强“恰好、就在”的语气；<code>on top of</code> 指“在……上面”。",
+    "<code>Didn't you see her?</code> 是否定疑问句，此处表达说话人的诧异与不解（“你竟然没看见？”），而非单纯提问。"
+   ],
+   "vocab": [
+    {
+     "w": "on top of",
+     "p": "",
+     "t": "短语",
+     "z": "在……上面"
+    },
+    {
+     "w": "right",
+     "p": "/raɪt/",
+     "t": "adv.",
+     "z": "正好，恰好（加强语气）"
+    }
+   ]
+  },
+  {
+   "i": 55,
+   "zh": "“呃……没有，你刚才就是走神了一小会儿，就那样杵在那儿，跟尊雕像似的。我还真有点担心你又犯糊涂了。”",
+   "notes": [
+    "<code>statue-like</code> 是“名词 + -like”构成的复合形容词，表示“像……一样的”，如 <code>ghost-like</code>、<code>child-like</code>。",
+    "<code>gone addled</code> 是 <code>go + 形容词</code> 结构，表示“变得……”，<code>addled</code> 本义指蛋坏掉，引申为“脑子糊涂、神志不清”。",
+    "<code>again</code> 在这句里暗示无名氏此前也犯过同样的毛病，是莫提式关心的调侃；<code>I was a little worried</code> 用过去进行时描写当时的持续心情。"
+   ],
+   "vocab": [
+    {
+     "w": "statue-like",
+     "p": "",
+     "t": "adj.",
+     "z": "像雕像一样的，一动不动的"
+    },
+    {
+     "w": "addled",
+     "p": "/ˈædld/",
+     "t": "adj.",
+     "z": "糊涂的，神志不清的"
+    },
+    {
+     "w": "gone addled",
+     "p": "",
+     "t": "短语",
+     "z": "变得糊涂了（go + 形容词表“变……”）"
+    },
+    {
+     "w": "worried",
+     "p": "/ˈwʌrid/",
+     "t": "adj.",
+     "z": "担心的，忧虑的"
+    }
+   ]
+  },
+  {
+   "i": 56,
+   "zh": "“我没事。我们走吧。”",
+   "notes": [
+    "<code>I'm all right</code> 比 <code>I'm fine</code> 更口语、更随意，常用来结束别人的关心或追问。",
+    "<code>Let's move on</code> 是 <code>let us</code> 的缩略形式，后接动词原形；<code>move on</code> 意为“继续前进、换下一个地方／话题”，此处一语双关，既是脚步也是心境。"
+   ],
+   "vocab": [
+    {
+     "w": "all right",
+     "p": "",
+     "t": "短语",
+     "z": "没事的，还好（口语）"
+    },
+    {
+     "w": "move on",
+     "p": "",
+     "t": "短语",
+     "z": "继续前进；转到下一件事"
+    }
+   ]
+  },
+  {
+   "i": 57,
+   "zh": "我继续沿着停尸间的外墙往前走。可惜我对戴娜拉提到的那些“传送门”在哪儿毫无头绪。",
+   "notes": [
+    "<code>perimeter</code> 指“周边、外缘”，<code>along the perimeter of the Mortuary</code> 是“沿着停尸间的外围”，比 <code>wall</code> 更强调绕圈行走的路线感。",
+    "<code>Too bad (that)...</code> 是口语中表遗憾的常用句式，相当于“可惜……”，后面常直接跟从句或省略主语。",
+    "<code>any of these 'portals'</code> 中 <code>any of + 复数名词</code> 表示“这些……中的任何一个”，与前面的否定 <code>didn't have any idea</code> 构成全部否定。"
+   ],
+   "vocab": [
+    {
+     "w": "perimeter",
+     "p": "/pəˈrɪmɪtə(r)/",
+     "t": "n.",
+     "z": "周边，外缘；周长"
+    },
+    {
+     "w": "Mortuary",
+     "p": "/ˈmɔːtʃuəri/",
+     "t": "n.",
+     "z": "停尸间，殡仪馆（此处为专有地名）"
+    },
+    {
+     "w": "Too bad",
+     "p": "",
+     "t": "短语",
+     "z": "真可惜，可惜的是"
+    },
+    {
+     "w": "portals",
+     "p": "/ˈpɔːtl/",
+     "t": "n.",
+     "z": "传送门，入口；此处指通往他处的魔法门"
+    },
+    {
+     "w": "any idea",
+     "p": "",
+     "t": "短语",
+     "z": "任何头绪（have no idea：毫无头绪）"
+    }
+   ]
+  },
+  {
+   "i": 58,
+   "zh": "不过，我确实在前方看到了几乎同样好的东西：几扇门，多半通向外面。我一边盼着它们别是锁着的，一边朝那儿走去。可惜，又有一个该死的尘人悄没声地靠了过来，近得我没法假装没看见他。",
+   "notes": [
+    "<code>almost as good</code> 是“几乎一样好”，与上段“找不到传送门”形成对照，语气里带点自我安慰。",
+    "<code>Doors, which most likely led outside</code> 是非限制性定语从句，<code>which</code> 前用逗号，补充说明而非限定是哪几扇门；<code>most likely</code> 表推测“多半、很可能”。",
+    "<code>too close for me to pretend...</code> 是 <code>too + 形容词 + for sb. to do</code> 结构，意为“太……以致我无法……”；<code>on silent feet</code> 则是文学化写法，等于“silently”，强调脚步无声、鬼魅般的靠近。"
+   ],
+   "vocab": [
+    {
+     "w": "led outside",
+     "p": "",
+     "t": "短语",
+     "z": "通向外面（lead to 表“通往”）"
+    },
+    {
+     "w": "locked",
+     "p": "/lɒkt/",
+     "t": "adj.",
+     "z": "锁着的"
+    },
+    {
+     "w": "approach",
+     "p": "/əˈprəʊtʃ/",
+     "t": "v.",
+     "z": "走近，靠近"
+    },
+    {
+     "w": "on silent feet",
+     "p": "",
+     "t": "短语",
+     "z": "脚步无声地，悄没声息地（文学化表达）"
+    },
+    {
+     "w": "damned",
+     "p": "/dæmd/",
+     "t": "adj.",
+     "z": "该死的，讨厌的（用于加强不满语气）"
+    }
+   ]
+  },
+  {
+   "i": 59,
+   "zh": "那是个穿黑袍的男人，一脸倦容。他瘦削的脸极其苍白，看上去像是没睡过觉：双肩塌着，布满血丝的双眼下方，皮肉松松地垂着。他一副神游天外的样子，或许根本没注意到我，可我不敢指望这个。",
+   "notes": [
+    "<code>tired-looking</code> 是“形容词 + looking”构成的复合形容词，表示“看上去……的”，如 <code>sad-looking</code>、<code>kind-looking</code>。",
+    "<code>didn't look as if he had been sleeping</code> 中 <code>as if</code> 引导表语从句，<code>had been sleeping</code> 为过去完成进行时，表示此前一段时间一直没在睡；<code>so...that</code> 结果结构中 <code>that</code> 口语里常省略，<code>might not even have noticed</code> 则是“可能压根没有……”的推测。",
+    "<code>I couldn't count on that</code> 中 <code>count on</code> 意为“指望、依靠”，这句道出无名氏的谨慎。"
+   ],
+   "vocab": [
+    {
+     "w": "tired-looking",
+     "p": "",
+     "t": "adj.",
+     "z": "面带倦容的，看起来很疲惫的"
+    },
+    {
+     "w": "pale",
+     "p": "/peɪl/",
+     "t": "adj.",
+     "z": "苍白的"
+    },
+    {
+     "w": "slumped",
+     "p": "/slʌmpt/",
+     "t": "adj.",
+     "z": "耷拉着的，塌下去的"
+    },
+    {
+     "w": "bloodshot",
+     "p": "/ˈblʌdʃɒt/",
+     "t": "adj.",
+     "z": "（眼睛）充血的，布满血丝的"
+    },
+    {
+     "w": "count on",
+     "p": "",
+     "t": "短语",
+     "z": "指望，依靠"
+    }
+   ]
+  },
+  {
+   "i": 60,
+   "zh": "“你好……”",
+   "notes": [
+    "<code>Greetings</code> 比 <code>Hello</code> 正式、刻意，带一点公文腔或仪式感，符合尘人索戈的身份。",
+    "省略号表示话音拖长、迟疑，暗示说话人只是机械地打招呼，并未真在招呼谁。"
+   ],
+   "vocab": [
+    {
+     "w": "Greetings",
+     "p": "/ˈɡriːtɪŋz/",
+     "t": "n.",
+     "z": "问候，您好（正式／略生硬）"
+    }
+   ]
+  },
+  {
+   "i": 61,
+   "zh": "“你好……”那人转过身来正对我，微微鞠了一躬。我忽然注意到，与其说他的眼睛布满血丝，不如说是透着一种血红。“我是索戈。有什么可以……”他似乎突然注意到了我脸上的伤疤，嘴角抽了一下。“抱歉，先生，您是迷路了吗？”",
+   "notes": [
+    "<code>not so much... as...</code> 是重要比较结构，意为“与其说……不如说……”，此处比较的是“血丝”与“红光”两种印象。",
+    "<code>made a slight bow</code> 中 <code>bow</code> 是名词“鞠躬”，搭配动词 <code>make</code>；<code>I do not recall admitting you</code> 用助动词 <code>do</code> 加强否定，语气冷硬，而 <code>recall doing</code> 表示“记得做过某事”。",
+    "<code>sirrah</code> 是古旧称呼，对上位者或陌生人略带轻慢的“先生／阁下”，比 <code>sir</code> 更显年代感。"
+   ],
+   "vocab": [
+    {
+     "w": "Greetings",
+     "p": "/ˈɡriːtɪŋz/",
+     "t": "n.",
+     "z": "问候，您好"
+    },
+    {
+     "w": "bow",
+     "p": "/baʊ/",
+     "t": "n.",
+     "z": "鞠躬，欠身"
+    },
+    {
+     "w": "tinge",
+     "p": "/tɪndʒ/",
+     "t": "n.",
+     "z": "淡淡的色调，一丝（颜色或情绪）"
+    },
+    {
+     "w": "twitch",
+     "p": "/twɪtʃ/",
+     "t": "v.",
+     "z": "抽动，抽搐"
+    },
+    {
+     "w": "sirrah",
+     "p": "/ˈsɪrə/",
+     "t": "n.",
+     "z": "（古）先生，阁下（带轻慢色彩）"
+    }
+   ]
+  },
+  {
+   "i": 62,
+   "zh": "“不是。”",
+   "notes": [
+    "面对“您迷路了吗”的提问，<code>No</code> 在此并非否认“迷路”这一状态，而是对整句问话作否定的回应，中文译为“不是”更贴切。",
+    "极简的一句回答，凸显无名氏的冷淡与戒备，与索戈的盘问形成节奏对比。"
+   ],
+   "vocab": [
+    {
+     "w": "No",
+     "p": "/nəʊ/",
+     "t": "adv.",
+     "z": "不，不是（否定回答）"
+    }
+   ]
+  },
+  {
+   "i": 63,
+   "zh": "“我不记得放您进来过。”索戈狐疑地打量着我，双眼在火把的光里泛着红光。“能请问您在这儿做什么吗？”",
+   "notes": [
+    "<code>recall admitting you</code> 是 <code>recall + doing</code> 结构，表示“记得做过某事”；这里 <code>admit</code> 取“准许进入”之义，暗指他身为停尸间看守的职权。",
+    "<code>look at me suspiciously</code> 中 <code>suspiciously</code> 是方式副词，修饰 <code>looked</code>，意为“狐疑地、带着怀疑地”。",
+    "<code>May I ask what you are doing here?</code> 是礼貌却带压迫感的质问句式，<code>May I ask</code> 表面客气，实则要求对方解释。"
+   ],
+   "vocab": [
+    {
+     "w": "recall",
+     "p": "/rɪˈkɔːl/",
+     "t": "v.",
+     "z": "记得，回想起"
+    },
+    {
+     "w": "admit",
+     "p": "/ədˈmɪt/",
+     "t": "v.",
+     "z": "准许进入；承认"
+    },
+    {
+     "w": "suspiciously",
+     "p": "/səˈspɪʃəsli/",
+     "t": "adv.",
+     "z": "怀疑地，狐疑地"
+    },
+    {
+     "w": "gleam",
+     "p": "/ɡliːm/",
+     "t": "v.",
+     "z": "闪光，隐隐发亮"
+    },
+    {
+     "w": "torch",
+     "p": "/tɔːtʃ/",
+     "t": "n.",
+     "z": "火把，火炬"
+    }
+   ]
+  },
+  {
+   "i": 64,
+   "zh": "“我是来参加一场葬礼的，不过好像是出了点差错。”",
+   "notes": [
+    "<code>I was here for...</code> 用过去时说明“我原本／之所以在这儿是为了……”，比 <code>I am here for</code> 更像在解释来意。",
+    "<code>there seems to have been a mistake</code> 是 <code>seem + 不定式完成式</code>，表示对已发生情况的推测：“似乎出了差错”；<code>there seems to be</code> 是存在句的常见变体。",
+    "<code>internment</code> 意为“埋葬、葬礼”，与 <code>interment</code> 同指下葬；注意不要与 <code>internment</code>（拘留）在语境上混淆，此处即为丧葬用语。"
+   ],
+   "vocab": [
+    {
+     "w": "internment",
+     "p": "/ɪnˈtɜːnmənt/",
+     "t": "n.",
+     "z": "埋葬，葬礼（下葬仪式）"
+    },
+    {
+     "w": "mistake",
+     "p": "/mɪˈsteɪk/",
+     "t": "n.",
+     "z": "错误，差错"
+    },
+    {
+     "w": "there seems to have been",
+     "p": "",
+     "t": "句型",
+     "z": "似乎（已经）有……（对已发生情况的推测）"
+    }
+   ]
+  },
+  {
+   "i": 65,
+   "zh": "“被安葬的是谁？也许仪式在停尸间的别处举行。”",
+   "notes": [
+    "<code>Who was being interred?</code> 用过去进行时的被动语态，强调当时正在进行的下葬过程。",
+    "<code>Perhaps the services are taking place somewhere else</code> 中 <code>take place</code> 意为“举行、发生”，是不及物短语，没有被动式；<code>services</code> 在丧葬语境中指“葬礼仪式”。"
+   ],
+   "vocab": [
+    {
+     "w": "interred",
+     "p": "/ɪnˈtɜːd/",
+     "t": "v.",
+     "z": "被安葬，被下葬（be interred 的过去分词）"
+    },
+    {
+     "w": "services",
+     "p": "/ˈsɜːvɪsɪz/",
+     "t": "n.",
+     "z": "（宗教）仪式；此处指葬礼"
+    },
+    {
+     "w": "taking place",
+     "p": "",
+     "t": "短语",
+     "z": "正在举行（take place：发生、举行，无被动式）"
+    },
+    {
+     "w": "somewhere else",
+     "p": "",
+     "t": "短语",
+     "z": "在别的地方"
+    }
+   ]
+  },
+  {
+   "i": 66,
+   "zh": "“名字是……呃，阿丹。”这次谎话说得顺口了些。索戈眯起眼睛，我先前看到的那抹红色似乎更浓了。",
+   "notes": [
+    "<code>The lie came easier this time</code> 中 <code>come</code> 后接比较级形容词，表示“变得更容易／更顺”，<code>this time</code> 与后文无名氏惯于扯谎的设定呼应。",
+    "<code>The red tinge I saw in them before</code> 是省略了关系代词 <code>that</code> 的定语从句，<code>them</code> 指 <code>Soego's eyes</code>。",
+    "<code>seemed more pronounced</code> 中 <code>pronounced</code> 作形容词，意为“明显的、显著的”，此处指红色更浓、更刺眼。"
+   ],
+   "vocab": [
+    {
+     "w": "lie",
+     "p": "/laɪ/",
+     "t": "n.",
+     "z": "谎话，谎言"
+    },
+    {
+     "w": "narrow",
+     "p": "/ˈnærəʊ/",
+     "t": "v.",
+     "z": "使变窄；<code>eyes narrowed</code> 眯起眼睛（表怀疑）"
+    },
+    {
+     "w": "tinge",
+     "p": "/tɪndʒ/",
+     "t": "n.",
+     "z": "淡淡的色调，一丝（颜色）"
+    },
+    {
+     "w": "pronounced",
+     "p": "/prəˈnaʊnst/",
+     "t": "adj.",
+     "z": "明显的，显著的"
+    },
+    {
+     "w": "this time",
+     "p": "",
+     "t": "短语",
+     "z": "这次，这一回"
+    }
+   ]
+  }
+ ]
+}

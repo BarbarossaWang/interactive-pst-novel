@@ -1,0 +1,726 @@
+{
+ "chapter": "The Mortuary",
+ "chunk": "the-mortuary-01",
+ "items": [
+  {
+   "i": 1,
+   "zh": "一场梦：躺在停尸间的一张石台上。一根刻满名字的柱子。一排排头骨。一个符号。一个女人。一个幽灵。",
+   "notes": [
+    "整段是一串名词短语的罗列（<code>Lying on a slab, in a mortuary.</code>），没有谓语动词。这种“意象清单”式写法常用于梦境、回忆的开场，用碎片化画面营造恍惚感。",
+    "注意 <code>Lying on a slab</code> 是现在分词短语作独立描写，主语被省略，译成中文时补出“躺在”即可，不必强行加主语。",
+    "把这一段的六个意象和本段最后一句 <code>A ghost.</code> 对照后文：柱子、头骨、符号、女人都会在故事里再次出现，属于伏笔式排比。"
+   ],
+   "vocab": [
+    {
+     "w": "mortuary",
+     "p": "/ˈmɔːtʃuəri/",
+     "t": "n.",
+     "z": "停尸间，太平间；也作形容词“丧葬的”"
+    },
+    {
+     "w": "slab",
+     "p": "/slæb/",
+     "t": "n.",
+     "z": "（停尸用的）石板台、厚板"
+    },
+    {
+     "w": "pillar",
+     "p": "/ˈpɪlə(r)/",
+     "t": "n.",
+     "z": "柱子，石柱"
+    },
+    {
+     "w": "ghost",
+     "p": "/ɡəʊst/",
+     "t": "n.",
+     "z": "幽灵，鬼魂"
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "zh": "我醒了，躺在一张石台上，身处的地方显然就是一间停尸间。我撑着身子坐起来时，眼角瞥见有什么东西在动。一个漂浮的头骨。不——等它开口说话，我才明白过来：一个会漂浮、会说话的头骨。",
+   "notes": [
+    "<code>what was obviously a mortuary</code> 是名词性从句作介词宾语，用 <code>what</code> 把“那个显然就是停尸间的地方”一笔带过，比写成 <code>in a place that was obviously a mortuary</code> 更简洁。",
+    "<code>levered myself up</code> 中 <code>lever</code> 本义是“用杠杆撬”，此处作动词表示“费力撑起身体”，比 <code>sat up</code> 更有画面感；<code>myself</code> 是反身代词，动作回到主语自身。",
+    "<code>A floating skull. No, ... a floating, talking, skull.</code> 用自我更正（自我否定再补充）的节奏制造惊愕感，重复 <code>floating</code> 并插入 <code>talking</code>，翻译时保留这种“停顿—修正”的语气。"
+   ],
+   "vocab": [
+    {
+     "w": "awoke",
+     "p": "/əˈwəʊk/",
+     "t": "v.",
+     "z": "醒来（awake 的过去式）"
+    },
+    {
+     "w": "levered",
+     "p": "/ˈliːvəd/",
+     "t": "v.",
+     "z": "（用杠杆般的方式）撑起、撬动"
+    },
+    {
+     "w": "corner of my eye",
+     "p": "/ˌkɔːnər əv maɪ ˈaɪ/",
+     "t": "短语",
+     "z": "眼角；catch sth from the corner of one's eye 表示“眼角瞥见”"
+    },
+    {
+     "w": "skull",
+     "p": "/skʌl/",
+     "t": "n.",
+     "z": "头骨，骷髅头"
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "zh": "“嘿，老大。你没事吧？你这是在装死尸呢，还是准备把尘人给做了？我还当你铁定是个死人了呢。”我脑子一片混乱，很难集中精神听清这头骨在说什么。",
+   "notes": [
+    "<code>You playing corpse or you putting the blinds on the Dusties?</code> 是口语中省略助动词的疑问句（完整形式为 <code>Are you playing...</code>），<code>or</code> 连接两个选择问句，莫提说话随意、拖腔拖调，翻译时用“这是……呢，还是……”来还原。",
+    "<code>put the blinds on sb</code> 是印记城黑话，字面“给某人拉下百叶窗”，意思是“杀掉某人、让某人闭眼”。",
+    "<code>I thought you were a deader for sure.</code> 中 <code>for sure</code> 作状语加强肯定，“铁定”；<code>deader</code> 是 <code>dead</code> 加 <code>-er</code> 的俚语名词“死人”。末句 <code>had trouble focusing on...</code> 用 <code>have trouble (in) doing sth</code> 表示“做某事有困难”。"
+   ],
+   "vocab": [
+    {
+     "w": "chief",
+     "p": "/tʃiːf/",
+     "t": "n.",
+     "z": "（称呼）老大、头儿；口语中对人的随意称呼"
+    },
+    {
+     "w": "playing corpse",
+     "p": "",
+     "t": "短语",
+     "z": "装死尸，装作死人（play 此处意为“假装”）"
+    },
+    {
+     "w": "putting the blinds on",
+     "p": "",
+     "t": "习语",
+     "z": "（黑话）把……做掉、杀死"
+    },
+    {
+     "w": "deader",
+     "p": "/ˈdedə(r)/",
+     "t": "n.",
+     "z": "（俚）死人，尸体"
+    },
+    {
+     "w": "had trouble focusing on",
+     "p": "",
+     "t": "句型",
+     "z": "have trouble doing sth：做某事感到困难、难以集中注意"
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "zh": "“什……？你是谁？”",
+   "notes": [
+    "<code>Wh…?</code> 用省略号模拟被惊到、话没说完的破音，中文用“什……”对应，不要把问号省掉，它标记的是一句被打断的疑问。",
+    "这一整句只有 <code>Who are you?</code> 一个完整问句，简短到近乎失语，符合无名氏刚醒来、认知一片空白的状态；翻译也应尽量短。"
+   ],
+   "vocab": [
+    {
+     "w": "Who are you",
+     "p": "",
+     "t": "句型",
+     "z": "你是谁？（特殊疑问句，问身份）"
+    },
+    {
+     "w": "Wh",
+     "p": "",
+     "t": "缩写",
+     "z": "what / who 等疑问词被打断时的残音，写作 Wh…"
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "zh": "“呃……我是谁？不如你先说说？你是谁啊？”",
+   "notes": [
+    "<code>How about you start?</code> 是 <code>How about + 主语 + 动词原形</code> 的提议句型，字面“你开始怎么样”，此处带点耍赖、反将一军的味道。",
+    "<code>Who're you?</code> 是 <code>Who are you?</code> 的口语缩略写法，语气比完整形式更冲、更随便。",
+    "<code>Uh…</code> 表示迟疑，与后文莫提的圆滑形成反差：他先装糊涂，反而把问题抛回去。"
+   ],
+   "vocab": [
+    {
+     "w": "How about",
+     "p": "",
+     "t": "句型",
+     "z": "……怎么样？（提出建议或反问）"
+    },
+    {
+     "w": "start",
+     "p": "/stɑːt/",
+     "t": "v.",
+     "z": "开始；here 指“你先开口/你先来”"
+    },
+    {
+     "w": "Uh",
+     "p": "/ʌ/",
+     "t": "感叹词",
+     "z": "呃（表示犹豫、迟疑）"
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "zh": "“我……不知道。我记不起来了。”我这才意识到，关于我自己的一切我都想不起来了。",
+   "notes": [
+    "<code>I can't remember.</code> 用 <code>can't</code> 而不是 <code>don't</code>，强调“此刻想不起来”的能力缺失；英文里 <code>can't remember</code> 比 <code>don't remember</code> 更像失忆者的话。",
+    "<code>I realized that...</code> 后接宾语从句，是全书叙述者反复出现的“自省式”句式：外面的对白结束后，紧跟一句内心认识。",
+    "<code>didn't remember anything about myself</code> 中 <code>anything</code> 用于否定句；<code>about myself</code> 用反身代词点明“关于我自己”。"
+   ],
+   "vocab": [
+    {
+     "w": "I can’t remember",
+     "p": "",
+     "t": "句型",
+     "z": "我记不起来了（can't 强调“此刻想不起来”）"
+    },
+    {
+     "w": "realized",
+     "p": "/ˈriːəlaɪzd/",
+     "t": "v.",
+     "z": "意识到，认识到"
+    },
+    {
+     "w": "anything about myself",
+     "p": "",
+     "t": "短语",
+     "z": "关于我自己的任何事（否定句中用 anything）"
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "zh": "“你连自己的名字都记不起来？嘿。行吧，下回你在这破地方过夜，悠着点喝那玩意儿。我叫莫提。我也被困在这儿了。”",
+   "notes": [
+    "<code>NEXT time you spend a night in this berg</code> 是 <code>next time</code> 引导的时间状语从句，<code>next time</code> 后直接跟主谓，不加 <code>when</code>；大写 <code>NEXT</code> 表示重读强调。",
+    "<code>go easy on sth</code> 是固定搭配，意思是“对……别太狠、悠着点用”，此处指酒少喝点。",
+    "<code>the bub</code> 是印记城黑话，指酒、酒精饮料（也可指劣酒），<code>berg</code> 原指“冰山”，俚语中指“小镇、破城”；<code>Name's Morte.</code> 是 <code>My name is Morte.</code> 的省略式自我介绍。"
+   ],
+   "vocab": [
+    {
+     "w": "berg",
+     "p": "/bɜːɡ/",
+     "t": "n.",
+     "z": "（俚）城镇，小地方；原义为冰山"
+    },
+    {
+     "w": "go easy on",
+     "p": "",
+     "t": "习语",
+     "z": "对……宽容些、少用些、悠着点"
+    },
+    {
+     "w": "bub",
+     "p": "/bʌb/",
+     "t": "n.",
+     "z": "（黑话）酒，酒水；也用作对人的粗鲁称呼"
+    },
+    {
+     "w": "trapped",
+     "p": "/træpt/",
+     "t": "adj./v.",
+     "z": "被困住的（trap 的过去分词）"
+    },
+    {
+     "w": "Heh",
+     "p": "/he/",
+     "t": "感叹词",
+     "z": "嘿、呵呵（短促的冷笑或得意笑声）"
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "zh": "“被困住？”",
+   "notes": [
+    "整段只有一个词加问号，是“回声式追问”（echo question）：重复对方的关键词来要求解释，中文保留引号内的短问句即可。",
+    "这种极短回应是无名氏的标志性说话方式——困惑、简短、常靠重复对方的话推进对话。"
+   ],
+   "vocab": [
+    {
+     "w": "Trapped",
+     "p": "/træpt/",
+     "t": "adj.",
+     "z": "被困住的；此处作为回问，表示“你说被困住是什么意思”"
+    },
+    {
+     "w": "since",
+     "p": "/sɪns/",
+     "t": "conj.",
+     "z": "既然，由于（引导原因状语从句）"
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "zh": "“是啊，既然你还没工夫长腿跑路，那我就把内情给你说说：每扇门我都试过了，这屋子锁得比贞操带还紧。”我得先弄清自己的处境，再从这头骨嘴里问出我在什么地方。",
+   "notes": [
+    "<code>since you haven't had time to get your legs yet</code> 中 <code>since</code> 引导原因状语从句，<code>haven't had time to do sth</code> 表示“还没工夫做某事”；<code>get your legs</code> 此处是双关，字面“长出自己的腿”，也暗指“站稳脚跟、能走路”。",
+    "<code>here's the chant</code> 是印记城说法，<code>the chant</code> 意为“内情、消息、来龙去脉”，口语中 <code>here's the...</code> 用来引出要讲的内容。",
+    "<code>locked tighter than a chastity belt</code> 是明喻（simile）：<code>比较级 + than + 名词</code> 构成夸张比喻，翻译时保留这个粗俗而好笑的比喻。",
+    "<code>orient myself</code> 意为“确定自己的方位、弄清处境”，<code>find out from sb where...</code> 是“从某人那里问出……”。"
+   ],
+   "vocab": [
+    {
+     "w": "the chant",
+     "p": "/tʃɑːnt/",
+     "t": "n.",
+     "z": "（印记城俚语）内情、消息、实情"
+    },
+    {
+     "w": "get your legs",
+     "p": "",
+     "t": "短语",
+     "z": "站稳脚跟、能行动；此处兼有“长腿”的字面戏谑"
+    },
+    {
+     "w": "orient myself",
+     "p": "/ˈɔːrient/",
+     "t": "短语",
+     "z": "确定自己的方位，弄清处境"
+    },
+    {
+     "w": "find out",
+     "p": "",
+     "t": "短语动词",
+     "z": "查出，打听出（find out from sb 从某人处问出）"
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "zh": "“我们被锁在……哪儿了？这是什么地方？”",
+   "notes": [
+    "<code>We're locked in… where?</code> 把疑问词 <code>where</code> 放在句尾追问，是口语中常见的“先陈述再补问”，省略号表示迟疑；中文用“锁在……哪儿了”对应。",
+    "<code>What is this place?</code> 与上一句是并列的两个问句，一句问方位、一句问性质，翻译时保持两句各自的简短。"
+   ],
+   "vocab": [
+    {
+     "w": "locked in",
+     "p": "",
+     "t": "短语",
+     "z": "被锁在里面；be locked in 表示被困在封闭空间"
+    },
+    {
+     "w": "What is this place",
+     "p": "",
+     "t": "句型",
+     "z": "这是什么地方？（询问场所性质）"
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "zh": "“这地方叫‘停尸间’……一座黑黢黢的大建筑，浑身建筑美感活像一只怀孕的蜘蛛。”我是不是已经死了？记忆缺失是不是就因为这个？",
+   "notes": [
+    "<code>It's called...</code> 是被动语态表“叫做”，<code>a big black structure with all the architectural charm of a pregnant spider</code> 用 <code>with</code> 短语把嘲讽的评价挂在名词后，是莫提最爱用的“毒舌比喻”。",
+    "<code>all the charm of...</code> 是反讽固定说法，字面“拥有……的全部魅力”，实则暗示“毫无魅力”。",
+    "后两句 <code>Could I have died? Did that explain...?</code> 用两个疑问句作内心独白：<code>Could I have died?</code> 是 <code>could + have + 过去分词</code>，表示对过去可能性的推测（“我难道已经死了？”）。"
+   ],
+   "vocab": [
+    {
+     "w": "Mortuary",
+     "p": "/ˈmɔːtʃuəri/",
+     "t": "n.",
+     "z": "停尸间（此处特指这座建筑的名字）"
+    },
+    {
+     "w": "structure",
+     "p": "/ˈstrʌktʃə(r)/",
+     "t": "n.",
+     "z": "建筑物，构造物"
+    },
+    {
+     "w": "architectural",
+     "p": "/ˌɑːkɪˈtektʃərəl/",
+     "t": "adj.",
+     "z": "建筑（学）的，建筑风格的"
+    },
+    {
+     "w": "charm",
+     "p": "/tʃɑːm/",
+     "t": "n.",
+     "z": "魅力；此处反讽，意为“美感（全无）”"
+    },
+    {
+     "w": "memories",
+     "p": "/ˈmeməriz/",
+     "t": "n.",
+     "z": "记忆（memory 的复数）；lack of memories 记忆缺失"
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "zh": "“‘停尸间？’什么……我死了吗？”",
+   "notes": [
+    "引号里套引号：外层是叙述引号，内层 <code>‘The Mortuary’</code> 是重复对方刚说的名字，属于回问；中文用“引号内再套单引号”的层级对应。",
+    "<code>What… am I dead?</code> 中间的省略号和破折语气表示惊疑、结巴，<code>am I dead?</code> 是 be 动词提前的一般疑问句，问的是“我现在是死人了吗”。"
+   ],
+   "vocab": [
+    {
+     "w": "am I dead",
+     "p": "",
+     "t": "句型",
+     "z": "我死了吗？（be 动词提前的一般疑问句）"
+    },
+    {
+     "w": "What",
+     "p": "/wɒt/",
+     "t": "感叹词",
+     "z": "什么……（表示震惊、说不出话）"
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "zh": "“反正在我眼里不像。不过你身上伤疤可不少……看样子是有哪个蠢货拿刀在你身上画过画。这就更该趁那把你开膛的家伙还没回来补刀，赶紧跟这地方说拜拜。”",
+   "notes": [
+    "<code>Not from where I'm standing.</code> 是省略句，完整意思是 <code>You don't look dead from where I'm standing.</code>，口语中用“从我这儿看不是这样”表示不同意对方判断。",
+    "<code>a-plenty</code> 是 <code>a-</code> 前缀构成的副词，等于 <code>plenty</code>，多接在名词后，如 <code>scars a-plenty</code>“伤疤一大堆”，带古旧、俚俗的语感。",
+    "<code>painted you with a knife</code> 是故意错位的说法：把“砍伤”说成“用刀作画”，反讽又血腥；<code>All the more reason to...</code> 意为“更有理由做……”。",
+    "<code>give this place the laugh</code> 是印记城黑话，字面“朝这地方大笑一声”，意思是不告而别、甩掉这地方溜走；<code>carve sb up</code> 意为“把某人砍得稀烂”，<code>finish the job</code> 指“把活干完（此处指补刀杀死）”。"
+   ],
+   "vocab": [
+    {
+     "w": "a-plenty",
+     "p": "/əˈplenti/",
+     "t": "adv.",
+     "z": "大量地，许多（多置于名词后，语感俚俗）"
+    },
+    {
+     "w": "berk",
+     "p": "/bɜːk/",
+     "t": "n.",
+     "z": "（印记城俚语）蠢货，笨蛋"
+    },
+    {
+     "w": "painted you with a knife",
+     "p": "",
+     "t": "短语",
+     "z": "拿刀在你身上作画（指把人砍得满是伤疤，带反讽）"
+    },
+    {
+     "w": "give this place the laugh",
+     "p": "",
+     "t": "习语",
+     "z": "（黑话）甩掉这地方、跟这里说拜拜"
+    },
+    {
+     "w": "All the more reason to",
+     "p": "",
+     "t": "句型",
+     "z": "更有理由做……（表示某事实使某事更应如此）"
+    }
+   ]
+  },
+  {
+   "i": 14,
+   "zh": "“伤疤？有多严重？”",
+   "notes": [
+    "<code>How bad are they?</code> 是 <code>How + 形容词</code> 提问程度的标准句式，<code>bad</code> 在此问的是伤势严重程度，不是“好坏”。",
+    "整段两个问句都极短，<code>Scars?</code> 先重复关键词确认对象，再问程度，是无名氏追问信息时的典型节奏。"
+   ],
+   "vocab": [
+    {
+     "w": "Scars",
+     "p": "/skɑːz/",
+     "t": "n.",
+     "z": "伤疤（scar 的复数）"
+    },
+    {
+     "w": "How bad",
+     "p": "",
+     "t": "句型",
+     "z": "有多严重？（How + adj. 询问程度）"
+    }
+   ]
+  },
+  {
+   "i": 15,
+   "zh": "“嗯……你胸口那些刻痕还算不上太糟……可你背上那些……”莫提顿了一下。“嘿，老大，看样子你背上简直是一整间纹身画廊。还拼出了什么字……”",
+   "notes": [
+    "<code>the carvings on your chest aren't TOO bad</code>：<code>on your chest</code> 是后置定语修饰 <code>the carvings</code>；<code>TOO</code> 全大写表示重读，语气上是“还不算太……”。",
+    "<code>Say, ...</code> 是口语插入语，用来引起注意、开启新话题，相当于“嘿、我说”；<code>tattoo gallery on your back</code> 用 <code>gallery</code>（画廊）夸张比喻背上纹身之多。",
+    "<code>Spells out something...</code> 中 <code>spell out</code> 是短语动词，意为“（字母、符号）拼出、表明”；省略号表示莫提正在辨认、话没说完就被打断。"
+   ],
+   "vocab": [
+    {
+     "w": "carvings",
+     "p": "/ˈkɑːvɪŋz/",
+     "t": "n.",
+     "z": "雕刻的痕迹；此处指刀伤、刻痕"
+    },
+    {
+     "w": "tattoo gallery",
+     "p": "",
+     "t": "短语",
+     "z": "纹身画廊（夸张说法，指身上纹身极多）"
+    },
+    {
+     "w": "Spells out",
+     "p": "",
+     "t": "短语动词",
+     "z": "拼写出，表明；（此处指纹身拼出了字句）"
+    },
+    {
+     "w": "paused",
+     "p": "/pɔːzd/",
+     "t": "v.",
+     "z": "停顿，暂停（pause 的过去式）"
+    },
+    {
+     "w": "Say",
+     "p": "/seɪ/",
+     "t": "感叹词",
+     "z": "（口语）嘿、我说（用于引起注意或转换话题）"
+    }
+   ]
+  },
+  {
+   "i": 16,
+   "zh": "我低头看自己，看清了伤疤的真相。它们覆盖了每一寸看得见的皮肤。我手臂上也有一个纹身，正是梦里出现的那个。不过我很想知道自己背上究竟是什么。",
+   "notes": [
+    "<code>the truth about the scarring</code>：<code>the truth about sth</code> 表示“关于某事的真相”，此处指伤疤的真实程度（远超他以为的）。",
+    "<code>every visible bit of skin</code> 是“every + 单数名词”结构，<code>bit</code> 强调“一小块、一处”，合起来意为“每一处看得见的皮肤”。",
+    "<code>the same one from my dream</code>：<code>one</code> 代指前文的 <code>tattoo</code>，避免重复；<code>I wondered what was on my back, though.</code> 用 <code>though</code> 放在句尾，表示“不过、话说回来”的转折，常置于句末。"
+   ],
+   "vocab": [
+    {
+     "w": "scarring",
+     "p": "/ˈskɑːrɪŋ/",
+     "t": "n.",
+     "z": "结疤，疤痕（总称）"
+    },
+    {
+     "w": "visible",
+     "p": "/ˈvɪzəbl/",
+     "t": "adj.",
+     "z": "看得见的，可见的"
+    },
+    {
+     "w": "every visible bit of skin",
+     "p": "",
+     "t": "短语",
+     "z": "每一处看得见的皮肤（every + 单数名词表全部）"
+    },
+    {
+     "w": "wondered",
+     "p": "/ˈwʌndəd/",
+     "t": "v.",
+     "z": "想知道，纳闷（wonder 的过去式）"
+    }
+   ]
+  },
+  {
+   "i": 17,
+   "zh": "“我背上有纹身？上面写着什么？”",
+   "notes": [
+    "<code>What do they say?</code> 中 <code>say</code> 不表示“说”，而是“（文字、标牌）写着、内容是”，主语是文字类名词时用它提问。",
+    "两句都是短问句，第一句重复 <code>Tattoos on my back?</code> 确认信息，第二句追问内容，体现无名氏一贯的追问方式。"
+   ],
+   "vocab": [
+    {
+     "w": "Tattoos",
+     "p": "/tæˈtuːz/",
+     "t": "n.",
+     "z": "纹身（tattoo 的复数）"
+    },
+    {
+     "w": "What do they say",
+     "p": "",
+     "t": "句型",
+     "z": "上面写着什么？（say 用于文字“写着”）"
+    }
+   ]
+  },
+  {
+   "i": 18,
+   "zh": "“嘿！看样子你还带着说明书呢……”莫提清了清嗓子。“我瞧瞧……开头是这么写的……‘我知道你感觉自己像灌了好几桶冥河水，但你必须静下心来。你的随身物品里有一本日志，它会照亮这件事的暗处。剩下的内情法罗德能给你补全——要是他还没进死人册的话。’”",
+   "notes": [
+    "<code>you come with directions</code> 中 <code>come with</code> 表示“随附、自带”，字面“你是带着说明书出厂的”，调侃背上纹身像使用说明。",
+    "<code>clear one's throat</code> 是固定搭配“清嗓子”，常用于准备开口念读之前。",
+    "<code>Styx wash</code> 是双关：<code>Styx</code> 指冥河，<code>wash</code> 指（难喝的）酒水/泔水，同时暗合 <code>hogwash</code>（胡说、劣酒）的谐音；<code>drinking a few kegs of Styx wash</code> 意为“喝了好几桶冥河泔水”，形容人神志不清。",
+    "<code>shed some light on the dark of the matter</code> 仿 <code>shed light on sth</code>（阐明某事），并把 <code>the heart of the matter</code>（事情的核心）改造成 <code>the dark of the matter</code>，玩了一把文字游戏。"
+   ],
+   "vocab": [
+    {
+     "w": "come with directions",
+     "p": "",
+     "t": "短语",
+     "z": "自带说明书（come with 表“随附”，调侃背上的字像使用说明）"
+    },
+    {
+     "w": "cleared his throat",
+     "p": "",
+     "t": "短语",
+     "z": "清了清嗓子（准备开口）"
+    },
+    {
+     "w": "kegs",
+     "p": "/keɡz/",
+     "t": "n.",
+     "z": "小桶（keg 的复数，量酒单位）"
+    },
+    {
+     "w": "Styx wash",
+     "p": "",
+     "t": "短语",
+     "z": "冥河泔水（指难喝的酒，兼指令人神志不清之物）"
+    },
+    {
+     "w": "fill you in",
+     "p": "",
+     "t": "短语动词",
+     "z": "把情况告诉你、给你补全信息"
+    },
+    {
+     "w": "dead-book",
+     "p": "",
+     "t": "n.",
+     "z": "（印记城俚语）死人册；in the dead-book 意为“已经死了”"
+    }
+   ]
+  },
+  {
+   "i": 19,
+   "zh": "“法罗德……？还写了别的什么吗？”",
+   "notes": [
+    "<code>Does it say anything else?</code> 用 <code>it</code> 指代背上的纹身文字，<code>anything else</code> 在疑问句中表示“别的什么”。",
+    "省略号后紧跟反问，表示无名氏抓住一个人名后立刻追问，语气急切但句子极短。"
+   ],
+   "vocab": [
+    {
+     "w": "Pharod",
+     "p": "",
+     "t": "专有名词",
+     "z": "法罗德（人名，本段首次被纹身文字提及）"
+    },
+    {
+     "w": "anything else",
+     "p": "",
+     "t": "短语",
+     "z": "别的什么（疑问句、否定句中用 anything）"
+    }
+   ]
+  },
+  {
+   "i": 20,
+   "zh": "“有，后面还有点……”莫提顿了顿。“我看看……接着是……”",
+   "notes": [
+    "<code>there's a bit more</code> 中 <code>a bit</code> 修饰 <code>more</code>，表示“还有一点点”；<code>a bit more</code> 是常见程度短语。",
+    "<code>it goes on</code> 中 <code>go on</code> 意为“继续下去”，此处指纹身文字还没念完。",
+    "两处省略号 + <code>Morte paused.</code> 共同制造“拖延感”，为下一段的警告内容蓄势，翻译时保留这种欲言又止的节奏。"
+   ],
+   "vocab": [
+    {
+     "w": "a bit more",
+     "p": "",
+     "t": "短语",
+     "z": "还多一点，还有一点儿"
+    },
+    {
+     "w": "goes on",
+     "p": "",
+     "t": "短语动词",
+     "z": "继续下去，往下写/说"
+    },
+    {
+     "w": "Let's see",
+     "p": "",
+     "t": "句型",
+     "z": "让我看看、我瞧瞧（念读或思考前的口头语）"
+    }
+   ]
+  },
+  {
+   "i": 21,
+   "zh": "‘别把日志弄丢了，不然咱们又得在冥河里扑腾。还有，无论如何，绝对不要告诉任何人你是谁、你遇到了什么事，否则他们会把你送去火葬场来一趟速成朝圣。照我说的做：读那本日志，然后找到法罗德。’",
+   "notes": [
+    "<code>or we'll be up the Styx again</code>：<code>up the Styx</code> 是黑话，字面“逆冥河而上”，意思是“陷入大麻烦、完了”；<code>or</code> 在此表示“否则”。",
+    "<code>whatever you do</code> 是让步状语从句，意为“无论你做什么”，用于加强后面的命令语气，常译“无论如何”。",
+    "<code>DO NOT tell anyone WHO you are or WHAT happens to you</code> 中 <code>DO NOT</code>、<code>WHO</code>、<code>WHAT</code> 全大写表示强调重读；<code>who you are</code> 和 <code>what happens to you</code> 都是名词性从句，作 <code>tell</code> 的宾语。",
+    "<code>put you on a quick pilgrimage to the crematorium</code> 用“速成朝圣”委婉地说“把你烧掉”；<code>Do what I tell you</code> 是祈使句 + 宾语从句，语气强硬。"
+   ],
+   "vocab": [
+    {
+     "w": "up the Styx",
+     "p": "",
+     "t": "习语",
+     "z": "（黑话）陷入绝境、完蛋了；字面“逆冥河而上”"
+    },
+    {
+     "w": "whatever you do",
+     "p": "",
+     "t": "句型",
+     "z": "无论如何，不管怎样（加强命令语气）"
+    },
+    {
+     "w": "pilgrimage",
+     "p": "/ˈpɪlɡrɪmɪdʒ/",
+     "t": "n.",
+     "z": "朝圣，朝觐之旅；此处是“送死”的委婉说法"
+    },
+    {
+     "w": "crematorium",
+     "p": "/ˌkreməˈtɔːriəm/",
+     "t": "n.",
+     "z": "火葬场，焚尸炉"
+    },
+    {
+     "w": "Do what I tell you",
+     "p": "",
+     "t": "句型",
+     "z": "照我说的做（祈使句 + what 引导的宾语从句）"
+    }
+   ]
+  },
+  {
+   "i": 22,
+   "zh": "“难怪我背疼；上面居然写了整整一部小说。至于说我应该随身带着的那本日志……我躺在这儿的时候，身边有这么一本吗？”",
+   "notes": [
+    "<code>No wonder + 从句</code> 是固定句型，表示“难怪……”，<code>no wonder my back hurts</code> 省略了 <code>it is</code>。",
+    "<code>As for that journal I'm supposed to have with me</code>：<code>as for</code> 用于引出新话题“至于……”；<code>be supposed to do sth</code> 表示“按理应该做某事”；<code>I'm supposed to have with me</code> 中 <code>have</code> 后省略了关系代词 that 引导的定语从句内容。",
+    "<code>was there one with me while I was lying here?</code> 用 <code>one</code> 代指前面的 <code>journal</code>，<code>while</code> 引导时间状语从句，问的是“当时身边有没有一本”。"
+   ],
+   "vocab": [
+    {
+     "w": "No wonder",
+     "p": "",
+     "t": "句型",
+     "z": "难怪……（后接从句，省略 it is）"
+    },
+    {
+     "w": "damn",
+     "p": "/dæm/",
+     "t": "adj.",
+     "z": "该死的，十足的（口语中作加强语气的修饰语）"
+    },
+    {
+     "w": "novel",
+     "p": "/ˈnɒvl/",
+     "t": "n.",
+     "z": "小说；此处夸张地说背上字多得能成书"
+    },
+    {
+     "w": "As for",
+     "p": "",
+     "t": "短语",
+     "z": "至于，说到（引出新话题）"
+    },
+    {
+     "w": "supposed to",
+     "p": "",
+     "t": "句型",
+     "z": "be supposed to do sth：按理应该做某事"
+    }
+   ]
+  }
+ ],
+ "restored_from_build": true
+}

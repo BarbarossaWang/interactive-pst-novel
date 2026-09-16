@@ -1,0 +1,754 @@
+{
+ "chapter": "The Mortuary",
+ "chunk": "the-mortuary-06",
+ "items": [
+  {
+   "i": 111,
+   "zh": "“你的尸身就堆在那尸堆当中，和那整座尸山里的其他死人一起淌着体液。”达尔又是一阵剧烈咳嗽，好几分钟后才缓过气来。“你那位‘总管’法罗德嘛，照例很高兴收下几个发霉的铜板，把你们这一伙全倒在停尸间门口。”",
+   "notes": [
+    "share its fluids with 字面是“与……共享体液”，这里指尸体腐烂后体液混流，是刻意写得令人不适的冷硬笔法；译作“一起淌着体液”保留这种生理感。",
+    "<code>the lot of you</code> 是口语固定说法，意为“你们这一伙人、你们全部”，<code>lot</code> 在此不是“许多”而是“一整批（人或物）”。",
+    "注意过去完成时 <code>Your body was</code> 与一般现在时 <code>was pleased</code> 的配合：达尔把无名氏的死当作既成事实来陈述。"
+   ],
+   "vocab": [
+    {
+     "w": "violent",
+     "p": "/ˈvaɪələnt/",
+     "t": "adj.",
+     "z": "猛烈的，剧烈的（此处形容咳嗽发作）"
+    },
+    {
+     "w": "fit",
+     "p": "/fɪt/",
+     "t": "n.",
+     "z": "（疾病、情绪的）一阵发作，突发"
+    },
+    {
+     "w": "heap",
+     "p": "/hiːp/",
+     "t": "n.",
+     "z": "（乱堆的）一堆，一垛"
+    },
+    {
+     "w": "dump",
+     "p": "/dʌmp/",
+     "t": "v.",
+     "z": "倾倒，把……倒卸下来（含随手丢弃之意）"
+    }
+   ]
+  },
+  {
+   "i": 112,
+   "zh": "“这个法罗德是谁？”",
+   "notes": [
+    "无名氏式短问句：只用 <code>Who is...?</code> 抛出信息缺口，不加礼貌语、不加缓冲，显得急切而直接。",
+    "注意英文用 <code>this</code> 而非 <code>the</code>：<code>this Pharod</code> 表示“你刚提到的这个法罗德”，带轻微的距离感与怀疑。"
+   ],
+   "vocab": [
+    {
+     "w": "Who is this Pharod?",
+     "p": "",
+     "t": "句型",
+     "z": "这个法罗德是谁？（用 this 指刚被提及的人，含疏离/探询语气）"
+    },
+    {
+     "w": "Pharod",
+     "p": "/ˈfærɒd/",
+     "t": "n.",
+     "z": "法罗德（人名，专有名词）"
+    }
+   ]
+  },
+  {
+   "i": 113,
+   "zh": "“他是个……收尸人。”达尔吃力地吸了口气，又接着说，“我们城里就有这种人，专去搜刮那些走完‘真死’之路的人的尸身，再把尸体送给我们，好让他们得到体面的安葬。”",
+   "notes": [
+    "<code>He is a… collector of the dead</code> 用省略号制造停顿，表示达尔在斟酌措辞、不情愿给法罗德一个正式身份；译文中保留破折号后的迟疑。",
+    "<code>those that have walked the path of True Death</code> 是定语从句修饰 <code>those</code>，<code>have walked</code> 为现在完成时，强调“已经走完”这一终结状态。",
+    "<code>so that they may be interred properly</code> 用 <code>may</code> 表目的，语气庄重；<code>inter</code> 是“下葬”的正式书面用词。"
+   ],
+   "vocab": [
+    {
+     "w": "collector",
+     "p": "/kəˈlektə(r)/",
+     "t": "n.",
+     "z": "收集者，收取者（此处指收尸的人）"
+    },
+    {
+     "w": "scavenge",
+     "p": "/ˈskævɪndʒ/",
+     "t": "v.",
+     "z": "（从废弃物、尸体等处）搜寻、捡拾可用之物"
+    },
+    {
+     "w": "interred",
+     "p": "/ɪnˈtɜːd/",
+     "t": "v.",
+     "z": "埋葬，安葬（inter 的过去分词，书面庄重语）"
+    },
+    {
+     "w": "properly",
+     "p": "/ˈprɒpəli/",
+     "t": "adv.",
+     "z": "恰当地，合乎体统地"
+    },
+    {
+     "w": "True Death",
+     "p": "",
+     "t": "n.",
+     "z": "真死（本作术语：灵魂彻底消亡、不再复生的死）"
+    }
+   ]
+  },
+  {
+   "i": 114,
+   "zh": "“听你这口气，你不太喜欢法罗德啊。”",
+   "notes": [
+    "<code>Doesn’t sound like you like Pharod much.</code> 是口语省略句，主语 <code>It</code> 被省去，相当于 <code>It doesn’t sound like...</code>。",
+    "<code>sound like</code> 后接完整从句 <code>you like Pharod</code>，不要按中文思路写成 <code>sound like you liking</code>。",
+    "<code>much</code> 放在句末用于否定句，表示“不太、不怎么”，如 <code>not... much</code>。"
+   ],
+   "vocab": [
+    {
+     "w": "sound like",
+     "p": "",
+     "t": "短语",
+     "z": "听起来像，听口气像是"
+    },
+    {
+     "w": "much",
+     "p": "/mʌtʃ/",
+     "t": "adv.",
+     "z": "很，非常（在否定句中常置于句末，意为“不太”）"
+    },
+    {
+     "w": "Pharod",
+     "p": "/ˈfærɒd/",
+     "t": "n.",
+     "z": "法罗德（人名，专有名词）"
+    }
+   ]
+  },
+  {
+   "i": 115,
+   "zh": "“有些人我是敬重的，不安者。”达尔吃力地喘了口气，稳住自己。“法罗德不在其列。他把自己的坏名声当荣誉勋章一样戴着，还随意侵占死者的财物。他是个发假誓的骑士，最低贱的那路黑市贩子。”他顿了顿，想到法罗德便皱起了眉。",
+   "notes": [
+    "<code>There are some I respect</code> 中 <code>I respect</code> 是省略了关系代词 <code>whom</code> 的定语从句，修饰 <code>some</code>（某些人）。",
+    "<code>Pharod is not one of them</code> 用 <code>them</code> 回指 <code>some</code>，是英语中避免重复的常见照应手段；译作“不在其列”更合中文习惯。",
+    "<code>a knight of the post</code> 是古旧英式俚语，指专靠作假证、拿钱说谎吃饭的人（“柱刑桩旁的骑士”）；<code>cross-trading</code> 指做见不得光的黑市勾当。"
+   ],
+   "vocab": [
+    {
+     "w": "ill repute",
+     "p": "",
+     "t": "n.",
+     "z": "坏名声，恶名（正式用语）"
+    },
+    {
+     "w": "badge of honor",
+     "p": "",
+     "t": "短语",
+     "z": "荣誉勋章（此处反讽：把恶名当光荣标识）"
+    },
+    {
+     "w": "knight of the post",
+     "p": "",
+     "t": "习语",
+     "z": "（古俚）靠作假证吃饭的人，职业骗子；无赖"
+    },
+    {
+     "w": "cross-trading",
+     "p": "",
+     "t": "n.",
+     "z": "黑市交易，非法倒卖"
+    },
+    {
+     "w": "filth",
+     "p": "/fɪlθ/",
+     "t": "n.",
+     "z": "污秽之物；此处骂人，指下贱的人"
+    }
+   ]
+  },
+  {
+   "i": 116,
+   "zh": "“法罗德送到我们墙下来的每一具尸体，身上剩的体面都比活着时少了一分。凡是他能从那些僵直手指里撬出来的东西，他都拿走了。”",
+   "notes": [
+    "<code>come stripped of...</code> 是“来到时已被剥去……”的被动结构，<code>come</code> 在此作系动词，后接过去分词表状态。",
+    "<code>a little less... than they possessed in life</code> 是双重比较：比生前所拥有的体面“略少一些”，措辞克制，讽刺意味却更重。",
+    "<code>whatever he may pry from...</code>：<code>whatever</code> 引导名词性从句作宾语，<code>may</code> 表“能够、可以”，整体意为“凡是能撬到的都……”"
+   ],
+   "vocab": [
+    {
+     "w": "stripped",
+     "p": "/strɪpt/",
+     "t": "adj.",
+     "z": "被剥光的，被剥夺一空的（strip 的过去分词）"
+    },
+    {
+     "w": "dignity",
+     "p": "/ˈdɪɡnəti/",
+     "t": "n.",
+     "z": "尊严，体面"
+    },
+    {
+     "w": "possess",
+     "p": "/pəˈzes/",
+     "t": "v.",
+     "z": "拥有，具有"
+    },
+    {
+     "w": "pry",
+     "p": "/praɪ/",
+     "t": "v.",
+     "z": "（用力）撬开，掰开；打探"
+    },
+    {
+     "w": "stiffening",
+     "p": "/ˈstɪfnɪŋ/",
+     "t": "adj.",
+     "z": "正在变僵硬的（指尸体的手指）"
+    }
+   ]
+  },
+  {
+   "i": 117,
+   "zh": "“这个法罗德从我身上拿走过什么吗？”",
+   "notes": [
+    "<code>Did this Pharod take...?</code> 一般过去时提问，问的是过去某一次的既成事实。",
+    "<code>take anything from me</code> 中 <code>anything</code> 用于疑问句，不用 <code>something</code>。",
+    "再次使用 <code>this Pharod</code>，表明无名氏仍把此人当成一个陌生标签，而非熟悉的对象。"
+   ],
+   "vocab": [
+    {
+     "w": "take anything from",
+     "p": "",
+     "t": "短语",
+     "z": "从……身上拿走任何东西"
+    },
+    {
+     "w": "Pharod",
+     "p": "/ˈfærɒd/",
+     "t": "n.",
+     "z": "法罗德（人名，专有名词）"
+    }
+   ]
+  },
+  {
+   "i": 118,
+   "zh": "达尔顿了顿，思量着。“多半拿过。你身上少了什么东西吗……特别是有价值的东西？”他皱起眉头，声音低了下去。“倒不是说，凡是没有长在你肉上的东西，法罗德都会手下留情；有时候就算长在肉上，也不够让他那颗贪心停下来想一想。”",
+   "notes": [
+    "<code>Not that...</code> 是口语中的补充说明结构，意为“倒不是说……”，用来预先排除一种误解（这里是反讽式的“别以为他会客气”）。",
+    "<code>take exception to</code> 本义是“对……表示异议、反感”，这里反用为“对……有所顾忌而放过”。",
+    "<code>give his greedy mind pause</code> 是固定搭配 <code>give (someone) pause</code>（使某人生出迟疑）的扩展用法，中间插入 <code>his greedy mind</code> 更显讽刺。"
+   ],
+   "vocab": [
+    {
+     "w": "considering",
+     "p": "/kənˈsɪdərɪŋ/",
+     "t": "v.",
+     "z": "考虑，斟酌（consider 的现在分词，此处作伴随状语）"
+    },
+    {
+     "w": "of value",
+     "p": "",
+     "t": "短语",
+     "z": "有价值的，值钱的（作后置定语）"
+    },
+    {
+     "w": "take exception to",
+     "p": "",
+     "t": "习语",
+     "z": "对……表示反对/不满；此处反用为“对……有所顾忌”"
+    },
+    {
+     "w": "grafted",
+     "p": "/ˈɡrɑːftɪd/",
+     "t": "v.",
+     "z": "移植，嫁接（此处指“长在身上、连在身体上”）"
+    },
+    {
+     "w": "pause",
+     "p": "/pɔːz/",
+     "t": "n.",
+     "z": "停顿，迟疑（give sb pause：使某人犹豫）"
+    }
+   ]
+  },
+  {
+   "i": 119,
+   "zh": "“我少了一本日志。”",
+   "notes": [
+    "<code>be missing sth</code> 表示“缺了某物、某物不见了”，主语是被缺的东西，不要写成 <code>I am missing</code> 之外的错误结构。",
+    "此处 <code>missing</code> 是形容词化的现在分词，表状态而非动作；无名氏的台词依旧极短，与他困惑、内敛的性格一致。",
+    "<code>journal</code> 指“日志、日记本”，与报纸 <code>newspaper</code> 无关，注意与 <code>diary</code> 近义但更偏“记录册”。"
+   ],
+   "vocab": [
+    {
+     "w": "missing",
+     "p": "/ˈmɪsɪŋ/",
+     "t": "adj.",
+     "z": "缺失的，不见了的"
+    },
+    {
+     "w": "journal",
+     "p": "/ˈdʒɜːnl/",
+     "t": "n.",
+     "z": "日志，日记本，记事册"
+    }
+   ]
+  },
+  {
+   "i": 120,
+   "zh": "“一本日志？要是它值点什么，那多半就落在法罗德手里了。”现在我又多了一个去找这个人的理由。",
+   "notes": [
+    "<code>If it was of any value</code> 用 <code>of + 名词</code> 结构表性质，相当于 <code>valuable</code>；<code>any</code> 在此加强“哪怕有一点”。",
+    "<code>it is likely it lies in Pharod’s hands</code>：<code>it</code> 为形式主语，后一个 <code>it</code> 指日志；<code>lie in sb’s hands</code> 意为“落在某人手中、由某人掌握”。",
+    "最后一句由达尔的对话切换到无名氏的第一人称叙述（无引号），标志视角从“听”转为“想”，<code>now</code> 点出动机的即时生成。"
+   ],
+   "vocab": [
+    {
+     "w": "of any value",
+     "p": "",
+     "t": "短语",
+     "z": "有任何价值的，值些钱的"
+    },
+    {
+     "w": "likely",
+     "p": "/ˈlaɪkli/",
+     "t": "adv.",
+     "z": "很可能（此处作副词，前有 is）"
+    },
+    {
+     "w": "reason",
+     "p": "/ˈriːzn/",
+     "t": "n.",
+     "z": "理由，缘由，动机"
+    }
+   ]
+  },
+  {
+   "i": 121,
+   "zh": "“我上哪儿能找到这个法罗德？”",
+   "notes": [
+    "<code>Where can I find...?</code> 是询问地点的标准句式；用 <code>can</code> 而非 <code>may</code>，语气直接务实。",
+    "<code>find</code> 在此不只是“找到”，还暗含“找到并接触到（此人）”，为后文“去找他”的行动埋线。"
+   ],
+   "vocab": [
+    {
+     "w": "Where can I find",
+     "p": "",
+     "t": "句型",
+     "z": "我能在哪儿找到……？（询问地点）"
+    },
+    {
+     "w": "Pharod",
+     "p": "/ˈfærɒd/",
+     "t": "n.",
+     "z": "法罗德（人名，专有名词）"
+    }
+   ]
+  },
+  {
+   "i": 122,
+   "zh": "“要是事情还是照老样子走下去，不安者，那么在你找到法罗德这回泡在哪一摊烂泥里之前，反倒是他找到你、再把你送回我们这儿的可能大得多。”",
+   "notes": [
+    "<code>If events persist as they have</code>：<code>as they have</code> 是省略式比较从句，完整为 <code>as they have persisted</code>，意为“一如既往”。",
+    "<code>you have a much greater chance of A before B</code> 结构：<code>of</code> 后接动名词，<code>before</code> 引导时间状语，比较的是两件事发生的可能性。",
+    "<code>ooze puddle he wallows in</code> 是带鄙夷色彩的形象说法：<code>wallow in</code>（在泥水中打滚）暗指法罗德像猪一样混迹污秽；<code>this time</code> 暗示这种循环已重复多次。"
+   ],
+   "vocab": [
+    {
+     "w": "persist",
+     "p": "/pəˈsɪst/",
+     "t": "v.",
+     "z": "持续，保持（原样）"
+    },
+    {
+     "w": "ooze",
+     "p": "/uːz/",
+     "t": "n.",
+     "z": "污泥，软泥，渗出的黏稠物"
+    },
+    {
+     "w": "puddle",
+     "p": "/ˈpʌdl/",
+     "t": "n.",
+     "z": "水坑，泥潭"
+    },
+    {
+     "w": "wallows",
+     "p": "/ˈwɒləʊz/",
+     "t": "v.",
+     "z": "（在泥水中）打滚，沉溺（wallow 第三人称单数）"
+    },
+    {
+     "w": "this time",
+     "p": "",
+     "t": "短语",
+     "z": "这一次（暗示同类情形反复发生）"
+    }
+   ]
+  },
+  {
+   "i": 123,
+   "zh": "“不管怎样，我必须找到他。”我说，语气里带了几分恼意。",
+   "notes": [
+    "引语后跟 <code>I said</code> 再加分词短语 <code>annoyance edging my voice</code>，是英语小说中极常见的“说话方式补充”写法，比从句更凝练。",
+    "<code>edge</code> 作动词意为“给……加上边缘”，<code>annoyance edging my voice</code> 即“恼意正在给声音镶边”，相当于“语气里透着恼意”。",
+    "<code>Nevertheless</code> 表让步转折，与上句达尔的劝阻直接对冲，体现无名氏的执拗。"
+   ],
+   "vocab": [
+    {
+     "w": "Nevertheless",
+     "p": "/ˌnevəðəˈles/",
+     "t": "adv.",
+     "z": "尽管如此，然而（正式，表让步）"
+    },
+    {
+     "w": "annoyance",
+     "p": "/əˈnɔɪəns/",
+     "t": "n.",
+     "z": "恼怒，烦恼"
+    },
+    {
+     "w": "edging",
+     "p": "/ˈedʒɪŋ/",
+     "t": "v.",
+     "z": "给……加边，渐渐侵入（edge 的现在分词）"
+    },
+    {
+     "w": "must",
+     "p": "/mʌst/",
+     "t": "情态动词",
+     "z": "必须，一定要（强调主观决心）"
+    }
+   ]
+  },
+  {
+   "i": 124,
+   "zh": "达尔的语气里渗进了一丝警告。“别去找法罗德，不安者。我敢肯定，事情只会再一次兜回原点——你还是什么都没弄明白，法罗德倒又多了几个铜板。接受死亡吧，不安者。别再让你这苦难的轮回一圈圈转下去了。”",
+   "notes": [
+    "<code>A slight warning creeped into Dhall’s tone</code> 用 <code>creep into</code>（悄悄爬进、渗入）描写语气变化，比 <code>appeared</code> 更富画面感；注意 <code>creeped</code> 是 <code>crept</code> 的非规范但常见的口语化拼写。",
+    "<code>come full circle</code> 是固定习语，意为“绕一圈又回到原处、周而复始”。",
+    "<code>with you none the wiser and Pharod a few coppers richer</code> 是 <code>with + 宾语 + 宾补</code> 的独立结构，用比较级并列铺出循环的结果；<code>none the wiser</code> 意为“仍旧一无所知”。"
+   ],
+   "vocab": [
+    {
+     "w": "creeped",
+     "p": "/kriːpt/",
+     "t": "v.",
+     "z": "悄悄进入，渗入（creep 的过去式，规范拼写为 crept）"
+    },
+    {
+     "w": "warning",
+     "p": "/ˈwɔːnɪŋ/",
+     "t": "n.",
+     "z": "警告，警示"
+    },
+    {
+     "w": "come full circle",
+     "p": "",
+     "t": "习语",
+     "z": "兜回原点，周而复始"
+    },
+    {
+     "w": "none the wiser",
+     "p": "",
+     "t": "习语",
+     "z": "仍旧不明白，还是没弄懂"
+    },
+    {
+     "w": "perpetuate",
+     "p": "/pəˈpetʃueɪt/",
+     "t": "v.",
+     "z": "使持续，使（不好的事）延续下去"
+    }
+   ]
+  },
+  {
+   "i": 125,
+   "zh": "“我必须找到他。你知道他在哪儿吗？”",
+   "notes": [
+    "<code>have to</code> 表示客观情况所迫的“不得不”，与上一段的 <code>must</code> 相比更强调外在必要性，两者在此几乎同义、语气略有差别。",
+    "两个短句直接相连，一句表态、一句追问，是游戏对白中无名氏的典型节奏：先表明意志，再索取信息。"
+   ],
+   "vocab": [
+    {
+     "w": "have to",
+     "p": "",
+     "t": "短语",
+     "z": "不得不，必须（强调客观需要）"
+    },
+    {
+     "w": "Do you know where he is?",
+     "p": "",
+     "t": "句型",
+     "z": "你知道他在哪儿吗？（know 后接宾语从句，从句用陈述语序）"
+    }
+   ]
+  },
+  {
+   "i": 126,
+   "zh": "达尔沉默了片刻。等他终于开口时，似乎很不情愿。“我不知道法罗德眼下盘踞在哪个阴沟石底下，不过我猜，越过停尸间的大门、在蜂巢里某处应该能找到他。也许那边有人知道上哪儿去找他。”",
+   "notes": [
+    "<code>he seemed to do so reluctantly</code> 用 <code>do so</code> 替代前面的动词 <code>speak</code>，避免重复，是正式书面英语的常见替代式。",
+    "<code>under which gutterstone Pharod lairs</code> 是“介词 + which”引导的宾语从句，语序倒装感强，显得古旧而正式，与达尔的尘人身份相称。",
+    "<code>I imagine that...</code> 比 <code>I think</code> 更委婉，表示推测而非确知；<code>lair</code> 本用于野兽巢穴，用在人身上含贬义。"
+   ],
+   "vocab": [
+    {
+     "w": "reluctantly",
+     "p": "/rɪˈlʌktəntli/",
+     "t": "adv.",
+     "z": "不情愿地，勉强地"
+    },
+    {
+     "w": "gutterstone",
+     "p": "",
+     "t": "n.",
+     "z": "阴沟石，下水道边石（本作自造词，指下城区的污秽角落）"
+    },
+    {
+     "w": "lairs",
+     "p": "/leəz/",
+     "t": "v.",
+     "z": "（像野兽般）盘踞，藏身（lair 第三人称单数）"
+    },
+    {
+     "w": "imagine",
+     "p": "/ɪˈmædʒɪn/",
+     "t": "v.",
+     "z": "猜想，料想（此处表推测）"
+    },
+    {
+     "w": "the Hive",
+     "p": "",
+     "t": "n.",
+     "z": "蜂巢（印记城中的贫民区，术语）"
+    }
+   ]
+  },
+  {
+   "i": 127,
+   "zh": "“你先前提到我身上的伤。你是什么意思？”",
+   "notes": [
+    "<code>Earlier you mentioned...</code> 用一般过去时回指先前对话中的内容，是追问旧话题的常用开头。",
+    "<code>What did you mean?</code> 与 <code>What do you mean?</code> 的差别：前者指“你当时那话是什么意思”，锁定过去那句发言，更准确。"
+   ],
+   "vocab": [
+    {
+     "w": "mentioned",
+     "p": "/ˈmenʃnd/",
+     "t": "v.",
+     "z": "提到，说起（mention 的过去式）"
+    },
+    {
+     "w": "wounds",
+     "p": "/wuːndz/",
+     "t": "n.",
+     "z": "伤口，创伤（wound 的复数）"
+    },
+    {
+     "w": "What did you mean?",
+     "p": "",
+     "t": "句型",
+     "z": "你（当时）是什么意思？（追问已说过的话）"
+    }
+   ]
+  },
+  {
+   "i": 128,
+   "zh": "“是啊，你身上那些装点着身体的伤口……看上去，随便哪一道都足以让一个不如你的人踏上真死之路，可它们当中许多似乎已经愈合了。”达尔剧烈地咳了一阵，然后稳住自己。“不过这些还只是表面的伤。”",
+   "notes": [
+    "<code>the wounds that decorate your body</code> 用 <code>decorate</code>（装饰）搭配伤口，是刻意反讽的修辞：把伤痕说成“装点”，冷峻中带黑色幽默。",
+    "<code>as if they would have sent a lesser man along the path of the True Death</code> 是虚拟语气：<code>would have sent</code> 表示与事实相反的假设（对“不如你的人”而言结果会不同）。",
+    "<code>a lesser man</code> 意为“不如他的人、较弱的人”，<code>lesser</code> 是 <code>less</code> 的形容词比较级形式，只作定语。"
+   ],
+   "vocab": [
+    {
+     "w": "decorate",
+     "p": "/ˈdekəreɪt/",
+     "t": "v.",
+     "z": "装饰，装点（此处反讽地形容满身伤痕）"
+    },
+    {
+     "w": "lesser",
+     "p": "/ˈlesə(r)/",
+     "t": "adj.",
+     "z": "较小的，较弱的，不如的（只作定语）"
+    },
+    {
+     "w": "healed",
+     "p": "/hiːld/",
+     "t": "v.",
+     "z": "愈合，痊愈（heal 的过去分词）"
+    },
+    {
+     "w": "violently",
+     "p": "/ˈvaɪələntli/",
+     "t": "adv.",
+     "z": "剧烈地，猛烈地"
+    },
+    {
+     "w": "steadied",
+     "p": "/ˈstedid/",
+     "t": "v.",
+     "z": "使稳住，使镇定（steady 的过去式）"
+    }
+   ]
+  },
+  {
+   "i": 129,
+   "zh": "见我一脸疑问，他答道：“我说的是心上的伤。你忘了许多事，不是吗？也许你真正的伤，比装点在表面的那些疤痕要深得多……”达尔又咳了起来。“……不过这只有你自己才确知。”",
+   "notes": [
+    "<code>To my questioning look he replied</code> 是倒装式状语前置：<code>To + 名词</code> 表“针对我的……”，比 <code>He replied to my questioning look</code> 更紧凑、更具书面文学味。",
+    "<code>have you not?</code> 是反意疑问句，附着在 <code>You have forgotten much</code> 之后，带有引导对方承认的压迫感。",
+    "<code>Mayhap</code> 是 <code>perhaps</code> 的古旧/方言形式，用在这里塑造达尔的古风口吻；<code>run deep</code> 意为“根深蒂固、深入骨髓”。"
+   ],
+   "vocab": [
+    {
+     "w": "questioning",
+     "p": "/ˈkwestʃənɪŋ/",
+     "t": "adj.",
+     "z": "带着疑问的，探询的"
+    },
+    {
+     "w": "Mayhap",
+     "p": "/meɪˈhæp/",
+     "t": "adv.",
+     "z": "（古/方言）也许，或许"
+    },
+    {
+     "w": "run much deeper",
+     "p": "",
+     "t": "短语",
+     "z": "（伤口、创伤）深得多，根子更深"
+    },
+    {
+     "w": "scars",
+     "p": "/skɑːz/",
+     "t": "n.",
+     "z": "疤痕（scar 的复数）"
+    },
+    {
+     "w": "for certain",
+     "p": "",
+     "t": "短语",
+     "z": "确定地，确凿地（know for certain：确知）"
+    }
+   ]
+  },
+  {
+   "i": 130,
+   "zh": "这是我第一次把达尔当成一个人来看待，而不只是一个会说话的情报来源。我心里生出一丝关切。",
+   "notes": [
+    "<code>considered Dhall as an individual, rather than as a talking information source</code>：<code>rather than</code> 连接两个并列的 <code>as</code> 短语，构成对照，是英语中表达“是A而不是B”的典型结构。",
+    "<code>For the first time</code> 置于句首，标记叙事上的转折点：无名氏对达尔的看法由“工具”升为“人”。",
+    "<code>a trace of concern</code> 用 <code>trace</code>（一丝痕迹）作量词，表示极轻微的情绪，比 <code>a little</code> 更细腻。"
+   ],
+   "vocab": [
+    {
+     "w": "considered",
+     "p": "/kənˈsɪdəd/",
+     "t": "v.",
+     "z": "把……看作，认为（consider sb as...）"
+    },
+    {
+     "w": "individual",
+     "p": "/ˌɪndɪˈvɪdʒuəl/",
+     "t": "n.",
+     "z": "个人，独立的人（此处与“信息源”对照）"
+    },
+    {
+     "w": "rather than",
+     "p": "",
+     "t": "短语",
+     "z": "而不是，与其……（不如）"
+    },
+    {
+     "w": "trace",
+     "p": "/treɪs/",
+     "t": "n.",
+     "z": "一丝，微量（a trace of：一丝……）"
+    },
+    {
+     "w": "concern",
+     "p": "/kənˈsɜːn/",
+     "t": "n.",
+     "z": "关切，担忧"
+    }
+   ]
+  },
+  {
+   "i": 131,
+   "zh": "“你听起来病得不轻。你身体不要紧吗？”",
+   "notes": [
+    "<code>sound ill</code> 中 <code>sound</code> 是系动词，后接形容词表“听起来……”，类似的还有 <code>look</code>、<code>feel</code>、<code>taste</code>。",
+    "<code>Are you not well?</code> 是 <code>Are you unwell?</code> 的书面/委婉说法，<code>well</code> 在此作形容词表“身体好”。",
+    "无名氏的问句短而笨拙，显示他久疏人际、不擅长表达关心，与上一段“第一次把达尔当人”相呼应。"
+   ],
+   "vocab": [
+    {
+     "w": "ill",
+     "p": "/ɪl/",
+     "t": "adj.",
+     "z": "生病的，不适的（作表语）"
+    },
+    {
+     "w": "well",
+     "p": "/wel/",
+     "t": "adj.",
+     "z": "健康的，身体好的（作表语）"
+    },
+    {
+     "w": "sound",
+     "p": "/saʊnd/",
+     "t": "v.",
+     "z": "听起来（系动词，后接形容词）"
+    }
+   ]
+  },
+  {
+   "i": 132,
+   "zh": "“我已经离真死不远了，不安者。用不了多久，我就会越过永恒边界，找到我一直在寻的安宁。这个凡人的世界，我早就厌倦了……”达尔发出一声沙哑的叹息。“对像我这样的存在来说，诸界再没有什么奇景了。”",
+   "notes": [
+    "<code>It will not be long before I pass beyond...</code> 是固定句式“用不了多久就会……”，<code>before</code> 从句用一般现在时表将来。",
+    "<code>the peace I have been seeking</code> 是省略关系代词 <code>that</code> 的定语从句，<code>have been seeking</code> 为现在完成进行时，强调“一直在寻而尚未得到”。",
+    "<code>I tire of this mortal sphere</code> 中 <code>tire of</code> 意为“对……感到厌倦”；<code>sphere</code> 在此指“界域、领域”，与后句的 <code>The planes</code>（诸界）呼应。"
+   ],
+   "vocab": [
+    {
+     "w": "pass beyond",
+     "p": "",
+     "t": "短语",
+     "z": "越过（生死之界），逝去"
+    },
+    {
+     "w": "Eternal Boundary",
+     "p": "",
+     "t": "n.",
+     "z": "永恒边界（本作术语：生死两界的分界）"
+    },
+    {
+     "w": "mortal",
+     "p": "/ˈmɔːtl/",
+     "t": "adj.",
+     "z": "凡人的，会死的"
+    },
+    {
+     "w": "The planes",
+     "p": "",
+     "t": "n.",
+     "z": "诸界，多元宇宙的各层界域（本作术语）"
+    },
+    {
+     "w": "wonders",
+     "p": "/ˈwʌndəz/",
+     "t": "n.",
+     "z": "奇观，奇迹（wonder 的复数）"
+    }
+   ]
+  }
+ ]
+}

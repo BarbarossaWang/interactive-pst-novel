@@ -1,0 +1,742 @@
+{
+ "chapter": "Deionarra",
+ "chunk": "deionarra-02",
+ "items": [
+  {
+   "i": 23,
+   "zh": "我知道戴娜拉说得没错。我忽然想起了怎样才能把一具躯体里最微弱的一点生命火花哄引出来，让它重新燃起……这个念头既让我惊恐，又让我着迷。",
+   "notes": [
+    "<code>coax…from…</code> 是固定搭配，本义是“用好话哄、慢慢引”，这里指用温和的手段把残存的生命力从身体里“引”出来，比 <code>force</code> 更有试探、诱导的意味。",
+    "<code>bring it forth</code> 中的 <code>forth</code> 是古旧/书面副词，意为“向前、出来”，常见于 <code>bring forth</code>（使产生、使显现）、<code>come forth</code>。",
+    "<code>the thought both horrified and intrigued me</code> 用 <code>both…and…</code> 把一对相反的反应并列在一个宾语 <code>me</code> 上，翻译时要保留“既……又……”的撕裂感。"
+   ],
+   "vocab": [
+    {
+     "w": "coax",
+     "p": "/kəʊks/",
+     "t": "v.",
+     "z": "哄劝；慢慢引出（此处指诱导出生命火花）"
+    },
+    {
+     "w": "dimmest",
+     "p": "/ˈdɪmɪst/",
+     "t": "adj.",
+     "z": "最微弱的（dim 的最高级）"
+    },
+    {
+     "w": "bring it forth",
+     "p": "",
+     "t": "短语",
+     "z": "把它引发出来、使之显现"
+    },
+    {
+     "w": "intrigued",
+     "p": "/ɪnˈtriːɡd/",
+     "t": "adj.",
+     "z": "被勾起好奇心的、着迷的"
+    }
+   ]
+  },
+  {
+   "i": 24,
+   "zh": "“你能告诉我，我这是在哪儿吗？”我问。",
+   "notes": [
+    "间接疑问句 <code>where I am</code> 作 <code>tell me</code> 的宾语从句时，语序要还原成陈述语序（<code>where I am</code>，而不是 <code>where am I</code>）；直接引语里仍写成问句形式 <code>where I am?</code>。",
+    "英文对话末尾的问号放在引号<b>里面</b>（<code>“Can you tell me where I am?”</code>），中文引号则把标点放在引号之外。"
+   ],
+   "vocab": [
+    {
+     "w": "tell me",
+     "p": "",
+     "t": "短语",
+     "z": "告诉我"
+    },
+    {
+     "w": "asked",
+     "p": "/ɑːskt/",
+     "t": "v.",
+     "z": "问道（ask 的过去式，小说中常后置作叙述句）"
+    }
+   ]
+  },
+  {
+   "i": 25,
+   "zh": "“你在哪儿？哎呀，你就在这儿，和我在一起啊，我的爱……就像当年生命还是我们两人共有的东西的时候一样。如今隔开我们的，是那道永恒之界。”",
+   "notes": [
+    "<code>Why,</code> 在这里不是“为什么”，而是感叹词，表示略微的惊讶或不以为然，相当于中文的“哎呀、可不是嘛”。",
+    "<code>as in the times when…</code> 中 <code>as</code> 是连词，意为“正如、就像”，后面接一个由 <code>when</code> 引导的定语从句修饰 <code>the times</code>。",
+    "<code>it is the Eternal Boundary that separates us</code> 是 <code>It is … that …</code> 强调句型，突出“永恒之界”才是造成分离的原因，翻译时用“隔开我们的，是……”可保住这份强调。"
+   ],
+   "vocab": [
+    {
+     "w": "my Love",
+     "p": "",
+     "t": "短语",
+     "z": "我的爱（戴娜拉对无名氏的固定爱称，首字母大写）"
+    },
+    {
+     "w": "Eternal Boundary",
+     "p": "",
+     "t": "n.",
+     "z": "永恒之界（生者与亡者之间的界限，本段首次点出）"
+    },
+    {
+     "w": "shared",
+     "p": "/ʃeə(r)d/",
+     "t": "v.",
+     "z": "共有、共享（share 的过去式）"
+    },
+    {
+     "w": "separates",
+     "p": "/ˈsepəreɪts/",
+     "t": "v.",
+     "z": "分隔、使分离"
+    }
+   ]
+  },
+  {
+   "i": 26,
+   "zh": "“‘永恒之界？’”",
+   "notes": [
+    "英文的嵌套引号规则：双引号之内要用单引号 <code>‘ ’</code>。这里无名氏只是在重复对方刚说的词以表示疑问，所以只有 <code>‘Eternal Boundary?’</code> 两个词。",
+    "整句重复对方的话再加上问号，是表示“你没听错吧／那是什么”的常见口语反应，中文用“‘永恒之界？’”同样能传达疑惑。"
+   ],
+   "vocab": [
+    {
+     "w": "Eternal",
+     "p": "/ɪˈtɜːnl/",
+     "t": "adj.",
+     "z": "永恒的、永久的"
+    },
+    {
+     "w": "Boundary",
+     "p": "/ˈbaʊndri/",
+     "t": "n.",
+     "z": "边界、界限"
+    }
+   ]
+  },
+  {
+   "i": 27,
+   "zh": "戴娜拉的声音显得黯然神伤。“那是一道我怕你永远也跨不过去的屏障，我的爱。它就是横在你我的生命——以及我残存的一切——之间的那道屏障……”",
+   "notes": [
+    "<code>I fear (that) you shall never cross</code>：<code>fear</code> 后接宾语从句时把担忧的内容直接说出来，比 <code>I am afraid</code> 更书面、更沉重；从句用 <code>shall</code> 是古雅的未来时，符合幽魂的说话腔调。",
+    "<code>what remains of mine</code> 是 <code>what</code> 引导的名词性从句作介词 <code>of</code> 的宾语，字面是“属于我的那些仍然留存的部分”，译作“我残存的一切”最自然。",
+    "戴娜拉的台词多用 <code>shall</code>、<code>fear</code>、<code>it is …</code> 这类庄重句式，而无名氏说的是现代口语，翻译时可以让她的语气更婉转缠绵、用词更文。"
+   ],
+   "vocab": [
+    {
+     "w": "saddened",
+     "p": "/ˈsædnd/",
+     "t": "adj.",
+     "z": "伤心的、黯然（此处指声音带上了悲伤）"
+    },
+    {
+     "w": "barrier",
+     "p": "/ˈbæriə(r)/",
+     "t": "n.",
+     "z": "屏障、障碍"
+    },
+    {
+     "w": "shall",
+     "p": "/ʃæl/",
+     "t": "v.",
+     "z": "将要（用于第一人称的古旧/庄重说法）"
+    },
+    {
+     "w": "remains",
+     "p": "/rɪˈmeɪnz/",
+     "t": "n.",
+     "z": "剩余物、残存部分（此处指她死后残留的存在）"
+    }
+   ]
+  },
+  {
+   "i": 28,
+   "zh": "我正要开口问戴娜拉怎样逃离这个地方，话却卡在了喉咙里。我想到，要是告诉她自己正在找一条逃出去的路，她或许会觉得我在抛弃她。这件事我得说得委婉些。",
+   "notes": [
+    "<code>As I was about to ask…</code> 用 <code>be about to do</code> 表示“正要去做（而未做）”，与后面的转折形成瞬间的中断感。",
+    "<code>it caught in my throat</code> 是习语，字面“卡在喉咙里”，形容话到嘴边却说不出来（因情绪或犹豫）。",
+    "<code>I needed to be delicate about it</code>：<code>delicate</code> 此处不是“精致”，而是“（对人、对事）慎重、体贴、讲究分寸”，<code>be delicate about sth.</code> 是常见搭配。"
+   ],
+   "vocab": [
+    {
+     "w": "escaping",
+     "p": "/ɪˈskeɪpɪŋ/",
+     "t": "v.",
+     "z": "逃离（escape 的动名词形式）"
+    },
+    {
+     "w": "caught in my throat",
+     "p": "",
+     "t": "习语",
+     "z": "（话）卡在喉咙里，说不出口"
+    },
+    {
+     "w": "abandoning",
+     "p": "/əˈbændənɪŋ/",
+     "t": "v.",
+     "z": "抛弃、遗弃（abandon 的现在分词）"
+    },
+    {
+     "w": "delicate",
+     "p": "/ˈdelɪkət/",
+     "t": "adj.",
+     "z": "审慎的、体贴的；讲究分寸的"
+    }
+   ]
+  },
+  {
+   "i": 29,
+   "zh": "“戴娜拉，我身处险境。你能带我去一个安全的地方吗？我会尽快回来，再和你说话。”",
+   "notes": [
+    "<code>be in danger</code> 是固定搭配，表示“处于危险之中”；比 <code>I am dangerous</code>（我很危险）意思完全不同，注意介词。",
+    "<code>guide me to a place of safety</code> 里 <code>a place of safety</code>（安全之地）是英式书面语，比 <code>a safe place</code> 更郑重；<code>guide sb. to…</code> 是“把某人引向……”。",
+    "<code>as soon as I can</code> 是省略了末尾 <code>I can</code> 的比较结构，等于 <code>as soon as I can (return)</code>，意为“尽快”。"
+   ],
+   "vocab": [
+    {
+     "w": "in danger",
+     "p": "",
+     "t": "短语",
+     "z": "处于危险之中"
+    },
+    {
+     "w": "guide",
+     "p": "/ɡaɪd/",
+     "t": "v.",
+     "z": "引导、带路"
+    },
+    {
+     "w": "a place of safety",
+     "p": "",
+     "t": "短语",
+     "z": "安全之处、安全的地方"
+    },
+    {
+     "w": "shall",
+     "p": "/ʃæl/",
+     "t": "v.",
+     "z": "将要（用于第一人称的承诺式说法）"
+    }
+   ]
+  },
+  {
+   "i": 30,
+   "zh": "“身处险境？”戴娜拉露出忧心的神色。“当然，我的爱。我会尽我所能帮你……”她闭了一会儿眼，我看见一缕空灵的微风穿过她的身体，拂动了她的头发。片刻之后，那阵微风散去，她缓缓睁开双眼。“也许有办法。”她环顾四周，像是在搜寻隐藏的敌人。",
+   "notes": [
+    "<code>I will aid you any way I can</code> 中 <code>any way I can</code> 是省略了关系词的名词短语（＝ <code>in any way that I can</code>），作方式状语，意为“尽我所能”。",
+    "<code>I watched an ethereal zephyr pass through her body</code> 是 <code>watch + 宾语 + 宾语补足语（省略 to 的不定式）</code> 结构：感官动词后的不定式不带 <code>to</code>。",
+    "<code>as if seeking out hidden enemies</code> 中 <code>as if</code> 后接现在分词，表示与主句同时发生的、未必真实的动作或状态。"
+   ],
+   "vocab": [
+    {
+     "w": "concerned",
+     "p": "/kənˈsɜːnd/",
+     "t": "adj.",
+     "z": "担忧的、关切的"
+    },
+    {
+     "w": "aid",
+     "p": "/eɪd/",
+     "t": "v.",
+     "z": "帮助、援助（比 help 正式）"
+    },
+    {
+     "w": "ethereal",
+     "p": "/iˈθɪəriəl/",
+     "t": "adj.",
+     "z": "空灵的、非人间的、缥缈的"
+    },
+    {
+     "w": "zephyr",
+     "p": "/ˈzefə(r)/",
+     "t": "n.",
+     "z": "和风、轻柔的微风"
+    },
+    {
+     "w": "stirring",
+     "p": "/ˈstɜːrɪŋ/",
+     "t": "v.",
+     "z": "轻轻拂动、搅动（stir 的现在分词）"
+    }
+   ]
+  },
+  {
+   "i": 31,
+   "zh": "“我感觉到，这地方藏有许多凡人肉眼看不见的门。也许你可以借其中一道传送门逃出去。传送门是存在之中的孔洞，通向诸位面——内层位面与外层位面——的某处……只要你能找到对应的钥匙，就能从其中一道门里逃出去。”戴娜拉停了一下，像是在努力回想。",
+   "notes": [
+    "<code>shrouded from mortal eyes</code> 是过去分词短语作后置定语，修饰 <code>doors</code>，意为“被遮蔽、躲开凡人视线的”；<code>shroud</code> 本义是“裹尸布”，此处指把事物笼罩、掩藏起来。",
+    "<code>use … as a means of escape</code> 是固定搭配：<code>a means of …</code>（……的手段），接 <code>as</code> 表示“把……当作……来用”。",
+    "<code>Portals are holes in existence</code> 用 <code>in existence</code>（在存在之中）而不用 <code>in the world</code>，是刻意营造位面设定的神秘感；<code>leading to…</code> 为伴随的分词短语。"
+   ],
+   "vocab": [
+    {
+     "w": "shrouded",
+     "p": "/ˈʃraʊdɪd/",
+     "t": "adj.",
+     "z": "被遮蔽的、隐蔽的"
+    },
+    {
+     "w": "mortal",
+     "p": "/ˈmɔːtl/",
+     "t": "adj.",
+     "z": "凡人的、会死的；此处指凡人的眼睛"
+    },
+    {
+     "w": "portals",
+     "p": "/ˈpɔːtlz/",
+     "t": "n.",
+     "z": "传送门、位面之门"
+    },
+    {
+     "w": "planes",
+     "p": "/pleɪnz/",
+     "t": "n.",
+     "z": "位面（异域设定的多重世界层级）"
+    },
+    {
+     "w": "paused",
+     "p": "/pɔːzd/",
+     "t": "v.",
+     "z": "停顿、暂停（pause 的过去式）"
+    }
+   ]
+  },
+  {
+   "i": 32,
+   "zh": "“只要你有了合适的‘钥匙’，传送门自会显现。可惜这些钥匙几乎可以是任何东西……一种情绪、一块木头、一把镀银玻璃匕首、一片碎布、你随口哼的一支小调……我怕只有尘人才知道，哪些钥匙能让你离开他们的大厅，我的爱。”",
+   "notes": [
+    "<code>reveal themselves</code> 用了反身代词，表示“自行显露、自动现形”；<code>when you have…</code> 引导时间状语从句，说明显现的条件。",
+    "<code>anything</code> 后的破折号列举是英语常见的补充限定手法；<code>a tune you hum to yourself</code> 是省略关系代词 <code>that</code> 的定语从句。",
+    "<code>I fear that…</code> 再次出现（见第 27 段），是戴娜拉的口头习惯；<code>the only ones who would know</code> 中 <code>ones</code> 替代前文的 <code>Dustmen</code>，避免重复。"
+   ],
+   "vocab": [
+    {
+     "w": "reveal",
+     "p": "/rɪˈviːl/",
+     "t": "v.",
+     "z": "显露、揭示"
+    },
+    {
+     "w": "silvered",
+     "p": "/ˈsɪlvəd/",
+     "t": "adj.",
+     "z": "镀银的（silver 作动词加 -ed）"
+    },
+    {
+     "w": "scrap",
+     "p": "/skræp/",
+     "t": "n.",
+     "z": "碎片、小块（a scrap of cloth＝一片碎布）"
+    },
+    {
+     "w": "hum",
+     "p": "/hʌm/",
+     "t": "v.",
+     "z": "哼（曲调）"
+    },
+    {
+     "w": "Dustmen",
+     "p": "",
+     "t": "n.",
+     "z": "尘人（灰烬党），停尸间的看守者"
+    }
+   ]
+  },
+  {
+   "i": 33,
+   "zh": "“那我去问他们中的一个。再会了，戴娜拉。”我转过身去，情绪翻涌得再也说不下去了。还没等我走开，戴娜拉又开口了。",
+   "notes": [
+    "<code>Then I shall ask one of them</code>：<code>one of them</code> 指尘人中的某一个；<code>shall</code> 在这里表示说话人的决意，等于“那我就去问”。",
+    "<code>too overcome with emotion to continue talking</code> 是 <code>too … to …</code> 结构，意为“太……以致不能……”；<code>be overcome with/by</code> 是固定搭配，指“被（情绪）压倒”。",
+    "<code>before I could move away</code> 用 <code>could</code> 暗示“还没能来得及”，与主句的 <code>spoke again</code> 构成“抢先一步”的语感。"
+   ],
+   "vocab": [
+    {
+     "w": "Farewell",
+     "p": "/ˌfeəˈwel/",
+     "t": "感叹词",
+     "z": "再会、告辞（比 goodbye 庄重）"
+    },
+    {
+     "w": "overcome",
+     "p": "/ˌəʊvəˈkʌm/",
+     "t": "adj.",
+     "z": "被压倒的、不能自持的（be overcome with…）"
+    },
+    {
+     "w": "emotion",
+     "p": "/ɪˈməʊʃn/",
+     "t": "n.",
+     "z": "情感、情绪"
+    },
+    {
+     "w": "spirit",
+     "p": "/ˈspɪrɪt/",
+     "t": "n.",
+     "z": "幽灵、鬼魂；此处指戴娜拉的幽魂"
+    }
+   ]
+  },
+  {
+   "i": 34,
+   "zh": "“等一等……与你同行的那段日子让我学到了很多，我的爱；你失落的那些，我替你留着。我并没有把我知道的一切都告诉你。我的目光是清明的……而你还得在黑暗里摸索，寻找一点思想的火星。”",
+   "notes": [
+    "<code>Hold a moment</code> 是口语中的祈使说法，意为“等一下”，常用于打断对方；比 <code>Wait a moment</code> 更有古典味道。",
+    "<code>what you have lost, I have retained</code> 把宾语从句 <code>what you have lost</code> 提到句首，形成对比与强调：你失去的，我保留着。",
+    "<code>whilst</code> 是英式书面拼法（＝ while），用于对比两个同时存在的情况；<code>fumble in the darkness for…</code> 意为“在黑暗中摸索着找……”。"
+   ],
+   "vocab": [
+    {
+     "w": "learned",
+     "p": "/lɜːnd/",
+     "t": "v.",
+     "z": "学到、得知（learn 的过去式，此处为美式拼写）"
+    },
+    {
+     "w": "retained",
+     "p": "/rɪˈteɪnd/",
+     "t": "v.",
+     "z": "保留、记住（retain 的过去式）"
+    },
+    {
+     "w": "divulged",
+     "p": "/daɪˈvʌldʒd/",
+     "t": "v.",
+     "z": "透露、泄露（divulge 的过去式）"
+    },
+    {
+     "w": "whilst",
+     "p": "/waɪlst/",
+     "t": "连词",
+     "z": "而、然而（英式，＝ while）"
+    },
+    {
+     "w": "fumble",
+     "p": "/ˈfʌmbl/",
+     "t": "v.",
+     "z": "摸索、笨拙地找"
+    }
+   ]
+  },
+  {
+   "i": 35,
+   "zh": "“那么，你的眼睛看见了什么我看不见的东西？”我问。",
+   "notes": [
+    "<code>what it is your sight sees</code> 中 <code>it is</code> 是强调句式的一部分（<code>what is it that…</code> 的变体），可理解为“你的目光所看见的（究竟）是什么”。",
+    "<code>your sight sees</code> 是“同源/近义搭配”，用 <code>sight</code>（视力、目光）作主语、<code>see</code> 作谓语，读来有诗意；中文译成“你的眼睛看见”即可。",
+    "<code>that I do not</code> 后省略了重复的动词 <code>see</code>，是英语常见的省略结构。"
+   ],
+   "vocab": [
+    {
+     "w": "sight",
+     "p": "/saɪt/",
+     "t": "n.",
+     "z": "视力；所见、眼中景象"
+    },
+    {
+     "w": "sees",
+     "p": "/siːz/",
+     "t": "v.",
+     "z": "看见（see 的第三人称单数）"
+    }
+   ]
+  },
+  {
+   "i": 36,
+   "zh": "“当遗忘的寒意渐渐把我们收去，时间本身也松开了它的掌控，我的爱。未来的种种碎片在我眼前成群掠过。我看见了你，我的爱。我看见现在的你，还有……”戴娜拉沉默下来。我感到一阵惶恐，但想知道她看见了什么，这份渴望更强烈。",
+   "notes": [
+    "<code>Time itself relaxes its hold as…</code>：<code>itself</code> 用于强调主语“时间本身”；<code>relax its hold</code> 是比喻性搭配，意为“放松掌控、不再紧抓”。",
+    "<code>Glimpses of things yet to come swarm across my vision</code>：<code>yet to come</code> 意为“尚未到来、将来的”；<code>swarm</code> 本指蜂群涌动，此处作动词“成群涌过”。",
+    "<code>the desire to know … was stronger</code> 用 <code>stronger</code> 而不点明比较对象（比 apprehension 更强），靠上下文补足，是英语常见的含蓄比较。"
+   ],
+   "vocab": [
+    {
+     "w": "relaxes",
+     "p": "/rɪˈlæksɪz/",
+     "t": "v.",
+     "z": "放松、松开"
+    },
+    {
+     "w": "oblivion",
+     "p": "/əˈblɪviən/",
+     "t": "n.",
+     "z": "遗忘；湮灭（此处指被彻底忘掉的死寂）"
+    },
+    {
+     "w": "claims",
+     "p": "/kleɪmz/",
+     "t": "v.",
+     "z": "夺取、索去（claim 的第三人称单数，此处指夺走生命）"
+    },
+    {
+     "w": "Glimpses",
+     "p": "/ˈɡlɪmpsɪz/",
+     "t": "n.",
+     "z": "一瞥、片段的一闪（glimpse 的复数）"
+    },
+    {
+     "w": "apprehension",
+     "p": "/ˌæprɪˈhenʃn/",
+     "t": "n.",
+     "z": "忧惧、不安（不是“理解”）"
+    }
+   ]
+  },
+  {
+   "i": 37,
+   "zh": "“是什么？你看见了什么？”",
+   "notes": [
+    "<code>What is it?</code> 是追问对方欲言又止时的常用反应，等于中文的“怎么了？”，并不真是在问“它是什么东西”。",
+    "两个短问句连用（<code>What is it? What do you see?</code>）以短促的节奏表现无名氏急切的心情，翻译时也应保持句子短促。"
+   ],
+   "vocab": [
+    {
+     "w": "What is it",
+     "p": "",
+     "t": "句型",
+     "z": "怎么了？（追问对方欲言又止）"
+    }
+   ]
+  },
+  {
+   "i": 38,
+   "zh": "“我看见摆在面前的路。它漾过诸位面，以此处为源头向外扩散。要我把所见之物说出来吗？”",
+   "notes": [
+    "<code>what lies ahead for you</code> 中 <code>lie ahead</code> 是固定搭配，意为“（某事）在前面等着、摆在面前”。",
+    "<code>stemming outward from this point</code> 是现在分词短语作伴随状语：<code>stem from</code> 意为“源自、起于”，加 <code>outward</code> 表示由这一点向外扩散。",
+    "<code>Shall I speak of what I see?</code> 用 <code>Shall I…?</code> 征询对方意愿，是很客气的提议式问句（现代口语多用 <code>Should I…?</code>）。"
+   ],
+   "vocab": [
+    {
+     "w": "lies ahead",
+     "p": "",
+     "t": "短语",
+     "z": "在前面、即将发生"
+    },
+    {
+     "w": "ripples",
+     "p": "/ˈrɪplz/",
+     "t": "v.",
+     "z": "泛起涟漪、荡漾（ripple 的第三人称单数）"
+    },
+    {
+     "w": "stemming",
+     "p": "/ˈstemɪŋ/",
+     "t": "v.",
+     "z": "源自、发端于（stem from）"
+    },
+    {
+     "w": "Shall I speak",
+     "p": "",
+     "t": "句型",
+     "z": "要我讲出来吗？（征询对方意愿）"
+    }
+   ]
+  },
+  {
+   "i": 39,
+   "zh": "“告诉我。”",
+   "notes": [
+    "<code>Tell me.</code> 是祈使句，简洁无主语，语气直接而急切；与上一条的问句形成一推一应的对话节奏。",
+    "英文中这种单句祈使句在小说对话里常用来表现人物不做犹豫的决断，中文同样保留两字短句即可。"
+   ],
+   "vocab": [
+    {
+     "w": "Tell me",
+     "p": "",
+     "t": "句型",
+     "z": "告诉我（祈使句，语气直接）"
+    }
+   ]
+  },
+  {
+   "i": 40,
+   "zh": "“先要你答应我一件事。答应我你会回来。答应我，你会找到办法救我，或者与我同行。”",
+   "notes": [
+    "<code>I require a promise</code> 中 <code>require</code> 比 <code>want</code> 正式、强硬，符合戴娜拉在此处讨要承诺的郑重。",
+    "两个 <code>Promise (that) you will…</code> 连用构成排比，第二个把 <code>Promise</code> 也紧接其后，省略了 <code>that</code>；这种重复祈使在英文里多用于盟誓、恳求。",
+    "<code>find some means to save me or join me</code>：<code>means</code> 单复数同形，<code>some means</code> 意为“某种办法”；<code>join me</code> 在语境中是“与我一同（死去、留在彼界）”。"
+   ],
+   "vocab": [
+    {
+     "w": "require",
+     "p": "/rɪˈkwaɪə(r)/",
+     "t": "v.",
+     "z": "要求、需要（比 want 正式）"
+    },
+    {
+     "w": "promise",
+     "p": "/ˈprɒmɪs/",
+     "t": "n.",
+     "z": "承诺、诺言"
+    },
+    {
+     "w": "some means",
+     "p": "",
+     "t": "短语",
+     "z": "某种办法（means 单复数同形）"
+    },
+    {
+     "w": "join me",
+     "p": "",
+     "t": "短语",
+     "z": "与我同行、与我同在（此处指同赴死界）"
+    }
+   ]
+  },
+  {
+   "i": 41,
+   "zh": "“我发誓，我会找到办法救你，或者与你同行。”我不知道是什么冲动促使我说出这句话，但我知道，我必将被迫去履行这个誓言。",
+   "notes": [
+    "<code>I swear (that) I will…</code> 是起誓句型；<code>swear</code> 的过去式是 <code>swore</code>，过去分词是 <code>sworn</code>。",
+    "<code>what impulse had triggered this statement</code>：用过去完成时 <code>had triggered</code>，表示“在说出这句话之前”就已经发生的促使，强调连自己都说不清缘由。",
+    "<code>be forced to do</code> 是被动结构，意为“不得不、被迫”；<code>fulfill my promise</code> 是固定搭配“履行诺言”。"
+   ],
+   "vocab": [
+    {
+     "w": "swear",
+     "p": "/sweə(r)/",
+     "t": "v.",
+     "z": "发誓、起誓"
+    },
+    {
+     "w": "impulse",
+     "p": "/ˈɪmpʌls/",
+     "t": "n.",
+     "z": "冲动、一时的念头"
+    },
+    {
+     "w": "triggered",
+     "p": "/ˈtrɪɡəd/",
+     "t": "v.",
+     "z": "引发、触发（trigger 的过去分词）"
+    },
+    {
+     "w": "fulfill",
+     "p": "/fʊlˈfɪl/",
+     "t": "v.",
+     "z": "履行（诺言）、实现"
+    },
+    {
+     "w": "forced",
+     "p": "/fɔːst/",
+     "t": "v.",
+     "z": "被迫（be forced to do sth.）"
+    }
+   ]
+  },
+  {
+   "i": 42,
+   "zh": "“这就是我的眼睛所看见的，我的爱——它不受时间镣铐的束缚……”",
+   "notes": [
+    "<code>unfettered by the shackles of time</code> 是过去分词短语作后置定语，修饰 <code>what my eyes see</code>（我的眼睛所看见的景象）；<code>unfettered</code> 意为“除去脚镣的、不受束缚的”，与 <code>shackles</code>（镣铐）呼应成一幅解缚的意象。",
+    "<code>This is what my eyes see</code> 中 <code>what</code> 引导名词性从句作表语，等于“我所看见的东西”。",
+    "破折号后补出 <code>unfettered by…</code>，是对 <code>my eyes</code>／所见之物的追加说明，中文用破折号或“——”保留这份插入感。"
+   ],
+   "vocab": [
+    {
+     "w": "unfettered",
+     "p": "/ʌnˈfetəd/",
+     "t": "adj.",
+     "z": "不受束缚的、自由的"
+    },
+    {
+     "w": "shackles",
+     "p": "/ˈʃæklz/",
+     "t": "n.",
+     "z": "镣铐、枷锁（常用复数，喻束缚）"
+    },
+    {
+     "w": "my eyes see",
+     "p": "",
+     "t": "短语",
+     "z": "我双眼所见的（名词性从句作表语）"
+    }
+   ]
+  },
+  {
+   "i": 43,
+   "zh": "“你将会遇上三个敌人，但没有一个比你处于全盛之时更危险。他们分别由邪恶、善良与中立赋予生命，又被诸位面的法则扭曲了形貌。”",
+   "notes": [
+    "<code>enemies three</code> 是“名词＋数词”的倒装用法（＝ <code>three enemies</code>），这是刻意模仿古英语与预言文体，读来像神谕；翻译时用“三个敌人”但保留庄重语气。",
+    "<code>none more dangerous than yourself</code> 是省略了谓语 <code>is</code> 的比较结构（＝ <code>none of them is more dangerous than…</code>），意为“没有一个比……更危险”。",
+    "<code>given life and twisted by…</code> 是两个过去分词并列，都修饰 <code>shades</code>：<code>given life</code>（被赋予生命）、<code>twisted by the laws of the planes</code>（被位面法则扭曲）。"
+   ],
+   "vocab": [
+    {
+     "w": "enemies three",
+     "p": "",
+     "t": "短语",
+     "z": "三个敌人（古体倒装，＝ three enemies）"
+    },
+    {
+     "w": "shades",
+     "p": "/ʃeɪdz/",
+     "t": "n.",
+     "z": "幽影、亡灵之影（shade 的复数）"
+    },
+    {
+     "w": "neutrality",
+     "p": "/njuːˈtræləti/",
+     "t": "n.",
+     "z": "中立（此处指绝对中立的阵营力量）"
+    },
+    {
+     "w": "twisted",
+     "p": "/ˈtwɪstɪd/",
+     "t": "v.",
+     "z": "被扭曲、被扭改（twist 的过去分词）"
+    },
+    {
+     "w": "the laws of the planes",
+     "p": "",
+     "t": "短语",
+     "z": "诸位面的法则"
+    }
+   ]
+  },
+  {
+   "i": 44,
+   "zh": "“你将会来到一座由悔恨与悲伤筑成的牢狱，那里的阴影自己也发了疯。在那里，你会被要求作出可怕的牺牲，我的爱。要让这件事得以了结，你必须毁掉那使你活下来的东西，从此不再不朽。”",
+   "notes": [
+    "<code>a prison built of regrets and sorrow</code>：<code>built of</code> 是过去分词短语作后置定语，意为“用……建成的”；<code>regrets and sorrow</code> 用抽象情感作建材，是典型的隐喻写法。",
+    "<code>where the shadows themselves have gone mad</code> 是 <code>where</code> 引导的定语从句，<code>themselves</code> 强调连阴影都疯了；<code>go mad</code> 是系表结构“发疯”。",
+    "<code>that which keeps you alive</code>：<code>that which</code> 是古雅的名词性结构（＝ <code>the thing that</code>），语气庄重、带有宿命感；<code>For the matter to be laid to rest</code> 是 <code>for + 宾语 + 不定式</code> 表示目的，<code>lay sth. to rest</code> 本指安葬死者，引申为“了结、使平息”。"
+   ],
+   "vocab": [
+    {
+     "w": "prison",
+     "p": "/ˈprɪzn/",
+     "t": "n.",
+     "z": "监狱、牢狱"
+    },
+    {
+     "w": "regrets",
+     "p": "/rɪˈɡrets/",
+     "t": "n.",
+     "z": "悔恨、遗憾（regret 的复数）"
+    },
+    {
+     "w": "sorrow",
+     "p": "/ˈsɒrəʊ/",
+     "t": "n.",
+     "z": "悲伤、哀愁"
+    },
+    {
+     "w": "sacrifice",
+     "p": "/ˈsækrɪfaɪs/",
+     "t": "n.",
+     "z": "牺牲（此处指作出可怕的牺牲）"
+    },
+    {
+     "w": "immortal",
+     "p": "/ɪˈmɔːtl/",
+     "t": "adj.",
+     "z": "不朽的、永生的"
+    }
+   ]
+  }
+ ]
+}

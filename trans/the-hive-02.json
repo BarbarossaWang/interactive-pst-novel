@@ -1,0 +1,330 @@
+{
+ "chapter": "The Hive",
+ "chunk": "the-hive-02",
+ "items": [
+  {
+   "i": 23,
+   "zh": "“多谢你了，刀客！愿女士的影子绕着你走！”这话勾起了我的兴致。",
+   "notes": [
+    "<code>Thank ye kindly, cutter!</code> 是市井口音的致谢，<code>ye</code> 即 <code>you</code>，<code>cutter</code> 是印记城对“家伙、兄弟”的通称；本段用引号直接收束对白，下一句 <code>This piqued my interest.</code> 立刻转回叙述者的视角。",
+    "<code>May the Lady’s shadow pass ye by!</code> 是祝愿句式：<code>May + 主语 + 动词</code> 表示“愿……”。<code>the Lady</code> 在此首次登场，指痛苦女士（the Lady of Pain），此时无名氏还听不懂这个称呼，所以才会紧接着发问。",
+    "<code>Lady’s shadow</code> 是印记城人避讳的说法：被女士的影子罩住意味着遭她注意、下场凄惨，“让影子绕过你”因此等于“祝你平安无事”。"
+   ],
+   "vocab": [
+    {"w": "cutter", "p": "/ˈkʌtə(r)/", "t": "n.", "z": "（印记城俚语）刀客；对“家伙、兄弟、同行”的通称"},
+    {"w": "kindly", "p": "/ˈkaɪndli/", "t": "adv.", "z": "友善地，好心地；thank sb kindly 即“多谢”"},
+    {"w": "piqued", "p": "/piːkt/", "t": "v.", "z": "激起（兴趣、好奇）；pique one’s interest 引起某人的兴趣"}
+   ]
+  },
+  {
+   "i": 24,
+   "zh": "“等等……女士？你这是什么意思？”",
+   "notes": [
+    "<code>Wait a minute…</code> 是口语中打断对方的固定说法，破折与省略号表示无名氏抓住了一个关键词，把话头截住。",
+    "<code>Lady?</code> 单独加问号成句，是“回声式追问”——先重复对方话里的词，再问它指什么；这种短促的追问是无名氏贯穿全书的说话方式。",
+    "<code>What do you mean?</code> 是询问含义的标准句式，注意与 <code>What do you mean by that?</code> 相比，这里少了 <code>by that</code>，语气更急。"
+   ],
+   "vocab": [
+    {"w": "Wait a minute", "p": "", "t": "习语", "z": "等等，且慢（打断对方、要求解释）"},
+    {"w": "What do you mean", "p": "", "t": "句型", "z": "你是什么意思？（询问对方话语的含义）"}
+   ]
+  },
+  {
+   "i": 25,
+   "zh": "“印记城的那位女主人？你没听说过她？那你准是受了庇佑，要不就是更糊涂……呃，对印记城知道得实在太少。”他虚弱地笑了一声。“在这儿，女士的话就是法。她通常不怎么开口。说实话，她死一般地沉默。”他警觉地看着我。",
+   "notes": [
+    "<code>Ye've not heard o' her?</code> 是否定疑问句，表示惊讶：“你竟然没听说过她？”<code>o'</code> 即 <code>of</code>，与 <code>ye</code>、<code>ta</code> 一类拼法共同还原下层市民的土腔。",
+    "<code>Ye must be blessed or more cluel… eh, know little about Sigil</code> 用 <code>must be</code> 表推测；说话人把 <code>clueless</code>（糊涂、一无所知）说到一半硬生生改口成委婉的说法，<code>eh</code> 正是这一停顿，翻译时用省略号和“呃”保留他的口不择言。",
+    "<code>Lady’s word’s law</code> 连用两个所有格／系动词缩略，句式极简，等于“女士一言即为律法”；<code>Dead silent</code> 里的 <code>dead</code> 是程度副词“极度地”，同时又与印记城的死亡气氛暗合，属双关。"
+   ],
+   "vocab": [
+    {"w": "mistress", "p": "/ˈmɪstrəs/", "t": "n.", "z": "女主人，主母；此处指统治印记城的女主人"},
+    {"w": "blessed", "p": "/ˈblesɪd/", "t": "adj.", "z": "受庇佑的，有福的；“走运”之意"},
+    {"w": "Lady’s word’s law", "p": "", "t": "句型", "z": "女士的话就是律法（两个 ’s 叠用，表绝对权威）"},
+    {"w": "warily", "p": "/ˈweərəli/", "t": "adv.", "z": "警惕地，小心戒备地"}
+   ]
+  },
+  {
+   "i": 26,
+   "zh": "“关于她，可别多嘴，刀客……你既不想犯到她影子底下，也不想替她唱赞歌，明白吗？行了，咱们别再提这事。拿嘴巴瞎抖关于女士的事，是蠢，蠢透了。”",
+   "notes": [
+    "<code>ye don’t want ta cross her shadow nor be singing her praises</code> 是 <code>don’t want to A nor B</code> 的否定并列结构，<code>nor</code> 接续前面的否定，把“冒犯她”和“吹捧她”两种行为一并禁掉——在印记城，谈论女士本身就是危险的。",
+    "<code>Rattlin’ yer bone-box about the lady is dim, dim indeed.</code> 中 <code>bone-box</code> 是黑话“嘴”，<code>rattle</code> 指嘴巴不停开合；<code>dim</code> 在此不是“昏暗”，而是俚语“蠢、犯傻”；重复 <code>dim, dim indeed</code> 靠叠词加重语气。",
+    "注意说话人两次用 <code>cutter</code> 称呼无名氏，语速快、句子短，与前一章抄写员达尔文绉绉的长句形成对比。"
+   ],
+   "vocab": [
+    {"w": "nor", "p": "/nɔː(r)/", "t": "conj.", "z": "也不（与前面的 not 呼应，构成否定并列）"},
+    {"w": "singing her praises", "p": "", "t": "习语", "z": "sing sb’s praises：为某人唱赞歌、极力称颂"},
+    {"w": "Rattlin’", "p": "/ˈrætlɪn/", "t": "v.", "z": "rattle 的现在分词口语拼写；rattle one’s bone-box 即“瞎抖嘴皮子”"},
+    {"w": "bone-box", "p": "/ˈbəʊn bɒks/", "t": "n.", "z": "（印记城黑话）嘴、嘴巴"},
+    {"w": "dim", "p": "/dɪm/", "t": "adj.", "z": "（俚）愚蠢的，犯傻的；此处指“做这种事很蠢”"}
+   ]
+  },
+  {
+   "i": 27,
+   "zh": "离停尸间不远，我撞见一座小小的尘人纪念场，不过是一圈四面围墙，围着中央一根石柱。尘人站在外面，吟诵着他们的“真死”。我好奇地穿过其中一面墙上的拱门，只见内壁和那根石柱上密密麻麻刻着成千上万的名字。我认出了那根石柱——它正是我在停尸间醒来之前那个梦、或者说那段记忆里见过的东西。我问一个站在那儿盯着中央石柱的人，这是什么。",
+   "notes": [
+    "<code>just four walls around a central plinth</code> 是省略系动词的独立短语，用来补一句冷峻的速写，前面加 <code>just</code> 有“不过如此”的轻蔑意味。",
+    "<code>Curious, I stepped through…</code> 中 <code>Curious</code> 是形容词作原因状语（= Because I was curious），中文处理成“我好奇地”最顺。",
+    "<code>the dream or memory I had had before awakening in the Mortuary</code>：<code>I had had</code> 是过去完成时，指“（醒来之前）曾经有过的”，两条定语从句都省略了关系代词 that；<code>dream or memory</code> 的并列保留无名氏对自己经历的不确定。"
+   ],
+   "vocab": [
+    {"w": "came across", "p": "", "t": "短语动词", "z": "偶然遇到，碰见"},
+    {"w": "plinth", "p": "/plɪnθ/", "t": "n.", "z": "（雕像、纪念柱的）基座、柱础；本文指场中央那根刻名的石柱"},
+    {"w": "arch", "p": "/ɑːtʃ/", "t": "n.", "z": "拱门，拱形结构；在印记城往往就是传送门"},
+    {"w": "True Death", "p": "", "t": "专有名词", "z": "真死；尘人信仰中彻底归于虚无的终极状态"},
+    {"w": "Dustmen", "p": "/ˈdʌstmən/", "t": "n.", "z": "尘人，灰烬党成员"}
+   ]
+  },
+  {
+   "i": 28,
+   "zh": "“这是诸界的墓碑。”他嗤笑一声。“那石头上刻满了名字的坟场。只盼我的名字就是将来劈开这块石头的那一个。”他指了指巨石的底部。“‘昆汀’，就在那儿，敲得刚刚好——够劲把这鬼东西轰然砸塌。”",
+   "notes": [
+    "<code>Can only hope my name’s the one that'll split this stone in ‘twain.</code> 省略了主语 <code>I</code>，是口语中省去主语的常见现象；<code>‘twain</code> 是古语 <code>twain</code>（= two）的缩略，“in twain”即“成两半”，与后文哈格女人的古旧语感相呼应。",
+    "<code>that'll</code> 是 <code>that will</code> 的缩略，定语从句修饰 <code>the one</code>；整句的意思是“但愿我是那个让这石头断成两半的人”——即盼着自己死、名字上碑，灰暗的自嘲。",
+    "<code>hammered in just hard enough to send the damned thing crashing down</code> 中 <code>just hard enough to do sth</code> 表“恰好足以做某事”；<code>send sth doing</code> 表示“使某物（轰然）动起来”，<code>the damned thing</code> 用咒骂语指那块巨石。"
+   ],
+   "vocab": [
+    {"w": "tombstone", "p": "/ˈtuːmstəʊn/", "t": "n.", "z": "墓碑，墓石"},
+    {"w": "scoffed", "p": "/skɒft/", "t": "v.", "z": "嗤笑，嘲笑（scoff at sth）"},
+    {"w": "Graveyards", "p": "/ˈɡreɪvjɑːdz/", "t": "n.", "z": "坟场，墓地（grave + yard）；此处喻指满石的名字"},
+    {"w": "monolith", "p": "/ˈmɒnəlɪθ/", "t": "n.", "z": "独块巨石，整块石碑"},
+    {"w": "hammered in", "p": "", "t": "短语动词", "z": "敲进去，凿入；此处指名字被狠狠刻进石中"}
+   ]
+  },
+  {
+   "i": 29,
+   "zh": "“尘人（灰烬党）把死者的名字刻在这座碑上……”他朝四周比了比。“还刻在这地方的墙上。照我看地方根本不够，可那也没什么……他们尽力了。一半的名字我都认不清。”我问他为什么来这儿，尤其是他对尘人分明没什么好感。他的回答让我明白了一些事。",
+   "notes": [
+    "<code>Not enough space by my reckoning, but no matter…</code> 中 <code>by my reckoning</code> 意为“照我估计、在我看来”，是英国口语常用的插入语；<code>but no matter</code> 表示“不过没关系”，后面紧跟一句让步。",
+    "<code>they do their best</code> 是固定搭配“尽他们所能”，与前半句的抱怨形成“先挑刺、再替对方找补”的市井语气。",
+    "本段是叙述者叙述，<code>I asked why he was here, especially since he was hostile to the Dustmen.</code> 中 <code>especially since</code> 引出附加原因（“尤其是因为……”），把整段的两个话题——刻名与他为何在此——缝合起来。"
+   ],
+   "vocab": [
+    {"w": "Dusties", "p": "/ˈdʌstiz/", "t": "n.", "z": "尘人的蔑称／昵称（Dustmen 的口语简称）"},
+    {"w": "monument", "p": "/ˈmɒnjumənt/", "t": "n.", "z": "纪念碑，纪念物"},
+    {"w": "by my reckoning", "p": "", "t": "习语", "z": "照我估计，在我看来"},
+    {"w": "hostile", "p": "/ˈhɒstaɪl/", "t": "adj.", "z": "敌意的，怀有反感的（be hostile to sb/sth）"},
+    {"w": "illuminating", "p": "/ɪˈluːmɪneɪtɪŋ/", "t": "adj.", "z": "富有启发的，让人看清事情的"}
+   ]
+  },
+  {
+   "i": 30,
+   "zh": "“看新来的名字。每天都来试着找一个没见过的，再试着想想认不认识——就这么点事。”",
+   "notes": [
+    "<code>Reading the new arrivals.</code> 是省略主语的答句（完整为 I’m reading…），直接回答“你为什么在这儿”；<code>new arrivals</code> 字面“新到的人”，在此是死亡的委婉说法：新近送来的死者。",
+    "<code>Try and find a new one every day, try and remember if I knew ‘em</code> 两句结构对称：<code>try and do sth</code> 是口语中代替 <code>try to do sth</code> 的说法，<code>every day</code> 放句末表频率。",
+    "<code>nothing more</code> 独立收尾，等于“没有别的了”，语气干涩，把此人日复一日的徒劳一笔带过。"
+   ],
+   "vocab": [
+    {"w": "new arrivals", "p": "", "t": "短语", "z": "新到的人；此处委婉指“刚送来的死者”"},
+    {"w": "Reading", "p": "/ˈriːdɪŋ/", "t": "v.", "z": "阅读，看（read 的现在分词，此处省略主语 I’m）"},
+    {"w": "‘em", "p": "/əm/", "t": "代词的缩略", "z": "them 的口语缩略拼写"}
+   ]
+  },
+  {
+   "i": 31,
+   "zh": "“尘人把所有死者的名字都记在这座碑上？”",
+   "notes": [
+    "<code>The Dustmen record the names of all that have died</code>：<code>all that have died</code> 是“所有已经死去的人”，<code>all that</code> 较 <code>all those who</code> 更古旧、更有碑铭味。",
+    "<code>record</code> 在此作动词，读 /rɪˈkɔːd/，意为“记录、登录”，与名词 <code>record</code> /ˈrekɔːd/ 的重音不同，注意区分。",
+    "整句是一般疑问句，用来向对方确认自己刚听说的事，是无名氏收集信息时最常用的做法：先复述，再让对方证实。"
+   ],
+   "vocab": [
+    {"w": "record", "p": "/rɪˈkɔːd/", "t": "v.", "z": "记录，登记（名词同形，重音在前）"},
+    {"w": "all that have died", "p": "", "t": "句型", "z": "所有已经死去的人（all that 引导，语感古旧）"}
+   ]
+  },
+  {
+   "i": 32,
+   "zh": "“是啊，他们把这些名字刻在这块石头上……也刻在这地方的墙上。”昆汀皱起眉头。“我不懂他们费这个劲清点死人干什么……尘人对活人反倒上心得多。”",
+   "notes": [
+    "<code>Aye</code> 是古旧的“是、对”，<code>‘em</code> 是 <code>them</code> 的口语缩略；昆汀的话里满是这类粗粝的市井音，与尘人的经文腔形成对照。",
+    "<code>take the trouble to take a counting of the dead</code> 中 <code>take the trouble to do sth</code> 意为“不嫌麻烦地做某事”（常带不解或不满）；<code>take a counting of</code> 是“清点、统计”，比 <code>count</code> 更笨重，恰好呼应他的嘲讽。",
+    "<code>the Dusties have more care for the living</code>：<code>have care for</code> 意为“对……上心、在意”，此处是个反语式的悬置——话到“活人”便止住，把“怎么个上心法”留给下一段。"
+   ],
+   "vocab": [
+    {"w": "Aye", "p": "/aɪ/", "t": "adv.", "z": "（古／方言）是，对，的确"},
+    {"w": "scowled", "p": "/skaʊld/", "t": "v.", "z": "皱眉，沉下脸（scowl 的过去式）"},
+    {"w": "take the trouble to", "p": "", "t": "句型", "z": "不嫌麻烦地做某事；费心去做"},
+    {"w": "take a counting of", "p": "", "t": "短语", "z": "清点，统计（较 count 更笨重、带讥意）"},
+    {"w": "have more care for", "p": "", "t": "短语", "z": "对……更为上心、更在意"}
+   ]
+  },
+  {
+   "i": 33,
+   "zh": "“活人？”",
+   "notes": [
+    "<code>The living?</code> 又是回声式追问：无名氏只把最刺耳的那个词抛回去加问号，逼对方解释。",
+    "<code>the living</code> 是“the + 形容词”表示一类人的用法，此处指“活人、在世者”，与上文 <code>the dead</code> 正相对；翻译时保留一詞成句的短促感。"
+   ],
+   "vocab": [
+    {"w": "The living", "p": "", "t": "n.", "z": "活着的人（the + 形容词表一类人，与 the dead 相对）"},
+    {"w": "living", "p": "/ˈlɪvɪŋ/", "t": "adj.", "z": "活着的，在世的；此处名词化，指“在世者”"}
+   ]
+  },
+  {
+   "i": 34,
+   "zh": "“是啊……你知不知道常来这地方的尘人哀悼者？他们不是在哀悼死人，明白吗，他们哀悼的是活人。你跟他们说不上两句话，他们就非要替你哪个可怜的活人蠢货哀悼一番不可。”",
+   "notes": [
+    "<code>They aren’t mourning the dead, see, they’re mourning the living.</code> 用 <code>see</code> 作插入语引起注意（相当于“明白吗、你瞧”），前后两个分句一否定一肯定，形成鲜明对照。",
+    "<code>You can barely get a word in them edgewise without ‘em asking to mourn some poor living berk for ye.</code> 中 <code>get a word in edgewise</code> 是固定习语“插得进一句话”；<code>can barely … without …</code> 意为“几乎不可能……而不……”，双重否定表必然发生。",
+    "<code>in them</code> 是口语中把 <code>them</code> 用如 <code>those</code> 的粗俗说法（= in those [mourners]）；<code>for ye</code> 意为“替你做（哀悼）”。"
+   ],
+   "vocab": [
+    {"w": "mourners", "p": "/ˈmɔːnəz/", "t": "n.", "z": "哀悼者，吊丧的人（mourner 的复数）"},
+    {"w": "get a word in them edgewise", "p": "", "t": "习语", "z": "插得进一句话；get a word in edgewise 在别人滔滔不绝时找到空隙说话"},
+    {"w": "see", "p": "/siː/", "t": "感叹词", "z": "（口语插入语）你瞧，明白吗（用于提醒对方注意）"},
+    {"w": "barely", "p": "/ˈbeəli/", "t": "adv.", "z": "几乎不，勉强；can barely do sth 几乎做不到某事"},
+    {"w": "berk", "p": "/bɜːk/", "t": "n.", "z": "（印记城俚语）蠢货，笨蛋"}
+   ]
+  },
+  {
+   "i": 35,
+   "zh": "“在我看来，死人可比坑里任何一个活着的可怜虫都值得三倍的怜悯。”他朝碑点点头。“那上面的每一个名字，在我眼里都是有福的，真的。”说完他又沉回自己的心事里，不再理我。",
+   "notes": [
+    "<code>the dead are thrice-worth the pity of any poor sod living in this pit</code> 用 <code>be worth + 名词</code> 的比较结构，<code>thrice-worth</code> 是仿古造词（三倍于）；<code>any poor sod living in this pit</code> 中 <code>living</code> 是现在分词作后置定语，修饰 <code>sod</code>。",
+    "<code>sod</code> 是英式俚语，指“家伙、可怜虫”，带粗鲁或自嘲色彩；<code>this pit</code> 指蜂巢这片烂地方。",
+    "<code>Every name on there is blest in my book, it is.</code> 中 <code>blest</code> 是 <code>blessed</code> 的古拼法，<code>in my book</code> 意为“在我眼里、按我的标准”；句末重复 <code>it is</code> 是口语强调尾缀，译文用“真的”对应。"
+   ],
+   "vocab": [
+    {"w": "thrice-worth", "p": "", "t": "adj.", "z": "（仿古造词）值三倍的，三倍于……的"},
+    {"w": "sod", "p": "/sɒd/", "t": "n.", "z": "（英俚）家伙，可怜虫（含粗鲁或自嘲意味）"},
+    {"w": "pit", "p": "/pɪt/", "t": "n.", "z": "坑，深坑；此处喻指蜂巢这片贫民窟"},
+    {"w": "blest", "p": "/blest/", "t": "adj.", "z": "blessed 的古体拼法：有福的，蒙福的"},
+    {"w": "brooding", "p": "/ˈbruːdɪŋ/", "t": "n.", "z": "郁郁沉思，闷头想心事"}
+   ]
+  },
+  {
+   "i": 36,
+   "zh": "临走时，我一时兴起停下脚步，跟一个尘人哀悼者搭了话。我告诉她，我的“朋友”阿丹正因为一个人的死而痛苦不堪。她答应为他的痛苦哀悼。我转身走开时，听见阿丹这个名字混进了他们的吟诵声里，嘴角不由翘了起来。",
+   "notes": [
+    "<code>on a whim</code> 意为“一时兴起、心血来潮”，是固定短语；<code>As I was leaving</code> 用进行时表示“正要离开、还在往外走的时候”。",
+    "<code>She promised to mourn his pain.</code> 用了 <code>promise to do sth</code>；<code>his</code> 指前文编造出来的“朋友”阿丹，无名氏拿一个假名字换了一场真实的哀悼仪式，这是本段的反讽所在。",
+    "<code>A smile quirked my lips</code> 中 <code>quirk</code> 作动词意为“使（嘴角）微微一扭／一挑”，比 smile 更精确地写出忍俊不禁的样子；<code>as I heard</code> 引导时间状语，与主句同时发生。"
+   ],
+   "vocab": [
+    {"w": "on a whim", "p": "", "t": "习语", "z": "一时兴起，心血来潮"},
+    {"w": "anguish", "p": "/ˈæŋɡwɪʃ/", "t": "n.", "z": "（内心的）痛苦，苦恼"},
+    {"w": "mourn", "p": "/mɔːn/", "t": "v.", "z": "哀悼，为……哀伤"},
+    {"w": "quirked", "p": "/kwɜːkt/", "t": "v.", "z": "使（嘴角）微微一挑／一歪；quirk 作动词的过去式"},
+    {"w": "chanting", "p": "/ˈtʃɑːntɪŋ/", "t": "n.", "z": "吟诵，反复的咏唱（尘人的仪式性念诵）"}
+   ]
+  },
+  {
+   "i": 37,
+   "zh": "我继续盘问在蜂巢街上遇到的各色人等。其中一个的故事格外有意思：一个女人，衣衫褴褛，面容枯槁，被破布裹在身上。她头发蓬乱肮脏，肤色极暗。两条手臂上满是烧伤，右手则熔成了一团肉——看上去像被高温烤化的蜡。我招呼了她一声，好引起她的注意。",
+   "notes": [
+    "<code>One in particular had an interesting story, a haggard woman wrapped in rags.</code> 用同位语把 <code>one</code> 具体化为那个女人，避免另起一句；<code>wrapped in rags</code> 是过去分词短语作后置定语。",
+    "<code>Her complexion was extremely dark. Burns covered her arms, and her right hand was a fused lump of flesh…</code> 三句都是 <code>主 + 系动词 + 表语</code> 的静态描写，短句并置，像伤情记录一样一件件陈列。",
+    "<code>it looked melted, like wax exposed to a great heat</code> 中 <code>like</code> 引出明喻，<code>exposed to a great heat</code> 是过去分词短语修饰 <code>wax</code>；末尾 <code>to get her attention</code> 表目的。"
+   ],
+   "vocab": [
+    {"w": "haggard", "p": "/ˈhæɡəd/", "t": "adj.", "z": "面容枯槁的，憔悴的"},
+    {"w": "rags", "p": "/ræɡz/", "t": "n.", "z": "破布，褴褛的衣衫（rag 的复数）"},
+    {"w": "disheveled", "p": "/dɪˈʃevld/", "t": "adj.", "z": "（头发）蓬乱的，衣冠不整的"},
+    {"w": "complexion", "p": "/kəmˈplekʃn/", "t": "n.", "z": "肤色，面色"},
+    {"w": "fused", "p": "/fjuːzd/", "t": "adj.", "z": "熔合的，熔成一体的（fuse 的过去分词）"}
+   ]
+  },
+  {
+   "i": 38,
+   "zh": "“你找我想干啥？”那女人口音很重，我费了好大劲才听清她在说什么。“你要我走？我可不离开这城，绝不。我走不了，试过了，这根本不是座城，它是一座通到各处的牢房。”",
+   "notes": [
+    "<code>What issit y'wanta me?</code> 与下句的 <code>Y'wanta me t'leave?</code> 都是用省音拼法还原粗重口音：<code>issit</code> = is it，<code>y'</code> = you，<code>wanta</code> = want to，<code>t'</code> = to。翻译无法照搬省音，只能靠“干啥”“听清”这类口语化用词来暗示。",
+    "<code>NOT leaving this city, so I'm not.</code> 把否定词大写表重读，句末 <code>so I’m not</code> 是爱尔兰／英式口语的强调尾句（“我就是不”），中文用“绝不”收住。",
+    "<code>I can’t, tried, it’s not a city, it’s a prison t'everywhere.</code> 一连串省略主语的短句，<code>tried</code> 前省了 <code>I</code>、<code>tried</code> 后省了 <code>I have</code>；<code>a prison t'everywhere</code> 意为“通往四面八方的监狱”，这句话把整章“门”的主题第一次点破。"
+   ],
+   "vocab": [
+    {"w": "accent", "p": "/ˈæksent/", "t": "n.", "z": "口音，腔调"},
+    {"w": "prison", "p": "/ˈprɪzn/", "t": "n.", "z": "监狱，牢房"},
+    {"w": "making out", "p": "", "t": "短语动词", "z": "辨认出，听清楚（make out what sb says）"},
+    {"w": "leave", "p": "/liːv/", "t": "v.", "z": "离开；leave this city 即“离开这座城市”"}
+   ]
+  },
+  {
+   "i": 39,
+   "zh": "“各处？”我问。",
+   "notes": [
+    "<code>Everywhere?</code> 又是回声式追问，一个字加问号；与前文 <code>The living?</code>、<code>Doors?</code> 构成无名氏贯穿本章的统一节奏：抓住一个词，逼对方展开。",
+    "<code>I asked.</code> 这类“对白 + 叙述标签”的结构在本书中反复出现（如 <code>I asked a man…</code>），作用是把连续的对白切成一段段问答，翻译保留句末的“我问”即可。"
+   ],
+   "vocab": [
+    {"w": "Everywhere?", "p": "/ˈevriweə(r)/", "t": "句型", "z": "“各处？”——回声式追问，追问对方所指"},
+    {"w": "Everywhere", "p": "/ˈevriweə(r)/", "t": "adv.", "z": "各处，到处（表示范围无限）"}
+   ]
+  },
+  {
+   "i": 40,
+   "zh": "“有各种各样的世界，还有……”她的眼睛发狂似的亮起来。“……有些界是流沙，有些田野长着饥渴的荨麻，有些世界没有光，你的四肢会被赋予生命和憎恨，有的城市全是尘土，城里的人也是尘土，说的是灰烬的耳语；还有那没有门的屋子、暮光之地、歌唱的风、歌唱的风……”她开始低声抽泣，可她似乎已经流不出眼泪了。“还有影子……那儿有可怕的影子。”",
+   "notes": [
+    "<code>there be</code> 结构的残留用法：<code>planes that be sinking sands</code>、<code>fields thirsty nettles be</code> 都是古体／方言的复数 <code>be</code>（不用 is/are），配合她“不属于此时此地”的口吻；后两句语序还发生了省略（= fields that are thirsty nettles）。",
+    "后半段是一串并列的名词短语罗列：<code>cities of dust whose people are dust and whisper ash, the house without doors, the Twilit Lands, the singing winds</code>。这种“目录式”排比模仿的是《异域镇魂曲》里诸界迷宫般的多样性，翻译尽量保留每一项的怪异质感，不要合并。",
+    "<code>the singing winds…</code> 的重复和省略号表示她已经陷进自己的呓语；<code>she seemed all out of tears</code> 中 <code>be out of sth</code> 意为“用光了、没有了”，<code>all</code> 加强语气。"
+   ],
+   "vocab": [
+    {"w": "gleamed", "p": "/ɡliːmd/", "t": "v.", "z": "闪光，发亮（gleam 的过去式）"},
+    {"w": "planes", "p": "/pleɪnz/", "t": "n.", "z": "诸界，位面（Planes；plane 的复数）"},
+    {"w": "nettles", "p": "/ˈnetlz/", "t": "n.", "z": "荨麻（nettle 的复数）；thirsty nettles 指干渴土地上的荨麻"},
+    {"w": "sightless", "p": "/ˈsaɪtləs/", "t": "adj.", "z": "无光的，看不见的"},
+    {"w": "sob", "p": "/sɒb/", "t": "v.", "z": "抽泣，呜咽"}
+   ]
+  },
+  {
+   "i": 41,
+   "zh": "“这些地方在哪儿？”",
+   "notes": [
+    "<code>Where are these places?</code> 是标准特殊疑问句；无名氏对刚才那串疯狂的地名只回了一句最实在的问话，冷静与实际形成反差。",
+    "注意 <code>these places</code> 用复数定指，说明他接受了对方“那些地方存在”的前提，只问方位而不质疑内容——这正是他打听消息时的态度：先顺着对方往下问。"
+   ],
+   "vocab": [
+    {"w": "Where are these places?", "p": "", "t": "句型", "z": "这些地方在哪里？（Where + be + 主语）"},
+    {"w": "these places", "p": "", "t": "短语", "z": "这些地方；复数定指，表示问话人接受了“那些地方存在”的前提"}
+   ]
+  },
+  {
+   "i": 42,
+   "zh": "“哪儿？你说这些地方在哪儿？”她把右手的肉团划着弧线一甩，朝整片城景比去。“它们全在这儿。门，门，这儿通到一切地方。”",
+   "notes": [
+    "<code>Where'z? Where'z them places?</code> 用省音 <code>Where'z</code>（= Where is）并把 <code>those</code> 说成 <code>them</code>，同一句里两种非标准形式叠用，口音的粗重感靠这一点体现。",
+    "<code>She flung the lump of her right hand in an arc, gesturing at the cityscape.</code> 用一个具体动作（甩手划弧）代替“她指着四周”，画面感更强；<code>gesturing at</code> 是现在分词作伴随状语。",
+    "<code>They'z all HERE be.</code> 把 <code>be</code> 加在句末，是非标准英语里常见的“双重 be”（they are … be），加上大写 <code>HERE</code> 的重读，强调“就在此地”；<code>Doors, doors, here to everywhere.</code> 重复 <code>Doors</code> 并压缩成短语，像口号，也第一次把本章关键词“门”推到台前。"
+   ],
+   "vocab": [
+    {"w": "flung", "p": "/flʌŋ/", "t": "v.", "z": "猛甩，挥（fling 的过去式）"},
+    {"w": "arc", "p": "/ɑːk/", "t": "n.", "z": "弧线，弧形；in an arc 呈弧形地"},
+    {"w": "gesturing", "p": "/ˈdʒestʃərɪŋ/", "t": "v.", "z": "打手势，比划（gesture 的现在分词）"},
+    {"w": "cityscape", "p": "/ˈsɪtiskeɪp/", "t": "n.", "z": "城市景观，城市全景"},
+    {"w": "everywhere", "p": "/ˈevriweə(r)/", "t": "adv.", "z": "到处，处处（here to everywhere 通到四面八方）"}
+   ]
+  },
+  {
+   "i": 43,
+   "zh": "“门？”",
+   "notes": [
+    "<code>Doors?</code> 单字成句的回声追问，与 <code>Everywhere?</code>、<code>The living?</code> 同型；这一次他抓住的是整章的核心概念。",
+    "在这种一问一答里，无名氏的发问始终是同一套动作：重复关键词 + 问号，随后由对方把黑话、传说或疯话倾泻出来。"
+   ],
+   "vocab": [
+    {"w": "Doors?", "p": "/dɔːz/", "t": "句型", "z": "“门？”——回声式追问，要求对方解释“门”的含义"},
+    {"w": "Doors", "p": "/dɔːz/", "t": "n.", "z": "门（door 的复数）；本章的核心意象"}
+   ]
+  },
+  {
+   "i": 44,
+   "zh": "“你！你连这都不知道？！”她眯起眼盯着我，牙齿开始打颤。“我告诉你：在这座受尽三重诅咒的城里，凡是你走过、碰到的每一处空隙都要当心……门、大门、拱门、窗户、画框、雕像张开的嘴、架子与架子之间的缝……但凡四面都围起来的空隙，全都要当心。所有这些，都是通往别处的门。”",
+   "notes": [
+    "<code>You! You’re not knowing this?!</code> 先单字惊呼，再用进行时 <code>You’re not knowing</code> 表否定——标准英语通常说 <code>You don’t know</code>，这种“be + not + doing”是口音浓重的非标准说法，也强化了她的激动。",
+    "<code>Beware every space you walk through or touch</code>：<code>Beware</code> 后直接跟名词宾语（不加 of），<code>you walk through or touch</code> 是省略关系代词 that 的定语从句。",
+    "<code>Beware ANY space bounded on all sides.</code> 中 <code>bounded on all sides</code> 是过去分词短语作后置定语，“四面都被围起来”；<code>ANY</code> 全大写表重读。<code>the spaces ‘tween shelves</code> 中 <code>‘tween</code> 即 <code>between</code> 的诗歌式缩略。这一段把“门”的定义推到了极致：任何有边界的空间都可能是传送门。"
+   ],
+   "vocab": [
+    {"w": "squinted", "p": "/ˈskwɪntɪd/", "t": "v.", "z": "眯起眼睛看（squint 的过去式）"},
+    {"w": "chattering", "p": "/ˈtʃætərɪŋ/", "t": "v.", "z": "（牙齿）打颤、咯咯作响；chatter 的现在分词"},
+    {"w": "Beware", "p": "/bɪˈweə(r)/", "t": "v.", "z": "当心，提防；后直接跟名词，不加 of"},
+    {"w": "bounded", "p": "/ˈbaʊndɪd/", "t": "adj.", "z": "被围住的，有边界的（bound 的过去分词）"},
+    {"w": "thrice-cursed", "p": "/ˌθraɪs ˈkɜːst/", "t": "adj.", "z": "受三重诅咒的，极其该死的"}
+   ]
+  }
+ ]
+}

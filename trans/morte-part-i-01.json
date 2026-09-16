@@ -1,0 +1,275 @@
+{
+ "chapter": "Morte, Part I",
+ "chunk": "morte-part-i-01",
+ "items": [
+  {
+   "i": 1,
+   "zh": "我觉得，是时候多了解一点莫提了。我请他说说自己。结果他一路走一路絮叨，我真怕他这辈子都停不下来。",
+   "notes": [
+    "<code>I felt it was time I learned a little more about Morte.</code> 中 <code>it was time (that) sb did sth</code> 是固定句式，从句用过去式表示虚拟语气，意思是“某人早该做某事了”。",
+    "<code>tell me about himself</code> 用反身代词 <code>himself</code>，因为从句主语 <code>him</code> 与宾语指同一人；中文直接说“说说他自己”即可。",
+    "<code>He chattered so long as we were walking (that) I was afraid...</code> 是 <code>so...that...</code> 结构，<code>that</code> 被省略；<code>so long</code> 这里指“时间那么久”，不是“那么长（物体）”。",
+    "<code>I was afraid he would never stop</code> 用 <code>would</code> 表示当时对将来的推测；中文的“我真怕他……”把无名氏那种听烦了又插不上嘴的无奈译出来。"
+   ],
+   "vocab": [
+    {
+     "w": "chatter",
+     "p": "/ˈtʃætə(r)/",
+     "t": "v.",
+     "z": "喋喋不休地说；n. 絮叨、闲扯"
+    },
+    {
+     "w": "afraid",
+     "p": "/əˈfreɪd/",
+     "t": "adj.",
+     "z": "害怕的；be afraid (that)... 担心、恐怕"
+    },
+    {
+     "w": "learn",
+     "p": "/lɜːn/",
+     "t": "v.",
+     "z": "得知，了解到（不只是“学习”）"
+    },
+    {
+     "w": "walk",
+     "p": "/wɔːk/",
+     "t": "v.",
+     "z": "走，步行；as we were walking 我们一路走的时候"
+    },
+    {
+     "w": "stop",
+     "p": "/stɒp/",
+     "t": "v.",
+     "z": "停止，停下"
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "zh": "“你当然对我有一肚子问题——说不定你对‘所有’事情都有一肚子问题。我给你浓缩一下吧：等你像我这样死了那么久……没胳膊没腿，什么都没有，你就会有大把时间用来想事情，懂不？我算算，我给关进亡者名录里大概也有几百年了，可时间这东西现在压根不像从前那样数得清了……没了那玩意儿——那个叫‘有死’的东西——压在你头上，白天黑夜就全糊成一团了。于是你想想这个，又想想那个……而我这百来年学到的最重要的一条智慧就是：”",
+   "notes": [
+    "<code>you got questions about me</code> 里 <code>got</code> 是口语中 <code>have got</code> 的省略，等于 <code>you have</code>；莫提满嘴市井腔，正规写法应是 <code>you've got</code>。",
+    "<code>Let me boil it down for you</code> 是固定搭配 <code>boil sth down (to sth)</code>，本义“把东西熬浓”，引申为“把话浓缩、长话短说”，正对应莫提的“话痨式总结”；<code>y'know?</code> 是 <code>you know</code> 的口语缩写，用来向听者讨一句认同，中文用“懂不？”还原。",
+    "<code>the dead book</code> 是印记城黑话，“亡者名录”；<code>get penned in</code> 字面“被写进册子里”，即“死掉、入了死籍”。<code>tally up</code> 本指“记账、核对总数”，此处说时间“算不清”。",
+    "<code>that mortality thing pressing down on you</code> 是独立主格结构（名词 + 现在分词），作 <code>without</code> 的宾语，表伴随状况；<code>mortality</code> 指“必有一死的命运”，译作“那个叫‘有死’的东西”既保留拟物感，也点出莫提已经不死。本段破折号与省略号密集，是他边想边说的痕迹。"
+   ],
+   "vocab": [
+    {
+     "w": "boil it down",
+     "p": "/bɔɪl ɪt daʊn/",
+     "t": "短语",
+     "z": "长话短说，概括成要点"
+    },
+    {
+     "w": "penned in",
+     "p": "/pend ɪn/",
+     "t": "短语",
+     "z": "被写进（册子、名单）里；pen in 本义“圈起来、关起来”"
+    },
+    {
+     "w": "tally up",
+     "p": "/ˈtæli ʌp/",
+     "t": "短语",
+     "z": "记账，核算总数；对得上、数得清"
+    },
+    {
+     "w": "mortality",
+     "p": "/mɔːˈtæləti/",
+     "t": "n.",
+     "z": "必死的命运，有死的属性；死亡率"
+    },
+    {
+     "w": "blend together",
+     "p": "/blend təˈɡeðə(r)/",
+     "t": "短语",
+     "z": "混成一片，糊成一团"
+    },
+    {
+     "w": "wisdom",
+     "p": "/ˈwɪzdəm/",
+     "t": "n.",
+     "z": "智慧；a piece of wisdom 一条至理名言（此处是莫提自封的）"
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "zh": "“用眼睛和下巴能做出的下流手势，比大多数人所想的要‘多’得多。你连骂人、挖苦都用不着，光靠眼珠子那么一转、下巴那么一磕，就能把人气得火冒三丈。能逼得他们疯癫！你要是哪天被砍了脑袋、头皮给剥了下来，我教你几手。老大，我手里可有几样真货色——能把天人都逼去杀人，真的。”",
+   "notes": [
+    "<code>There's a LOT more obscene gestures you can make... than most people think.</code> 是 <code>there be</code> 存在句加比较结构 <code>more...than</code>；全大写的 <code>LOT</code> 表示莫提在重读强调，中文用“‘多’得多”或加引号来暗示重音。",
+    "<code>Without even resorting to insults or taunting</code> 中 <code>resort to (doing) sth</code> 意为“诉诸、动用（下策）”；<code>without even</code> 加强了“连……都不用”的语气。",
+    "<code>light a bonfire under someone</code> 字面“在某人屁股底下点起篝火”，引申为“把某人逼得跳脚、火冒三丈”；<code>Drives them barmy!</code> 省略主语 <code>It</code>，是口语省略句。",
+    "<code>they'd drive a deva to murder, they would</code> 句末重复 <code>they would</code> 是口语的“回声强调”，用重复助动词加重断言；<code>If you ever get beheaded and your skin flayed from your skull</code> 中则用 <code>get</code> + 过去分词表遭遇不幸的被动，第二个分句前省略了 <code>get</code>。"
+   ],
+   "vocab": [
+    {
+     "w": "obscene",
+     "p": "/əbˈsiːn/",
+     "t": "adj.",
+     "z": "下流的，淫秽的；obscene gestures 下流手势"
+    },
+    {
+     "w": "resorting to",
+     "p": "/rɪˈzɔːtɪŋ tu/",
+     "t": "短语",
+     "z": "诉诸，动用（手段）；resort to sth/doing sth"
+    },
+    {
+     "w": "bonfire",
+     "p": "/ˈbɒnfaɪə(r)/",
+     "t": "n.",
+     "z": "篝火，大火堆；light a bonfire under sb 把某人逼得跳脚"
+    },
+    {
+     "w": "barmy",
+     "p": "/ˈbɑːmi/",
+     "t": "adj.",
+     "z": "（英俚）疯癫的，神经兮兮的"
+    },
+    {
+     "w": "beheaded",
+     "p": "/bɪˈhedɪd/",
+     "t": "v.(过去分词)",
+     "z": "被斩首；behead 砍头；同句的 skin flayed 指被剥皮"
+    },
+    {
+     "w": "deva",
+     "p": "/ˈdeɪvə/",
+     "t": "n.",
+     "z": "天人（诸界中善良阵营的圣灵类存在）；此处是莫提的反衬式吹牛"
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "zh": "“我知道你在想什么：我死了。我失去的太多了。那么多错过的欢乐、那么多失去的爱人，本该让我清醒过来。有些人一听死亡就垂头丧气——当然啦，他们压根没‘试’过——可他们从来弄不明白的一件事是：死会改变你看事情的角度；它真的会让你重新打量人生，开阔你的眼界。至于我嘛，它基本上只让我明白了一件事：这座城里死掉的小妞有多少，而像我这样嘴皮子利索的男人又少到什么地步——你只要轮盘转对了，那些一个人过夜的年头就算到头了！”",
+   "notes": [
+    "<code>It should have sobered me up to all that joy I missed</code> 是 <code>should have done</code> 表“按理说本该如此（而事实未必）”；<code>sober sb up</code> 本义“让某人醒酒”，引申为“使清醒、使冷静”。",
+    "<code>all that joy I missed, all those loves I've lost</code> 是平行结构，两个名词短语都带省略了关系代词 <code>that</code> 的定语从句；<code>loves</code> 作可数名词指“爱过的人”。",
+    "<code>they haven't TRIED it, of course</code> 用现在完成时加插入语 <code>of course</code> 挖苦那些怕死的人；<code>TRIED</code> 全大写重读，是莫提在强调“他们根本没试过死”。",
+    "<code>take a second look at life</code>、<code>broaden your horizons</code> 都是固定搭配，前者“重新审视”，后者“开阔眼界”；<code>you spin the wheel right</code> 借赌桌轮盘比喻“运气押对了”；<code>your years of... are over</code> 则是“你那种……的日子到头了”，莫提借此把死亡说成一件长见识、还有艳遇前景的好事。"
+   ],
+   "vocab": [
+    {
+     "w": "sobered",
+     "p": "/ˈsəʊbəd/",
+     "t": "v.(过去分词)",
+     "z": "使清醒；sober sb up 让某人醒酒、清醒过来"
+    },
+    {
+     "w": "broaden your horizons",
+     "p": "",
+     "t": "短语",
+     "z": "开阔眼界，拓宽视野"
+    },
+    {
+     "w": "dead chits",
+     "p": "",
+     "t": "短语",
+     "z": "（俚）死掉的小妞；chit 是对年轻女子的轻蔑称呼"
+    },
+    {
+     "w": "berg",
+     "p": "/bɜːɡ/",
+     "t": "n.",
+     "z": "（口语）城，城镇（由 iceberg 缩略而来的俚俗说法）"
+    },
+    {
+     "w": "sharp-tongued",
+     "p": "/ˌʃɑːp ˈtʌŋd/",
+     "t": "adj.",
+     "z": "嘴皮子利索的，说话尖刻的"
+    },
+    {
+     "w": "spin the wheel",
+     "p": "",
+     "t": "短语",
+     "z": "转轮盘；喻赌一把运气"
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "zh": "“肤浅？我可不肤浅。我只是不去掺和那套哲学、信仰、信念的废话——从阿波瑞亚到灰色荒原，是个蠢货都拿这些玩意儿磨嘴皮子。谁在乎啊？诸界就是诸界，你就是你，要变就变，随它去，可眼下这样也不赖——这我可清楚。来啊，问我点关于诸界、内情、各色人种、各种文化的问题——等你落到我这步田地——我是说，连眼皮都没有——你就会看到许多东西，而你需要知道的事，我差不多全能告诉你。”",
+   "notes": [
+    "<code>Shallow? I'm not shallow.</code> 先用一个独词问句回击无名氏的腹诽，再用完整句否认；英语口语常用这种“反问—否认”来抢话头，中文用“肤浅？”对应。",
+    "<code>get caught up in sth</code> 是固定搭配，“被卷入、纠缠于某事”；<code>belief wash</code> 是莫提生造的词，<code>wash</code> 本指“（兑水的）泔水、废话”，故译作“信仰的废话”。",
+    "<code>every berk from Arborea to the Gray Waste</code> 用 <code>from A to B</code> 表示“从……到……的所有人”，即“诸界上下每一个蠢货”；<code>rattle their jaws about</code> 是俚语，“为某事喋喋不休地嚼舌根”。",
+    "<code>The Planes are what they are, you're what you are</code> 是两个 <code>what</code> 引导的表语从句，构成对仗，相当于中文“该怎么样就怎么样”；<code>when you end up like me — without eyelids, that is —</code> 中的 <code>that is</code> 是插入语，等于 <code>I mean</code>。"
+   ],
+   "vocab": [
+    {
+     "w": "shallow",
+     "p": "/ˈʃæləʊ/",
+     "t": "adj.",
+     "z": "肤浅的，浅薄的"
+    },
+    {
+     "w": "wash",
+     "p": "/wɒʃ/",
+     "t": "n.",
+     "z": "（口语）废话、泔水般的东西；此处 belief wash 指“信仰的废话”"
+    },
+    {
+     "w": "rattle their jaws",
+     "p": "",
+     "t": "短语",
+     "z": "（俚）嚼舌根，喋喋不休地谈论"
+    },
+    {
+     "w": "the chant",
+     "p": "/tʃɑːnt/",
+     "t": "n.",
+     "z": "（印记城俚语）内情，门道，消息"
+    },
+    {
+     "w": "the Planes",
+     "p": "/pleɪnz/",
+     "t": "n.",
+     "z": "诸界（异域设定中并存的众多位面）"
+    },
+    {
+     "w": "eyelids",
+     "p": "/ˈaɪlɪdz/",
+     "t": "n.",
+     "z": "眼皮，眼睑；莫提是骷髅，故说“没有眼皮”"
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "zh": "“就这么回事：咱俩是一根绳上的。在这事完了之前，我跟你那条腿一样，黏着你。”",
+   "notes": [
+    "<code>We're in this together</code> 是固定说法，“我们同舟共济、一条船上的人”；<code>this</code> 指两人正在经历的这桩麻烦事。",
+    "<code>I stick like your leg</code> 是莫提式的别扭比喻：骷髅没腿，便拿无名氏的腿打比方，意思是“我甩不掉、你甩不掉我，我就贴着你”。<code>stick</code> 意为“粘住、赖着不走”。",
+    "<code>Until this is over</code> 是时间状语从句，用一般现在时表将来（<code>this</code> 指眼前这趟事），比 <code>until this will be over</code> 更合规范。"
+   ],
+   "vocab": [
+    {
+     "w": "in this together",
+     "p": "",
+     "t": "短语",
+     "z": "同舟共济，一条船上的人"
+    },
+    {
+     "w": "stick",
+     "p": "/stɪk/",
+     "t": "v.",
+     "z": "粘住，贴住；赖着不走"
+    },
+    {
+     "w": "stick like your leg",
+     "p": "",
+     "t": "短语",
+     "z": "像你的腿一样黏着你（莫提的怪比喻，指形影不离）"
+    },
+    {
+     "w": "chief",
+     "p": "/tʃiːf/",
+     "t": "n.",
+     "z": "（称呼）老大，头儿"
+    }
+   ]
+  }
+ ]
+}

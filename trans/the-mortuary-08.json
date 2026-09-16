@@ -1,0 +1,689 @@
+{
+ "chapter": "The Mortuary",
+ "chunk": "the-mortuary-08",
+ "items": [
+  {
+   "i": 155,
+   "zh": "我转身走开，心里暗自笑她刚才的反应。我试着把她从脑子里赶出去，却怎么也甩不掉一个念头：我等于已经默认接下了一桩差事，而这桩差事要是撂着不管，我心里过不去。幸好，我在近处的尸床和台子上随手一翻，就把要用的东西找齐了。回到艾薇妮身边时，她还在用爪子剖开尸体的胸膛。我再次拍了拍她提醒她注意，把线和防腐液递了过去。",
+   "notes": [
+    "<code>put her out of my mind</code> 是固定表达，意为“把她从心里/脑中抛开、不再想她”，不译成“把她从我心里拿出来”。",
+    "<code>by implication</code> 表示“含蓄地、等于说”，<code>I had by implication undertaken a task</code> 即“我等于默认担下了一件事”；注意这里用的是过去完成时，因为“默认”发生在“甩不掉念头”之前。",
+    "<code>turn up</code> 在此不是“出现”，而是“（翻找后）找到、发现”，如 <code>a quick search turned up the items</code>。"
+   ],
+   "vocab": [
+    {
+     "w": "moved off",
+     "p": "",
+     "t": "短语",
+     "z": "走开，动身离开（比 leave 更强调起身挪步的动作）"
+    },
+    {
+     "w": "undertaken",
+     "p": "/ˌʌndəˈteɪkən/",
+     "t": "v.",
+     "z": "承担、着手（undertake 的过去分词）"
+    },
+    {
+     "w": "biers",
+     "p": "/bɪəz/",
+     "t": "n.",
+     "z": "停尸架，尸床（停放棺木或遗体的架子）"
+    },
+    {
+     "w": "talons",
+     "p": "/ˈtælənz/",
+     "t": "n.",
+     "z": "（猛禽的）利爪；此处指艾薇妮的爪子"
+    },
+    {
+     "w": "dissecting",
+     "p": "/dɪˈsektɪŋ/",
+     "t": "v.",
+     "z": "解剖，剖开（dissect 的现在分词）"
+    }
+   ]
+  },
+  {
+   "i": 156,
+   "zh": "艾薇妮毫不迟疑，一把从我手里夺过线，往自己一只爪子上一挂，便开始缝合尸体的胸膛。随后她拿起防腐液，动手在尸体上抹了一层。",
+   "notes": [
+    "<code>without missing a beat</code> 是习语，本指（演奏、说话）节奏不中断，引申为“毫不犹豫、一气呵成、连顿都不打一下”。",
+    "<code>snap</code> 在这里是“迅速抓过、一把夺过”，带动作干脆利落的意味；<code>hook it around one of her talons</code> 指把线“挂在/勾在爪子上”。",
+    "<code>apply a layer to …</code> 意为“在……上涂一层”，<code>apply</code> 常与液体、药膏搭配。"
+   ],
+   "vocab": [
+    {
+     "w": "Without missing a beat",
+     "p": "",
+     "t": "习语",
+     "z": "毫不犹豫地，一刻不停地（原指演奏不脱拍）"
+    },
+    {
+     "w": "snapped",
+     "p": "/snæpt/",
+     "t": "v.",
+     "z": "一把夺过，猛地抓走（snap 的过去式）"
+    },
+    {
+     "w": "sewing up",
+     "p": "",
+     "t": "短语",
+     "z": "缝合，缝上（sew up，此处用进行时）"
+    },
+    {
+     "w": "began to apply",
+     "p": "",
+     "t": "短语",
+     "z": "开始涂抹（apply 后接液体、药膏等）"
+    }
+   ]
+  },
+  {
+   "i": 157,
+   "zh": "我被她的活计吸引住了，就站在那儿看她。没过几分钟，她就干完了。她咔哒咔哒敲了敲爪子，转身面对我。让我意外的是，她伸出手，用爪子顺着我的胳膊和胸口一路拖过去。我绷紧了身子，继续演好我这具僵尸的角色，对莫提的插嘴充耳不闻：“看来你交上新朋友了，老大。要不要给你们俩留点独处的时间，还是……？”",
+   "notes": [
+    "<code>To my surprise</code> 是常见的评注性状语，置于句首表“让我意外的是”，类似 <code>to my dismay / to my horror</code>。",
+    "<code>play my part</code> 意为“演好我的角色、扮好我的身份”，此处指继续假装僵尸；<code>ignoring Morte’s comment</code> 是现在分词短语作伴随状语。",
+    "<code>or…?</code> 句末的省略号加问号表示话说到一半、带调侃意味，翻译时保留“还是……？”的停顿感。"
+   ],
+   "vocab": [
+    {
+     "w": "Fascinated by",
+     "p": "",
+     "t": "短语",
+     "z": "被……吸引住、迷住（过去分词短语作状语）"
+    },
+    {
+     "w": "clicked her talons",
+     "p": "",
+     "t": "短语",
+     "z": "把爪子敲得咔哒响（click 表短促清脆的响声）"
+    },
+    {
+     "w": "extended her hand",
+     "p": "",
+     "t": "短语",
+     "z": "伸出手（extend 比 put out 更正式）"
+    },
+    {
+     "w": "stiffened",
+     "p": "/ˈstɪfnd/",
+     "t": "v.",
+     "z": "（身体）绷紧、僵住（stiffen 的过去式）"
+    },
+    {
+     "w": "playing my part",
+     "p": "",
+     "t": "短语",
+     "z": "扮演我的角色，装好我的样子"
+    }
+   ]
+  },
+  {
+   "i": 158,
+   "zh": "当她的爪子划过我的胳膊和胸口时，我忽然发觉她像是在查看我的伤疤。她收回爪子，咔哒敲了两下，然后俯身细看我胸口的几处刺青。",
+   "notes": [
+    "<code>As she traced my arms and chest</code> 中 as 表“当……的时候”，与主句动作同时发生；<code>trace</code> 在此指“沿着……一路划过/描过”。",
+    "<code>seemed to be examining</code> 是 <code>seem to be doing</code> 结构，表示“似乎正在做某事”，比 <code>seemed to examine</code> 更强调动作正在进行。",
+    "<code>bent forward</code> 是“俯身、弯腰向前”，注意 bend 的过去式仍是 bent。"
+   ],
+   "vocab": [
+    {
+     "w": "traced",
+     "p": "/treɪst/",
+     "t": "v.",
+     "z": "（手指、爪尖）沿……划过、描过（trace 的过去式）"
+    },
+    {
+     "w": "examining",
+     "p": "/ɪɡˈzæmɪnɪŋ/",
+     "t": "v.",
+     "z": "检查，仔细查看（examine 的现在分词）"
+    },
+    {
+     "w": "withdrew",
+     "p": "/wɪðˈdruː/",
+     "t": "v.",
+     "z": "收回，缩回（withdraw 的过去式，此处位于句首故原文大写）"
+    },
+    {
+     "w": "tattoos",
+     "p": "/təˈtuːz/",
+     "t": "n.",
+     "z": "刺青，纹身"
+    }
+   ]
+  },
+  {
+   "i": 159,
+   "zh": "“哼。谁在你身上写字的？蜂巢的人干的？对僵希（僵尸）一点都不尊重。是僵希，不是画布。”她抽了抽鼻子，戳了戳我的一道伤疤。“这道伤得难看，疤太多，没做防腐。”",
+   "notes": [
+    "<code>Who write on you?</code> 是艾薇妮的口语化、不合语法的说法（应为 <code>Who wrote on you?</code> / <code>Who writes on you?</code>），写作时刻意保留她那口生硬破碎的通用语，正因如此才译成“谁在你身上写字的”。",
+    "<code>No respect for…</code> 是省略句，完整说法是 <code>There is no respect for zombies</code>，意为“对……毫不尊重”。",
+    "<code>Zomfies, not paintings.</code> 也是省略结构，等于“这是僵尸，不是画布/画作”；她不断把 zombies 念成 <code>zomfies</code>、把 preserves 念成 <code>preserfs</code>，都是刻意的口音错读。"
+   ],
+   "vocab": [
+    {
+     "w": "Hmmph",
+     "p": "",
+     "t": "感叹词",
+     "z": "哼（表示不满、不以为然的鼻音）"
+    },
+    {
+     "w": "No respect for",
+     "p": "",
+     "t": "短语",
+     "z": "对……毫不尊重（省略 There is 的口语句式）"
+    },
+    {
+     "w": "sniffed",
+     "p": "/snɪft/",
+     "t": "v.",
+     "z": "抽鼻子，嗅（sniff 的过去式）"
+    },
+    {
+     "w": "poked",
+     "p": "/pəʊkt/",
+     "t": "v.",
+     "z": "戳，捅（poke 的过去式）"
+    },
+    {
+     "w": "bad shape",
+     "p": "",
+     "t": "短语",
+     "z": "状况糟糕、不成样子（此处指伤口烂得不像样）"
+    }
+   ]
+  },
+  {
+   "i": 160,
+   "zh": "她的爪子忽然勾住了我给她拿来的那根线，接着快如闪电，另一只爪尖扎进我一道伤疤旁边的皮肉里。奇怪的是，我一点都没觉得疼——艾薇妮开始替我缝合伤疤了。",
+   "notes": [
+    "<code>lightning-like</code> 是名词加 -like 构成的形容词，意为“闪电般的”，作状语时相当于 <code>like lightning</code>“快如闪电”。",
+    "<code>hooked into</code> 表示“（用钩状物）钩住、勾进”；<code>jabbed … into</code> 表示“把……猛地刺入”，两个动词都强调动作的迅猛。",
+    "<code>curiously painless</code> 中 <code>curiously</code> 是程度副词，意为“奇怪地、莫名其妙地”，并非“好奇地”。"
+   ],
+   "vocab": [
+    {
+     "w": "hooked",
+     "p": "/hʊkt/",
+     "t": "v.",
+     "z": "钩住，勾住（hook 的过去式）"
+    },
+    {
+     "w": "lightning-like",
+     "p": "",
+     "t": "adj.",
+     "z": "闪电般的，极快的（作状语用）"
+    },
+    {
+     "w": "jabbed",
+     "p": "/dʒæbd/",
+     "t": "v.",
+     "z": "猛刺，猛戳（jab 的过去式）"
+    },
+    {
+     "w": "curiously",
+     "p": "/ˈkjʊəriəsli/",
+     "t": "adv.",
+     "z": "奇怪地，莫名地（此处不表“好奇地”）"
+    },
+    {
+     "w": "stitch up",
+     "p": "",
+     "t": "短语",
+     "z": "缝合（伤口）；stitch up my scars 即“把我的伤疤缝起来”"
+    }
+   ]
+  },
+  {
+   "i": 161,
+   "zh": "弄完之后，她凑过来嗅了嗅我，皱起眉头，接着把手指捅进防腐液里。没过几分钟，她就用药液在我身上轻拍了一遍……说来也怪，那让我感觉舒服了些。莫提忍不住又要开腔。",
+   "notes": [
+    "<code>stabbed her fingers into…</code> 中 stab 本义“刺、捅”，此处描写她把手指猛地探进防腐液，动作直接粗暴，与她的爪子形象相配。",
+    "<code>dab</code> 指“（用布、手指等）轻拍、轻涂”，与前面 <code>apply a layer</code>（抹一层）的用词不同，语气更细致。",
+    "<code>strangely enough</code> 是插入语，意为“说来也怪、奇怪的是”，常置于句首或句中。"
+   ],
+   "vocab": [
+    {
+     "w": "stabbed",
+     "p": "/stæbd/",
+     "t": "v.",
+     "z": "猛刺，捅（stab 的过去式）"
+    },
+    {
+     "w": "dabbed",
+     "p": "/dæbd/",
+     "t": "v.",
+     "z": "轻拍，轻涂（dab 的过去式）"
+    },
+    {
+     "w": "strangely enough",
+     "p": "",
+     "t": "习语",
+     "z": "说来也怪，奇怪的是（作插入语）"
+    },
+    {
+     "w": "made me feel better",
+     "p": "",
+     "t": "短语",
+     "z": "让我感觉好受了些（make sb. feel + adj.）"
+    },
+    {
+     "w": "couldn’t resist",
+     "p": "",
+     "t": "短语",
+     "z": "忍不住，无法抗拒（后接名词或动名词）"
+    }
+   ]
+  },
+  {
+   "i": 162,
+   "zh": "“这大概是我这辈子第二次庆幸自己没长鼻子。”",
+   "notes": [
+    "<code>may be</code> 在此表推测，意为“大概是、也许”，与表示许可的 <code>may</code> 不同；<code>this may be the second time …</code> 是“这可能是第……次”的常用说法。",
+    "<code>I’m thankful (that) I don’t have a nose</code> 中 that 被省略；<code>be thankful</code> 后接从句，表示“庆幸、感激”。",
+    "这句是莫提典型的阴阳怪气：尸体的防腐液气味难闻，他反倒庆幸自己是个没有鼻子的骷髅头——翻译时保留这股幸灾乐祸的调子。"
+   ],
+   "vocab": [
+    {
+     "w": "This may be",
+     "p": "",
+     "t": "句型",
+     "z": "这可能是……（may 表推测）"
+    },
+    {
+     "w": "thankful",
+     "p": "/ˈθæŋkfl/",
+     "t": "adj.",
+     "z": "庆幸的，感激的（be thankful that…）"
+    },
+    {
+     "w": "in my life",
+     "p": "",
+     "t": "短语",
+     "z": "在我一生中（用于强调经历的难得）"
+    }
+   ]
+  },
+  {
+   "i": 163,
+   "zh": "艾薇妮在我身上做完最后的修饰，又嗅了我一下，点点头，然后用爪子做了个赶人的动作。“好了。走——走。”",
+   "notes": [
+    "<code>put the last touches on</code> 是习语，意为“做最后的修饰、最后收尾”（也可说 <code>put the finishing touches on</code>）。",
+    "<code>made a shooing motion with her talons</code> 中 <code>shoo</code> 本指赶走鸟兽时发出的“嘘”声，<code>a shooing motion</code> 即“赶人的手势”。",
+    "对白 <code>Done. Go — go.</code> 用短句加破折号，语气生硬急促，译文同样用短句和破折号来还原。"
+   ],
+   "vocab": [
+    {
+     "w": "put the last touches on",
+     "p": "",
+     "t": "习语",
+     "z": "给……做最后的修饰、收尾"
+    },
+    {
+     "w": "gave me another sniff",
+     "p": "",
+     "t": "短语",
+     "z": "又嗅了我一下（give sb. a sniff）"
+    },
+    {
+     "w": "nodded",
+     "p": "/ˈnɒdɪd/",
+     "t": "v.",
+     "z": "点头（nod 的过去式）"
+    },
+    {
+     "w": "shooing motion",
+     "p": "",
+     "t": "短语",
+     "z": "赶人的手势（像赶鸡鸭那样挥手示意离开）"
+    }
+   ]
+  },
+  {
+   "i": 164,
+   "zh": "我又跌跌撞撞地转了一阵，找到一处通往底层的楼梯井。我看见另一个尘人，便走过去搭话。让我沮丧的是，他用警觉而冷硬的目光打量着我，说：“你迷路了吗？”",
+   "notes": [
+    "<code>stumble around</code> 意为“跌跌撞撞地四处走动”，与主角刚苏醒、步履不稳的状态呼应。",
+    "<code>a stairwell down to the ground floor</code> 中 down to 作后置修饰，指“通往（下面）底层的楼梯井”；ground floor 在英式英语中即“底楼、一层”。",
+    "<code>regard sb. with a … gaze</code> 是“以……的目光打量某人”的固定搭配；<code>stony</code> 本义“石头的”，引申为“冷冰冰的、毫无表情的”。"
+   ],
+   "vocab": [
+    {
+     "w": "stumbled",
+     "p": "/ˈstʌmbld/",
+     "t": "v.",
+     "z": "跌跌撞撞地走，绊（stumble 的过去式）"
+    },
+    {
+     "w": "stairwell",
+     "p": "/ˈsteəwel/",
+     "t": "n.",
+     "z": "楼梯井（楼房内安放楼梯的竖直空间）"
+    },
+    {
+     "w": "Dustmen",
+     "p": "/ˈdʌstmen/",
+     "t": "n.",
+     "z": "尘人（灰烬党成员，专司死亡与尸体事务的教派）"
+    },
+    {
+     "w": "dismay",
+     "p": "/dɪsˈmeɪ/",
+     "t": "n.",
+     "z": "沮丧，惊惶（to my dismay 让我沮丧的是）"
+    },
+    {
+     "w": "stony",
+     "p": "/ˈstəʊni/",
+     "t": "adj.",
+     "z": "冷冰冰的，毫无表情的（本义“石头的”）"
+    }
+   ]
+  },
+  {
+   "i": 165,
+   "zh": "“没有。”我赶紧回答。",
+   "notes": [
+    "<code>No.</code> 然后紧接 <code>I quickly replied</code>，把回话和叙述压在一起，表现主角急于打断对方追问；<code>quickly</code> 修饰 replied，位置在动词前。",
+    "对白只有一词，翻译时保留简短干脆的语气，并与后面的叙述句相连，构成英文那种紧凑的节奏。"
+   ],
+   "vocab": [
+    {
+     "w": "quickly",
+     "p": "/ˈkwɪkli/",
+     "t": "adv.",
+     "z": "迅速地，急忙地"
+    },
+    {
+     "w": "replied",
+     "p": "/rɪˈplaɪd/",
+     "t": "v.",
+     "z": "回答，答复（reply 的过去式，比 said 稍正式）"
+    }
+   ]
+  },
+  {
+   "i": 166,
+   "zh": "“既然你没迷路，那你在这儿有何贵干？”",
+   "notes": [
+    "<code>If you are not lost</code> 是条件状语从句，主句用 what 引导特殊疑问句；尘人的问话带着盘问的口气，正式而冷淡。",
+    "<code>What is your business here?</code> 是固定说法，意为“你在此有何贵干/来此何干”，<code>business</code> 此处指“来意、事务”，不是“生意”。"
+   ],
+   "vocab": [
+    {
+     "w": "If you are not lost",
+     "p": "",
+     "t": "句型",
+     "z": "既然你没迷路（if 引导条件，暗含质问）"
+    },
+    {
+     "w": "your business here",
+     "p": "",
+     "t": "短语",
+     "z": "你在此的来意、你到这儿办什么事"
+    }
+   ]
+  },
+  {
+   "i": 167,
+   "zh": "“我是来参加一场安葬仪式的，不过好像出了点差错。”有那么短短一瞬，我心头一阵轻飘飘的冲动，想接着说下去——想说那差错就是我本该是被安葬的人，可我还没死透。",
+   "notes": [
+    "<code>there seems to be have been a mistake</code> 是原文中的笔误（正常应为 <code>there seems to have been a mistake</code>），理解成“似乎出了个差错”。",
+    "<code>For one brief, giddy moment</code> 表示“有那么短暂而令人眩晕的一瞬间”；<code>giddy</code> 本指“头晕的”，此处形容那种不真实的冲动。",
+    "<code>I wanted to continue</code> 后跟两个并列的不定式 <code>to say …</code>，破折号后是同位说明，译文用“想说……想说……”保留这种急切的自我吐露感。"
+   ],
+   "vocab": [
+    {
+     "w": "internment",
+     "p": "/ɪnˈtɜːnmənt/",
+     "t": "n.",
+     "z": "安葬，埋葬（注意与 internment“拘留”同形，此处取埋葬义）"
+    },
+    {
+     "w": "giddy",
+     "p": "/ˈɡɪdi/",
+     "t": "adj.",
+     "z": "头晕目眩的；此处形容一时的恍惚冲动"
+    },
+    {
+     "w": "quite dead",
+     "p": "",
+     "t": "短语",
+     "z": "完全死透（not quite dead 还没死透）"
+    },
+    {
+     "w": "mistake",
+     "p": "/mɪˈsteɪk/",
+     "t": "n.",
+     "z": "差错，错误"
+    }
+   ]
+  },
+  {
+   "i": 168,
+   "zh": "“被安葬的是谁？也许仪式是在停尸间别的地方举行。”",
+   "notes": [
+    "<code>Who was interred?</code> 用被动语态，问的是“被安葬的是谁”，与上段 <code>internment</code> 同根。",
+    "<code>Perhaps … are taking place somewhere else</code> 中 <code>take place</code> 意为“举行、发生”，是不及物短语，没有被动式；<code>somewhere else</code> 作地点状语。"
+   ],
+   "vocab": [
+    {
+     "w": "interred",
+     "p": "/ɪnˈtɜːd/",
+     "t": "v.",
+     "z": "埋葬（inter 的过去分词；注意与“拘留”的 intern 拼写相近）"
+    },
+    {
+     "w": "taking place",
+     "p": "",
+     "t": "短语",
+     "z": "举行，进行（take place 无被动式）"
+    },
+    {
+     "w": "services",
+     "p": "/ˈsɜːvɪsɪz/",
+     "t": "n.",
+     "z": "（宗教）仪式，葬礼（常用复数）"
+    },
+    {
+     "w": "somewhere else",
+     "p": "",
+     "t": "短语",
+     "z": "别的什么地方"
+    }
+   ]
+  },
+  {
+   "i": 169,
+   "zh": "“有可能。那些别的仪式都在哪儿举行？”",
+   "notes": [
+    "<code>That could be.</code> 是口语应答，意为“那倒有可能”，表示部分认同对方的猜测，比 <code>That’s right</code> 含糊。",
+    "<code>Where are these other services taking place?</code> 用现在进行时表示“眼下正在哪里举行”，强调当下发生的活动。"
+   ],
+   "vocab": [
+    {
+     "w": "That could be",
+     "p": "",
+     "t": "句型",
+     "z": "那倒有可能（口语中对猜测的含糊认可）"
+    },
+    {
+     "w": "other services",
+     "p": "",
+     "t": "短语",
+     "z": "其他的仪式（此处指别的葬礼）"
+    }
+   ]
+  },
+  {
+   "i": 170,
+   "zh": "“有几间安葬室沿着停尸间的外圈排开。它们顺着墙的弧线分布在一层和二层。你知道死者的名字吗？”我被自己的搪塞套住了，只能给出一个答案。",
+   "notes": [
+    "<code>line the perimeter of …</code> 意为“沿着……的周边排列”，<code>line</code> 作动词表“沿着……排成一行”，<code>perimeter</code> 指外围、周界。",
+    "<code>They follow the curve of the wall</code> 中 <code>follow</code> 意为“沿着……的走向”，不译“跟随”。",
+    "<code>Trapped by my own prevarication</code> 是被动结构，<code>prevarication</code> 指“支吾、搪塞、含糊其辞”，说明主角自己编的谎把自己逼到了墙角。"
+   ],
+   "vocab": [
+    {
+     "w": "internment chambers",
+     "p": "",
+     "t": "短语",
+     "z": "安葬室（停放、安置遗体的房间）"
+    },
+    {
+     "w": "perimeter",
+     "p": "/pəˈrɪmɪtə/",
+     "t": "n.",
+     "z": "周边，周界（line the perimeter 沿周边排列）"
+    },
+    {
+     "w": "curve",
+     "p": "/kɜːv/",
+     "t": "n.",
+     "z": "弧线，弯曲处"
+    },
+    {
+     "w": "deceased",
+     "p": "/dɪˈsiːst/",
+     "t": "n./adj.",
+     "z": "死者；已故的（the deceased 死者）"
+    },
+    {
+     "w": "prevarication",
+     "p": "/prɪˌværɪˈkeɪʃn/",
+     "t": "n.",
+     "z": "支吾其词，搪塞（说谎回避正面回答）"
+    }
+   ]
+  },
+  {
+   "i": 171,
+   "zh": "“知道。”我答道。那尘人沉默着，显然在等我往下说。我只好现编一个。",
+   "notes": [
+    "<code>The Dustman was silent, obviously waiting for more.</code> 中 <code>waiting for more</code> 指“等着听更多内容”，即等他把话说完。",
+    "<code>make up something</code> 是固定搭配，意为“编造、瞎编”，<code>I had to make up something</code> 用 had to 表达被逼无奈的“只好”。",
+    "<code>obviously waiting for more</code> 为现在分词短语作伴随状语，翻译时可独立成句，更符合中文叙事节奏。"
+   ],
+   "vocab": [
+    {
+     "w": "waiting for more",
+     "p": "",
+     "t": "短语",
+     "z": "等着听下文、等更多内容"
+    },
+    {
+     "w": "make up something",
+     "p": "",
+     "t": "短语",
+     "z": "编造，临时瞎编（后接编造的内容）"
+    },
+    {
+     "w": "silent",
+     "p": "/ˈsaɪlənt/",
+     "t": "adj.",
+     "z": "沉默的，不出声的"
+    }
+   ]
+  },
+  {
+   "i": 172,
+   "zh": "“名字是……呃，阿丹。”",
+   "notes": [
+    "破折号后的 <code>uh</code> 是英语中的迟疑填充音，相当于中文的“呃、嗯”，用来表现主角一边拖时间一边现编名字。",
+    "<code>The name is… Adahn.</code> 用一般现在时自我介绍姓名，形式上很正式，恰好与他临时胡诌的内容形成反差。"
+   ],
+   "vocab": [
+    {
+     "w": "uh",
+     "p": "/ʌ/",
+     "t": "感叹词",
+     "z": "呃（表示迟疑、思索的填充音）"
+    },
+    {
+     "w": "The name is",
+     "p": "",
+     "t": "句型",
+     "z": "名字是……（正式报姓名的说法）"
+    }
+   ]
+  },
+  {
+   "i": 173,
+   "zh": "“这名字我没听过。去前门找一位向导问问看……他们也许能给你指路，比我强。”",
+   "notes": [
+    "<code>That name is not familiar to me.</code> 是 <code>be familiar to sb.</code> 结构，意为“对某人来说不熟悉”，注意与 <code>be familiar with sth.</code>（某人熟悉某物）的区别。",
+    "<code>Check with sb.</code> 意为“向某人询问、跟某人核实”，不要理解成“检查某人”。",
+    "<code>they may be able to direct you better than I</code> 中 <code>better than I</code> 是省略说法（完整为 than I can），比较的是“指路”这件事的能力。"
+   ],
+   "vocab": [
+    {
+     "w": "familiar",
+     "p": "/fəˈmɪliə/",
+     "t": "adj.",
+     "z": "熟悉的（be familiar to sb. 为某人所熟悉）"
+    },
+    {
+     "w": "guides",
+     "p": "/ɡaɪdz/",
+     "t": "n.",
+     "z": "向导，引路人"
+    },
+    {
+     "w": "Check with",
+     "p": "",
+     "t": "短语",
+     "z": "向……询问、与……核实"
+    },
+    {
+     "w": "direct you",
+     "p": "",
+     "t": "短语",
+     "z": "给你指路，为你指方向"
+    }
+   ]
+  },
+  {
+   "i": 174,
+   "zh": "“好吧。我就去问问。再会。”我走开了，心里庆幸这尘人一副急着回去干他被耽误的活儿的模样，压根没起疑心。",
+   "notes": [
+    "<code>Very well.</code> 是比 <code>OK</code> 更正式、略带不情愿的应答，意为“好吧”；<code>Farewell.</code> 是正式道别语“再会”。",
+    "<code>glad that …</code> 后接从句说明庆幸的原因；<code>so … that …</code> 在此结构中表示“如此……以至于”，<code>so eager … that no suspicions had been raised</code> 即“急到没人起疑”。",
+    "<code>raise suspicions</code> 是固定搭配，意为“引起怀疑”，此处用被动 <code>no suspicions had been raised</code>（过去完成被动），表示在“我走开”之前并未引起怀疑。"
+   ],
+   "vocab": [
+    {
+     "w": "Very well",
+     "p": "",
+     "t": "句型",
+     "z": "好吧（正式、略勉强的应答）"
+    },
+    {
+     "w": "Farewell",
+     "p": "/ˌfeəˈwel/",
+     "t": "感叹词",
+     "z": "再会，别了（比 goodbye 正式、书面）"
+    },
+    {
+     "w": "eager",
+     "p": "/ˈiːɡə/",
+     "t": "adj.",
+     "z": "急切的，渴望的（be eager to do）"
+    },
+    {
+     "w": "suspicions",
+     "p": "/səˈspɪʃnz/",
+     "t": "n.",
+     "z": "怀疑，疑心（raise suspicions 引起怀疑）"
+    },
+    {
+     "w": "interrupted duties",
+     "p": "",
+     "t": "短语",
+     "z": "被打断的职守、被耽搁的活儿"
+    }
+   ]
+  }
+ ]
+}

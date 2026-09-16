@@ -1,0 +1,791 @@
+{
+ "chapter": "The Hive",
+ "chunk": "the-hive-01",
+ "items": [
+  {
+   "i": 1,
+   "zh": "我穿过那几扇门，终于离开了停尸间，心里一阵轻松。我走过楼前的一小片庭院，迈步走进了这座城市。这里想必就是被称作“蜂巢”的那一片街区。我的目光扫过眼前的建筑，然后往上抬，再往上抬。整座城市在头顶弯成一道弧。我这才明白，这座城市实际上应该是一个环，首尾相连，合成一圈。莫提见我一脸愕然，便开口解释起来。",
+   "notes": [
+    "<code>glad to be free of the Mortuary</code> 是形容词短语作状语，说明“穿过门”时的心情；<code>be free of</code> 意为“摆脱、不再受……束缚”，比 <code>be away from</code> 多一层“如释重负”。",
+    "连续两个短句 <code>then up. And up.</code> 是刻意的断裂句式，用重复和停顿模拟抬头仰望时的眩晕感；中文用“然后往上抬，再往上抬”保留这种一层层往上推的节奏。",
+    "<code>must actually form a circle, and join with itself</code>：<code>must</code> 表推测（“想必是”）；<code>join with itself</code> 字面“与自身相接”，即环形闭合，译作“首尾相连”更合中文；<code>noticing my stunned expression</code> 是分词短语作状语，主语与主句一致（都是 Morte）。"
+   ],
+   "vocab": [
+    {
+     "w": "Mortuary",
+     "p": "/ˈmɔːtʃuəri/",
+     "t": "n.",
+     "z": "停尸间（本章指印记城中尘人的那座建筑，术语）"
+    },
+    {
+     "w": "courtyard",
+     "p": "/ˈkɔːtjɑːd/",
+     "t": "n.",
+     "z": "庭院，天井（建筑前围起来的空地）"
+    },
+    {
+     "w": "the Hive",
+     "p": "",
+     "t": "n.",
+     "z": "蜂巢（印记城中的贫民区，术语）"
+    },
+    {
+     "w": "arced",
+     "p": "/ɑːkt/",
+     "t": "v.",
+     "z": "呈弧形延伸（arc 的过去式；此处指城市在头顶弯成一道弧）"
+    },
+    {
+     "w": "stunned",
+     "p": "/stʌnd/",
+     "t": "adj.",
+     "z": "惊愕的，目瞪口呆的"
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "zh": "“这座城市叫印记城，众门之城。印记城是一座环形的城，蹲在一根无限高的尖塔顶上，位置么，有人说是诸界的中心……当然啦，它怎么可能既在一根无限高的尖塔顶端，又处在诸界的中心，这本身就够让人犯嘀咕的。”",
+   "notes": [
+    "<code>Sigil’s a ring-shaped city that’s squatting on top of…</code>：<code>’s</code> 两次都是 <code>is</code> 的缩写，不是所有格，口语里很常见；<code>squat</code>（蹲踞）把城市写得像一只蹲在塔尖上的活物，中文保留“蹲在”。",
+    "<code>what some claim to be in the center of the Planes</code>：<code>what</code> 引导的从句作 <code>in</code> 的宾语，等于 <code>in the place that some claim to be the center of the Planes</code>；<code>claim to be</code> 表示“有人主张是”，莫提借此暗示这说法本身可疑。",
+    "<code>raises some questions</code> 是口语化的轻描淡写（“够让人犯嘀咕的”），并非真在提问题。"
+   ],
+   "vocab": [
+    {
+     "w": "Sigil",
+     "p": "/ˈsɪdʒɪl/",
+     "t": "n.",
+     "z": "印记城（众门之城，术语）"
+    },
+    {
+     "w": "ring-shaped",
+     "p": "",
+     "t": "adj.",
+     "z": "环形的，环状的"
+    },
+    {
+     "w": "squatting",
+     "p": "/ˈskwɒtɪŋ/",
+     "t": "v.",
+     "z": "蹲踞，蹲坐（squat 的现在分词；此处形容城市蹲在塔尖上）"
+    },
+    {
+     "w": "spire",
+     "p": "/ˈspaɪə(r)/",
+     "t": "n.",
+     "z": "尖塔，塔尖（此处指支撑印记城的那根无限高尖塔）"
+    },
+    {
+     "w": "the Planes",
+     "p": "",
+     "t": "n.",
+     "z": "诸界（多元宇宙各界的统称，术语）"
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "zh": "“还有别的吗？”",
+   "notes": [
+    "无名氏的话一贯简短，此处只四个词，省略了主语和谓语（<code>Is there anything else?</code> 的口语省略）。翻译时保持这种不加修饰的短促，不要补成“你还有什么要说的吗”。",
+    "<code>Anything else?</code> 是英语日常交际中承接对方介绍、要求对方继续说的固定短句，语气随意，可译作“还有别的吗”。"
+   ],
+   "vocab": [
+    {
+     "w": "Anything else?",
+     "p": "",
+     "t": "句型",
+     "z": "还有别的吗？（口语省略句，用来催对方继续说）"
+    },
+    {
+     "w": "else",
+     "p": "/els/",
+     "t": "adv.",
+     "z": "别的，其他的（常置于 something/anything 等不定代词之后）"
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "zh": "“印记城被叫做‘众门之城’，多半是因为城里有<em>一大堆</em>看不见的门，能通进通出——随便哪道拱券、哪个门框、哪只桶箍、哪层书架，甚至哪扇开着的窗，条件对上时都可能是一道传送门。全看你手里有没有打开它的钥匙。”",
+   "notes": [
+    "<code>mostly because</code> 引出原因，<code>mostly</code> 在此是“多半、主要是”，说明这绰号的来由而非唯一原因。",
+    "<code>a LOT of</code> 全大写表示重读、强调，译成中文可用着重号或“一大堆”来补出这股语气；<code>just about any…</code> 意为“几乎任何一个”，后面并列多个名词是英语举例的堆叠写法。",
+    "<code>It all depends on if you have the key…</code>：口语中 <code>depend on</code> 后直接接 <code>if</code> 从句，规范书面语更常用 <code>whether</code>；<code>it all depends on</code>＝“全看、全取决于”。"
+   ],
+   "vocab": [
+    {
+     "w": "City of Doors",
+     "p": "",
+     "t": "n.",
+     "z": "众门之城（印记城的别称）"
+    },
+    {
+     "w": "invisible",
+     "p": "/ɪnˈvɪzəbl/",
+     "t": "adj.",
+     "z": "看不见的，隐形的"
+    },
+    {
+     "w": "arch",
+     "p": "/ɑːtʃ/",
+     "t": "n.",
+     "z": "拱，拱券，拱门"
+    },
+    {
+     "w": "barrel hoop",
+     "p": "",
+     "t": "n.",
+     "z": "桶箍（箍木桶的铁圈）"
+    },
+    {
+     "w": "portal",
+     "p": "/ˈpɔːtl/",
+     "t": "n.",
+     "z": "传送门（术语，印记城连通各界的通道）"
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "zh": "“你看，这么说吧，我觉得最好懂的解释是——大多数传送门都是‘睡着的’，对吧？你从它中间走过去、从旁边走过去、踩在它上面走过去，什么都不会发生。可每一道传送门都有个能让它‘醒过来’的东西。那东西可能是一支你自己哼的小调，一块放了一星期的拜托比亚面包，或者想起你初吻是什么滋味，然后——砰——传送门就来了精神，你就能跳进去，到另一头随便什么地方。”",
+   "notes": [
+    "<code>I guess the best way to explain it is —</code> 是英语口语里典型的“边想边说”句式，破折号表示话说到一半停住再补上内容；翻译时保留破折号，别合并成一句完整陈述。",
+    "<code>sleeping</code> 与后文 <code>wakes it up</code> 构成拟人化的比喻系统：传送门会睡、会被唤醒、还会“血脉畅通”，中文沿用<strong>睡着的/醒过来</strong>这组对应词，保持意象统一。",
+    "<code>gets its juices flowing</code> 是习语，本义“让（消化）汁液流动起来”，引申为“来了劲头、活跃起来”，用在传送门上带粗俗俏皮的市井感；<code>BAM</code> 是拟声词全大写，模拟突然启动的一响，译作“砰”并加破折号保留原句的突转节奏。"
+   ],
+   "vocab": [
+    {
+     "w": "wakes it up",
+     "p": "",
+     "t": "短语",
+     "z": "把它唤醒（wake up 的第三人称单数，此处指激活传送门）"
+    },
+    {
+     "w": "hum to yourself",
+     "p": "",
+     "t": "短语",
+     "z": "自己哼（曲子）给自己听（a tune you hum to yourself）"
+    },
+    {
+     "w": "Bytopian",
+     "p": "/baɪˈtəʊpiən/",
+     "t": "adj.",
+     "z": "拜托比亚的（Bytopia，诸界中的一处地名，音译）"
+    },
+    {
+     "w": "gets its juices flowing",
+     "p": "",
+     "t": "习语",
+     "z": "来了劲头，活跃起来（本指汁液流动，引申为“运转起来”）"
+    },
+    {
+     "w": "jump through it",
+     "p": "",
+     "t": "短语",
+     "z": "跳进去、穿过它（指穿过传送门到另一侧）"
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "zh": "“比如去哪儿？”",
+   "notes": [
+    "无名氏的问句仍是极短的口语省略句，<code>Like where?</code> 中 <code>like</code> 是口语里引出举例的填充词，相当于“比如说”，不必译成“像……一样”。",
+    "全句只有 <code>Like</code>＋<code>where</code> 两个词，却承担推动对话的作用；中文用“比如去哪儿”三字保持这种简短、略带追问的语气。"
+   ],
+   "vocab": [
+    {
+     "w": "Like where?",
+     "p": "",
+     "t": "句型",
+     "z": "比如说哪儿？（like 作口语填充词，用来要求对方举例）"
+    },
+    {
+     "w": "where",
+     "p": "/weə(r)/",
+     "t": "adv.",
+     "z": "在哪里，去哪儿"
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "zh": "“哪儿都行，头儿。真的，哪儿都行。你能想到的任何地方，那儿就有一道传送门。印记城在诸界里这么吃得开，就是这个缘故。”我正要从庭院走开，一个路过的女人看见我，猛地一惊。她似乎一眼就认出了我；她惊骇地往后退了一步，叫喊起来。",
+   "notes": [
+    "<code>Anywhere, chief. Literally.</code>：<code>literally</code> 单独成句，用来加强“真的、一点不夸张”的语气；<code>chief</code> 是莫提对无名氏的固定称呼，译作“头儿”。",
+    "<code>That’s why Sigil’s so popular across the Planes.</code> 中 <code>That’s why…</code> 引出结果，<code>across the Planes</code> 意为“在诸界之中、各界之间”，不是“穿过诸界”。",
+    "<code>started upon seeing me</code> 的 <code>start</code> 是动词“惊跳、猛地一颤”，与 <code>upon seeing</code>（一看见）连用表示即时反应，不要误解为“开始”；<code>seemed to recognize</code> 用 <code>seem</code>＋不定式表示叙述者的推断，正是“她说认得我，我却毫无印象”的错位。"
+   ],
+   "vocab": [
+    {
+     "w": "chief",
+     "p": "/tʃiːf/",
+     "t": "n.",
+     "z": "头儿，老大（口语称呼；莫提一贯这样叫无名氏）"
+    },
+    {
+     "w": "Literally",
+     "p": "/ˈlɪtərəli/",
+     "t": "adv.",
+     "z": "真的，毫不夸张地（此处独立成句加强语气）"
+    },
+    {
+     "w": "started",
+     "p": "/ˈstɑːtɪd/",
+     "t": "v.",
+     "z": "惊跳，猛地一颤（start 的过去式，非“开始”）"
+    },
+    {
+     "w": "in horror",
+     "p": "",
+     "t": "短语",
+     "z": "惊恐地，骇然地"
+    },
+    {
+     "w": "cried out",
+     "p": "",
+     "t": "短语",
+     "z": "叫喊起来，失声喊出"
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "zh": "“过了这么久……你这个畜生！愿巴托的恶魔统统把你收了去！总有一天你会为你对艾琳做的事后悔……我以诸神之名起誓！”她转身逃走了。",
+   "notes": [
+    "引语里有大量拼写变形，是作者用来标记这个女人身份低微、口音粗野的手段：<code>ye</code>＝you，<code>th’</code>＝the，<code>fer</code>＝for，<code>ta</code>＝to，<code>swears</code> 是 <code>swear</code> 的旧式第一人称形式；中文用“你这个畜生”“统统”这类口语粗话对应，不必逐字还原拼写。",
+    "<code>May all th’ fiends in Baator take ye!</code> 是以 <code>May</code> 开头的祈愿/诅咒句，结构为 <code>May + 主语 + 动词原形</code>，表示“愿……”，常用于诅咒或祝福；译作“愿……统统把你收了去”保留诅咒语气。",
+    "<code>by all the Powers I swears it</code> 是赌咒语 <code>by…</code>（凭……起誓），<code>the Powers</code> 指诸界中的诸神力存在，中文译作“诸神”；<code>what ye did ta Aerin</code> 是 <code>did</code> 后省略关系词的定语从句，指“你对艾琳做过的那件事”，此处首次提到 Aerin，读者与无名氏一样不明所以。"
+   ],
+   "vocab": [
+    {
+     "w": "ye",
+     "p": "/jiː/",
+     "t": "pron.",
+     "z": "你（古旧/方言形式，等于 you，此处带粗野口音）"
+    },
+    {
+     "w": "bastard",
+     "p": "/ˈbɑːstəd/",
+     "t": "n.",
+     "z": "畜生，混蛋（骂人话）"
+    },
+    {
+     "w": "fiends",
+     "p": "/fiːndz/",
+     "t": "n.",
+     "z": "恶魔，魔鬼（fiend 的复数）"
+    },
+    {
+     "w": "Baator",
+     "p": "/beɪˈɑːtɔː(r)/",
+     "t": "n.",
+     "z": "巴托（诸界中的下层界域，音译；其居民即恶魔）"
+    },
+    {
+     "w": "Aerin",
+     "p": "/ˈeərɪn/",
+     "t": "n.",
+     "z": "艾琳（人名，音译；本章首次出现，无名氏毫无印象）"
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "zh": "我随她去了。我意识到，在这座城里我大概还会碰到许多认得我的人，往后得时刻提防着。但当务之急是尽可能快地弄到尽可能多的消息，于是我打定主意，凡遇到人都要问问这座城市的事，尤其是打听这个法罗德。",
+   "notes": [
+    "<code>let her go</code> 在此是“任她走、不去拦她”，不是“放她走”的施舍语气；中文用“随她去了”最贴切。",
+    "<code>might run into many… who recognized me</code>：<code>run into</code>＝“偶然遇上、撞见”；<code>would have to be on my guard</code> 中 <code>be on one’s guard</code> 是固定短语，意为“提防着、保持警觉”。",
+    "<code>it was critical that I gain… and I resolved to…</code>：<code>It was critical that…</code> 后接原形动词（虚拟语气）<code>gain</code>，表示“至关重要的是”；<code>resolve to do</code>＝“下定决心做”；<code>as much information as quickly as possible</code> 是两个 <code>as…as possible</code> 结构叠用。"
+   ],
+   "vocab": [
+    {
+     "w": "let her go",
+     "p": "",
+     "t": "短语",
+     "z": "任她走，不去拦她"
+    },
+    {
+     "w": "run into",
+     "p": "",
+     "t": "短语",
+     "z": "偶然遇上，撞见"
+    },
+    {
+     "w": "on my guard",
+     "p": "",
+     "t": "短语",
+     "z": "提防着，保持警惕（be on one’s guard）"
+    },
+    {
+     "w": "resolved to",
+     "p": "",
+     "t": "短语",
+     "z": "下定决心做（resolve to do sth）"
+    },
+    {
+     "w": "Pharod",
+     "p": "/ˈfærɒd/",
+     "t": "n.",
+     "z": "法罗德（人名，音译；无名氏要找的“总管”）"
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "zh": "那天我还碰上另外几个人，他们都不肯跟我说话，只是做了个驱邪的手势，就不理我了。",
+   "notes": [
+    "<code>I ran into a few others that day</code>：<code>that day</code> 作时间状语，指“（前面说的）那一天”，不加介词。",
+    "<code>who would not talk to me</code> 用 <code>would not</code> 而非 <code>did not</code>，强调“就是不肯、偏不”，含有主观拒绝的意味。",
+    "<code>made a sign against evil</code> 指画一个抵挡邪祟的手势（类似画十字、比手势驱邪）；中文译作“做了个驱邪的手势”，既保留民俗色彩又让读者一看就懂。"
+   ],
+   "vocab": [
+    {
+     "w": "ran into",
+     "p": "",
+     "t": "短语",
+     "z": "偶然遇到，碰上（run into 的过去式）"
+    },
+    {
+     "w": "a sign against evil",
+     "p": "",
+     "t": "短语",
+     "z": "驱邪的手势（用来挡开邪祟、晦气的动作）"
+    },
+    {
+     "w": "ignored",
+     "p": "/ɪɡˈnɔːd/",
+     "t": "v.",
+     "z": "不理会，对……视而不见（ignore 的过去式）"
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "zh": "一个妓女帮了不少忙——当然，是在收下几枚硬币之后，也就是所谓的钱币。她告诉我，收尸人聚集在蜂巢里一片不太远的地方，那儿叫拾荒者广场。我跟她说完话，莫提开了口。我发觉，在某些话题上他越来越让人料得准了。",
+   "notes": [
+    "<code>after accepting a few coins, that is jink</code>：<code>that is</code>（即 <code>that is to say</code>）用来追加解释，把普通说法换成切口 <code>jink</code>；破折号插入的这段是叙述者插话，语序被打断后再接 <code>She told me…</code>，中文用破折号加“当然”还原这种插叙节奏。",
+    "<code>the collectors</code> 此处指为法罗德一类人收尸的角色，译作“收尸人”；<code>congregated in</code>＝“聚集在、群集于”。",
+    "<code>He was becoming predictable on certain subjects</code> 中 <code>predictable</code> 是“可预料的、老一套的”，形容莫提一提到钱和女人就露出的固定反应，带一点调侃的观察者口吻。"
+   ],
+   "vocab": [
+    {
+     "w": "harlot",
+     "p": "/ˈhɑːlət/",
+     "t": "n.",
+     "z": "妓女，娼妓（旧式书面用词）"
+    },
+    {
+     "w": "jink",
+     "p": "/dʒɪŋk/",
+     "t": "n.",
+     "z": "钱币（印记城黑话，术语）"
+    },
+    {
+     "w": "collectors",
+     "p": "/kəˈlektəz/",
+     "t": "n.",
+     "z": "收尸人，收尸的（collector 的复数；此处指为法罗德收尸的角色）"
+    },
+    {
+     "w": "congregated",
+     "p": "/ˈkɒŋɡrɪɡeɪtɪd/",
+     "t": "v.",
+     "z": "聚集，群集（congregate 的过去式）"
+    },
+    {
+     "w": "Ragpicker’s Square",
+     "p": "",
+     "t": "n.",
+     "z": "拾荒者广场（蜂巢中的一片区域）"
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "zh": "“头儿，能不能打发我几个钱币……这……呃……好久没沾过了，真的好久。”",
+   "notes": [
+    "<code>sport me some jink</code> 是切口式说法，<code>sport</code> 在此作动词，意为“给（某人）一点钱、施舍几个”，比 <code>give</code> 更显乞求与油滑。",
+    "省略号与 <code>eh</code> 表现出莫提吞吞吐吐、不好意思直说的样子；中文用“这……呃……”保留这份尴尬。",
+    "<code>it’s… been a long time, it has.</code> 句尾的 <code>it has</code> 是英语口语里的重复强调（右移位结构），用来加重“真的很久了”的语气，中文用“真的好久”补足。"
+   ],
+   "vocab": [
+    {
+     "w": "sport",
+     "p": "/spɔːt/",
+     "t": "v.",
+     "z": "（俚）给……一点钱，施舍（sport sb sth）"
+    },
+    {
+     "w": "jink",
+     "p": "/dʒɪŋk/",
+     "t": "n.",
+     "z": "钱币（印记城黑话，术语）"
+    },
+    {
+     "w": "a long time",
+     "p": "",
+     "t": "短语",
+     "z": "很久，好长时间"
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "zh": "“我都不打算问你打算怎么个弄法。”",
+   "notes": [
+    "<code>I’m not even going to ask how you intend to accomplish this.</code>：<code>not even</code> 把否定推到极致，等于“连问都懒得问”，语气里是哭笑不得的默许；<code>be going to</code> 表将来的打算。",
+    "<code>how you intend to accomplish this</code> 是 <code>ask</code> 的宾语从句，用陈述语序（不写成 <code>how do you intend</code>）；<code>intend to do</code>＝“打算做”；<code>accomplish</code> 偏书面，意为“完成、办成”。",
+    "无名氏的这句话（<code>I'm not even going to ask…</code>）是全章少见的带讽刺的完整句，翻译时保留这种冷淡又无奈的干巴巴口吻，不要加“我劝你”之类的补充。"
+   ],
+   "vocab": [
+    {
+     "w": "even",
+     "p": "/ˈiːvn/",
+     "t": "adv.",
+     "z": "甚至，连……都（用于加强否定）"
+    },
+    {
+     "w": "intend to",
+     "p": "",
+     "t": "短语",
+     "z": "打算做，有意做"
+    },
+    {
+     "w": "accomplish",
+     "p": "/əˈkʌmplɪʃ/",
+     "t": "v.",
+     "z": "完成，实现，办成"
+    }
+   ]
+  },
+  {
+   "i": 14,
+   "zh": "那女人插进话来：“找密米尔，价钱得翻倍……别的下三滥也一样。”",
+   "notes": [
+    "<code>broke in</code> 是“插嘴、打断别人的话”，比 <code>interrupted</code> 更口语；此处她急着谈价钱，语气生硬。",
+    "<code>twice the cost fer the mimir</code>：<code>twice the cost</code>＝“双倍的价钱”，<code>fer</code> 是 <code>for</code> 的口音拼写，说明这人说话也带市井腔。",
+    "<code>any other degenerate</code> 中 <code>degenerate</code> 作名词，指“堕落的人、下三滥”，她借此把莫提一类非人顾客一并贬进去，语气刻薄。"
+   ],
+   "vocab": [
+    {
+     "w": "broke in",
+     "p": "",
+     "t": "短语",
+     "z": "插嘴，打断别人的话（break in 的过去式）"
+    },
+    {
+     "w": "twice the cost",
+     "p": "",
+     "t": "短语",
+     "z": "双倍的价钱，两倍的价"
+    },
+    {
+     "w": "mimir",
+     "p": "/ˈmiːmɪə(r)/",
+     "t": "n.",
+     "z": "密米尔（会说话的百科全书式造物，音译）"
+    },
+    {
+     "w": "degenerate",
+     "p": "/dɪˈdʒenərət/",
+     "t": "n.",
+     "z": "堕落的人，下三滥（此处作名词，骂人的说法）"
+    }
+   ]
+  },
+  {
+   "i": 15,
+   "zh": "见我一脸疑问，莫提答道：“密米尔就是一本会说话的百科全书。就是我，头儿。”我朝莫提摆了摆手，让他别打这个主意了。",
+   "notes": [
+    "<code>At my questioning look</code> 是介词短语作状语，<code>questioning look</code> 指“带着疑问的表情/眼神”，不是“我问了一句”。",
+    "<code>Mimir’s a talking encyclopedia. That’s me, chief.</code>：莫提先给定义，再用 <code>That’s me</code> 自我指认，构成一个短促的“包袱”，中文用“就是我，头儿”保留这种自夸式的收尾。",
+    "<code>motioned to Morte to forget his idea</code> 用了 <code>motion to sb to do sth</code> 结构，意为“向某人示意做某事”；<code>forget his idea</code> 实际是“让他打消念头”，译作“让他别打这个主意了”。"
+   ],
+   "vocab": [
+    {
+     "w": "questioning look",
+     "p": "",
+     "t": "短语",
+     "z": "探询的眼神，带着疑问的表情"
+    },
+    {
+     "w": "encyclopedia",
+     "p": "/ɪnˌsaɪkləˈpiːdiə/",
+     "t": "n.",
+     "z": "百科全书"
+    },
+    {
+     "w": "motioned",
+     "p": "/ˈməʊʃnd/",
+     "t": "v.",
+     "z": "向……示意（motion to sb to do sth 的过去式）"
+    },
+    {
+     "w": "Mimir",
+     "p": "/ˈmiːmɪə(r)/",
+     "t": "n.",
+     "z": "密米尔（会说话的百科全书式造物，音译）"
+    }
+   ]
+  },
+  {
+   "i": 16,
+   "zh": "“别费心了，莫提。看她那副样子，我大概还能帮你免掉第二次送命。”听到这话，那女人骂起我们来。",
+   "notes": [
+    "<code>Don’t sweat it</code> 是口语习语，意为“别操心、别在意、别为这事费神”，字面“别出汗”，语气轻松随意。",
+    "<code>From the looks of her, I’m probably saving you from dying twice.</code>：<code>from the looks of sb</code>＝“从某人的样子看”；<code>save sb from doing</code>＝“使某人免于……”；<code>dying twice</code> 呼应无名氏“已经死过一次”的处境，也是拿莫提（一具会说话的骷髅）寻开心。",
+    "<code>At this the woman cursed at us.</code> 中 <code>at this</code>＝“听到这话/见此情形”，是书面叙述中衔接反应动作的常用短语。"
+   ],
+   "vocab": [
+    {
+     "w": "sweat",
+     "p": "/swet/",
+     "t": "v.",
+     "z": "（口语）操心，着急（Don’t sweat it＝别费心）"
+    },
+    {
+     "w": "From the looks of",
+     "p": "",
+     "t": "短语",
+     "z": "从……的样子来看"
+    },
+    {
+     "w": "dying twice",
+     "p": "",
+     "t": "短语",
+     "z": "死第二次（呼应无名氏已死过一次，也调侃骷髅莫提）"
+    },
+    {
+     "w": "cursed at",
+     "p": "",
+     "t": "短语",
+     "z": "对……咒骂（curse at sb）"
+    }
+   ]
+  },
+  {
+   "i": 17,
+   "zh": "“愿恶疮把你肚肠烂穿！你这身臭气和打扮活像个放羊的，人还比人家丑一倍！”她接着骂了我们好一阵。那妓女连珠炮似的脏话泼出来，莫提听得入了定，一动不动地盯着。这一阵口头雪崩总算完了，莫提沉默片刻，才转向我。",
+   "notes": [
+    "<code>May a pox shrivel yer innards!</code> 又是一句 <code>May…</code> 开头的诅咒，<code>pox</code> 指瘟疫、恶疮，<code>yer</code>＝your；中文用“愿……烂穿”保留诅咒句的狠劲。",
+    "<code>Ye have the stink and fashion sense of a goatherd, and ye’re twice as ugly!</code>：<code>twice as ugly</code> 用倍数结构 <code>twice as + 形容词</code>，指“比放羊的还丑一倍”，中文保留“还比人家丑一倍”。",
+    "<code>hypnotized</code> 是过去分词作状语，形容莫提听得发呆、“像被催眠了”；<code>let loose this stream of obscenities</code>＝“放出一串秽语”；<code>the verbal avalanche</code> 用比喻（口头上的雪崩）总结前面的长篇大骂，中文保留这个夸张比喻。"
+   ],
+   "vocab": [
+    {
+     "w": "shrivel",
+     "p": "/ˈʃrɪvl/",
+     "t": "v.",
+     "z": "使枯萎，使皱缩，使烂缩"
+    },
+    {
+     "w": "innards",
+     "p": "/ˈɪnədz/",
+     "t": "n.",
+     "z": "内脏，肚肠（口语，恒用复数）"
+    },
+    {
+     "w": "goatherd",
+     "p": "/ˈɡəʊthɜːd/",
+     "t": "n.",
+     "z": "牧羊人，放羊的（含轻蔑意味的骂法，嫌其臭而土气）"
+    },
+    {
+     "w": "obscenities",
+     "p": "/əbˈsenətiz/",
+     "t": "n.",
+     "z": "污言秽语（obscenity 的复数）"
+    },
+    {
+     "w": "avalanche",
+     "p": "/ˈævəlɑːnʃ/",
+     "t": "n.",
+     "z": "雪崩；（喻）铺天盖地的一阵"
+    }
+   ]
+  },
+  {
+   "i": 18,
+   "zh": "“哇，头儿。老家伙的骂人宝库里又能添上几条了。”他转回那妓女身边，她正在喘气歇劲。“我还爱上她了。”",
+   "notes": [
+    "<code>Got a few more taunts for the ol’ arsenal.</code> 是省略主语的完整口语句（<code>I got…</code>／<code>We got…</code>），<code>ol’</code> 是 <code>old</code> 的口语缩略拼写，<code>arsenal</code> 本义“军火库”，此处喻指“骂人的招数库”。",
+    "<code>catching her breath</code> 是“喘口气、缓过气来”，不是“屏住呼吸”（那是 <code>hold one’s breath</code>），用词一旦混淆就会把意思译反。",
+    "<code>I’m also in love.</code> 用 <code>also</code> 把“我还爱上了”接在“又添了几条骂人话”之后，构成冷面笑点：前面刚说获益，紧接着宣告动情，中文用“我还爱上她了”保留这种一本正经的荒唐。"
+   ],
+   "vocab": [
+    {
+     "w": "taunts",
+     "p": "/tɔːnts/",
+     "t": "n.",
+     "z": "讥讽的话，辱骂（taunt 的复数）"
+    },
+    {
+     "w": "ol’ arsenal",
+     "p": "",
+     "t": "短语",
+     "z": "老一套的（骂人）招数库；arsenal 本义“军火库”"
+    },
+    {
+     "w": "catching her breath",
+     "p": "",
+     "t": "短语",
+     "z": "喘口气，缓过气来（非“屏息”）"
+    },
+    {
+     "w": "in love",
+     "p": "",
+     "t": "短语",
+     "z": "坠入情网，爱上了（be in love with sb）"
+    }
+   ]
+  },
+  {
+   "i": 19,
+   "zh": "我不由自主地被莫提逗笑了，笑着走开了。",
+   "notes": [
+    "<code>despite myself</code> 是固定短语，意为“不由自主地、明知不该还是……”，表达无名氏本不想笑却笑出来的矛盾；<code>Chuckling at Morte</code> 是现在分词短语作伴随状语，与 <code>I moved off</code> 同时发生。",
+    "<code>moved off</code> 意为“起身走开、离开”，比 <code>left</code> 更强调挪步的动作，与停尸间段落里的用法一致。"
+   ],
+   "vocab": [
+    {
+     "w": "Chuckling",
+     "p": "/ˈtʃʌklɪŋ/",
+     "t": "v.",
+     "z": "低声轻笑（chuckle 的现在分词）"
+    },
+    {
+     "w": "despite myself",
+     "p": "",
+     "t": "短语",
+     "z": "不由自主地，尽管自己并不想如此"
+    },
+    {
+     "w": "moved off",
+     "p": "",
+     "t": "短语",
+     "z": "走开，动身离开"
+    }
+   ]
+  },
+  {
+   "i": 20,
+   "zh": "我盘算了一下：虽然现在大致知道该去哪一带找这个法罗德，但不如先多了解些印记城的事，顺便把自己过去那些窟窿补上几个，然后再去寻他。",
+   "notes": [
+    "<code>although…, it would be better to…</code>：<code>although</code> 引导让步从句，主句用 <code>it would be better to</code>（委婉建议结构）表示“与其……不如……”。",
+    "<code>fill in a few of the holes of my past</code> 是比喻说法，<code>fill in the holes</code> 本指“把洞补上”，此处指补全记忆中的空白；中文用“把窟窿补上几个”保留这个形象。",
+    "<code>before searching him out</code>：<code>search sb out</code> 意为“把某人找出来、寻到”，与 <code>look for</code> 相比更强调最终找到的结果；<code>this Pharod</code> 用 <code>this</code> 而非 <code>the</code>，表明此人仍只是无名氏听来的陌生名字。"
+   ],
+   "vocab": [
+    {
+     "w": "a general area",
+     "p": "",
+     "t": "短语",
+     "z": "大致的一片区域，大概的方位"
+    },
+    {
+     "w": "fill in",
+     "p": "",
+     "t": "短语",
+     "z": "填补，补上（空缺、空白）"
+    },
+    {
+     "w": "holes",
+     "p": "/həʊlz/",
+     "t": "n.",
+     "z": "洞，窟窿；（喻）空白、缺失之处"
+    },
+    {
+     "w": "searching him out",
+     "p": "",
+     "t": "短语",
+     "z": "把他找出来，寻到他（search sb out）"
+    }
+   ]
+  },
+  {
+   "i": 21,
+   "zh": "我继续向遇到的人打听。当地有些恶棍想必是把我的问话当成了好下手的记号，因为他们拔出刀来就动手。我抽出那把在停尸间抽屉里偶然捡到、早已被人遗忘的刀时，才发觉自己以前用过刀，而且用得很熟。我虽然挨了几道浅浅的划伤，但很快就把一个恶棍打倒在地，其余的则逃散了。我还意识到，自己从前一定杀过人，也许还杀过很多。",
+   "notes": [
+    "<code>must have taken my questions as a sign of an easy mark</code>：<code>must have done</code> 表示对过去的肯定推测（“想必是”）；<code>take A as B</code>＝“把 A 当作 B”；<code>an easy mark</code> 是俚语，指“容易得手的猎物、好骗好抢的对象”。",
+    "<code>the blade I had found forgotten in a drawer in the Mortuary</code> 结构是 <code>the blade (that) I had found forgotten…</code>，关系词省略，<code>forgotten</code> 是过去分词作宾语补足语，说明刀当时处于“被遗忘”的状态。",
+    "<code>I was standing over the body of one tough as the rest fled</code>：<code>stand over sb</code>＝“站在某人上方（俯视倒地者）”；<code>as</code> 引导时间从句，译作“而……则……”。全段反复用 <code>must have</code>／<code>realized</code> 推测自己的过去，翻译时要保留“想必、一定、也许”这层不确定。"
+   ],
+   "vocab": [
+    {
+     "w": "toughs",
+     "p": "/tʌfs/",
+     "t": "n.",
+     "z": "恶棍，地痞（tough 的复数，指街头混混）"
+    },
+    {
+     "w": "an easy mark",
+     "p": "",
+     "t": "习语",
+     "z": "容易下手的猎物，好骗/好抢的对象"
+    },
+    {
+     "w": "blade",
+     "p": "/bleɪd/",
+     "t": "n.",
+     "z": "刀刃；刀、剑（用刀身代指整把兵器）"
+    },
+    {
+     "w": "drawer",
+     "p": "/drɔː(r)/",
+     "t": "n.",
+     "z": "抽屉"
+    },
+    {
+     "w": "fled",
+     "p": "/fled/",
+     "t": "v.",
+     "z": "逃走，逃散（flee 的过去式）"
+    }
+   ]
+  },
+  {
+   "i": 22,
+   "zh": "接下来跟我搭话的这个蜂巢居民一脸害怕，无疑是因为我身上的伤疤和刚打完架沾的血。他没什么我没听过的新消息可说，但我替他难过，就给了他几枚铜币。他四下张望，看有没有人瞧见这场交易，然后把钱币塞进长袍的褶子里。",
+   "notes": [
+    "<code>no doubt from the scars and the blood of my recent fight</code> 省略了主谓（<code>which was no doubt because of…</code>），是叙述中的省略补语，说明他害怕的来由。",
+    "<code>He had little to say I hadn’t already heard</code>：<code>little</code> 表示否定（“几乎没什么可说”）；<code>I hadn’t already heard</code> 是省略关系词的定语从句，修饰 <code>little</code>，直译“我没听说过的（内容）几乎没有”。",
+    "<code>tucked the jink in the folds of his robe</code>：<code>tuck sth in/into</code>＝“把……塞进、掖进”；<code>folds</code> 指衣服的褶皱处。他先张望再藏钱，两个动作顺序不能颠倒，正是怕被人看见的市井谨慎。"
+   ],
+   "vocab": [
+    {
+     "w": "dweller",
+     "p": "/ˈdwelə(r)/",
+     "t": "n.",
+     "z": "居民，居住者（Hive dweller＝蜂巢居民）"
+    },
+    {
+     "w": "coppers",
+     "p": "/ˈkɒpəz/",
+     "t": "n.",
+     "z": "铜币（copper 的复数，术语）"
+    },
+    {
+     "w": "folds",
+     "p": "/fəʊldz/",
+     "t": "n.",
+     "z": "褶子，褶皱处（fold 的复数；此处指长袍的褶缝）"
+    },
+    {
+     "w": "glanced around",
+     "p": "",
+     "t": "短语",
+     "z": "四下张望，环顾一下"
+    },
+    {
+     "w": "tucked",
+     "p": "/tʌkt/",
+     "t": "v.",
+     "z": "把……塞进，掖好（tuck 的过去式）"
+    }
+   ]
+  }
+ ]
+}

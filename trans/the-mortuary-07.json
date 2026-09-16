@@ -1,0 +1,744 @@
+{
+ "chapter": "The Mortuary",
+ "chunk": "the-mortuary-07",
+ "items": [
+  {
+   "i": 133,
+   "zh": "“我不想永生不死，也不想再活一次，不安者。我承受不了。”",
+   "notes": [
+    "<code>nor live again</code> 与前面的 <code>do not wish to live forever</code> 共用助动词 <code>do not</code>，是 <code>neither...nor...</code> 结构的省略式，翻译时可补出“也不想”。",
+    "<code>I could not bear it</code> 是虚拟/情态表达，意思是“我无法承受（这样的命运）”，比 <code>I cannot stand it</code> 更书面、更沉重。"
+   ],
+   "vocab": [
+    {
+     "w": "live forever",
+     "p": "",
+     "t": "短语",
+     "z": "永生，长生不死"
+    },
+    {
+     "w": "Restless One",
+     "p": "",
+     "t": "n.",
+     "z": "不安者（达尔对无名氏的称呼，暗示其灵魂不得安息）"
+    },
+    {
+     "w": "bear",
+     "p": "/beə(r)/",
+     "t": "v.",
+     "z": "忍受，承受（比 stand 更书面）"
+    }
+   ]
+  },
+  {
+   "i": 134,
+   "zh": "我站了一会儿，端详着他，同时细细品味着这新生的“关切”之情。可我得找到离开停尸间的路。",
+   "notes": [
+    "<code>reveling in</code> 意为“尽情享受、沉醉于”，后接名词或动名词，语气比 <code>enjoy</code> 强得多。",
+    "引号里的 <code>'concern'</code> 加了引号，表示无名氏对这种情感还很陌生，像是借用别人的词来形容自己的状态。",
+    "<code>But I needed to find a way out of...</code> 用 <code>But</code> 直接转折，把内心感受拉回现实目标，是小说里常见的节奏切换。"
+   ],
+   "vocab": [
+    {
+     "w": "considering",
+     "p": "/kənˈsɪdərɪŋ/",
+     "t": "v.",
+     "z": "端详，打量；考虑（此处为分词状语）"
+    },
+    {
+     "w": "reveling in",
+     "p": "",
+     "t": "短语",
+     "z": "沉醉于，尽情享受"
+    },
+    {
+     "w": "new found",
+     "p": "",
+     "t": "adj.",
+     "z": "新得的，新发现的（此处指刚体会到的心情）"
+    },
+    {
+     "w": "Mortuary",
+     "p": "/ˈmɔːtʃuəri/",
+     "t": "n.",
+     "z": "停尸间，太平间"
+    }
+   ]
+  },
+  {
+   "i": 135,
+   "zh": "“那就这样吧。再会，达尔。”我转身要走，达尔却开口了。",
+   "notes": [
+    "<code>So be it.</code> 是固定说法，意为“那就这样吧/随它去吧”，表示接受对方的决定，略带无奈与庄重。",
+    "<code>As I turned to leave</code> 中的 <code>as</code> 表示“正当……的时候”，两个动作同时发生。",
+    "<code>Farewell</code> 比 <code>goodbye</code> 更正式、更有古风，符合达尔这个垂死老人的语气。"
+   ],
+   "vocab": [
+    {
+     "w": "So be it",
+     "p": "",
+     "t": "习语",
+     "z": "那就这样吧；随它去吧（表示接受决定）"
+    },
+    {
+     "w": "Farewell",
+     "p": "/ˌfeəˈwel/",
+     "t": "感叹词",
+     "z": "再会，永别了（比 goodbye 更正式古雅）"
+    },
+    {
+     "w": "turned to leave",
+     "p": "",
+     "t": "短语",
+     "z": "转身要离开"
+    }
+   ]
+  },
+  {
+   "i": 136,
+   "zh": "“你给我记着：我并不羡慕你，不安者。像你那样一再重生，是我承受不了的诅咒。你总得认下这件事。迟早有一天，你的路会把你带回这里……”达尔咳了起来，喉咙里咯咯作响。“凡有血肉骨头的，都是这个下场。”",
+   "notes": [
+    "<code>Know this:</code> 是祈使句形式的宣告，相当于“你要知道/听好了”，后接冒号引出具体内容，语气庄重。",
+    "<code>come to terms with it</code> 是固定搭配，意为“接受并设法与之共处”，不是“达成协议”。",
+    "现在分词 <code>rattling</code> 作伴随状语，描写咳嗽声在喉咙里发出的咔啦声，很有画面感；<code>all things flesh and bone</code> 即“一切血肉之躯”，用 <code>flesh and bone</code> 这个固定词组指代有生命的造物。"
+   ],
+   "vocab": [
+    {
+     "w": "envy",
+     "p": "/ˈenvi/",
+     "t": "v.",
+     "z": "羡慕，妒忌"
+    },
+    {
+     "w": "curse",
+     "p": "/kɜːs/",
+     "t": "n.",
+     "z": "诅咒；祸根"
+    },
+    {
+     "w": "come to terms with",
+     "p": "",
+     "t": "短语",
+     "z": "接受（难以接受的现实）；与之妥协"
+    },
+    {
+     "w": "rattling",
+     "p": "/ˈrætlɪŋ/",
+     "t": "v.",
+     "z": "发出咔啦声（此处形容喉中痰响）"
+    },
+    {
+     "w": "flesh and bone",
+     "p": "",
+     "t": "短语",
+     "z": "血肉之躯；有生命之物"
+    }
+   ]
+  },
+  {
+   "i": 137,
+   "zh": "我朝房间另一头的一个出口走去，差点把一个女僵尸撞翻。",
+   "notes": [
+    "<code>bowl over</code> 是口语短语，意为“把……撞倒”，<code>nearly bowling over</code> 用分词作伴随状语说明动作的后果。",
+    "<code>at the far side of the room</code> 是方位短语，<code>far</code> 强调距离之远，译成“另一头”更自然。"
+   ],
+   "vocab": [
+    {
+     "w": "exit",
+     "p": "/ˈeksɪt/",
+     "t": "n.",
+     "z": "出口，通道"
+    },
+    {
+     "w": "far side",
+     "p": "",
+     "t": "短语",
+     "z": "远端，另一头"
+    },
+    {
+     "w": "bowling over",
+     "p": "",
+     "t": "短语",
+     "z": "撞倒，撞翻（bowl over 的分词形式）"
+    },
+    {
+     "w": "zombie",
+     "p": "/ˈzɒmbi/",
+     "t": "n.",
+     "z": "僵尸，行尸"
+    }
+   ]
+  },
+  {
+   "i": 138,
+   "zh": "这具女尸正在房里一张张停尸台之间来回巡行。她的头发编成一条长辫，像绞索一样绕在脖子上。有人用模板在她额头上印了“1096”这个数字，她的嘴唇也被缝合了起来。",
+   "notes": [
+    "<code>making the rounds</code> 是固定搭配，指“巡视、挨个查看”，医院里医生查房也用这个词。",
+    "<code>slab to slab</code> 用 <code>from A to B</code> 的变体形式，<code>slab</code> 指停尸房里放尸体的石板台。",
+    "<code>had been stenciled</code> 与 <code>had been stitched</code> 都是过去完成时被动语态，说明在叙述之前这些动作已经完成。"
+   ],
+   "vocab": [
+    {
+     "w": "corpse",
+     "p": "/kɔːps/",
+     "t": "n.",
+     "z": "尸体，尸首"
+    },
+    {
+     "w": "making the rounds",
+     "p": "",
+     "t": "短语",
+     "z": "巡行，挨个查看"
+    },
+    {
+     "w": "slab",
+     "p": "/slæb/",
+     "t": "n.",
+     "z": "石板；（停尸房的）停尸台"
+    },
+    {
+     "w": "braid",
+     "p": "/breɪd/",
+     "t": "n.",
+     "z": "辫子，发辫"
+    },
+    {
+     "w": "noose",
+     "p": "/nuːs/",
+     "t": "n.",
+     "z": "绞索，绳套"
+    }
+   ]
+  },
+  {
+   "i": 139,
+   "zh": "我一惊，咕哝了一句：“呃……辫子挺好看。”那具尸体没有反应，多半根本不知道我在这儿。我正要走开，莫提开口了。",
+   "notes": [
+    "<code>doubtless not even knowing I was there</code> 是分词短语作补充说明，<code>doubtless</code> 表示“无疑、多半”，语气比 <code>certainly</code> 稍弱。",
+    "<code>As I made to move on</code> 中 <code>make to do sth</code> 是固定用法，意为“作势要、正要去做”。"
+   ],
+   "vocab": [
+    {
+     "w": "mumbled",
+     "p": "/ˈmʌmbld/",
+     "t": "v.",
+     "z": "咕哝，含糊地说"
+    },
+    {
+     "w": "doubtless",
+     "p": "/ˈdaʊtləs/",
+     "t": "adv.",
+     "z": "无疑，多半"
+    },
+    {
+     "w": "made to move on",
+     "p": "",
+     "t": "短语",
+     "z": "正要走开（make to do 表示作势要做）"
+    },
+    {
+     "w": "spoke up",
+     "p": "",
+     "t": "短语",
+     "z": "开口说话，出声"
+    }
+   ]
+  },
+  {
+   "i": 140,
+   "zh": "“嘘——你看见她刚才是怎么看我的没有？啊？看见没？就是那样顺着我后脑勺的曲线一路看过去？”我试着讲了个笑话，就我所能记得的而言，这也许是我这辈子头一回讲笑话。",
+   "notes": [
+    "<code>Psssst</code> 是拟声词，用来悄悄招呼别人注意，相当于中文的“嘘——/喂”。",
+    "<code>The way she was following...</code> 是口语化的名词性短语，省略了主句，用来强调“她那种看法”。",
+    "<code>as far as I could remember</code> 是“就我所记得的而言”，<code>as far as</code> 引出限定范围；<code>the first I might ever have tried</code> 中 <code>might ever have tried</code> 是情态动词加完成式，表示对过去可能性的推测。"
+   ],
+   "vocab": [
+    {
+     "w": "occipital bone",
+     "p": "/ɒkˈsɪpɪtl/",
+     "t": "n.",
+     "z": "枕骨（后脑勺的骨头）"
+    },
+    {
+     "w": "curve",
+     "p": "/kɜːv/",
+     "t": "n.",
+     "z": "曲线，弧度"
+    },
+    {
+     "w": "as far as",
+     "p": "",
+     "t": "句型",
+     "z": "就……而言；到……的程度"
+    },
+    {
+     "w": "might ever have tried",
+     "p": "",
+     "t": "句型",
+     "z": "情态动词+完成式，表示对过去经历的推测"
+    }
+   ]
+  },
+  {
+   "i": 141,
+   "zh": "“你是说那种眼神发直、活像从坟里爬出来的死盯？”",
+   "notes": [
+    "<code>blank-eyed</code> 是复合形容词，指“眼神空洞、目光呆滞”，由形容词加名词加 <code>-ed</code> 构成。",
+    "<code>beyond-the-grave stare</code> 用连字符把短语变成前置定语，意为“超越坟墓的凝视”，调侃死者那种毫无生气的注视。"
+   ],
+   "vocab": [
+    {
+     "w": "blank-eyed",
+     "p": "",
+     "t": "adj.",
+     "z": "目光呆滞的，眼神空洞的"
+    },
+    {
+     "w": "beyond-the-grave",
+     "p": "",
+     "t": "adj.",
+     "z": "坟墓之外的，死后的"
+    },
+    {
+     "w": "stare",
+     "p": "/steə(r)/",
+     "t": "n.",
+     "z": "凝视，死盯"
+    }
+   ]
+  },
+  {
+   "i": 142,
+   "zh": "“什——你是瞎了吗？！她是在打量我！她想要我的那副样子，简直没羞没臊。”",
+   "notes": [
+    "<code>Wha —</code> 是 <code>What</code> 被截断的口语写法，表示惊讶到话没说完。",
+    "全大写的 <code>BLIND</code>、<code>WANTED</code> 表示莫提在加重语气、大声嚷嚷，翻译时可用“？！”“简直”等来体现。",
+    "<code>scout out</code> 意为“物色、打量（看中某人）”，这里是莫提自恋式的说法；<code>It was shameless the way she WANTED me.</code> 是口语中的外位结构，把 <code>the way...</code> 放到句尾，相当于“她那副想要我的样子，真不要脸”。"
+   ],
+   "vocab": [
+    {
+     "w": "BLIND",
+     "p": "/blaɪnd/",
+     "t": "adj.",
+     "z": "瞎的，看不见的（此处大写表强调喊叫）"
+    },
+    {
+     "w": "scouting me out",
+     "p": "",
+     "t": "短语",
+     "z": "打量我，物色我"
+    },
+    {
+     "w": "shameless",
+     "p": "/ˈʃeɪmləs/",
+     "t": "adj.",
+     "z": "无耻的，不知羞的"
+    },
+    {
+     "w": "WANTED",
+     "p": "/ˈwɒntɪd/",
+     "t": "v.",
+     "z": "想要，渴望（大写表示重读强调）"
+    }
+   ]
+  },
+  {
+   "i": 143,
+   "zh": "“我看你和你的想象力，该分开一阵子，各自冷静冷静。”",
+   "notes": [
+    "<code>need some time away from each other</code> 字面是“需要彼此分开一段时间”，用于人和想象力之间构成幽默的拟人效果。",
+    "这是无名氏式的冷幽默：句式平淡、不带感情色彩，反而更显讥讽。"
+   ],
+   "vocab": [
+    {
+     "w": "imagination",
+     "p": "/ɪˌmædʒɪˈneɪʃn/",
+     "t": "n.",
+     "z": "想象力，幻想"
+    },
+    {
+     "w": "some time away from",
+     "p": "",
+     "t": "短语",
+     "z": "与……分开一段时间"
+    }
+   ]
+  },
+  {
+   "i": 144,
+   "zh": "“行行行，随你怎么说。等你像我一样死了这么久，自然就懂这些信号了。它们对你来说也许太‘含蓄’了点，可正因如此，我晚上要陪的是那些水灵灵的刚死的小妞，而你只能站在那儿发愣：‘啊？’‘这是咋回事？’‘我的记——记——记忆呢？’”",
+   "notes": [
+    "<code>Yeah, yeah, whatever.</code> 是极常见的口语应答，表示不耐烦地敷衍对方。",
+    "<code>When you've been dead as long as I have</code> 用现在完成时加 <code>as long as I have</code>，表示“等你死了和我一样久的时候”。",
+    "大写 <code>SUBTLE</code>、<code>MY</code> 表示莫提重读强调；<code>chit</code> 是略带轻蔑的俚语，指年轻女子；<code>muh-muh-memories</code> 用重复音节模拟口吃结巴，嘲笑无名氏失忆的窘态，翻译时可用破折号拖音来还原。"
+   ],
+   "vocab": [
+    {
+     "w": "whatever",
+     "p": "/wɒtˈevə(r)/",
+     "t": "感叹词",
+     "z": "随你怎么说；随便吧（口语中表不在意）"
+    },
+    {
+     "w": "signals",
+     "p": "/ˈsɪɡnəlz/",
+     "t": "n.",
+     "z": "信号，暗示（此处指示好的暗号）"
+    },
+    {
+     "w": "SUBTLE",
+     "p": "/ˈsʌtl/",
+     "t": "adj.",
+     "z": "微妙的，不易察觉的（大写表重读）"
+    },
+    {
+     "w": "chit",
+     "p": "/tʃɪt/",
+     "t": "n.",
+     "z": "（俚，贬）小妞，年轻女子"
+    },
+    {
+     "w": "goin’",
+     "p": "",
+     "t": "短语",
+     "z": "going 的口语缩略，表示“发出（某种声音）”"
+    }
+   ]
+  },
+  {
+   "i": 145,
+   "zh": "“随便你吧，莫提。我们走。”",
+   "notes": [
+    "<code>Whatever</code> 此处单独成句，表示懒得再争辩，与上一段莫提的 <code>whatever</code> 形成呼应。",
+    "<code>Let's go.</code> 用 <code>Let's</code> 提建议，简短有力，符合无名氏一贯寡言的说话方式。"
+   ],
+   "vocab": [
+    {
+     "w": "Whatever",
+     "p": "/wɒtˈevə(r)/",
+     "t": "感叹词",
+     "z": "随便吧；算了（表示不再争论）"
+    },
+    {
+     "w": "Let’s go",
+     "p": "",
+     "t": "句型",
+     "z": "我们走吧（Let's 提建议）"
+    }
+   ]
+  },
+  {
+   "i": 146,
+   "zh": "我继续往前走，进了另一个房间，又看见一个尘人正在一张停尸台前忙活。她是个身材瘦小的年轻女子，面容苍白。脸颊和脖颈处凹陷的皮肉让她看起来像是在挨饿。她似乎一心扑在面前那具尸体的解剖上，伸出一根手指戳着尸体的胸口。",
+   "notes": [
+    "<code>busy at a bier</code> 中 <code>busy at</code> 表示“忙于（某项具体活儿）”，<code>bier</code> 指停放尸体的架子或台子。",
+    "<code>made her appear as if she were starving</code> 用 <code>as if</code> 引导虚拟语气，<code>were</code> 而非 <code>was</code>，强调只是看起来像而非事实。",
+    "<code>intent on</code> 是固定搭配，意为“专注于、一心想要”，后接名词或动名词。"
+   ],
+   "vocab": [
+    {
+     "w": "Dustmen",
+     "p": "",
+     "t": "n.",
+     "z": "尘人（灰烬党成员，崇拜死亡的教派）"
+    },
+    {
+     "w": "bier",
+     "p": "/bɪə(r)/",
+     "t": "n.",
+     "z": "尸架，停尸台"
+    },
+    {
+     "w": "slight",
+     "p": "/slaɪt/",
+     "t": "adj.",
+     "z": "瘦小的，纤弱的"
+    },
+    {
+     "w": "sunken",
+     "p": "/ˈsʌŋkən/",
+     "t": "adj.",
+     "z": "凹陷的，下陷的"
+    },
+    {
+     "w": "intent on",
+     "p": "",
+     "t": "短语",
+     "z": "专注于，一心扑在……上"
+    }
+   ]
+  },
+  {
+   "i": 147,
+   "zh": "我走到她跟前，说了声：“你好。”",
+   "notes": [
+    "<code>moved up to her</code> 中 <code>up to</code> 表示“走近到……跟前”，比 <code>towards</code> 更强调最终靠近。",
+    "<code>Greetings</code> 是比 <code>Hello</code> 更正式、略带距离感的问候语，符合无名氏谨慎试探的态度。"
+   ],
+   "vocab": [
+    {
+     "w": "moved up to",
+     "p": "",
+     "t": "短语",
+     "z": "走近到……跟前"
+    },
+    {
+     "w": "Greetings",
+     "p": "/ˈɡriːtɪŋz/",
+     "t": "感叹词",
+     "z": "你好（正式问候语）"
+    }
+   ]
+  },
+  {
+   "i": 148,
+   "zh": "那女人没有回应……她似乎太专注于面前的尸体了。我看着她干活，忽然注意到她的手……她的手指是利爪。它们像刀子一样在尸体的胸腔里进进出出，摘取器官。",
+   "notes": [
+    "<code>too intent on the body</code> 中 <code>too...to</code> 结构暗示“太专注以至于没听见”，与上文 <code>intent on</code> 呼应。",
+    "<code>darting in and out of</code> 用 <code>dart</code>（急速窜动）描写手指动作，<code>in and out of</code> 表示反复进出。",
+    "<code>removing organs</code> 是现在分词短语作伴随状语，补充说明手指进出胸腔的目的。"
+   ],
+   "vocab": [
+    {
+     "w": "talons",
+     "p": "/ˈtælənz/",
+     "t": "n.",
+     "z": "（猛禽的）利爪；此处指如爪的手指"
+    },
+    {
+     "w": "darting",
+     "p": "/ˈdɑːtɪŋ/",
+     "t": "v.",
+     "z": "急速窜动，飞快地移动"
+    },
+    {
+     "w": "chest cavity",
+     "p": "",
+     "t": "短语",
+     "z": "胸腔"
+    },
+    {
+     "w": "organs",
+     "p": "/ˈɔːɡənz/",
+     "t": "n.",
+     "z": "器官，内脏"
+    }
+   ]
+  },
+  {
+   "i": 149,
+   "zh": "“你的手是怎么回事？”我低声嘟囔，可莫提一定是听见了，因为他接上了话。",
+   "notes": [
+    "<code>must have heard</code> 表示对过去事情的肯定推测，“一定听见了”。",
+    "<code>because he replied</code> 用 <code>because</code> 引出推论依据，说明说话人如何判断莫提听见了。",
+    "<code>muttered</code> 与上文 <code>mumbled</code> 都是“低声说”，<code>mutter</code> 更带不满或自言自语的味道。"
+   ],
+   "vocab": [
+    {
+     "w": "muttered",
+     "p": "/ˈmʌtəd/",
+     "t": "v.",
+     "z": "低声嘟囔，咕哝"
+    },
+    {
+     "w": "must have heard",
+     "p": "",
+     "t": "句型",
+     "z": "一定听见了（对过去的肯定推测）"
+    },
+    {
+     "w": "replied",
+     "p": "/rɪˈplaɪd/",
+     "t": "v.",
+     "z": "回答，应声"
+    }
+   ]
+  },
+  {
+   "i": 150,
+   "zh": "“呃……她是个提夫林，头儿。他们血管里流着魔物的血，多半是因为祖上哪位跟某个恶魔钻过一条裤子。这让他们有些脑子不太灵光……长得也一副不灵光的样子。”",
+   "notes": [
+    "<code>tiefling</code> 是《异域镇魂曲》设定中的种族，带恶魔血统，此处保留音译“提夫林”。",
+    "<code>got fiend blood in their veins</code> 是口语化的 <code>got</code> 代替 <code>have</code>，<code>veins</code> 意为血管。",
+    "<code>shared knickers with</code> 是粗俗诙谐的委婉说法，<code>knickers</code> 指女式内裤，此处暗指发生性关系，翻译时保留粗俗的调侃；<code>addled</code> 意为“糊涂的、脑子不清的”；<code>addled-looking</code> 由它加 <code>-looking</code> 构成复合形容词，指“看上去就傻乎乎的”。"
+   ],
+   "vocab": [
+    {
+     "w": "tiefling",
+     "p": "",
+     "t": "n.",
+     "z": "提夫林（带恶魔血统的种族）"
+    },
+    {
+     "w": "fiend",
+     "p": "/fiːnd/",
+     "t": "n.",
+     "z": "恶魔，魔物"
+    },
+    {
+     "w": "veins",
+     "p": "/veɪnz/",
+     "t": "n.",
+     "z": "血管，静脉"
+    },
+    {
+     "w": "knickers",
+     "p": "/ˈnɪkəz/",
+     "t": "n.",
+     "z": "（英）女式内裤；此处婉指发生关系"
+    },
+    {
+     "w": "addled",
+     "p": "/ˈædld/",
+     "t": "adj.",
+     "z": "头脑糊涂的，昏乱的"
+    }
+   ]
+  },
+  {
+   "i": 151,
+   "zh": "这下我拿定了主意，拍了拍那女人，想引起她的注意。",
+   "notes": [
+    "<code>Determined now</code> 是形容词短语作状语，省去 <code>being</code>，意为“既然已经下定决心”。",
+    "<code>to get her attention</code> 是目的状语，不定式说明拍她的用意。"
+   ],
+   "vocab": [
+    {
+     "w": "Determined",
+     "p": "/dɪˈtɜːmɪnd/",
+     "t": "adj.",
+     "z": "下定决心的，坚决的"
+    },
+    {
+     "w": "tapped",
+     "p": "/tæpt/",
+     "t": "v.",
+     "z": "轻拍，轻敲"
+    },
+    {
+     "w": "get her attention",
+     "p": "",
+     "t": "短语",
+     "z": "引起她的注意"
+    }
+   ]
+  },
+  {
+   "i": 152,
+   "zh": "那女人猛地一跳，转过身来面对我……这下我看清她的眼睛了：一种腐烂的黄色，瞳孔是小小的橙色圆点。她一见我，表情就从惊讶变成了恼怒，冲我皱起眉。",
+   "notes": [
+    "<code>whipped around</code> 中的 <code>whip</code> 作动词表示“猛地转身/甩动”，画面感很强。",
+    "<code>a rotting yellow</code> 把形容词当名词用（前有冠词 <code>a</code>），指“一种腐烂的黄色”，是文学性的写法。",
+    "<code>with small orange dots for pupils</code> 用 <code>with...for...</code> 结构表示“以……充当……”；<code>changed from surprise to irritation</code> 用 <code>from A to B</code> 表示情绪的变化过程。"
+   ],
+   "vocab": [
+    {
+     "w": "whipped around",
+     "p": "",
+     "t": "短语",
+     "z": "猛地转过身来"
+    },
+    {
+     "w": "rotting",
+     "p": "/ˈrɒtɪŋ/",
+     "t": "adj.",
+     "z": "腐烂的，朽坏的"
+    },
+    {
+     "w": "pupils",
+     "p": "/ˈpjuːplz/",
+     "t": "n.",
+     "z": "瞳孔"
+    },
+    {
+     "w": "irritation",
+     "p": "/ˌɪrɪˈteɪʃn/",
+     "t": "n.",
+     "z": "恼怒，烦躁"
+    },
+    {
+     "w": "frowned",
+     "p": "/fraʊnd/",
+     "t": "v.",
+     "z": "皱眉，面露不悦"
+    }
+   ]
+  },
+  {
+   "i": 153,
+   "zh": "她似乎没听见我试着打的招呼，反倒身子前倾、眯起眼睛，像是看不太清我……她眼睛的毛病一定让她近视得厉害。",
+   "notes": [
+    "<code>instead</code> 是连接副词，表示“反而、却”，承接前文“没听见招呼”转而描写她的动作。",
+    "<code>squinting, as if she couldn't quite make me out</code> 中 <code>make out</code> 意为“辨认出、看清”，常与 <code>can/could</code> 连用。",
+    "<code>whatever was wrong with her eyes</code> 用 <code>whatever</code> 引导主语从句，表示“不管她眼睛出了什么毛病”。"
+   ],
+   "vocab": [
+    {
+     "w": "leaning forward",
+     "p": "",
+     "t": "短语",
+     "z": "身体前倾"
+    },
+    {
+     "w": "squinting",
+     "p": "/ˈskwɪntɪŋ/",
+     "t": "v.",
+     "z": "眯眼看，眯起眼睛"
+    },
+    {
+     "w": "make me out",
+     "p": "",
+     "t": "短语",
+     "z": "看清我，辨认出我"
+    },
+    {
+     "w": "near-sighted",
+     "p": "/ˌnɪəˈsaɪtɪd/",
+     "t": "adj.",
+     "z": "近视的"
+    }
+   ]
+  },
+  {
+   "i": 154,
+   "zh": "“你——”她把带爪的手指咔哒一碰，随后双手做了个古怪的动作。“去找缝线，还有防——腐液，拿到这儿来，交给艾薇妮。去——去——去。”",
+   "notes": [
+    "<code>You —</code> 破折号表示话被自己打断或一时语塞，语气生硬。",
+    "<code>clacked her taloned fingers together</code> 中 <code>clack</code> 是拟声动词，指硬物相碰发出“咔哒”声，<code>taloned</code> 是名词加 <code>-ed</code> 构成的形容词。",
+    "<code>EM- balming juice</code> 中间被硬拆开，是全大写加连字符的断词写法，模拟她说话一字一顿、气息断续的样子；<code>embalming juice</code> 即防腐液；<code>Find THREAD and EMBALMING JUICE, bring HERE, to Ei-Vene.</code> 全是祈使句加地点状语的电报式命令，大写表重读，体现她命令式的口吻。"
+   ],
+   "vocab": [
+    {
+     "w": "THREAD",
+     "p": "/θred/",
+     "t": "n.",
+     "z": "线，缝线（大写表重读）"
+    },
+    {
+     "w": "EM- balming juice",
+     "p": "",
+     "t": "短语",
+     "z": "防——腐液（embalming juice 的断词大写写法）"
+    },
+    {
+     "w": "taloned",
+     "p": "/ˈtælənd/",
+     "t": "adj.",
+     "z": "长着利爪的"
+    },
+    {
+     "w": "clacked",
+     "p": "/klækt/",
+     "t": "v.",
+     "z": "发出咔哒声，碰响"
+    },
+    {
+     "w": "HERE",
+     "p": "/hɪə(r)/",
+     "t": "adv.",
+     "z": "这里，到这儿来（大写表重读命令）"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Planescape: Torment 精读站点 · 章节目录</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body data-chapter="index">
+<div class="wrap">
+
+  <header class="top">
+    <span class="chip">Planescape: Torment · 英文小说精读</span>
+    <h1>异域镇魂曲 · 逐段精读</h1>
+    <p class="sub">英文原文 + 中文对照 + 语法注释 + 词汇高亮</p>
+  </header>
+
+  <div class="toolbar">
+    <button class="btn mini" id="fs-down" title="缩小字号">A−</button>
+    <button class="btn mini" id="fs-up" title="放大字号">A+</button>
+    <button class="btn mini" id="t-theme" title="切换深色模式">◐</button>
+    <span class="spacer"></span>
+    <span class="progress-wrap"><span>进度按章保存在浏览器本地</span></span>
+  </div>
+
+  <div class="hero">
+    <p>这个站点把小说按段落拆开，逐段给出中文对照与讲解。阅读时：</p>
+    <p>· 点正文里的<b>蓝色单词</b>／<b>黄色短语</b>就地查看音标与释义；<br>
+       · 关掉「中文译文」可以练习盲读，再打开核对；<br>
+       · 🔊 朗读当前段，✓ 标记「已掌握」，左栏目录会跟随滚动并显示进度；<br>
+       · 章末可搜索全部生词与语法点，并一键导出 CSV 导入 Anki。</p>
+  </div>
+
+  <h2 style="margin-bottom:8px">章节目录</h2>
+  <p class="hint" id="site-stats"></p>
+  <div class="cards" id="chapter-cards"></div>
+
+  <footer class="site">
+    <p>原文：<i>Planescape: Torment</i> 小说化文本（Rhyss Hess 整理）。文本取自本地 PDF 并按页重建，仅供个人英语学习使用。</p>
+  </footer>
+</div>
+
+<script src="data/the-mortuary.js"></script>
+<script src="data/deionarra.js"></script>
+<script src="data/the-hive.js"></script>
+<script src="data/morte-part-i.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

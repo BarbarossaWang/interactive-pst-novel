@@ -1,0 +1,727 @@
+{
+ "chapter": "The Mortuary",
+ "chunk": "the-mortuary-02",
+ "items": [
+  {
+   "i": 23,
+   "zh": "“不对……你来这儿的时候就被扒得精光了。<code>‘Sides</code>，瞧你身上写的这一身日记，也够用了。”这骷髅真是帮不上什么忙。",
+   "notes": [
+    "<code>‘Sides</code> 是 <code>besides</code> 的口语缩略，前面还省掉了主语和动词（<code>Besides,</code>），是很随意的说话习惯，译成“再说”“另外”最自然。",
+    "<code>you got enough of a journal penned on your body</code> 是 <code>have + 宾语 + 过去分词</code>（get 代替 have）的使役结构：<code>penned on your body</code> 作 <code>journal</code> 的后置定语，意思是“你的身体上已经写下了相当一本日记”。",
+    "<code>wasn’t being that much help</code> 用进行时 <code>was being</code> 强调“此刻的表现”，<code>that much</code> 意为“那么大的”，隐含讥讽：指望不上它。"
+   ],
+   "vocab": [
+    {
+     "w": "stripped",
+     "p": "/strɪpt/",
+     "t": "adj.",
+     "z": "被剥光（衣物）的；strip sb. to the skins 即“把人扒得只剩皮”"
+    },
+    {
+     "w": "‘Sides",
+     "p": "",
+     "t": "adv.",
+     "z": "（口语）再说，另外（= Besides）"
+    },
+    {
+     "w": "penned",
+     "p": "/pend/",
+     "t": "v.",
+     "z": "写下（pen 的过去分词）；用笔写"
+    },
+    {
+     "w": "skull",
+     "p": "/skʌl/",
+     "t": "n.",
+     "z": "头骨；此处指会说话的骷髅莫提"
+    },
+    {
+     "w": "that much",
+     "p": "",
+     "t": "短语",
+     "z": "那么大的（程度）；口语中常带否定意味"
+    }
+   ]
+  },
+  {
+   "i": 24,
+   "zh": "“那法罗德呢？你认识他吗？”",
+   "notes": [
+    "<code>What about ...?</code> 用于把话题转向某人某物，相当于“那……呢？”，后面直接跟名词即可。",
+    "<code>Do you know him?</code> 是 <code>know</code> 的静态用法（表示“认识”，不用进行时），与表示“正在了解”的 <code>getting to know</code> 相对。"
+   ],
+   "vocab": [
+    {
+     "w": "What about",
+     "p": "",
+     "t": "句型",
+     "z": "那……呢？（引出新话题或反问）"
+    },
+    {
+     "w": "know",
+     "p": "/nəʊ/",
+     "t": "v.",
+     "z": "认识，熟悉（某人）"
+    }
+   ]
+  },
+  {
+   "i": 25,
+   "zh": "“我认识的人里头没有……不过话说回来，我认识的人本来也没几个。可是，总有<em>某个</em>蠢货知道上哪儿找法罗德……呃，前提是咱们能先从这儿出去。”",
+   "notes": [
+    "<code>Nobody I know</code> 是 <code>Nobody (that) I know</code> 的省略，定语从句省去关系代词 that，口语里极常见。",
+    "<code>but then again</code> 意为“不过话又说回来”，用于自我修正或补充反面情况。",
+    "大写 <code>SOME</code> 表示重读强调，意思是“总归有那么一个”；<code>that is</code> 放在句尾作追加限定，相当于“前提是”“也就是说”。"
+   ],
+   "vocab": [
+    {
+     "w": "Nobody I know",
+     "p": "",
+     "t": "句型",
+     "z": "我认识的人里没有（这样的）人"
+    },
+    {
+     "w": "but then again",
+     "p": "",
+     "t": "习语",
+     "z": "不过话又说回来"
+    },
+    {
+     "w": "berk",
+     "p": "/bɜːk/",
+     "t": "n.",
+     "z": "（俚）蠢货，傻瓜（《异域镇魂曲》黑话）"
+    },
+    {
+     "w": "get out of",
+     "p": "",
+     "t": "短语",
+     "z": "从……出去，逃出"
+    }
+   ]
+  },
+  {
+   "i": 26,
+   "zh": "“我们怎么出去？”",
+   "notes": [
+    "<code>how</code> 问方式，<code>get out of here</code> 是口语里“离开这里、脱身”的固定说法，比 <code>leave</code> 更随意。",
+    "无名氏的问句短促直接，符合他此刻困惑、只想知道出路的语气；译成中文也宜短。"
+   ],
+   "vocab": [
+    {
+     "w": "get out of here",
+     "p": "",
+     "t": "习语",
+     "z": "离开这里；脱身"
+    },
+    {
+     "w": "How do we",
+     "p": "",
+     "t": "句型",
+     "z": "我们怎么……？（询问方式）"
+    }
+   ]
+  },
+  {
+   "i": 27,
+   "zh": "“这个嘛，所有的门都锁着，所以我们得拿到钥匙。多半啊，这屋里某具会走路的尸体身上就有一把。”",
+   "notes": [
+    "<code>all the doors are locked</code> 是 <code>all + 复数名词</code> 作主语，谓语用复数，表示“所有门都……”。",
+    "<code>Chances are (that) ...</code> 是固定句型，意为“很可能……”，that 常省略。",
+    "<code>we'll need</code> 用将来时表推断性的必要：既然门锁着，接下来就需要钥匙。"
+   ],
+   "vocab": [
+    {
+     "w": "locked",
+     "p": "/lɒkt/",
+     "t": "adj.",
+     "z": "锁着的"
+    },
+    {
+     "w": "Chances are",
+     "p": "",
+     "t": "句型",
+     "z": "很可能……；大概……"
+    },
+    {
+     "w": "walking corpses",
+     "p": "",
+     "t": "短语",
+     "z": "会走路的尸体（指被驱使劳作的僵尸）"
+    },
+    {
+     "w": "key",
+     "p": "/kiː/",
+     "t": "n.",
+     "z": "钥匙"
+    }
+   ]
+  },
+  {
+   "i": 28,
+   "zh": "“会走路的尸体？”我问道。",
+   "notes": [
+    "引号里只重复对方的关键词并加问号，是英语口语中最省力的追问方式，相当于“你说的是……？”。",
+    "<code>I queried.</code> 是叙述插入语，<code>query</code> 比 <code>ask</code> 更书面、更带“质疑”色彩。"
+   ],
+   "vocab": [
+    {
+     "w": "queried",
+     "p": "/ˈkwɪərid/",
+     "t": "v.",
+     "z": "询问，质疑（query 的过去式）"
+    },
+    {
+     "w": "corpses",
+     "p": "/kɔːpsɪz/",
+     "t": "n.",
+     "z": "尸体（corpse 的复数）"
+    }
+   ]
+  },
+  {
+   "i": 29,
+   "zh": "“对，停尸间的看守拿尸体当廉价劳力使。那些尸首蠢得跟石头一样，不过不伤人，只要你先动手它们才会还手。”不知为何，一想到杀人，我就心里发慌。",
+   "notes": [
+    "<code>use A as B</code> 意为“把 A 当作 B 使用”，此处是 <code>use dead bodies as cheap labor</code>。",
+    "<code>(as) dumb as stones</code> 是 <code>as + 形容词 + as + 名词</code> 的明喻结构，表示“笨得像石头一样”。",
+    "<code>won’t attack you unless you attack first</code> 中 <code>unless</code> 引导否定条件，等于“除非你先动手”；<code>made me uneasy</code> 是“make + 宾语 + 形容词”的复合宾语结构。"
+   ],
+   "vocab": [
+    {
+     "w": "keepers",
+     "p": "/ˈkiːpəz/",
+     "t": "n.",
+     "z": "看守，管理人（此处指停尸间的管理者）"
+    },
+    {
+     "w": "cheap labor",
+     "p": "",
+     "t": "短语",
+     "z": "廉价劳动力"
+    },
+    {
+     "w": "dumb as stones",
+     "p": "",
+     "t": "习语",
+     "z": "蠢得像石头，笨得可以"
+    },
+    {
+     "w": "harmless",
+     "p": "/ˈhɑːmləs/",
+     "t": "adj.",
+     "z": "无害的，不会伤人的"
+    },
+    {
+     "w": "uneasy",
+     "p": "/ʌnˈiːzi/",
+     "t": "adj.",
+     "z": "不安的，心神不宁的"
+    }
+   ]
+  },
+  {
+   "i": 30,
+   "zh": "“就没有别的办法吗？我不想只为了一把钥匙就去杀它们。”",
+   "notes": [
+    "<code>some other way</code> 中 <code>some</code> 用于疑问句，带有“（应该）有某种”的期待语气，比 <code>any</code> 更倾向肯定答案。",
+    "<code>just for a key</code> 中 for 表原因/目的：“只为了一把钥匙”。",
+    "<code>don’t want to kill</code> 是 <code>want to do</code> 的否定式，直接表达不愿。"
+   ],
+   "vocab": [
+    {
+     "w": "some other way",
+     "p": "",
+     "t": "短语",
+     "z": "别的办法，另外的途径"
+    },
+    {
+     "w": "just for",
+     "p": "",
+     "t": "短语",
+     "z": "仅仅为了"
+    },
+    {
+     "w": "kill",
+     "p": "/kɪl/",
+     "t": "v.",
+     "z": "杀死"
+    }
+   ]
+  },
+  {
+   "i": 31,
+   "zh": "“怎么，你以为这会伤了它们的感情？它们已经<em>死</em>了。不过你要想找点好听的：你要是把它们杀了，至少它们能歇上一会儿，之后看守才再把它们弄起来干活。”",
+   "notes": [
+    "<code>What, you think ...?</code> 用 <code>What</code> 单独起句表示惊讶/不以为然，相当于“怎么，你以为……？”，后面从句不用 that。",
+    "<code>hurt their feelings</code> 是固定搭配“伤某人的感情”，这里被用来讽刺：死人哪来的感情。",
+    "大写 <code>DEAD</code> 表示重读强调；<code>if you want a bright side to this</code> 中 <code>a bright side</code> 指“好的一面、乐观的一面”。"
+   ],
+   "vocab": [
+    {
+     "w": "hurt",
+     "p": "/hɜːt/",
+     "t": "v.",
+     "z": "伤害；hurt one's feelings 伤某人的感情"
+    },
+    {
+     "w": "feelings",
+     "p": "/ˈfiːlɪŋz/",
+     "t": "n.",
+     "z": "感情，情感（常用复数）"
+    },
+    {
+     "w": "bright side",
+     "p": "",
+     "t": "短语",
+     "z": "（事情的）光明面，好的一面"
+    },
+    {
+     "w": "at least",
+     "p": "",
+     "t": "短语",
+     "z": "至少"
+    },
+    {
+     "w": "raise",
+     "p": "/reɪz/",
+     "t": "v.",
+     "z": "使复活，唤起（此处指把尸体重新弄起来）"
+    }
+   ]
+  },
+  {
+   "i": 32,
+   "zh": "“好吧……我去放倒一个，把钥匙拿来。”",
+   "notes": [
+    "<code>Well, all right...</code> 是让步式应答，表示勉强同意，中文用“好吧”最贴切。",
+    "<code>take one of them down</code> 中 <code>take ... down</code> 意为“把……打倒/制服”，是含蓄的“干掉”的说法，比 <code>kill</code> 委婉。"
+   ],
+   "vocab": [
+    {
+     "w": "all right",
+     "p": "",
+     "t": "短语",
+     "z": "（勉强同意）好吧"
+    },
+    {
+     "w": "take one of them down",
+     "p": "",
+     "t": "短语",
+     "z": "放倒其中一个（take ... down 打倒、制服）"
+    }
+   ]
+  },
+  {
+   "i": 33,
+   "zh": "我走向屋里一具漫无目的地挪动着的僵尸。那尸首停下来，茫然地盯着我。我能看见它额头上刻着数字“782”，嘴唇被缝了起来。尸体上飘散出淡淡的甲醛味。",
+   "notes": [
+    "<code>mindlessly moving about the room</code> 是现在分词短语作后置定语，修饰 <code>one of the zombies</code>，相当于省略的定语从句 <code>who was moving...</code>。",
+    "<code>the number “782” carved into his forehead</code> 是 <code>see + 宾语 + 过去分词</code> 的复合结构，<code>carved</code> 表被动（被刻上去）。",
+    "<code>his lips were stitched closed</code> 中 <code>stitched</code> 为过去分词表被动，<code>closed</code> 作结果补语：嘴唇被缝得闭了起来。"
+   ],
+   "vocab": [
+    {
+     "w": "zombies",
+     "p": "/ˈzɒmbiz/",
+     "t": "n.",
+     "z": "僵尸（zombie 的复数）"
+    },
+    {
+     "w": "mindlessly",
+     "p": "/ˈmaɪndləsli/",
+     "t": "adv.",
+     "z": "无意识地，茫然地"
+    },
+    {
+     "w": "stared blankly",
+     "p": "",
+     "t": "短语",
+     "z": "面无表情地盯着看"
+    },
+    {
+     "w": "stitched",
+     "p": "/stɪtʃt/",
+     "t": "v.",
+     "z": "缝合（stitch 的过去分词）"
+    },
+    {
+     "w": "formaldehyde",
+     "p": "/fɔːˈmældɪhaɪd/",
+     "t": "n.",
+     "z": "甲醛（防腐液，停尸间常见气味）"
+    }
+   ]
+  },
+  {
+   "i": 34,
+   "zh": "“头儿，这位看来就是那个走运的请愿者了。瞧……钥匙就在他手里。”不用莫提提醒我也看得见。它左手紧攥着钥匙，拇指和食指死死扣住，那力道简直像是死也不松。我大概得把这尸体的手砍下来才能取出钥匙。",
+   "notes": [
+    "<code>I didn’t need Morte’s help to see that.</code> 用 <code>not need ... to do</code> 表达“不用……也（能）……”，语气上是在嫌弃对方多嘴。",
+    "<code>It was holding the key tightly in its left hand</code> 用过去进行时描写当时正在持续的动作；<code>it</code> 指尸体（说话人不知性别，故用 it）。",
+    "<code>its thumb and forefinger locked around it in a death grip</code> 是独立主格结构（名词 + 过去分词），作伴随状语；<code>hack ... off</code> 意为“（用刀）砍下”，<code>probably</code> 表不确定的推断。"
+   ],
+   "vocab": [
+    {
+     "w": "petitioner",
+     "p": "/pəˈtɪʃənə/",
+     "t": "n.",
+     "z": "请愿者，陈情者（此处指前来停尸间的亡者）"
+    },
+    {
+     "w": "death grip",
+     "p": "",
+     "t": "短语",
+     "z": "死命攥紧，死不松手"
+    },
+    {
+     "w": "forefinger",
+     "p": "/ˈfɔːfɪŋɡə/",
+     "t": "n.",
+     "z": "食指"
+    },
+    {
+     "w": "hack",
+     "p": "/hæk/",
+     "t": "v.",
+     "z": "（用刀斧）砍，劈"
+    }
+   ]
+  },
+  {
+   "i": 35,
+   "zh": "要拿到钥匙，我必须有件武器。我在自己所在的那间屋里翻遍抽屉，终于找出一把解剖刀。莫提一直盯着我的一举一动，这时插话了。",
+   "notes": [
+    "<code>must have</code> 在此表主观上的必要（“必须得有”），不是对过去的推测；<code>I must have a weapon</code> 要按句意读，别误认成“我过去一定有过”。",
+    "<code>until I came up with a scalpel</code> 中 <code>come up with</code> 意为“找到、想出”，<code>until</code> 表示动作持续到某结果出现。",
+    "<code>Morte, who was following my every move, chimed in.</code> 用非限制性定语从句补充说明莫提的状态；<code>follow one's every move</code> 是“紧盯某人一举一动”的固定说法，<code>chime in</code> 指“插话、加入谈话”。"
+   ],
+   "vocab": [
+    {
+     "w": "weapon",
+     "p": "/ˈwepən/",
+     "t": "n.",
+     "z": "武器"
+    },
+    {
+     "w": "drawers",
+     "p": "/drɔːz/",
+     "t": "n.",
+     "z": "抽屉（drawer 的复数）"
+    },
+    {
+     "w": "scalpel",
+     "p": "/ˈskælpəl/",
+     "t": "n.",
+     "z": "解剖刀，手术刀"
+    },
+    {
+     "w": "every move",
+     "p": "",
+     "t": "短语",
+     "z": "一举一动"
+    },
+    {
+     "w": "chimed in",
+     "p": "",
+     "t": "短语",
+     "z": "插话，附和着说"
+    }
+   ]
+  },
+  {
+   "i": 36,
+   "zh": "“好了，你找到解剖刀了！现在去收拾那些尸体吧……别担心，我会退在后面，给你提供宝贵的战术建议。”",
+   "notes": [
+    "<code>Now, go get those corpses...</code> 用逗号把 <code>Now</code> 与祈使句分开，是口语中催促、发号施令的节奏。",
+    "<code>don’t worry</code> 引导的祈使句后接 <code>I'll stay back and provide...</code>，用将来时表“我会（去）……”，实为甩锅式承诺。",
+    "<code>provide valuable tactical advice</code> 是夸张的正面措辞，与“躲在后面不出手”形成反讽；<code>stay back</code> 意为“留在后方，不靠前”。"
+   ],
+   "vocab": [
+    {
+     "w": "provide",
+     "p": "/prəˈvaɪd/",
+     "t": "v.",
+     "z": "提供"
+    },
+    {
+     "w": "tactical",
+     "p": "/ˈtæktɪkəl/",
+     "t": "adj.",
+     "z": "战术上的"
+    },
+    {
+     "w": "advice",
+     "p": "/ədˈvaɪs/",
+     "t": "n.",
+     "z": "建议，忠告（不可数名词）"
+    },
+    {
+     "w": "stay back",
+     "p": "",
+     "t": "短语",
+     "z": "留在后面，不往前凑"
+    }
+   ]
+  },
+  {
+   "i": 37,
+   "zh": "“也许你可以帮我一把，莫提。”",
+   "notes": [
+    "<code>Maybe you could ...</code> 用 <code>could</code> 而非 <code>can</code>，是委婉的请求/建议语气，相当于“你能不能……”。",
+    "<code>help me</code> 后未说做什么，为下一句的“我指的是……”埋下转折。"
+   ],
+   "vocab": [
+    {
+     "w": "Maybe",
+     "p": "/ˈmeɪbi/",
+     "t": "adv.",
+     "z": "也许，或许"
+    },
+    {
+     "w": "could",
+     "p": "/kʊd/",
+     "t": "情态动词",
+     "z": "能，可以（此处表委婉请求）"
+    },
+    {
+     "w": "help",
+     "p": "/help/",
+     "t": "v.",
+     "z": "帮助"
+    }
+   ]
+  },
+  {
+   "i": 38,
+   "zh": "“我<em>会</em>帮你的。好建议可不好找。”我对这喋喋不休的骷髅突然涌起一股怒火。",
+   "notes": [
+    "大写 <code>WILL</code> 表示重读，强调“我当然会”，是对前一句的抢白式回应。",
+    "<code>Good advice is hard to come by.</code> 是 <code>be hard to come by</code> 的固定表达，意为“很难得到、难得一见”；<code>come by</code> 在此是“获得”。",
+    "<code>the jabbering skull</code> 用现在分词 <code>jabbering</code> 作前置定语，<code>jabber</code> 指“叽里呱啦地说个不停”，带明显贬义，呼应叙述者的怒意。"
+   ],
+   "vocab": [
+    {
+     "w": "advice",
+     "p": "/ədˈvaɪs/",
+     "t": "n.",
+     "z": "建议，忠告"
+    },
+    {
+     "w": "come by",
+     "p": "",
+     "t": "短语",
+     "z": "得到，获得（hard to come by 难得到）"
+    },
+    {
+     "w": "sudden",
+     "p": "/ˈsʌdn/",
+     "t": "adj.",
+     "z": "突然的，骤然的"
+    },
+    {
+     "w": "jabbering",
+     "p": "/ˈdʒæbərɪŋ/",
+     "t": "adj.",
+     "z": "喋喋不休的，叽叽喳喳的"
+    }
+   ]
+  },
+  {
+   "i": 39,
+   "zh": "“我指的是帮我攻击那具尸体。”",
+   "notes": [
+    "<code>I meant ...</code> 用过去式表示“我（刚才）的意思是……”，用于澄清误会，比 <code>I mean</code> 更强调纠正前面的话。",
+    "<code>help in doing sth.</code> 中 <code>in</code> 后接动名词，表示“在……方面帮忙”；<code>help in attacking</code> 即“帮忙进攻”。"
+   ],
+   "vocab": [
+    {
+     "w": "meant",
+     "p": "/ment/",
+     "t": "v.",
+     "z": "意思是（mean 的过去式，用于澄清）"
+    },
+    {
+     "w": "attacking",
+     "p": "/əˈtækɪŋ/",
+     "t": "v.",
+     "z": "攻击，进攻（attack 的动名词）"
+    },
+    {
+     "w": "corpse",
+     "p": "/kɔːps/",
+     "t": "n.",
+     "z": "尸体"
+    }
+   ]
+  },
+  {
+   "i": 40,
+   "zh": "“我？我是个浪漫派，不是当兵的。我只会碍手碍脚。”",
+   "notes": [
+    "<code>Me?</code> 用宾格单独成句，是口语中反问“我？”的惯用法，表示意外或推脱。",
+    "<code>I'm a romantic, not a soldier.</code> 用 <code>A, not B</code> 的对比结构自我定位，语气带调侃。",
+    "<code>get in the way</code> 是固定短语“挡道、碍事”，此处加 <code>just</code> 表示“只会”，为逃避战斗找借口。"
+   ],
+   "vocab": [
+    {
+     "w": "romantic",
+     "p": "/rəˈmæntɪk/",
+     "t": "n.",
+     "z": "浪漫的人，浪漫派（此处为名词）"
+    },
+    {
+     "w": "soldier",
+     "p": "/ˈsəʊldʒə/",
+     "t": "n.",
+     "z": "士兵，军人"
+    },
+    {
+     "w": "get in the way",
+     "p": "",
+     "t": "习语",
+     "z": "挡道，碍事"
+    }
+   ]
+  },
+  {
+   "i": 41,
+   "zh": "“我动手砍这具尸体的时候，你最好就待在我旁边，不然下一刀我就扎进你身上。”",
+   "notes": [
+    "<code>you better ...</code> 是 <code>you had better</code> 的口语省略形式，后接动词原形，表示强烈劝告乃至威胁。",
+    "<code>be right there with me</code> 中 <code>right</code> 起强调作用，意为“就在（我身边）”；<code>there</code> 指说话人所在之处。",
+    "<code>or you'll be the next thing that I plunge this scalpel in</code> 用 <code>or</code> 引出后果，<code>the next thing (that) I ... in</code> 是“我下一个拿……扎进去的东西”；<code>plunge ... in</code> 指“把（刀）猛刺进去”，注意介词 <code>in</code> 留在句尾。"
+   ],
+   "vocab": [
+    {
+     "w": "better",
+     "p": "/ˈbetə/",
+     "t": "情态动词",
+     "z": "最好（had better 的省略，后接动词原形）"
+    },
+    {
+     "w": "right there",
+     "p": "",
+     "t": "短语",
+     "z": "就在那里，就在旁边"
+    },
+    {
+     "w": "plunge",
+     "p": "/plʌndʒ/",
+     "t": "v.",
+     "z": "猛力插入，扎进"
+    },
+    {
+     "w": "scalpel",
+     "p": "/ˈskælpəl/",
+     "t": "n.",
+     "z": "解剖刀，手术刀"
+    }
+   ]
+  },
+  {
+   "i": 42,
+   "zh": "“呃……好吧，我帮你。”我又朝那僵尸走过去。",
+   "notes": [
+    "<code>Eh...</code> 是犹豫、不情愿的叹词，中文以“呃……”对应最自然。",
+    "<code>all right</code> 在被迫让步的语境下表示“好吧，行吧”，与前面的迟疑连用，凸显莫提的服软。"
+   ],
+   "vocab": [
+    {
+     "w": "Eh",
+     "p": "/eɪ/",
+     "t": "感叹词",
+     "z": "呃（表示犹豫、勉强）"
+    },
+    {
+     "w": "all right",
+     "p": "",
+     "t": "短语",
+     "z": "好吧，行吧（勉强答应）"
+    },
+    {
+     "w": "approached",
+     "p": "/əˈprəʊtʃt/",
+     "t": "v.",
+     "z": "走近，靠近（approach 的过去式）"
+    }
+   ]
+  },
+  {
+   "i": 43,
+   "zh": "“我要那把钥匙，尸首……看样子你在这世上待不久了。”解剖刀捅了几下，那东西转眼就成了一具不再动弹的尸体；我用得来的钥匙打开了那间屋的一扇门。",
+   "notes": [
+    "<code>I need that key, corpse...</code> 用的是呼语（直接称呼对方），译文中保留“尸首……”的称呼即可，不必补“喂”。",
+    "<code>you’re not long for this world</code> 是习语，字面“你在这世上不久了”，即“你活不长了、快完了”，常用于临终或威胁。",
+    "<code>Several thrusts with the scalpel quickly turned the creature into a now unmoving corpse</code> 是 <code>turn A into B</code> 结构（使 A 变成 B），<code>now unmoving</code> 作 <code>corpse</code> 的定语，<code>now</code> 强调“（砍完之后）此刻已不动”。"
+   ],
+   "vocab": [
+    {
+     "w": "not long for this world",
+     "p": "",
+     "t": "习语",
+     "z": "活不长了，快死了"
+    },
+    {
+     "w": "thrusts",
+     "p": "/θrʌsts/",
+     "t": "n.",
+     "z": "刺，捅（thrust 的复数，此处作名词）"
+    },
+    {
+     "w": "unmoving",
+     "p": "/ʌnˈmuːvɪŋ/",
+     "t": "adj.",
+     "z": "不动的，静止的"
+    },
+    {
+     "w": "obtained",
+     "p": "/əbˈteɪnd/",
+     "t": "v.",
+     "z": "获得，取得（obtain 的过去式）"
+    }
+   ]
+  },
+  {
+   "i": 44,
+   "zh": "“给你个建议，头儿：从现在起还是悄着点吧——没必要往那本死人簿上再添尸体，尤其是那些娘们儿。再说，杀人可能会把看守引过来。”",
+   "notes": [
+    "<code>I'd keep it quiet from here on</code> 中 <code>I'd</code> = <code>I would</code>，用于给建议（“我会……”，实为“你最好……”）；<code>keep it quiet</code> 意为“保持安静、别声张”，<code>from here on</code> 意为“从现在起”。",
+    "<code>no need to put any more corpses in the dead book than necessary</code> 是 <code>no need to do</code> 的省略句（省略 There is），<code>more ... than necessary</code> 表示“超出必要的、多于所需的”。",
+    "<code>the femmes</code> 是 <code>femme</code>（<code>femme fatale</code> 之省）的口语用法，此处指“女人”；<code>draw the caretakers here</code> 用 <code>draw</code> 表“吸引、招来”。"
+   ],
+   "vocab": [
+    {
+     "w": "chief",
+     "p": "/tʃiːf/",
+     "t": "n.",
+     "z": "（称呼）头儿，老大"
+    },
+    {
+     "w": "keep it quiet",
+     "p": "",
+     "t": "短语",
+     "z": "保持安静，别声张"
+    },
+    {
+     "w": "from here on",
+     "p": "",
+     "t": "短语",
+     "z": "从现在起，从今往后"
+    },
+    {
+     "w": "dead book",
+     "p": "",
+     "t": "短语",
+     "z": "死人簿（此处指死者的名册/账本）"
+    },
+    {
+     "w": "femmes",
+     "p": "/femz/",
+     "t": "n.",
+     "z": "（口语）女人（femme 的复数）"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,702 @@
+{
+ "chapter": "The Hive",
+ "chunk": "the-hive-04",
+ "items": [
+  {
+   "i": 67,
+   "zh": "我这才明白那句话说的是我。说话的是个红发女孩，模样十分扎眼，一身皮甲。她右臂上覆着一排交错的甲片，看上去像是从什么生物身上剥下来的皮；左臂上则护着一块带角状突起的护肩。奇怪的是，她竟然有条尾巴……我盯着看时，那尾巴正来回甩动。她察觉到了我的兴趣。",
+   "notes": [
+    "<code>referring to me</code>：<code>refer to</code> 在此是“指的是、说的是”，不是“参考”。",
+    "<code>as if they were taken from the skin of some creature</code> 是 <code>as if</code> 引导的虚拟语气从句，用过去式 <code>were</code> 表示与事实不符的猜测：“像是从某种生物身上取下的皮”。",
+    "<code>Oddly enough</code> 是固定插入语，“说来也怪”，常放在句首引出反常之处；<code>flicking back and forth</code> 则是“来回甩动”的生动说法。"
+   ],
+   "vocab": [
+    {
+     "w": "striking",
+     "p": "/ˈstraɪkɪŋ/",
+     "t": "adj.",
+     "z": "引人注目的，出众的（形容容貌或外形很扎眼）"
+    },
+    {
+     "w": "interlocking",
+     "p": "/ˌɪntəˈlɒkɪŋ/",
+     "t": "adj.",
+     "z": "交错的，互相扣合的（指甲片一片扣一片）"
+    },
+    {
+     "w": "horned",
+     "p": "/hɔːnd/",
+     "t": "adj.",
+     "z": "有角的，带角状突起的"
+    },
+    {
+     "w": "flicking",
+     "p": "/ˈflɪkɪŋ/",
+     "t": "v.",
+     "z": "轻甩，抽动（flick back and forth 来回甩动）"
+    }
+   ]
+  },
+  {
+   "i": 68,
+   "zh": "“滚开。”",
+   "notes": [
+    "<code>Pike off</code> 是印记城蜂巢一带的粗话，等于“滚开、滚远点”，语气比 <code>go away</code> 粗暴得多，与后文 <code>berk</code>、<code>cutter</code> 同属市井俚语。",
+    "原文只用 <code>off</code>，是个短语动词的省略说法，靠 <code>pike</code> 一词就能听出轻蔑。"
+   ],
+   "vocab": [
+    {
+     "w": "Pike off",
+     "p": "/ˌpaɪk ˈɒf/",
+     "t": "短语",
+     "z": "滚开（蜂巢俚语，带侮辱性）"
+    },
+    {
+     "w": "Pike",
+     "p": "/paɪk/",
+     "t": "v.",
+     "z": "（俚）走开、溜走（Pike off 中的动词）"
+    }
+   ]
+  },
+  {
+   "i": 69,
+   "zh": "我没理会这句，向她打了个招呼，问她是谁。女孩嗤笑一声，用尾巴做了个下流的手势。",
+   "notes": [
+    "<code>Ignoring the comment</code> 是现在分词短语作状语，表伴随动作，主语仍是 <code>I</code>：我一边不理那句话，一边打招呼。",
+    "<code>asking who she was</code> 与 <code>greeted her</code> 并列，都用过去式，注意中文里“问她是谁”要转成间接问句，语序回到陈述语序。",
+    "<code>made an obscene gesture</code> 是固定搭配：“做了个猥亵／下流的手势”。"
+   ],
+   "vocab": [
+    {
+     "w": "Ignoring",
+     "p": "/ɪɡˈnɔːrɪŋ/",
+     "t": "v.",
+     "z": "不理，无视（ignore 的现在分词）"
+    },
+    {
+     "w": "sneered",
+     "p": "/snɪəd/",
+     "t": "v.",
+     "z": "嗤笑，讥笑（带轻蔑意味地笑或说话）"
+    },
+    {
+     "w": "obscene",
+     "p": "/əbˈsiːn/",
+     "t": "adj.",
+     "z": "下流的，猥亵的"
+    },
+    {
+     "w": "gesture",
+     "p": "/ˈdʒestʃə/",
+     "t": "n.",
+     "z": "手势，动作（make a gesture 做个手势）"
+    }
+   ]
+  },
+  {
+   "i": 70,
+   "zh": "“滚开，你这什么都不懂的蠢货。”",
+   "notes": [
+    "<code>yeh</code> 是 <code>you</code> 的口语变体，<code>yer</code> 是 <code>your</code>，都是印记城下层人的口音拼写，翻译时用“你这……”来体现粗鲁。",
+    "<code>sod</code> 是英式粗口，本指“ sodomite ”，此处作骂人的“蠢货、混账”。",
+    "<code>clueless</code> 字面是“无线索的”，引申为“什么都不懂、没头没脑”，与本章的 <code>berk</code>（蠢货）意思相近。"
+   ],
+   "vocab": [
+    {
+     "w": "yeh",
+     "p": "/jeɪ/",
+     "t": "pron.",
+     "z": "（口音拼写）你，即 you"
+    },
+    {
+     "w": "clueless",
+     "p": "/ˈkluːləs/",
+     "t": "adj.",
+     "z": "一无所知的，没头绪的（此处骂人“什么都不懂”）"
+    },
+    {
+     "w": "sod",
+     "p": "/sɒd/",
+     "t": "n.",
+     "z": "（英俚，骂人）蠢货，混账东西"
+    }
+   ]
+  },
+  {
+   "i": 71,
+   "zh": "这姑娘本身倒是值得多看几眼，可她知道自个儿有条尾巴吗？她一开口，我才明白自己准是把心里想的说出了声。",
+   "notes": [
+    "<code>well worth looking at</code>：<code>worth + 动名词</code> 表示“值得……”，<code>well</code> 加强语气，“很值得一看”。",
+    "<code>did she know…?</code> 是修辞性疑问，并不是真在发问，只表示“她到底知不知道”。",
+    "<code>must have blurted out</code> 是 <code>must have + 过去分词</code>，对过去的事情作肯定推测：“一定是我说漏了嘴”；<code>blurt out</code> 意为“脱口说出”。"
+   ],
+   "vocab": [
+    {
+     "w": "worth",
+     "p": "/wɜːθ/",
+     "t": "adj.",
+     "z": "值得的（be worth doing 值得做某事）"
+    },
+    {
+     "w": "blurted out",
+     "p": "/ˌblɜːtɪd ˈaʊt/",
+     "t": "短语",
+     "z": "脱口说出，不慎说漏嘴"
+    }
+   ]
+  },
+  {
+   "i": 72,
+   "zh": "“是吗？”女孩看了看自己的尾巴。“还真有！我还当是自己眼看花了呢。哟，你这刀客眼睛倒挺尖？”她龇出牙来。“你打哪儿钻出来的，就滚回哪个洞里去，别来烦我！我和我的尾巴都不卖，懂了吗？”我正支吾着要答话，莫提插了进来，",
+   "notes": [
+    "<code>Do I now?</code> 是省略句，等于 <code>Do I have a tail now?</code>，<code>now</code> 在此是表示意外或讥讽的语气词：“是吗？真有这回事？”",
+    "<code>An here I was thinking…</code> 里 <code>An</code> 即 <code>and</code>，是口音拼写；<code>Here I was thinking…</code> 是固定句式“我还一直以为……”，用来表达自己原先的误会。",
+    "<code>My, aren’t yeh a sharp cutter?</code> 中 <code>My</code> 是表示惊讶的感叹词“哎呀”；<code>cutter</code> 在印记城指“刀客、狠角色”，此处带讽刺：你这人可真精明。"
+   ],
+   "vocab": [
+    {
+     "w": "An",
+     "p": "/æn/",
+     "t": "conj.",
+     "z": "（口音拼写）and，口语中弱读的“而、可是”"
+    },
+    {
+     "w": "sharp",
+     "p": "/ʃɑːp/",
+     "t": "adj.",
+     "z": "敏锐的，精明的（a sharp cutter 眼睛尖、脑子快的人）"
+    },
+    {
+     "w": "cutter",
+     "p": "/ˈkʌtə/",
+     "t": "n.",
+     "z": "（印记城俚语）刀客，狠角色，泛指“人、家伙”"
+    },
+    {
+     "w": "bared",
+     "p": "/beəd/",
+     "t": "v.",
+     "z": "露出（牙齿）（bare one’s teeth 龇牙，含威胁意）"
+    },
+    {
+     "w": "jig",
+     "p": "/dʒɪɡ/",
+     "t": "interj.",
+     "z": "（蜂巢俚语）懂了吗？明白没？（用于句尾追问）"
+    }
+   ]
+  },
+  {
+   "i": 73,
+   "zh": "“你和你的尾巴不卖倒也好。反正就凭那点货色，你们也挣不出一口饭来。”幸好他的嗓音太低，她听不出他在说什么，只是疑惑地看着莫提。我已经出过一回丑了。索性就把自己的好奇心弄个明白吧。",
+   "notes": [
+    "<code>It’s just as well (that)…</code> 是固定说法：“……倒也无妨／也好”，常用于对前文作冷淡的评断。",
+    "<code>You couldn’t squeak out a living</code>：<code>squeak out a living</code> 意为“勉强糊口、勉强度日”，<code>squeak</code> 本指“吱吱叫”，这里暗讽她像老鼠。",
+    "<code>too low pitched for her to make him out</code> 是 <code>too…for sb. to do</code> 结构“太……以至于某人无法……”；<code>make out</code> 在此是“听清、辨认出”。"
+   ],
+   "vocab": [
+    {
+     "w": "just as well",
+     "p": "/ˌdʒʌst əz ˈwel/",
+     "t": "短语",
+     "z": "倒也无妨，也好（对某事作不在意的评断）"
+    },
+    {
+     "w": "squeak",
+     "p": "/skwiːk/",
+     "t": "v.",
+     "z": "发出吱吱声（squeak out a living 勉强糊口）"
+    },
+    {
+     "w": "pitched",
+     "p": "/pɪtʃt/",
+     "t": "adj.",
+     "z": "音高为……的（low pitched 低沉的）"
+    },
+    {
+     "w": "questioningly",
+     "p": "/ˈkwestʃənɪŋli/",
+     "t": "adv.",
+     "z": "疑惑地，带着疑问地"
+    }
+   ]
+  },
+  {
+   "i": 74,
+   "zh": "“他什么也没说……可我还是好奇……你为什么会有条尾巴？”",
+   "notes": [
+    "<code>He didn’t say anything… but I'm still curious…</code> 用省略号断开，模仿无名氏迟疑、一句一顿的口气，译文的断句要保留。",
+    "<code>why do you have a tail?</code> 是直接问句作 <code>curious</code> 的补充内容；若改为间接问句则为 <code>curious why you have a tail</code>。",
+    "注意此句与上一段 <code>I'd already made a fool of myself</code> 的呼应：明知丢脸，还是忍不住要问。"
+   ],
+   "vocab": [
+    {
+     "w": "curious",
+     "p": "/ˈkjʊəriəs/",
+     "t": "adj.",
+     "z": "好奇的，想知道的"
+    },
+    {
+     "w": "still",
+     "p": "/stɪl/",
+     "t": "adv.",
+     "z": "仍然，还是（此处强调“尽管刚才出丑，还是想知道”）"
+    }
+   ]
+  },
+  {
+   "i": 75,
+   "zh": "“你是傻的吗？莫非你比石头还笨，还是说你就是‘无知’本尊？但愿达布斯一砖头拍过来，把你砌成一条街！”莫提替我回答了这个问题。",
+   "notes": [
+    "<code>Are yeh daft?</code> 中 <code>daft</code> 是英式口语“犯傻的、脑子不正常的”，比 <code>stupid</code> 更口语。",
+    "<code>mayhap</code> 是 <code>maybe</code> 的古语／方言形式，多见于奇幻腔调的对白。",
+    "<code>May the dabus brick yeh over and make yeh a street!</code> 是 <code>May + 主语 + 动词</code> 引导的诅咒式祈愿句“但愿……”；<code>dabus</code> 是印记城里会修街、会重塑城区的奇异生物，<code>brick sb. over</code> 指用砖把人砌起来、封进去。"
+   ],
+   "vocab": [
+    {
+     "w": "daft",
+     "p": "/dɑːft/",
+     "t": "adj.",
+     "z": "（英口）傻的，犯糊涂的"
+    },
+    {
+     "w": "mayhap",
+     "p": "/meɪˈhæp/",
+     "t": "adv.",
+     "z": "（古／方）也许，或许"
+    },
+    {
+     "w": "dabus",
+     "p": "/ˈdeɪbəs/",
+     "t": "n.",
+     "z": "达布斯（印记城中修整街道、重塑城区的奇异生物）"
+    },
+    {
+     "w": "brick",
+     "p": "/brɪk/",
+     "t": "v.",
+     "z": "用砖砌起（brick sb. over 用砖把人砌进去）"
+    }
+   ]
+  },
+  {
+   "i": 76,
+   "zh": "“她是个提夫林，老大。他们身上流着点恶魔的血，所以总是疑神疑鬼、见谁都防着……不过尾巴倒是好看。可惜长在这么一副丑皮囊上。”我想插句话，却插不进去，她已经回嘴了。",
+   "notes": [
+    "<code>tiefling</code> 是《异域镇魂曲》设定中的种族名，通译“提夫林”，指带有下层界血脉的人，音译后全章保持一致。",
+    "<code>They got some demon’s blood in ‘em</code> 是口语化的省略：<code>got</code> 代替 <code>have</code>，<code>‘em</code> 代替 <code>them</code>。",
+    "<code>Shame it’s plastered on such an ugly body</code>：<code>Shame (that)…</code> 是省略 <code>It’s a</code> 的口语句式“可惜……”；<code>plastered on</code> 本义“糊在……上”，此处带贬损意味地形容“贴／长在”。"
+   ],
+   "vocab": [
+    {
+     "w": "tiefling",
+     "p": "/ˈtiːflɪŋ/",
+     "t": "n.",
+     "z": "提夫林（带恶魔血脉的种族）"
+    },
+    {
+     "w": "demon",
+     "p": "/ˈdiːmən/",
+     "t": "n.",
+     "z": "恶魔，妖魔"
+    },
+    {
+     "w": "paranoid",
+     "p": "/ˈpærənɔɪd/",
+     "t": "adj.",
+     "z": "多疑的，有被害妄想的"
+    },
+    {
+     "w": "defensive",
+     "p": "/dɪˈfensɪv/",
+     "t": "adj.",
+     "z": "戒备的，防卫心重的"
+    },
+    {
+     "w": "plastered",
+     "p": "/ˈplɑːstəd/",
+     "t": "v.",
+     "z": "涂抹，糊上（此处喻指“长在、贴在那副身子上”）"
+    }
+   ]
+  },
+  {
+   "i": 77,
+   "zh": "“你最好闭上那张骨头嘴，你这满口喷粪的密米尔，别等我把你从下巴那儿劈开，懂了吗？”",
+   "notes": [
+    "<code>latch yer bonebox</code>：<code>bonebox</code> 是蜂巢俚语，字面“骨头匣子”，指“嘴巴”；<code>latch</code> 本义“闩上”，<code>latch your bonebox</code> 即“闭嘴”。",
+    "<code>‘fore</code> 是 <code>before</code> 的省略口语拼写，等于“免得、趁着还没”。",
+    "<code>mimir</code> 指会说话的骷髅头这类存在，莫提正是密米尔；此处她用这个词骂他，<code>splits it from yer jaw</code> 里 <code>it</code> 承接前面的 <code>bonebox</code>：把你的嘴从下巴上劈下来。"
+   ],
+   "vocab": [
+    {
+     "w": "latch",
+     "p": "/lætʃ/",
+     "t": "v.",
+     "z": "闩上，插上（latch one’s bonebox 闭嘴）"
+    },
+    {
+     "w": "bonebox",
+     "p": "/ˈbəʊnbɒks/",
+     "t": "n.",
+     "z": "（蜂巢俚语）嘴巴，嘴"
+    },
+    {
+     "w": "mimir",
+     "p": "/ˈmiːmɪə/",
+     "t": "n.",
+     "z": "密米尔（会说话的骷髅头一类存在，莫提即属此类）"
+    },
+    {
+     "w": "‘fore",
+     "p": "/fɔː/",
+     "t": "conj.",
+     "z": "（口语拼写）before，在……之前，免得"
+    }
+   ]
+  },
+  {
+   "i": 78,
+   "zh": "“你倒是来劈劈看啊，小丫头？！我只听见蜂巢的垃圾在叽叽喳喳！动手啊！我看你敢！我把你两条腿咬下来！”",
+   "notes": [
+    "<code>Why don’t you try and…</code> 表面是建议，实为挑衅：“你倒是试试看啊”。",
+    "<code>All I'm hearing is…</code> 是 <code>All + 主语 + 动词</code> 的强调句式：“我听到的全是……”。",
+    "<code>chit</code> 是对年轻女子的轻蔑称呼，相当于“小丫头、黄毛丫头”；<code>Hive trash</code> 直译“蜂巢的垃圾”，是骂人的话。<code>I dare you!</code> 是固定挑衅语“我看你敢”，<code>I'll bite your legs off!</code> 则用将来时表威胁。"
+   ],
+   "vocab": [
+    {
+     "w": "split",
+     "p": "/splɪt/",
+     "t": "v.",
+     "z": "劈开，裂开（split one’s jaw 劈开下巴）"
+    },
+    {
+     "w": "chit",
+     "p": "/tʃɪt/",
+     "t": "n.",
+     "z": "（贬）小丫头，黄毛丫头"
+    },
+    {
+     "w": "chatter",
+     "p": "/ˈtʃætə/",
+     "t": "n.",
+     "z": "喋喋不休的话，叽叽喳喳的吵闹声"
+    },
+    {
+     "w": "trash",
+     "p": "/træʃ/",
+     "t": "n.",
+     "z": "垃圾，废物（骂人语）"
+    },
+    {
+     "w": "dare",
+     "p": "/deə/",
+     "t": "v.",
+     "z": "敢，胆敢（I dare you 我看你敢）"
+    }
+   ]
+  },
+  {
+   "i": 79,
+   "zh": "“够了！”我终于挤出一句。",
+   "notes": [
+    "<code>Enough!</code> 是省略句，完整说法是 <code>That’s enough!</code>，用来喝止争吵。",
+    "<code>finally got out</code> 中 <code>get out</code> 意为“（费力地）说出、挤出（话）”，呼应前文 <code>fumbled for a reply</code>，说明无名氏一直插不上话。",
+    "一个感叹号加短句，节奏上的断裂正好表现他被人抢白许久、终于爆发的一刻。"
+   ],
+   "vocab": [
+    {
+     "w": "Enough",
+     "p": "/ɪˈnʌf/",
+     "t": "interj.",
+     "z": "够了！（用于喝止）"
+    },
+    {
+     "w": "got out",
+     "p": "/ˌɡɒt ˈaʊt/",
+     "t": "短语",
+     "z": "（费力地）说出，挤出（话语）"
+    }
+   ]
+  },
+  {
+   "i": 80,
+   "zh": "“对，这才像话。把你的密米尔拴好，蠢货，不然我就连他那具身子一块儿埋了，懂了吗？”我估摸着，从这家伙嘴里再也掏不出什么了。",
+   "notes": [
+    "<code>Aye, that’s right.</code> 中 <code>aye</code> 是口语的“是、对”，常表赞同或确认。",
+    "<code>Leash yer mimir</code>：<code>leash</code> 本义“给（狗）上牵绳”，此处是“管好、看住（你的跟班）”。",
+    "<code>‘tard</code> 是 <code>retard</code> 的缩略骂人语“蠢货、白痴”，与本段的 <code>jig?</code> 一样都是市井粗口；<code>I figured I wouldn’t get anything more out of this one</code> 中 <code>figure</code> 是美式口语“料想、估计”，<code>get sth. out of sb.</code> 意为“从某人那里问出／得到某物”。"
+   ],
+   "vocab": [
+    {
+     "w": "Aye",
+     "p": "/aɪ/",
+     "t": "interj.",
+     "z": "（口）是，对，没错"
+    },
+    {
+     "w": "Leash",
+     "p": "/liːʃ/",
+     "t": "v.",
+     "z": "用皮带牵住，管束（此处指管好你的跟班）"
+    },
+    {
+     "w": "‘tard",
+     "p": "/tɑːd/",
+     "t": "n.",
+     "z": "（骂人语）蠢货，白痴（retard 的缩略）"
+    },
+    {
+     "w": "figured",
+     "p": "/ˈfɪɡəd/",
+     "t": "v.",
+     "z": "（美口）料想，估计"
+    }
+   ]
+  },
+  {
+   "i": 81,
+   "zh": "“那就告辞了。”",
+   "notes": [
+    "<code>Farewell</code> 比 <code>goodbye</code> 正式、带古风，用在此处与满口粗话的蜂巢场景形成反差，也显出无名氏说话仍是有礼的。",
+    "句首 <code>then</code> 表“那么、既然如此”，是承接对方态度的收尾词。",
+    "原文用逗号加 <code>then</code> 造成停顿，译文用“那就”保留这种略一停顿、从容告退的语气。"
+   ],
+   "vocab": [
+    {
+     "w": "Farewell",
+     "p": "/ˌfeəˈwel/",
+     "t": "interj.",
+     "z": "再会，告辞（较正式、带古风）"
+    },
+    {
+     "w": "then",
+     "p": "/ðen/",
+     "t": "adv.",
+     "z": "那么，既然如此（用于承接上文作结）"
+    }
+   ]
+  },
+  {
+   "i": 82,
+   "zh": "“好，那就滚回你来的地方去吧。”",
+   "notes": [
+    "<code>Aye</code> 在此不是赞同，而是敷衍地“行、好”，随后立刻赶人。",
+    "<code>pike off ta wherever yeh came from</code>：<code>ta</code> 是 <code>to</code> 的口音拼写，<code>wherever yeh came from</code> 是名词性从句作 <code>to</code> 的宾语：“滚回你来的那个地方”。",
+    "与第 68、70 段的 <code>Pike off</code> 首尾呼应，同一个词三次出现，把她不耐烦的态度一路贯到底。"
+   ],
+   "vocab": [
+    {
+     "w": "wherever",
+     "p": "/weərˈevə/",
+     "t": "conj.",
+     "z": "无论哪里（此处指“你来的那个地方”）"
+    },
+    {
+     "w": "ta",
+     "p": "/tɑː/",
+     "t": "prep.",
+     "z": "（口音拼写）to，到、向"
+    }
+   ]
+  },
+  {
+   "i": 83,
+   "zh": "我继续往前走。一个小贩引起了我的注意。这人长得腌臜，很快就发现我盯上了他；转眼工夫他已经凑到我面前，兜售起他的“货色”来。他手里举着一根长木杆，杆上吊着几十只剥了皮、烤熟了的老鼠。他一边说话，一边用一只沾满污垢的大手朝那些老鼠比划，始终咧着一张黄牙交错的笑脸。",
+   "notes": [
+    "<code>I wondered on</code> 中的 <code>wonder</code> 在此是“边走边想、信步而行”，<code>on</code> 表示“继续”；这句是承上启下的过渡句，<code>broad, filth- encrusted hand</code> 中 <code>filth-encrusted</code> 则是“名词 + 过去分词”构成的复合形容词“结满污垢的”。",
+    "<code>was quick to notice</code> 用 <code>be quick to do</code> 结构，表示“立刻、马上（察觉）”，比 <code>quickly noticed</code> 更强调反应之快。",
+    "<code>in moments he was upon me</code>：<code>be upon sb.</code> 意为“逼近、扑到某人跟前”，有压迫感；<code>‘wares’</code> 加引号表示讽刺、可疑，即所谓“货色”，<code>yellowed, snaggle-toothed grin</code> 则用两个形容词并列写出满口黄牙、参差不齐的笑。"
+   ],
+   "vocab": [
+    {
+     "w": "vendor",
+     "p": "/ˈvendə/",
+     "t": "n.",
+     "z": "小贩，摊贩（street vendor 街头小贩）"
+    },
+    {
+     "w": "hawking",
+     "p": "/ˈhɔːkɪŋ/",
+     "t": "v.",
+     "z": "沿街叫卖（hawk one’s wares 兜售货物）"
+    },
+    {
+     "w": "dangled",
+     "p": "/ˈdæŋɡld/",
+     "t": "v.",
+     "z": "悬挂着，吊着晃荡"
+    },
+    {
+     "w": "snaggle-toothed",
+     "p": "/ˈsnæɡl tuːθt/",
+     "t": "adj.",
+     "z": "牙齿参差不齐的"
+    }
+   ]
+  },
+  {
+   "i": 84,
+   "zh": "“哎，刀客，今儿个过得咋样啊？这么好的日子，您想尝尝哪一味美——味——的老鼠呀？”",
+   "notes": [
+    "<code>Oye</code> 是招呼语“哎、喂”，相当于 <code>hey</code>，摊贩用来拉住过路人。",
+    "<code>‘ow ye doin’ there?</code> 是 <code>how are you doing</code> 的口音连读，<code>ye</code> 即 <code>you</code>，<code>doin’</code> 省略词尾 g，翻译要译成市井白话。",
+    "<code>Wot sorta</code> 即 <code>What sort of</code>，整句带浓重口音；<code>deeee-licious</code> 故意把 <code>delicious</code> 拉长拼写，是吆喝时拖长音的写法，译文用破折号拉长“美——味——”来对应，<code>ratsies</code> 则是摊贩自创的昵称式说法（rat + -sie 指小后缀），显得油滑亲热。"
+   ],
+   "vocab": [
+    {
+     "w": "Oye",
+     "p": "/ɔɪ/",
+     "t": "interj.",
+     "z": "哎，喂（招呼语，用于引起注意）"
+    },
+    {
+     "w": "Wot",
+     "p": "/wɒt/",
+     "t": "pron.",
+     "z": "（口音拼写）what，什么"
+    },
+    {
+     "w": "sorta",
+     "p": "/ˈsɔːtə/",
+     "t": "短语",
+     "z": "（口语）sort of 的连读，某种、哪一类"
+    },
+    {
+     "w": "ratsies",
+     "p": "/ˈrætsiz/",
+     "t": "n.",
+     "z": "（摊贩造词）“小老鼠”，带亲昵卖乖的口吻"
+    }
+   ]
+  },
+  {
+   "i": 85,
+   "zh": "我仔细看了看这些“小老鼠”。每只都被剥了皮、掏空了内脏，四脚和尾巴也去掉了；它们被钩子穿过脖子，挂在木杆上。我逐一打量它们各不相同的做法时，发现它们的头都有点变形——每颗颅骨上都突出一团球状的骨结，上面覆着一圈圈螺纹，看着像是脑组织。",
+   "notes": [
+    "<code>Each rat had been skinned and gutted</code> 用过去完成时被动语态，说明这些处理发生在“我看”之前。",
+    "<code>their feet and tails removed</code> 是独立主格结构（名词 + 过去分词），相当于省略了 <code>had been</code>，比另起一个分句更紧凑。",
+    "<code>hooks punched though their necks</code> 中 <code>punched</code> 是过去分词作后置定语修饰 <code>hooks</code>：被打穿脖子的钩子（原文 <code>though</code> 系 <code>through</code> 的笔误）；<code>cranium</code> 是解剖学用词“颅骨”，与后文 <code>brain tissue</code>（脑组织）一起强化这老鼠“脑”的特征，为下文“脑鼠”埋下伏笔。"
+   ],
+   "vocab": [
+    {
+     "w": "gutted",
+     "p": "/ˈɡʌtɪd/",
+     "t": "v.",
+     "z": "取出内脏（gut 的过去分词）"
+    },
+    {
+     "w": "dangled",
+     "p": "/ˈdæŋɡld/",
+     "t": "v.",
+     "z": "悬挂，吊着（dangle from 从……垂下）"
+    },
+    {
+     "w": "bulbous",
+     "p": "/ˈbʌlbəs/",
+     "t": "adj.",
+     "z": "球状的，鳞茎状的（鼓成一团）"
+    },
+    {
+     "w": "cranium",
+     "p": "/ˈkreɪniəm/",
+     "t": "n.",
+     "z": "颅骨，头盖骨（解剖学用词）"
+    },
+    {
+     "w": "protruded",
+     "p": "/prəˈtruːdɪd/",
+     "t": "v.",
+     "z": "突出，伸出（protrude from 从……凸出）"
+    }
+   ]
+  },
+  {
+   "i": 86,
+   "zh": "“这些老鼠长得可真怪。”",
+   "notes": [
+    "<code>strange-looking</code> 是“形容词 + looking”构成的复合形容词，表示“看上去……的”，如 <code>foul-looking</code>（腌臜样子的）、<code>nice-looking</code>。",
+    "译文保留 <code>Those are…</code> 的直指语气，以对应无名氏简短、寡言的说话方式。"
+   ],
+   "vocab": [
+    {
+     "w": "strange-looking",
+     "p": "/ˈstreɪndʒ ˌlʊkɪŋ/",
+     "t": "adj.",
+     "z": "模样古怪的，看上去奇怪的"
+    },
+    {
+     "w": "rats",
+     "p": "/ræts/",
+     "t": "n.",
+     "z": "老鼠（rat 的复数）"
+    }
+   ]
+  },
+  {
+   "i": 87,
+   "zh": "“啊，您这眼力可真尖，刀客！我卖的全是脑鼠，没错……我敢说您尝过就知道，它们的味道比寻常老鼠可要醇厚得多。真挺不错的！”他又把货往我面前一递，诱惑般地在我的脸前晃着木杆……那些老鼠来回摆荡，像一小扇一小扇的牛肉似的挂在钩上。",
+   "notes": [
+    "<code>ye’ve got a keen eye</code> 是固定说法“眼力好、看得准”，<code>keen</code> 意为“敏锐的”。",
+    "<code>All I sell is brain vermin, I do…</code> 后半句 <code>I do</code> 是口语中的重复强调，译作“没错”或语气上的确认。",
+    "<code>I'm sure ye’ll find…</code> 中 <code>find</code> 是“发现、觉得”，<code>I’m sure you’ll find (that)…</code> 是推销时常见的客套句式；<code>hooked like tiny sides of beef</code> 里 <code>a side of beef</code> 指“半扇牛肉”，把一串钩挂的老鼠比作小半扇肉，画面对比滑稽。"
+   ],
+   "vocab": [
+    {
+     "w": "keen",
+     "p": "/kiːn/",
+     "t": "adj.",
+     "z": "敏锐的，锐利的（a keen eye 好眼力）"
+    },
+    {
+     "w": "vermin",
+     "p": "/ˈvɜːmɪn/",
+     "t": "n.",
+     "z": "害虫，害兽（单复数同形）"
+    },
+    {
+     "w": "richer",
+     "p": "/ˈrɪtʃə/",
+     "t": "adj.",
+     "z": "更浓郁的，更醇厚的（rich 的比较级）"
+    },
+    {
+     "w": "proffered",
+     "p": "/ˈprɒfəd/",
+     "t": "v.",
+     "z": "递上，奉上（proffer sth. to sb. 把某物递给某人）"
+    },
+    {
+     "w": "enticingly",
+     "p": "/ɪnˈtaɪsɪŋli/",
+     "t": "adv.",
+     "z": "诱人地，勾人地"
+    }
+   ]
+  },
+  {
+   "i": 88,
+   "zh": "“脑鼠？”",
+   "notes": [
+    "<code>Brain vermin</code> 是摊贩生造的叫卖名，<code>brain</code> 作定语修饰 <code>vermin</code>，指“以脑为卖点／长着脑子的鼠”。",
+    "无名氏用极短的复述式反问（重复对方的关键词、只用升调），表示没听懂并要求解释——这是本章他“困惑、简短”的典型说话方式。",
+    "译文统一译作“脑鼠”，与后文保持一致。"
+   ],
+   "vocab": [
+    {
+     "w": "Brain",
+     "p": "/breɪn/",
+     "t": "n.",
+     "z": "脑，脑子（此处作定语，指“脑”这种卖点）"
+    },
+    {
+     "w": "vermin",
+     "p": "/ˈvɜːmɪn/",
+     "t": "n.",
+     "z": "害虫，害兽（此处指“鼠类”，摊贩用来给货命名）"
+    }
+   ]
+  }
+ ]
+}
