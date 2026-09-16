@@ -1,0 +1,726 @@
+{
+ "chapter": "Dak'kon, Part I",
+ "chunk": "dak-kon-part-i-01",
+ "items": [
+  {
+   "i": 1,
+   "zh": "达肯，第一部\n我从酒吧掌柜那里讨来的那份名单很短，肯帮忙的人也就这么几个，至此已经问遍了。可我还是走向了另一张桌子——有什么东西在拽着我。我面前的这个人老了。他干枯发黄的皮肤上布满伤疤，那是一辈子走遍四方、从不在任何地方久留的人才有的痕迹。那张瘦削的脸棱角分明，分明得不像是人的模样；耳朵从颅骨两侧向外扬起，末端收成尖角。他穿着一件宽松的橙色束腰长衣，背上斜绑着一把古怪的长刃，刃身泛着微光。那刃看起来是一柄双叉的长刀，用的不知是什么金属，表面像池塘上的一层油膜那样漾着涡纹。",
+   "notes": [
+    "<code>This exhausted the short list I had gotten from the bartender of those who might help</code>：<code>this exhausted...</code> 用一般过去时叙事；<code>had gotten</code> 是过去完成时，指“在我问完之前就已经从酒保那里拿到的”名单；<code>those who might help</code> 是 <code>those who...</code> 定语从句，<code>might</code> 表推测“也许肯帮忙的人”。",
+    "<code>something drawing me</code> 是独立主格（代词 + 现在分词），没有谓语，像汉语的“有什么东西在拽着我”，用来写无名氏说不清的那种牵引感。",
+    "<code>made of some metal whose surface swirled like a film of oil on a pond</code>：<code>whose</code> 引导定语从句，先行词是 <code>some metal</code>；<code>a film of oil on a pond</code> 是极简的比喻，中文保留“池塘／油膜”的意象即可。"
+   ],
+   "vocab": [
+    {
+     "w": "exhausted",
+     "p": "/ɪɡˈzɔːstɪd/",
+     "t": "v.",
+     "z": "用尽，耗尽（此处是 exhaust 的过去式，指“把名单问完了”）"
+    },
+    {
+     "w": "drawing",
+     "p": "/ˈdrɔːɪŋ/",
+     "t": "v.",
+     "z": "拉，拽；吸引（draw sb to sth 把某人引向某处）"
+    },
+    {
+     "w": "angular",
+     "p": "/ˈæŋɡjələ(r)/",
+     "t": "adj.",
+     "z": "有棱角的，棱角分明的；此处形容面部线条硬得不似人形"
+    },
+    {
+     "w": "shimmering",
+     "p": "/ˈʃɪmərɪŋ/",
+     "t": "adj.",
+     "z": "泛着微光的，波光闪动的"
+    },
+    {
+     "w": "glaive",
+     "p": "/ɡleɪv/",
+     "t": "n.",
+     "z": "长刀，弯刃长柄刀；此处 <code>two-pronged glaive</code> 指双叉长刃"
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "zh": "那人转向我，一双眼睛像打磨过的煤块。他望过来的目光像要穿透我，有那么一瞬间，我甚至怀疑他是不是个瞎子。那件武器骤然变成死气沉沉的哑黑，与他那双眼睛一模一样。",
+   "notes": [
+    "<code>The man turned to me</code> 里的 <code>turn to sb</code> 是“转向某人”；<code>his eyes like polished coal</code> 是省略谓语的独立主格，只留一个比喻，中文直接跟一句描写即可。",
+    "<code>He stared through me</code> 不是“盯着我”，而是“目光穿过我”，正是这句才引出下句“我怀疑他是不是瞎了”。",
+    "<code>mirroring the man's eyes</code>：<code>mirror</code> 此处作动词，意为“映照、与……一模一样”；<code>flat</code> 在此指“无光泽的、呆板的”，不是“平的”。"
+   ],
+   "vocab": [
+    {
+     "w": "turned",
+     "p": "/tɜːnd/",
+     "t": "v.",
+     "z": "转（身）；turn to sb 转向某人"
+    },
+    {
+     "w": "polished",
+     "p": "/ˈpɒlɪʃt/",
+     "t": "adj.",
+     "z": "磨光的，擦亮的（polished coal 打磨过的煤块）"
+    },
+    {
+     "w": "stared",
+     "p": "/steəd/",
+     "t": "v.",
+     "z": "凝视，盯（stare through sb 目光穿透某人）"
+    },
+    {
+     "w": "mirroring",
+     "p": "/ˈmɪrərɪŋ/",
+     "t": "v.",
+     "z": "映照，与……相同（mirror 作动词）"
+    },
+    {
+     "w": "flat",
+     "p": "/flæt/",
+     "t": "adj.",
+     "z": "无光泽的，呆板死寂的"
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "zh": "“你还好吗？”我问。他半晌没有出声，只用眼睛在我的脸上搜寻，然后才答话。",
+   "notes": [
+    "<code>Are you all right?</code> 是固定问句，用于关切对方“没事吧、还好吗”。",
+    "<code>He said nothing for a moment</code>：<code>for a moment</code> 表“有一会儿”；<code>said nothing</code> 比 <code>didn't say anything</code> 更书面、更冷。",
+    "<code>merely searched my face with his eyes</code>：<code>search</code> 在此是及物动词，意为“仔细查看、搜寻”，宾语是 <code>my face</code>；<code>merely</code>（仅仅）压出一个动作，写出达肯惜字如金的沉默。"
+   ],
+   "vocab": [
+    {
+     "w": "right",
+     "p": "/raɪt/",
+     "t": "adj.",
+     "z": "正常的，安然无恙的（all right 没事吧）"
+    },
+    {
+     "w": "searched",
+     "p": "/sɜːtʃt/",
+     "t": "v.",
+     "z": "搜寻，细看（search sth with one's eyes 用目光搜寻某物）"
+    },
+    {
+     "w": "replied",
+     "p": "/rɪˈplaɪd/",
+     "t": "v.",
+     "z": "回答，答话（比 answer 稍书面）"
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "zh": "“致敬……旅人。”他的声音低沉而忧郁，像风穿过一棵大树的枝叶间的低语。那人迎上我的目光，双眼像要钻进我眼里。他那件武器褪去了黑色，重新泛起我开口之前见过的那种微光。“你的眼睛带着远行者的重量——走了很远的路，才来到这个地方。”他的目光始终没有从我身上移开。",
+   "notes": [
+    "<code>Hail… traveler.</code>：<code>Hail</code> 是古旧庄重的问候语“致敬、幸会”，比 <code>Hello</code> 正式得多，正合达肯的腔调；省略号表示他发声迟缓。",
+    "<code>His weapon drained of its black color, resuming its shimmering...</code>：<code>drain of sth</code> 本义“把……排干”，这里作不及物用法，指黑色“褪去”；<code>resuming its shimmering</code> 是现在分词短语作伴随状语。",
+    "<code>Your eyes have the weight of one who has traveled far to be in this place</code>：<code>one who...</code> 泛指“一个人”，<code>the weight of one who...</code> 直译“带着那种人的重量”，中文可化为“带着远行者的重量”。"
+   ],
+   "vocab": [
+    {
+     "w": "Hail",
+     "p": "/heɪl/",
+     "t": "interj.",
+     "z": "致敬，幸会（古雅的问候语）"
+    },
+    {
+     "w": "somber",
+     "p": "/ˈsɒmbə(r)/",
+     "t": "adj.",
+     "z": "忧郁的，沉静的，肃穆的"
+    },
+    {
+     "w": "gaze",
+     "p": "/ɡeɪz/",
+     "t": "n./v.",
+     "z": "凝视，注视（meet sb's gaze 与某人对视）"
+    },
+    {
+     "w": "burrowing",
+     "p": "/ˈbʌrəʊɪŋ/",
+     "t": "v.",
+     "z": "掘进，钻入（burrow into sth 钻进某物，此处形容目光）"
+    },
+    {
+     "w": "drained",
+     "p": "/dreɪnd/",
+     "t": "v.",
+     "z": "排干，褪去（drain of sth 失去某种颜色/性质）"
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "zh": "“我名为达肯。”他在“名”字上咬得很重，我听着觉得古怪……可同时又很熟悉。“而你……于我无名。”",
+   "notes": [
+    "<code>I am known as Dak'kon</code> 是被动结构，等于“人们称我为达肯”；<code>You... are not known to me</code> 里 <code>known</code> 作形容词，<code>be known to sb</code> 意为“为某人所知”，达肯说得极冷：“你在我这里没有名字。”",
+    "<code>The emphasis he placed on the word known</code> 是省略了关系词的定语从句，正常为 <code>the emphasis (that) he placed on...</code>；<code>place emphasis on sth</code> 是固定搭配“强调某事”。",
+    "<code>struck me as odd... yet familiar</code>：<code>strike sb as + adj.</code> 意为“给某人某种印象、让某人觉得”；<code>yet</code> 表转折“却又”。"
+   ],
+   "vocab": [
+    {
+     "w": "known",
+     "p": "/nəʊn/",
+     "t": "adj./v.",
+     "z": "知名的，被知晓的（be known as 被称为；be known to sb 为某人所知）"
+    },
+    {
+     "w": "emphasis",
+     "p": "/ˈemfəsɪs/",
+     "t": "n.",
+     "z": "强调，着重（place/lay emphasis on sth）"
+    },
+    {
+     "w": "odd",
+     "p": "/ɒd/",
+     "t": "adj.",
+     "z": "古怪的，奇怪的"
+    },
+    {
+     "w": "familiar",
+     "p": "/fəˈmɪliə(r)/",
+     "t": "adj.",
+     "z": "熟悉的（be familiar to sb 为某人所熟悉）"
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "zh": "“我自己也不知道自己是谁。”我老实答道。",
+   "notes": [
+    "<code>I do not know myself</code> 用 <code>do not</code> 全拼形式，是书面、郑重的否定；口语里通常说 <code>I don't know myself</code>。",
+    "这里的 <code>myself</code> 是 <code>know</code> 的宾语（“认不出自己是谁”），并非 <code>know oneself</code> 那种“自知”的固定用法；译成“不知道我自己”最贴合无名氏的失忆处境。",
+    "<code>I replied honestly</code> 中 <code>honestly</code> 是副词修饰 <code>replied</code>，短句收尾，无名氏的口吻始终困惑而简短。"
+   ],
+   "vocab": [
+    {
+     "w": "myself",
+     "p": "/maɪˈself/",
+     "t": "pron.",
+     "z": "我自己（反身代词，作 know 的宾语）"
+    },
+    {
+     "w": "replied",
+     "p": "/rɪˈplaɪd/",
+     "t": "v.",
+     "z": "回答，答道"
+    },
+    {
+     "w": "honestly",
+     "p": "/ˈɒnɪstli/",
+     "t": "adv.",
+     "z": "诚实地，老实说"
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "zh": "“那样最好。你若真认清了自己，诸界之中便没有什么还值得去认识了。”他沉默了片刻，那双煤黑的眼睛仍在打量我。“我想知道，你为何来到这座城市。”",
+   "notes": [
+    "<code>That is for the best.</code> 是固定说法，意为“这样最好、这是最好的结果”，比 <code>That's good</code> 更有判断意味。",
+    "<code>there would be little in the Planes left worth knowing</code> 是倒装的存在句：地点状语 <code>in the Planes</code> 提前，<code>little</code> 表否定“几乎没有”；<code>worth knowing</code> 是 <code>worth + 动名词</code> 结构。",
+    "<code>I would know why you have come to this city.</code>：<code>would</code> 在此表意愿“我想知道”，不是过去将来时；<code>have come</code> 是现在完成时，强调“你已经来了”这一结果。"
+   ],
+   "vocab": [
+    {
+     "w": "best",
+     "p": "/best/",
+     "t": "n./adj.",
+     "z": "最好（for the best 结果最好，这样最好）"
+    },
+    {
+     "w": "Planes",
+     "p": "/pleɪnz/",
+     "t": "n.",
+     "z": "诸界（奇幻设定中指并存的各个位面）"
+    },
+    {
+     "w": "left",
+     "p": "/left/",
+     "t": "adj.",
+     "z": "剩下的，余下的（leave 的过去分词作后置定语）"
+    },
+    {
+     "w": "fell",
+     "p": "/fel/",
+     "t": "v.",
+     "z": "落下，陷入（fall silent 陷入沉默）"
+    },
+    {
+     "w": "studying",
+     "p": "/ˈstʌdiɪŋ/",
+     "t": "v.",
+     "z": "仔细打量，审视"
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "zh": "“我在找答案……我有很多问题。”",
+   "notes": [
+    "<code>look for</code> 是固定搭配“寻找”；这里是现在进行时 <code>I'm looking for</code>，表示眼下正在做的事。",
+    "<code>answers… questions</code> 用两个复数泛指“答案／问题”这一整类东西；省略号是语气上的停顿，表示无名氏在斟酌怎么开口。",
+    "全句极短，正是无名氏此刻的状态：话说不长，问题却很多。"
+   ],
+   "vocab": [
+    {
+     "w": "looking for",
+     "p": "/ˈlʊkɪŋ fɔː(r)/",
+     "t": "短语",
+     "z": "寻找，寻求（look for answers 找答案）"
+    },
+    {
+     "w": "answers",
+     "p": "/ˈɑːnsəz/",
+     "t": "n.",
+     "z": "答案，解答（answer 的复数）"
+    },
+    {
+     "w": "questions",
+     "p": "/ˈkwestʃənz/",
+     "t": "n.",
+     "z": "问题，疑问（question 的复数）"
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "zh": "“问吧。我听着。”",
+   "notes": [
+    "<code>Speak your questions.</code> 是命令式（祈使句），宾语直接跟在 <code>speak</code> 后面，属于古旧简省的用法；现代口语一般说 <code>Ask your questions</code>。",
+    "<code>I will hear you.</code> 中 <code>will</code> 表意愿兼承诺“我会听你说”，不说 <code>I am listening</code>，更有分量。",
+    "两句都是极短的陈述式，达肯的句子几乎像箴言：不解释、不寒暄。"
+   ],
+   "vocab": [
+    {
+     "w": "Speak",
+     "p": "/spiːk/",
+     "t": "v.",
+     "z": "说，讲（此处为祈使句：说出来吧）"
+    },
+    {
+     "w": "hear",
+     "p": "/hɪə(r)/",
+     "t": "v.",
+     "z": "听，听见；hear sb 听某人说"
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "zh": "“你的相貌……对我来说很陌生。你是什么？”",
+   "notes": [
+    "<code>What are you?</code> 与 <code>Who are you?</code> 不同：<code>what</code> 问的是“种类、族类”，无名氏问的是达肯属于什么种族，语气上略显冒失。",
+    "<code>Your features are… unfamiliar to me</code>：<code>features</code> 用复数指“五官、面容”；<code>be unfamiliar to sb</code> 是固定搭配“对某人来说陌生”。",
+    "省略号表示无名氏一边打量一边措辞，说话并不利落。"
+   ],
+   "vocab": [
+    {
+     "w": "features",
+     "p": "/ˈfiːtʃəz/",
+     "t": "n.",
+     "z": "面貌，五官（常用复数）"
+    },
+    {
+     "w": "unfamiliar",
+     "p": "/ˌʌnfəˈmɪliə(r)/",
+     "t": "adj.",
+     "z": "陌生的，不熟悉的（be unfamiliar to sb）"
+    },
+    {
+     "w": "What",
+     "p": "/wɒt/",
+     "t": "pron.",
+     "z": "什么（问种类：你是什么族类）"
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "zh": "“吉斯泽莱人。”他不再多说，我便把他的回答重复成一个问句。",
+   "notes": [
+    "<code>A githzerai.</code> 不是完整句，而是省略回答，等于 <code>I am a githzerai.</code>；达肯的语言大量使用这种省略句。",
+    "<code>When he said no more, I repeated his statement, as a question.</code>：<code>say no more</code> 意为“不再往下说”；<code>as a question</code> 是方式状语，说明重复时用的是疑问语气。",
+    "<code>repeated</code> 是 <code>repeat</code> 的过去式，与后面无名氏的重复追问相呼应。"
+   ],
+   "vocab": [
+    {
+     "w": "githzerai",
+     "p": "/ˈɡɪθzəraɪ/",
+     "t": "n.",
+     "z": "吉斯泽莱人（《异域镇魂曲》中的种族）"
+    },
+    {
+     "w": "repeated",
+     "p": "/rɪˈpiːtɪd/",
+     "t": "v.",
+     "z": "重复，复述"
+    },
+    {
+     "w": "statement",
+     "p": "/ˈsteɪtmənt/",
+     "t": "n.",
+     "z": "陈述，说法"
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "zh": "“吉斯泽莱人？”",
+   "notes": [
+    "这是无名氏把对方的回答原样抛回，加升调变成疑问句；英语中常直接重复名词短语并升调来追问。",
+    "单独一个名词成段，没有任何动词，中文用一个带问号的短语即可对应。"
+   ],
+   "vocab": [
+    {
+     "w": "githzerai",
+     "p": "/ˈɡɪθzəraɪ/",
+     "t": "n.",
+     "z": "吉斯泽莱人"
+    },
+    {
+     "w": "A githzerai?",
+     "p": "",
+     "t": "短语",
+     "z": "一个吉斯泽莱人？（省略句，等于 Are you a githzerai?）"
+    },
+    {
+     "w": "githzerai?",
+     "p": "",
+     "t": "n.",
+     "z": "“吉斯泽莱人？”——连同问号原样重复对方的话，升调表示追问"
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "zh": "“吉斯泽莱人是族人的一支。”我又得追问一句。",
+   "notes": [
+    "<code>one of the People</code> 是 <code>one of + 复数名词</code> 结构，表示“……之一”；<code>the People</code> 首字母大写，是吉斯泽莱人对自身的自称，宜直译为“族人”。",
+    "<code>Again I had to prompt him.</code>：<code>have to</code> 的过去式 <code>had to</code> 表“不得不”；<code>prompt sb</code> 意为“提示、催促某人（继续说）”。",
+    "<code>Again</code> 放在句首，说明这种一问一答已经重复了好几轮。"
+   ],
+   "vocab": [
+    {
+     "w": "People",
+     "p": "/ˈpiːpl/",
+     "t": "n.",
+     "z": "族人（the People 首字母大写，吉斯泽莱人的自称）"
+    },
+    {
+     "w": "prompt",
+     "p": "/prɒmpt/",
+     "t": "v.",
+     "z": "提示，催问，促使对方继续"
+    },
+    {
+     "w": "Again",
+     "p": "/əˈɡen/",
+     "t": "adv.",
+     "z": "又一次，再次"
+    }
+   ]
+  },
+  {
+   "i": 14,
+   "zh": "“族人的一支？”",
+   "notes": [
+    "又是名词短语重复成问句：<code>One of the People?</code> 省去了 <code>You mean...?</code>；无名氏此刻只能顺着达肯的话头追问。",
+    "疑问句里的 <code>One</code> 首字母大写，因为它被当作一个偏正式的称法引用。"
+   ],
+   "vocab": [
+    {
+     "w": "One",
+     "p": "/wʌn/",
+     "t": "pron.",
+     "z": "一个，之一（one of... ……之一）"
+    },
+    {
+     "w": "People",
+     "p": "/ˈpiːpl/",
+     "t": "n.",
+     "z": "族人，人民（此处特指吉斯泽莱人的自称）"
+    }
+   ]
+  },
+  {
+   "i": 15,
+   "zh": "“吉斯泽莱人。”我心想，他也许并不像看上去那样毫无幽默感，于是又问了一遍我的问题。",
+   "notes": [
+    "<code>Wondering if he wasn't as humorless as he appeared, I asked my question again.</code>：现在分词短语 <code>Wondering...</code> 作状语，表示伴随的动作／心理活动，逻辑主语就是主句主语 <code>I</code>。",
+    "<code>as humorless as he appeared</code> 是 <code>as + adj. + as</code> 的同级比较；<code>if he wasn't...</code> 表面是否定，实际表达无名氏带着一点希望的猜测“说不定他没那么刻板”。",
+    "无名氏把达肯那句一字不改的回答当成玩笑来听，这是全段唯一的轻快处，但译时不宜俏皮，保持困惑中的一丝自嘲即可。"
+   ],
+   "vocab": [
+    {
+     "w": "Wondering",
+     "p": "/ˈwʌndərɪŋ/",
+     "t": "v.",
+     "z": "心里想着，纳闷（现在分词作状语）"
+    },
+    {
+     "w": "humorless",
+     "p": "/ˈhjuːmələs/",
+     "t": "adj.",
+     "z": "缺乏幽默感的，一本正经的"
+    },
+    {
+     "w": "appeared",
+     "p": "/əˈpɪəd/",
+     "t": "v.",
+     "z": "看起来，显得（appear + adj.）"
+    }
+   ]
+  },
+  {
+   "i": 16,
+   "zh": "“对，可吉斯泽莱人到底是什么，确切地说？”达肯沉默了片刻，才开口。",
+   "notes": [
+    "<code>exactly</code> 放在问句末尾，起加强追问的作用，意为“到底、确切地说”，前面通常用逗号隔开。",
+    "<code>but what is a githzerai, exactly?</code>：<code>Yes, but...</code> 是先承认对方的话、再提出真正想问的问题，是英语里常见的追问起手式。",
+    "<code>Dak'kon was silent for a moment, then spoke.</code> 用过去时叙事，<code>then spoke</code> 承前省略主语，句子短促，节奏上对应达肯的沉默。"
+   ],
+   "vocab": [
+    {
+     "w": "exactly",
+     "p": "/ɪɡˈzæktli/",
+     "t": "adv.",
+     "z": "确切地，到底（用于追问）"
+    },
+    {
+     "w": "silent",
+     "p": "/ˈsaɪlənt/",
+     "t": "adj.",
+     "z": "沉默的，不出声的"
+    },
+    {
+     "w": "spoke",
+     "p": "/spəʊk/",
+     "t": "v.",
+     "z": "说话（speak 的过去式）"
+    }
+   ]
+  },
+  {
+   "i": 17,
+   "zh": "“我们的历史无须让你知晓。我若要把族人的历史讲出万分之一，早已在时间之刃上流血至死了。”",
+   "notes": [
+    "<code>does not need to be made known to you</code> 是 <code>need to be + 过去分词</code> 的被动结构，<code>make sth known to sb</code> 意为“把某事告知某人、让某人知道”。",
+    "<code>We would bleed to death on time's blade before I recited a fraction of the histories</code>：<code>would... before...</code> 是虚拟＋时间从句的句式，意为“还没等……我们就已经……”，用极冷的意象强调历史之长。",
+    "<code>a fraction of</code> 是固定搭配“一小部分、极小的一部分”，此处译作“万分之一”以合中文语感；<code>time's blade</code> 与达肯的兵刃意象相扣。"
+   ],
+   "vocab": [
+    {
+     "w": "known",
+     "p": "/nəʊn/",
+     "t": "v.",
+     "z": "使被知道（make sth known to sb 把某事告知某人）"
+    },
+    {
+     "w": "bleed",
+     "p": "/bliːd/",
+     "t": "v.",
+     "z": "流血（bleed to death 流血而死）"
+    },
+    {
+     "w": "recited",
+     "p": "/rɪˈsaɪtɪd/",
+     "t": "v.",
+     "z": "背诵，陈述，讲诵"
+    },
+    {
+     "w": "fraction",
+     "p": "/ˈfrækʃn/",
+     "t": "n.",
+     "z": "一小部分，零头（a fraction of...）"
+    },
+    {
+     "w": "histories",
+     "p": "/ˈhɪstriz/",
+     "t": "n.",
+     "z": "历史，史事（history 的复数，此处指族人的诸多史事）"
+    }
+   ]
+  },
+  {
+   "i": 18,
+   "zh": "“我不需要知道你们的历史……但我想了解你们的族人如今是什么样子。”",
+   "notes": [
+    "<code>I would know of your people</code>：<code>would</code> 表意愿“想要”，<code>know of sb/sth</code> 意为“了解、听说过关于……的情况”，比 <code>know</code> 更侧重“有所了解”。",
+    "<code>as they are now</code> 是方式状语从句，意为“照他们现在的样子”，与上一段被拒绝的“历史”正好相对。",
+    "无名氏句中的省略号是转折前的停顿：先否掉历史，再提出自己真正想要的。"
+   ],
+   "vocab": [
+    {
+     "w": "histories",
+     "p": "/ˈhɪstriz/",
+     "t": "n.",
+     "z": "历史（复数，指成体系的史事）"
+    },
+    {
+     "w": "people",
+     "p": "/ˈpiːpl/",
+     "t": "n.",
+     "z": "族人，民族，人民"
+    },
+    {
+     "w": "now",
+     "p": "/naʊ/",
+     "t": "adv.",
+     "z": "现在，如今（as they are now 如今的模样）"
+    }
+   ]
+  },
+  {
+   "i": 19,
+   "zh": "“听着，并把它当作答案：我们是在流转不定的混沌海位面上安家的族人。”达肯手腕一翻，利落地把长刃从背上抽出，横在身前。",
+   "notes": [
+    "<code>Know this and accept it as an answer</code>：<code>Know this</code> 是祈使句，<code>accept sth as sth</code> 是固定搭配“把某物当作某物接受”，整句是达肯式的命令语气，等于“听着，这就是答案”。",
+    "<code>the shifting plane of Limbo</code>：<code>shifting</code> 是现在分词作定语，表“不断变动、流转的”；<code>plane</code>（位面）与前面的 <code>Planes</code>（诸界）是同一术语的单复数。",
+    "<code>With a deft motion, Dak'kon slipped the blade from his back and held it before him.</code>：<code>deft</code> 意为“灵巧的、熟练的”；<code>slip sth from...</code> 指“把某物从……里悄无声息地抽出”。"
+   ],
+   "vocab": [
+    {
+     "w": "accept",
+     "p": "/əkˈsept/",
+     "t": "v.",
+     "z": "接受（accept sth as sth 把某物当作某物）"
+    },
+    {
+     "w": "shifting",
+     "p": "/ˈʃɪftɪŋ/",
+     "t": "adj.",
+     "z": "不断变化的，流转不定的"
+    },
+    {
+     "w": "plane",
+     "p": "/pleɪn/",
+     "t": "n.",
+     "z": "位面（the shifting plane of Limbo 混沌流转的混沌海位面）"
+    },
+    {
+     "w": "deft",
+     "p": "/deft/",
+     "t": "adj.",
+     "z": "灵巧的，娴熟的（deft motion 利落的一动）"
+    },
+    {
+     "w": "slipped",
+     "p": "/slɪpt/",
+     "t": "v.",
+     "z": "悄悄抽出，滑出（slip sth from... 从……中抽出某物）"
+    }
+   ]
+  },
+  {
+   "i": 20,
+   "zh": "“在那里，我们以心神塑造混沌海的物质。我们以意念铸出城池。”我注视着，一道道涟漪般的金属波纹开始从刃身中央荡开。波的高低起伏，正应着达肯语调的抑扬。“我们居于它的混沌之中，唯有心中的知，护我们不死。我们，就是吉斯泽莱人。”",
+   "notes": [
+    "<code>we mold the matter of Limbo with our minds</code>：<code>mold</code>（亦拼 <code>mould</code>）意为“塑造、铸造”，<code>with our minds</code> 是方式状语；<code>matter</code> 在此指“物质”，不是“事情”。",
+    "<code>We forge cities with our thoughts.</code> 与上句句式并列，<code>forge</code> 兼有“锻造、缔造”之意，宜译“铸出”，呼应兵刃与金属的意象。",
+    "<code>with only our knowing to preserve us</code> 是 <code>with + 宾语 + 不定式</code> 结构表伴随条件，<code>knowing</code> 作名词指“知、认知”；<code>In its chaos we dwell</code> 为倒装，状语提前，<code>dwell in</code> 意为“居于”。"
+   ],
+   "vocab": [
+    {
+     "w": "mold",
+     "p": "/məʊld/",
+     "t": "v.",
+     "z": "塑造，铸造（mold sth with sth 用某物塑造某物）"
+    },
+    {
+     "w": "forge",
+     "p": "/fɔːdʒ/",
+     "t": "v.",
+     "z": "锻造，缔造（forge cities 铸出城池）"
+    },
+    {
+     "w": "rippling",
+     "p": "/ˈrɪplɪŋ/",
+     "t": "adj.",
+     "z": "起涟漪的，波纹起伏的"
+    },
+    {
+     "w": "crest",
+     "p": "/krest/",
+     "t": "n.",
+     "z": "波峰，顶点（与 pitch 并列，指波的高低）"
+    },
+    {
+     "w": "dwell",
+     "p": "/dwel/",
+     "t": "v.",
+     "z": "居住，栖居（dwell in sth 居于某处）"
+    }
+   ]
+  },
+  {
+   "i": 21,
+   "zh": "“你手里那把刃……它动了，随着你的声音在变。”",
+   "notes": [
+    "<code>What is that blade you have…</code>：<code>you have</code> 是省略了关系词的定语从句，修饰 <code>that blade</code>；整句是口语句式，不必补成完整问句。",
+    "<code>it moved, shifted in response to your voice</code>：<code>in response to sth</code> 是固定搭配“对……作出反应、随……而变”；<code>moved, shifted</code> 两个动词并列，后一个进一步说明怎么动。",
+    "无名氏的话里省略号连缀，表示他边看边说、措辞迟疑。"
+   ],
+   "vocab": [
+    {
+     "w": "blade",
+     "p": "/bleɪd/",
+     "t": "n.",
+     "z": "刀刃，刃；此处指达肯那柄长刃"
+    },
+    {
+     "w": "shifted",
+     "p": "/ˈʃɪftɪd/",
+     "t": "v.",
+     "z": "变动，转换（此处指刃身随声音变形）"
+    },
+    {
+     "w": "response",
+     "p": "/rɪˈspɒns/",
+     "t": "n.",
+     "z": "反应，回应（in response to sth 随……而变）"
+    }
+   ]
+  },
+  {
+   "i": 22,
+   "zh": "“这是一柄卡拉赫之刃。它是一件让人看出持刃者位阶的东西。”",
+   "notes": [
+    "<code>karach blade</code> 是设定中的专名，音译为“卡拉赫之刃”，后文再出现须保持一致。",
+    "<code>It is an object that lets others know the rank of the wielder</code>：<code>let sb do sth</code> 是“让某人做某事”的使役结构，此处 <code>lets others know</code> 意为“使别人得以知道”；<code>the rank of the wielder</code> 用 <code>of</code> 结构表所属。",
+    "达肯只用两个 <code>It is...</code> 判断句作答，不解释来历，句式与他先前的箴言腔一致。"
+   ],
+   "vocab": [
+    {
+     "w": "karach",
+     "p": "/kəˈrɑːk/",
+     "t": "n.",
+     "z": "卡拉赫（刃名，达肯所持之刃的种类）"
+    },
+    {
+     "w": "rank",
+     "p": "/ræŋk/",
+     "t": "n.",
+     "z": "位阶，等级，军阶"
+    },
+    {
+     "w": "wielder",
+     "p": "/ˈwiːldə(r)/",
+     "t": "n.",
+     "z": "持用者，挥舞者（wield 的施事名词）"
+    },
+    {
+     "w": "object",
+     "p": "/ˈɒbdʒɪkt/",
+     "t": "n.",
+     "z": "物件，东西"
+    }
+   ]
+  }
+ ]
+}

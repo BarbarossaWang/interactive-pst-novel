@@ -1,0 +1,634 @@
+{
+ "chapter": "Ragpickers' Square",
+ "chunk": "ragpickers-square-06",
+ "items": [
+  {
+   "i": 111,
+   "zh": "“行了，孩子——别再在这儿磨蹭了。像你这样的人，有的是别的地方可去、别的事情可做，何必守着我这把老骨头梅贝丝转悠。”",
+   "notes": [
+    "<code>don’t tarry here any longer</code>：<code>tarry</code> 是带古风的书面词，“逗留、耽搁”，比 <code>stay</code> 多一层“磨蹭、赖着不走”的催促意味；<code>any longer</code> 与否定连用，表示“再也别……”。",
+    "<code>One such as ye has other ways to spend one’s time</code>：<code>one such as ye</code> 是“像你这样的人”的文言腔说法（<code>ye</code> 为方言/古体的“你”），后文却接 <code>one’s</code>，人称在同一句里从第三人称滑到泛指，是口语里的松散，译文用“有的是别的地方可去”保留这份家常絮叨。",
+    "<code>hang around</code> 是固定搭配，“闲荡、在……附近磨时间”；<code>Ol’ Mebbeth</code> 中 <code>Ol’</code>＝<code>Old</code> 的口语缩写，是梅贝丝对自己的戏称，译作“我/这把老骨头”比直译“老梅贝丝”更合中文自称的口气。"
+   ],
+   "vocab": [
+    {
+     "w": "tarry",
+     "p": "/ˈtæri/",
+     "t": "v.",
+     "z": "逗留，耽搁（偏古雅，含“磨蹭不走”之意）"
+    },
+    {
+     "w": "ye",
+     "p": "/jiː/",
+     "t": "pron.",
+     "z": "你（方言/古体用法，梅贝丝的口音标记）"
+    },
+    {
+     "w": "hang around",
+     "p": "",
+     "t": "v.",
+     "z": "闲荡，在附近耗时间（固定搭配）"
+    },
+    {
+     "w": "Ol’",
+     "p": "/oʊl/",
+     "t": "adj.",
+     "z": "＝Old 的口语缩写，用于称呼前，带亲昵"
+    },
+    {
+     "w": "spend one’s time",
+     "p": "",
+     "t": "v.",
+     "z": "打发时间，花时间（spend time doing sth.）"
+    }
+   ]
+  },
+  {
+   "i": 112,
+   "zh": "“你才没那么老呢。”",
+   "notes": [
+    "<code>You’re not so old.</code>：<code>so</code> 在否定句中表程度，“没那么……”，比 <code>very</code> 更口语，也带一点安慰式的反驳；无名氏的话一贯短，译文不加任何修饰词。"
+   ],
+   "vocab": [
+    {
+     "w": "not so old",
+     "p": "",
+     "t": "phrase",
+     "z": "没那么老（否定句里 so＝“那么、那样程度”）"
+    },
+    {
+     "w": "You’re",
+     "p": "/jʊr/",
+     "t": "contr.",
+     "z": "＝You are 的缩合形式（对话中极常见）"
+    }
+   ]
+  },
+  {
+   "i": 113,
+   "zh": "“呸，你这马屁精！你那条舌头上抹的银子，连巴特兹都得脸红！滚你的！”",
+   "notes": [
+    "<code>Ye flatterer!</code> 是名词性呼语，直接把人喊成“马屁精”，语气像打趣又像假嗔；<code>Pah</code> 是表示轻蔑、不以为然的感叹词，梅贝丝的口头禅，译作“呸”。",
+    "<code>Yer tongue is so lined with silver</code>：<code>be lined with</code> 是“内衬着、铺着一层……”；银舌（silver tongue）是英语里“能说会道、花言巧语”的固定比喻，此处夸张成“舌头都镀了银”。",
+    "<code>it’d shame a Baatezu</code>：<code>shame</code> 作动词，“使……羞愧、让……丢脸”；<code>Baatezu</code> 是异域设定里的巴特兹（下层位面的魔鬼族），连魔鬼都要羞愧是句夸张的俗语式恭维。注意原文用直引号 <code>it'd</code>。末句 <code>Get ye hince</code> 中 <code>hince</code> 即 <code>hence</code>（走开、从这儿去），加方言的 <code>ye</code> 构成“你走你的”，语气粗直，与中文市井的“滚你的”相当。"
+   ],
+   "vocab": [
+    {
+     "w": "flatterer",
+     "p": "/ˈflætərər/",
+     "t": "n.",
+     "z": "马屁精，奉承者（flatter＋-er）"
+    },
+    {
+     "w": "Pah",
+     "p": "/pɑː/",
+     "t": "interj.",
+     "z": "呸（表轻蔑、不屑的感叹词）"
+    },
+    {
+     "w": "lined with silver",
+     "p": "",
+     "t": "phrase",
+     "z": "舌头镀了银，喻花言巧语（silver tongue 的变体）"
+    },
+    {
+     "w": "shame",
+     "p": "/ʃeɪm/",
+     "t": "v.",
+     "z": "使羞愧，让……丢脸（此处作动词）"
+    },
+    {
+     "w": "Baatezu",
+     "p": "",
+     "t": "n.",
+     "z": "巴特兹（异域设定中下层位面的魔鬼族）"
+    }
+   ]
+  },
+  {
+   "i": 114,
+   "zh": "“谢谢你做的一切，梅贝丝。”",
+   "notes": [
+    "<code>Thanks for everything</code> 是英语里最常用的道谢套语，直译“为一切谢谢你”。值得注意的是整段对话里无名氏用的是标准英语，梅贝丝满口方言——这种语言落差本身就在刻画两人的身份差别，译文中以“干净利落”对“土腔絮叨”来保留。"
+   ],
+   "vocab": [
+    {
+     "w": "Thanks for everything",
+     "p": "",
+     "t": "phrase",
+     "z": "谢谢你做的一切（道谢套语）"
+    },
+    {
+     "w": "Mebbeth",
+     "p": "",
+     "t": "n.",
+     "z": "梅贝丝（蜂巢里的老接生婆、通晓法术者）"
+    }
+   ]
+  },
+  {
+   "i": 115,
+   "zh": "“呸！你要谢我，就别拿学到的东西去干蠢事。法术这门手艺，毁过的蠢货可不少——他们都想把它往不该弯的地方掰。去吧，忙你的去！”",
+   "notes": [
+    "<code>Ye ken thank me by not playin’ the addle-cove</code>：<code>ken</code> 是苏格兰方言里“知道、懂得”，此处引申为“你可以算是在谢我了”；<code>addle-cove</code> 是异域蜂巢俚语，指“脑子进水的人、蠢货”，<code>play the…</code> 意为“扮演……、做出……的样子”。",
+    "<code>with what've learned</code> 是 <code>with what you have learned</code> 的口语压缩，<code>what've</code> 把 <code>what</code> 与 <code>have</code> 缩成一词（原文用直引号）；中文不必再现缩合，只求语义完整。",
+    "<code>The Art’s damned many a fool</code>：<code>damn</code> 这里作动词，“使……堕入毁灭、毁掉”，<code>many a fool</code> 是“许多个蠢货”（后接单数名词，谓语用单数）的文言式说法；后句 <code>in ways the Art weren’t meant to bend</code> 中 <code>be meant to</code> 表“本应、注定要”，<code>weren’t meant to bend</code> 即“本不是用来弯的”——这是梅贝丝对“法术有其界限”的夫子自道，译文用“不该弯的地方”保持她的土白口气。"
+   ],
+   "vocab": [
+    {
+     "w": "ken",
+     "p": "/kɛn/",
+     "t": "v.",
+     "z": "知道，懂得（苏格兰方言，＝know；此处引申“算是”）"
+    },
+    {
+     "w": "addle-cove",
+     "p": "",
+     "t": "n.",
+     "z": "蠢货，脑子不清楚的家伙（异域俚语）"
+    },
+    {
+     "w": "damned",
+     "p": "/dæmd/",
+     "t": "v.",
+     "z": "毁掉，使毁灭（此处作动词，非咒骂）"
+    },
+    {
+     "w": "many a fool",
+     "p": "",
+     "t": "phrase",
+     "z": "许多个蠢货（many a＋单数名词，文言式强调）"
+    },
+    {
+     "w": "the Art",
+     "p": "",
+     "t": "n.",
+     "z": "法术，法术这门手艺（奇幻语境中对魔法的专称）"
+    }
+   ]
+  },
+  {
+   "i": 116,
+   "zh": "那天剩下的时间还够我去探一探法罗德巢穴的入口。我找到一条木制走道，大致朝着别人告诉我的方向伸过去，便顺着它走，小心避开那些烂得太过头的木板。",
+   "notes": [
+    "<code>The was still enough time in the day…</code>：原文这里漏了主语 <code>There</code>（游戏脚本的常见笔误），译文照语义补出“那天剩下的时间”，不把残缺也一并搬进中文。",
+    "<code>a wooden walkway leading in the general direction I had been told of</code>：<code>leading…</code> 是现在分词短语作后置定语修饰 <code>walkway</code>；<code>I had been told of</code> 是省略了关系词的定语从句，修饰 <code>direction</code>，<code>of</code> 后省略了 <code>which</code>；“大致朝着……方向”对应 <code>in the general direction</code>。",
+    "<code>careful to avoid the planks that looked too rotted</code>：形容词短语 <code>careful to…</code> 作伴随状语，说明“走”的方式；<code>too rotted</code>＝“烂得太过”，<code>too</code> 在此表“过分地”。"
+   ],
+   "vocab": [
+    {
+     "w": "wooden walkway",
+     "p": "",
+     "t": "n.",
+     "z": "木制走道，木板步道"
+    },
+    {
+     "w": "general direction",
+     "p": "",
+     "t": "n.",
+     "z": "大致方向（in the general direction of＝朝……的大致方位）"
+    },
+    {
+     "w": "planks",
+     "p": "/plæŋks/",
+     "t": "n.",
+     "z": "厚木板（plank 的复数）"
+    },
+    {
+     "w": "rotted",
+     "p": "/ˈrɒtɪd/",
+     "t": "adj.",
+     "z": "腐烂的，朽坏的（rot 的过去分词作形容词）"
+    },
+    {
+     "w": "enough time",
+     "p": "",
+     "t": "n.",
+     "z": "足够的时间"
+    }
+   ]
+  },
+  {
+   "i": 117,
+   "zh": "走道尽头是一道拱门。拱门只往里探进那座小房子几寸，就被一堵结结实实的垃圾墙堵死了。那些垃圾压得极紧，简直跟石头加灰浆砌成的一样。莫提正盯着什么东西看。",
+   "notes": [
+    "<code>ended in an archway</code>：<code>end in</code> 表“以……告终、尽头是……”，注意与 <code>end with</code>（以某事收尾）的区别；此处说的是空间的尽头。",
+    "<code>led only inches into a small building before becoming blocked</code>：<code>before</code> 在此不表时间先后，而是“还没……就……”，即“只进去几寸就撞上了”；<code>inches into</code> 用长度单位作程度状语，中文照译“几寸”。",
+    "<code>it may as well have been stones and mortar</code>：<code>may as well have done</code> 是虚拟语气的固定结构，“简直无异于、跟……没什么两样”；<code>mortar</code> 指砌墙用的灰浆，与 <code>stones</code> 并列，强调垃圾被压成了建筑材料般的硬度。"
+   ],
+   "vocab": [
+    {
+     "w": "causeway",
+     "p": "/ˈkɔːzweɪ/",
+     "t": "n.",
+     "z": "堤道，架高的走道（此处指那条木道）"
+    },
+    {
+     "w": "archway",
+     "p": "/ˈɑːtʃweɪ/",
+     "t": "n.",
+     "z": "拱门，拱形通道"
+    },
+    {
+     "w": "refuse",
+     "p": "/ˈrefjuːs/",
+     "t": "n.",
+     "z": "垃圾，废弃物（重音在前，与动词 refuse“拒绝”读音不同）"
+    },
+    {
+     "w": "mortar",
+     "p": "/ˈmɔːtər/",
+     "t": "n.",
+     "z": "灰浆，砂浆（砌墙用的黏合料）"
+    },
+    {
+     "w": "Morte",
+     "p": "",
+     "t": "n.",
+     "z": "莫提（会说话的骷髅头，无名氏的同伴）"
+    }
+   ]
+  },
+  {
+   "i": 118,
+   "zh": "“等等，头儿……你瞧这个。”我凑近去看，发现一串脏脚印通向拱门里……却没有掉头出来的。“这儿八成有道传送门什么的。”",
+   "notes": [
+    "<code>Hold up</code> 是口语中的“等等、停一下”，比 <code>wait</code> 随意，常用于同伴间插话；<code>chief</code> 是莫提对无名氏的惯常称呼，译作“头儿”保持他油滑又带点讨好的口气。",
+    "<code>Peering down</code> 是现在分词作状语，表示伴随动作（“低头细看”），其逻辑主语与主句一致，都是“我”；<code>did not turn around</code> 中 <code>did</code> 是强调式否定，把对比砸出来——脚印只进不出，这正是后文推断有传送门的依据。",
+    "<code>There must be… or something.</code>：<code>must be</code> 表推断（“一定是、想必有”），<code>or something</code> 是口语中表示不确定的尾巴，“……什么的”，显出莫提是猜的。"
+   ],
+   "vocab": [
+    {
+     "w": "Hold up",
+     "p": "",
+     "t": "phrase",
+     "z": "等等，停一下（口语，招呼对方注意）"
+    },
+    {
+     "w": "chief",
+     "p": "/tʃiːf/",
+     "t": "n.",
+     "z": "头儿，老大（莫提对无名氏的称呼）"
+    },
+    {
+     "w": "Peering down",
+     "p": "",
+     "t": "v.",
+     "z": "低头细看（peer＝眯眼端详，此处现在分词作状语）"
+    },
+    {
+     "w": "footprints",
+     "p": "/ˈfʊtprɪnts/",
+     "t": "n.",
+     "z": "脚印，足迹"
+    },
+    {
+     "w": "portal",
+     "p": "/ˈpɔːtl/",
+     "t": "n.",
+     "z": "传送门（术语：印记城连通各处的魔法通道）"
+    }
+   ]
+  },
+  {
+   "i": 119,
+   "zh": "“传送门？那要怎么打开？”",
+   "notes": [
+    "<code>How do we open it?</code>：<code>we</code> 而非 <code>I</code>，把莫提也算进去，是无名氏习惯性的“咱们”口气；译文用“那要怎么打开”留出疑问的直白，不加解释性成分。"
+   ],
+   "vocab": [
+    {
+     "w": "open it",
+     "p": "",
+     "t": "v.",
+     "z": "打开它（此处指激活、开启传送门）"
+    },
+    {
+     "w": "How do we",
+     "p": "",
+     "t": "phrase",
+     "z": "咱们怎么……（we 把听者算在内，语气更像商量）"
+    }
+   ]
+  },
+  {
+   "i": 120,
+   "zh": "“我一点头绪都没有，头儿。不过那钥匙准是件常见东西——你瞧瞧这来往的人流！说不定这附近哪个下三滥知道……”",
+   "notes": [
+    "<code>Haven’t the slightest</code> 是 <code>I haven’t the slightest idea</code> 的省略说法，口语里常直接砍掉主语和宾语，意为“我一点都不知道”；<code>the slightest</code> 用最高级式的强调表“丝毫”。",
+    "<code>It’s got to be</code>＝<code>it has got to be</code>，“一定是、准是”，表很有把握的推断，比 <code>must be</code> 更口语；<code>though</code> 置于句中作转折，相当于“不过、话虽如此”。",
+    "<code>the traffic that’s gone through</code>：<code>traffic</code> 这里不是“交通”，而是“往来的人流、通行量”；<code>low-lives</code> 是“下三滥、社会底层的人”，带轻蔑，与莫提自居见多识广的油滑腔调相配。"
+   ],
+   "vocab": [
+    {
+     "w": "Haven’t the slightest",
+     "p": "",
+     "t": "phrase",
+     "z": "一点都不知道（省略主语的“我毫无头绪”）"
+    },
+    {
+     "w": "common key",
+     "p": "",
+     "t": "n.",
+     "z": "寻常的钥匙，普通物件（此处指开启传送门的“钥匙”）"
+    },
+    {
+     "w": "traffic",
+     "p": "/ˈtræfɪk/",
+     "t": "n.",
+     "z": "往来人流，通行量（此处非“交通”）"
+    },
+    {
+     "w": "low-lives",
+     "p": "/ˈloʊlaɪvz/",
+     "t": "n.",
+     "z": "下三滥，底层混混（含轻蔑）"
+    },
+    {
+     "w": "will know",
+     "p": "",
+     "t": "v.",
+     "z": "会知道（此处指“总有人知道”，引出下一段的打听）"
+    }
+   ]
+  },
+  {
+   "i": 121,
+   "zh": "“那我去打听打听。走吧。”我想起早先觉得鼠骨可能还有话没说，便折回去找他，再问细些。",
+   "notes": [
+    "<code>I’ll ask around</code>：<code>ask around</code> 是固定搭配，“到处问人、向周围人打听”，不能译成“问一圈”之外的“打听一下”，重点在“挨个问”。",
+    "<code>I remembered earlier when I thought Ratbone might have something more to say.</code>：<code>earlier</code> 是名词性用法，“先前的时候”；<code>might have something more to say</code> 中 <code>might</code> 表不确定的推测，<code>more</code> 指“还有别的话”。",
+    "<code>to question him further</code>：不定式表目的，“进一步盘问他”；<code>further</code> 在这里是副词，“更进一步地”。术语：<code>Ratbone</code> 译作“鼠骨”（拾荒者广场上受雇于收集者头目沙格雷夫的贼）。"
+   ],
+   "vocab": [
+    {
+     "w": "ask around",
+     "p": "",
+     "t": "v.",
+     "z": "四处打听，向周围的人问一圈"
+    },
+    {
+     "w": "Ratbone",
+     "p": "",
+     "t": "n.",
+     "z": "鼠骨（拾荒者广场的贼，受雇于收集者头目）"
+    },
+    {
+     "w": "further",
+     "p": "/ˈfɜːrðər/",
+     "t": "adv.",
+     "z": "进一步地，更进一步（此处指多问些）"
+    }
+   ]
+  },
+  {
+   "i": 122,
+   "zh": "“你知道怎么穿过这儿西北边那道塞满垃圾的拱门吗？”",
+   "notes": [
+    "<code>Do you know how to get through…</code>：<code>how to get through</code> 是“疑问词＋不定式”结构，作 <code>know</code> 的宾语，意为“怎么过去、怎么穿过”。",
+    "<code>trash-packed archway</code> 是名词＋过去分词构成的复合形容词，“被垃圾塞满的”，<code>packed</code> 有“紧紧塞实”之意，与上文垃圾墙的描写呼应；<code>northwest of here</code> 是“在……的西北方”，方位词后接 <code>of</code>。"
+   ],
+   "vocab": [
+    {
+     "w": "get through",
+     "p": "",
+     "t": "v.",
+     "z": "穿过，通过（get through sth.）"
+    },
+    {
+     "w": "trash-packed",
+     "p": "",
+     "t": "adj.",
+     "z": "塞满垃圾的（名词＋过去分词复合形容词）"
+    },
+    {
+     "w": "northwest of here",
+     "p": "",
+     "t": "phrase",
+     "z": "在这儿的西北边"
+    }
+   ]
+  },
+  {
+   "i": 123,
+   "zh": "“嗯？不，我不知道。我说……你可以去问问克里登，那个捕鼠的。他有时会跑到上头去转悠，然后莫名其妙地消失一阵子。克里登一般都在蜂巢，就在鼠害与疫病防治所外头。”",
+   "notes": [
+    "<code>Eh? Nay, I don’t.</code>：<code>Nay</code> 是古体/方言的“不”，比 <code>no</code> 更土气，配合鼠骨一贯的底层腔；<code>I don’t</code> 后省略了 <code>know</code>，是英语对话中的省略答语。",
+    "<code>goes pokin’ about</code>：<code>poke about/around</code> 是固定搭配，“到处乱翻、东探西看”；<code>an odd while</code> 意为“好一阵子、不短的一段时间”，<code>odd</code> 在此不是“奇怪”而是“零头的、还多一点的”。",
+    "<code>the Rat- Catcher</code> 与原文其它处一致，是克里登自我标榜的头衔（他另称自己为“屠鼠者”），译文统一作“捕鼠的”；<code>the Office o’ Vermin and’ Disease Control</code> 是蜂巢里的官方机构，直译“鼠害与疫病防治所”，保留那股东拼西凑的市政腔。"
+   ],
+   "vocab": [
+    {
+     "w": "Nay",
+     "p": "/neɪ/",
+     "t": "adv.",
+     "z": "不（古体/方言的 no）"
+    },
+    {
+     "w": "pokin’ about",
+     "p": "",
+     "t": "v.",
+     "z": "四处乱翻、东探西看（poke about 的方言拼写）"
+    },
+    {
+     "w": "an odd while",
+     "p": "",
+     "t": "phrase",
+     "z": "好一阵子，不短的一段时间"
+    },
+    {
+     "w": "Creeden",
+     "p": "",
+     "t": "n.",
+     "z": "克里登（蜂巢里的鼠肉摊贩，自称捕鼠人）"
+    },
+    {
+     "w": "Vermin",
+     "p": "/ˈvɜːrmɪn/",
+     "t": "n.",
+     "z": "害兽，鼠虫之类（集合名词，无复数形式）"
+    }
+   ]
+  },
+  {
+   "i": 124,
+   "zh": "我谢过他，匆匆赶回市场附近的蜂巢，那是我先前遇见克里登的地方。他还在那儿，卖着他的鼠鼠儿。我问他拾荒者广场那道拱门的事。他想了想。",
+   "notes": [
+    "<code>the hive near the market</code>：此处小写的 <code>hive</code> 指的是蜂巢区（专名 <code>the Hive</code>），译文统一作“蜂巢”；<code>near the market</code> 是介词短语作后置定语修饰 <code>hive</code>。",
+    "<code>selling his ratsies</code>：<code>ratsie</code> 是 <code>rat</code> 加亲昵后缀 <code>-sie</code> 造出的词，是克里登对自己烤鼠肉串的爱称，译作“鼠鼠儿”以保留这层亲昵和市侩。",
+    "<code>I asked him about the archway in Ragpicker’s Square.</code>：<code>ask sb. about sth.</code> 是固定搭配，“向某人打听某事”，注意此处广场名原文是单数所有格 <code>Ragpicker’s</code>，译文仍按统一术语作“拾荒者广场”。"
+   ],
+   "vocab": [
+    {
+     "w": "hurried back",
+     "p": "",
+     "t": "v.",
+     "z": "匆匆赶回（hurry back）"
+    },
+    {
+     "w": "ratsies",
+     "p": "",
+     "t": "n.",
+     "z": "“鼠鼠儿”（rat＋亲昵后缀 -sie，克里登对烤鼠肉串的爱称）"
+    },
+    {
+     "w": "archway",
+     "p": "/ˈɑːtʃweɪ/",
+     "t": "n.",
+     "z": "拱门，拱形通道"
+    },
+    {
+     "w": "Ragpicker’s Square",
+     "p": "",
+     "t": "n.",
+     "z": "拾荒者广场（蜂巢中的一片区域，术语）"
+    }
+   ]
+  },
+  {
+   "i": 125,
+   "zh": "“嗯，我知道你说的是哪儿。有个姑娘，叫奈尔斯，我有回找耗子的时候，亲眼见她从那底下走了过去。至于她怎么弄的，我可就不知道了。你大概能在这儿的东北边找着她，她正扒拉一堆木料，翻钉子什么的东西。”",
+   "notes": [
+    "整段是克里登浓重口音的书写化：<code>wot</code>＝<code>what</code>、<code>ye’re</code>＝<code>you are</code>、<code>o’</code>＝<code>of</code>、<code>a’</code>＝<code>at</code>、<code>fer</code>＝<code>for</code>、<code>prob'ly</code>＝<code>probably</code>、<code>rootin’</code>＝<code>rooting</code>。译文以“找耗子”“扒拉”“翻钉子什么的”这类市井说法对应，不追求逐字，只求土腔在。",
+    "<code>There was a lass, name o’ Nalls, who I saw walk through there</code>：<code>name o’ Nalls</code> 是 <code>by the name of Nalls</code> 的省略（“名叫奈尔斯的”）；<code>who I saw walk through there</code> 中 <code>saw</code> 后接省去 <code>to</code> 的不定式 <code>walk</code>（see sb. do sth. 结构，强调看见全过程）。",
+    "<code>rootin’ around a pile o’ lumber for nails an’ the like</code>：<code>root around</code>＝“翻找、扒拉”；<code>for</code> 引出翻找的目标（钉子）；<code>and the like</code> 是“以及诸如此类的东西”。术语：<code>Nalls</code> 在蜂巢里被称作 <code>Iron Nalls</code>，故译作“铁钉奈尔斯／奈尔斯”。"
+   ],
+   "vocab": [
+    {
+     "w": "lass",
+     "p": "/læs/",
+     "t": "n.",
+     "z": "姑娘，少女（苏格兰/北英格兰方言）"
+    },
+    {
+     "w": "walk through",
+     "p": "",
+     "t": "v.",
+     "z": "走过去，穿过（此处指穿门而过）"
+    },
+    {
+     "w": "rootin’ around",
+     "p": "",
+     "t": "v.",
+     "z": "翻找，扒拉（root around 的方言拼写）"
+    },
+    {
+     "w": "lumber",
+     "p": "/ˈlʌmbər/",
+     "t": "n.",
+     "z": "木料，木材（cut lumber＝伐木；此处指一堆旧木料）"
+    },
+    {
+     "w": "Nalls",
+     "p": "",
+     "t": "n.",
+     "z": "奈尔斯（蜂巢人称“铁钉奈尔斯”，靠拔钉子卖钱的女人）"
+    }
+   ]
+  },
+  {
+   "i": 126,
+   "zh": "我盘问蜂巢居民总算有了回报，因为我连她在哪儿都清楚。我谢过克里登，动身去找她。她也还在我上回见她的地方，从旧木料上拔钉子。我问起那道拱门。奈尔斯慢慢点了点头。",
+   "notes": [
+    "<code>My questioning of Hive inhabitants was paying off</code>：<code>pay off</code> 是“得到回报、见效”，此处用过去进行时，表示一路问下来终于见效；<code>questioning</code> 是动词 <code>question</code>（盘问）的名词化。",
+    "<code>since I knew just where she was as well</code>：<code>since</code> 引导原因状语从句（“因为”），<code>as well</code> 意为“也、同样”，指“连她的下落我也知道”；<code>just</code> 在此加强确定语气。",
+    "<code>She, too, was where I had seen her last</code> 用逗号隔开 <code>too</code> 作插入成分，“她也是”；<code>pulling nails from old timbers</code> 是现在分词作伴随状语，说明她当时在做什么，与克里登说她“翻钉子”互相印证。"
+   ],
+   "vocab": [
+    {
+     "w": "paying off",
+     "p": "",
+     "t": "v.",
+     "z": "见效，得到回报（pay off）"
+    },
+    {
+     "w": "inhabitants",
+     "p": "/ɪnˈhæbɪtənts/",
+     "t": "n.",
+     "z": "居民，居住者（Hive inhabitants＝蜂巢居民）"
+    },
+    {
+     "w": "timbers",
+     "p": "/ˈtɪmbərz/",
+     "t": "n.",
+     "z": "木料，大木材（timber 的复数）"
+    },
+    {
+     "w": "nodded",
+     "p": "/ˈnɒdɪd/",
+     "t": "v.",
+     "z": "点头（nod 的过去式）"
+    }
+   ]
+  },
+  {
+   "i": 127,
+   "zh": "“那是个传送门，你知道吧。我是碰巧撞上的，纯属偶然……你只要走到它跟前的时候，身上带着一把破烂儿，就能直接穿过去。传送门那头有一小片空地，还有一道通向地底下的门，可我想着何必自找麻烦，就转身原路回来了。喏……”她递给我一把破烂儿。“你要用就拿去。反正我本来也要扔了。”",
+   "notes": [
+    "<code>Stumbled on it quite by chance, I did</code>：<code>stumble on/upon</code>＝“偶然撞见、无意中发现”；后半句 <code>I did</code> 是强调性的重复主语，属口语习惯（把主语在句尾重提一次），语气上更像絮絮自述。",
+    "<code>alls ye need ta do is have a handful o’ junk on ye</code>：<code>alls</code> 是 <code>all</code>＋<code>as</code> 混一的方言写法，即 <code>all you need to do is…</code>；<code>ta</code>＝<code>to</code>；<code>have… on ye</code>＝“身上带着……”；<code>a handful of junk</code> 就是开启这道传送门的“钥匙”——这正是本段的关键信息。",
+    "<code>when ye walks up ta it</code> 用 <code>walks</code> 配 <code>ye</code>，方言里第二人称单数仍带 -s，不合标准语法，两处方言之间还夹着原文的直引号（<code>ye'll</code>）；<code>I figured no sense in askin’ fer trouble so’s…</code> 中 <code>no sense in doing sth.</code>＝“做某事没道理、犯不上”，<code>so’s</code> 是 <code>so as</code>／<code>so</code> 的方言缩合，引出结果“所以我就……”。术语：<code>the portal</code> 统一译“传送门”。"
+   ],
+   "vocab": [
+    {
+     "w": "Stumbled on it quite by chance",
+     "p": "",
+     "t": "phrase",
+     "z": "纯属偶然撞上了它（stumble on＝无意中发现；by chance＝碰巧）"
+    },
+    {
+     "w": "alls",
+     "p": "",
+     "t": "phrase",
+     "z": "＝all（as）的方言写法，此处即“你所要做的只是”"
+    },
+    {
+     "w": "a handful o’ junk",
+     "p": "",
+     "t": "phrase",
+     "z": "一把破烂儿（即这道传送门的“钥匙”）"
+    },
+    {
+     "w": "underground",
+     "p": "/ˈʌndərɡraʊnd/",
+     "t": "adv.",
+     "z": "在地下，往地下（lead underground＝通向地下）"
+    },
+    {
+     "w": "turned around",
+     "p": "",
+     "t": "v.",
+     "z": "转过身，掉头（此处指原路返回）"
+    }
+   ]
+  },
+  {
+   "i": 128,
+   "zh": "我谢过她，眼看天色已晚，便前往那家熟悉的客栈，再住一夜。",
+   "notes": [
+    "<code>since it was rather late</code>：<code>since</code> 引导原因状语从句；<code>rather</code> 在此是程度副词，“相当、挺”，修饰 <code>late</code>，表示天色已不早。",
+    "<code>headed for the same inn to spend another night</code>：<code>head for</code>＝“朝……去、前往”，是口语化的移动动词；<code>the same inn</code> 的 <code>same</code> 指前文提过的那家客栈（英语习惯加定冠词）；<code>to spend another night</code> 是不定式表目的。整句原文省略了主语 <code>I</code>，译文补出“我”，符合中文叙述习惯。"
+   ],
+   "vocab": [
+    {
+     "w": "headed for",
+     "p": "",
+     "t": "v.",
+     "z": "前往，朝……去（head for）"
+    },
+    {
+     "w": "inn",
+     "p": "/ɪn/",
+     "t": "n.",
+     "z": "客栈，小旅店"
+    },
+    {
+     "w": "rather late",
+     "p": "",
+     "t": "phrase",
+     "z": "相当晚了（rather 作程度副词）"
+    }
+   ]
+  }
+ ]
+}

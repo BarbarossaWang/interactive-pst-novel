@@ -1,0 +1,332 @@
+{
+ "chapter": "Buried Village",
+ "chunk": "buried-village-05",
+ "items": [
+  {
+   "i": 89,
+   "zh": "“这地下墓穴啊，深得跟尘人的钱袋一个样。”",
+   "notes": [
+    "<code>as deep as a Dustie’s pockets</code> 是明喻，<code>Dustie</code> 是 <code>Dustman</code>（尘人）的昵称；尘人专管收尸、身上从不带钱，所以说某人钱袋“深”既是说它空，也是说它摸不到底，此处借它形容墓穴的深不见底。",
+    "说话人用的是市井切口式的随口一比，译文保留“一个样”这样的口语收尾，不把它译成书面比喻。"
+   ],
+   "vocab": [
+    {
+     "w": "catacombs",
+     "p": "/ˈkætəkuːmz/",
+     "t": "n.",
+     "z": "地下墓穴（catacomb 的复数）；本章指埋在拾荒者广场底下的墓道"
+    },
+    {
+     "w": "Dustie’s",
+     "p": "/ˈdʌstiz/",
+     "t": "n.",
+     "z": "尘人的（Dustie 是 Dustman 的昵称，见术语表）"
+    },
+    {
+     "w": "pockets",
+     "p": "/ˈpɒkɪts/",
+     "t": "n.",
+     "z": "钱袋，口袋（pocket 的复数）"
+    }
+   ]
+  },
+  {
+   "i": 90,
+   "zh": "“也深得像人心的贪欲。”",
+   "notes": [
+    "这是接上一句的省略句，完整意思是 <code>And [these catacombs are] as deep as the greed of man</code>，<code>And</code> 承接对方的话头，译作“也……”最自然。",
+    "<code>the greed of man</code> 用单数 <code>man</code> 泛指“人类”，是带文气的说法，与上一句粗俗的钱袋比喻正好形成反差。"
+   ],
+   "vocab": [
+    {
+     "w": "as deep as",
+     "p": "",
+     "t": "phr.",
+     "z": "和……一样深；<code>as + 形容词 + as</code> 表示同级比较"
+    },
+    {
+     "w": "greed",
+     "p": "/ɡriːd/",
+     "t": "n.",
+     "z": "贪欲，贪婪；此处是本章反复出现的主题词"
+    },
+    {
+     "w": "man",
+     "p": "/mæn/",
+     "t": "n.",
+     "z": "（不加冠词）人类；<code>the greed of man</code>＝人心的贪欲"
+    }
+   ]
+  },
+  {
+   "i": 91,
+   "zh": "“哦，是啊……”法罗德冷笑一声。“等到什么都不剩的时候，人心的贪欲总是还靠得住，嗯？”",
+   "notes": [
+    "路西法式的反问：<code>something that shall always be counted upon</code> 是 <code>count upon</code>（指望、依靠）的被动式，<code>shall</code> 带古旧庄重味，译文用“总是还靠得住”还这句冷话。",
+    "<code>when naught else is left</code> 中 <code>naught</code>＝<code>nothing</code>，是古体书面词；<code>eh?</code> 是句末求证的口气词，法罗德借此把自己那句警句钉在对方身上。"
+   ],
+   "vocab": [
+    {
+     "w": "sneered",
+     "p": "/snɪəd/",
+     "t": "v.",
+     "z": "冷笑，讥笑（sneer 的过去式）；法罗德的招牌神情"
+    },
+    {
+     "w": "counted upon",
+     "p": "",
+     "t": "phr.",
+     "z": "被指望，被依靠；<code>count upon sth</code>＝依靠某事"
+    },
+    {
+     "w": "naught",
+     "p": "/nɔːt/",
+     "t": "pron.",
+     "z": "（古）无，什么也没有；＝<code>nothing</code>"
+    },
+    {
+     "w": "the greed of man",
+     "p": "",
+     "t": "phr.",
+     "z": "人心的贪欲；<code>man</code> 泛指人类"
+    }
+   ]
+  },
+  {
+   "i": 92,
+   "zh": "埋骨村的底细我仍旧一无所知，见法罗德难得对与我不相干的话题这般健谈，我便决定趁这机会问一问他。",
+   "notes": [
+    "<code>the dark on the Buried Village</code>：印记城切口里 <code>the dark</code> 指“内情、见不得光的底细”，与 <code>spill the dark</code>、<code>keep the dark dark</code> 是同一套说法，故译作“底细”。",
+    "<code>while he was being so expansive</code> 用进行时，点出这是对方一时的反常状态，译文以“难得……这般健谈”对应；<code>on any subject that didn’t concern me</code> 是定语从句修饰 <code>subject</code>，意为“只要话题不牵涉到我”。"
+   ],
+   "vocab": [
+    {
+     "w": "the dark",
+     "p": "/dɑːk/",
+     "t": "n.",
+     "z": "（切口）内情，隐秘的底细；不是“黑暗”"
+    },
+    {
+     "w": "expansive",
+     "p": "/ɪkˈspænsɪv/",
+     "t": "adj.",
+     "z": "健谈的，兴致勃勃、愿意多说几句的"
+    },
+    {
+     "w": "concern",
+     "p": "/kənˈsɜːn/",
+     "t": "v.",
+     "z": "涉及，关系到；<code>subject that didn’t concern me</code>＝与我不相干的话题"
+    }
+   ]
+  },
+  {
+   "i": 93,
+   "zh": "“呃，这个嘛，说来话长……”法罗德又舔了舔嘴唇，随后耸了耸肩。“可老实说，这故事我听得腻了。简单说吧？那是蜂巢的一块地方，某天被人用砖头整个砌死了——一块印记城，就这么给记进了亡者名录。”",
+   "notes": [
+    "<code>Well, now</code> 是开口前的拖腔，译文用“呃，这个嘛”接住；<code>there’s a story</code> 是“这事有一段来历”的口语说法。",
+    "<code>But to tell true</code>＝<code>to tell the truth</code>，是带古旧味的插入语；<code>The short of it?</code> 意为“长话短说／简要说来”，用破折号式的问句引出下文。",
+    "<code>a piece-o-Sigil</code> 里 <code>o’</code>＝<code>of</code>，是法罗德惯有的吞音；<code>got penned in the dead book</code> 中 <code>pen</code> 本义“用笔写”，<code>dead book</code> 是“亡者名录”，整句意为“被写进死者名册、等于死了”。"
+   ],
+   "vocab": [
+    {
+     "w": "licked his lips",
+     "p": "",
+     "t": "phr.",
+     "z": "舔嘴唇；法罗德盘算或垂涎时的习惯动作"
+    },
+    {
+     "w": "shrugged",
+     "p": "/ʃrʌɡd/",
+     "t": "v.",
+     "z": "耸肩（shrug 的过去式）；表示不以为然、懒得细说"
+    },
+    {
+     "w": "got bricked over",
+     "p": "",
+     "t": "phr.",
+     "z": "被用砖砌死、封住；<code>brick over</code> 指用砖把某处盖没"
+    },
+    {
+     "w": "penned",
+     "p": "/pend/",
+     "t": "v.",
+     "z": "被写下、被登记（pen 的过去分词）；<code>pen sth in</code>＝把某事写进（册子）"
+    },
+    {
+     "w": "the dead book",
+     "p": "",
+     "t": "n.",
+     "z": "亡者名录；印记城黑话，入册即等于死，见术语表"
+    }
+   ]
+  },
+  {
+   "i": 94,
+   "zh": "“你这话是什么意思？”",
+   "notes": [
+    "简短一问，与前面那句 <code>What do you mean?</code> 式的直问一致，写出无名氏听不明白时的简短口气，不必添字。",
+    "<code>What do you mean?</code> 与 <code>What do you mean by that?</code> 意思相同，后者语气更不客气；这里用前者的普通问法即可。"
+   ],
+   "vocab": [
+    {
+     "w": "What do you mean",
+     "p": "",
+     "t": "phr.",
+     "z": "你是什么意思；要求对方把话说明白的常用问法"
+    },
+    {
+     "w": "mean",
+     "p": "/miːn/",
+     "t": "v.",
+     "z": "意思是，指的是；问对方刚才那句话指什么"
+    }
+   ]
+  },
+  {
+   "i": 95,
+   "zh": "“你晓得那些替女士跑腿的、飘着的羊头吧，那些达布斯？唔，你晓得不晓得都无所谓——他们成天在城里四处忙活，修修补补、拆拆建建、填埋盖屋，一刻不停。听明白了没？”我点了点头，他便接着往下说。“喏，按内情讲……那内情也够老的，是尘灰里的老话……有一天那些达布斯硬是把蜂巢的一块地方用砖头砌死了，所有人都把那地方忘了个干净。垃圾一车车往上倒，没多久，谁都不知道这儿还有块地方。”法罗德笑了笑。“够毒吧？印记城的一角，就这么被忘得一干二净？”",
+   "notes": [
+    "法罗德的口音与吞音是这段的难点：<code>Y'know</code>＝<code>You know</code>，<code>D'you follow?</code>＝<code>Do you follow?</code>（听明白了吗、跟得上吗），<code>‘bout</code>＝<code>about</code>，<code>a lot a trash</code>＝<code>a lot of trash</code>，<code>onnit</code>＝<code>on it</code>。译文用“你晓得”“听明白了没”等口语还其腔调。",
+    "<code>them floating goat-heads that serve the Lady</code>：<code>them</code> 在此是俚俗的指示词（＝<code>those</code>），<code>goat-heads</code> 是法罗德对达布斯的蔑称（达布斯头生弯角、面孔似羊）；<code>the Lady</code> 指痛苦女士。",
+    "<code>as the chant goes</code> 中 <code>chant</code> 是印记城切口“内情、传闻”，此处偏“老话、说法”；<code>and a dusty chant it is too</code> 把表语提前形成强调，兼有“尘灰般古老”的双关，故译作“尘灰里的老话”。末句 <code>Wicked, no?</code> 是法罗德式的得意反问，不是在真问，正与文末 <code>A piece of Sigil all-forgotten?</code> 一样，都是他等着对方点头的口气。"
+   ],
+   "vocab": [
+    {
+     "w": "goat-heads",
+     "p": "",
+     "t": "n.",
+     "z": "羊头（法罗德对达布斯的蔑称；达布斯头顶生角）"
+    },
+    {
+     "w": "dabuses",
+     "p": "/ˈdeɪbəsɪz/",
+     "t": "n.",
+     "z": "达布斯（dabus 的复数）；痛苦女士的仆从，在城中修街造屋"
+    },
+    {
+     "w": "D'you follow?",
+     "p": "",
+     "t": "phr.",
+     "z": "听明白了吗？跟得上吗？＝<code>Do you follow?</code>"
+    },
+    {
+     "w": "as the chant goes",
+     "p": "",
+     "t": "phr.",
+     "z": "照内情／传闻所说；<code>chant</code> 是印记城切口“内情”"
+    },
+    {
+     "w": "bricked over",
+     "p": "",
+     "t": "phr.",
+     "z": "用砖砌死、封起来；把一块城区整个盖没"
+    }
+   ]
+  },
+  {
+   "i": 96,
+   "zh": "“你是怎么找到它的？”",
+   "notes": [
+    "抓住对方刚说漏的线索直接追问，句子极短，符合无名氏一贯只认目标的说话方式；<code>it</code> 指上文那块被砌死的城区。",
+    "<code>How did you find it?</code> 用一般过去时，问的是某一次既成的发现；若问“你到现在是怎么找到的”则用现在完成时 <code>How have you found it?</code>，此处不适用。"
+   ],
+   "vocab": [
+    {
+     "w": "How did you find it",
+     "p": "",
+     "t": "phr.",
+     "z": "你是怎么找到它的；<code>it</code> 回指上文被砖封住的城区"
+    },
+    {
+     "w": "find",
+     "p": "/faɪnd/",
+     "t": "v.",
+     "z": "找到，发现；问对方当初是怎么发现那处地方的"
+    }
+   ]
+  },
+  {
+   "i": 97,
+   "zh": "法罗德啧了一声。“我的眼睛还在，尸首，我的耳朵也还在；等你有点脑子，能把这两样凑到一块儿用，那么查明任何事的底细，就没别人说的那么难。”",
+   "notes": [
+    "<code>tsked</code> 是拟声动词，指发出“啧啧”的不屑声；译文用“啧了一声”保留声音感。",
+    "法罗德管无名氏叫 <code>corpse</code>（尸首），是他的固定称呼，含轻蔑；<code>I still have my eyes… and I still have my ears</code> 用 <code>still</code> 重复强调“我还有”，译文照此重复以存其硬邦邦的口气。",
+    "<code>tie the two together</code> 字面“把这两样系在一起”，即“把所见与所闻联系起来判断”；<code>not as hard as some make it out to be</code> 中 <code>make sth out to be</code>＝“把某事说成、渲染成……”，译文用“没别人说的那么难”。"
+   ],
+   "vocab": [
+    {
+     "w": "tsked",
+     "p": "/tskt/",
+     "t": "v.",
+     "z": "啧了一声（tsk 的过去式）；表示不以为然或轻蔑"
+    },
+    {
+     "w": "corpse",
+     "p": "/kɔːps/",
+     "t": "n.",
+     "z": "尸首，尸体；法罗德对无名氏的蔑称"
+    },
+    {
+     "w": "tie the two together",
+     "p": "",
+     "t": "phr.",
+     "z": "把两者联系起来；指把眼睛看到的和耳朵听到的凑起来判断"
+    },
+    {
+     "w": "the dark",
+     "p": "/dɑːk/",
+     "t": "n.",
+     "z": "（切口）内情、底细；<code>the dark of any matter</code>＝任何事的内幕"
+    },
+    {
+     "w": "make it out to be",
+     "p": "",
+     "t": "phr.",
+     "z": "把……说成（某种样子）；<code>as some make it out to be</code>＝像某些人渲染的那样"
+    }
+   ]
+  },
+  {
+   "i": 98,
+   "zh": "除了那些对我真正要紧的事，我的好奇已在各方面都得到了满足，于是我离开法罗德，走出他那座昏沉的大厅。我决定在埋骨村过一夜，因为我知道玛尔塔肯让我睡在她的破屋里。法罗德交代的差事，明天再动手也不迟。何况，死这东西，不是一个下午就能缓过来的。",
+   "notes": [
+    "<code>Having satisfied my curiosity on all points except those that were…</code> 是现在完成时的分词短语作原因状语，相当于 <code>Since I had satisfied…</code>；<code>those</code> 回指 <code>points</code>，<code>that were of importance to me</code> 是定语从句，<code>be of importance</code>＝<code>be important</code>。",
+    "<code>Pharod’s quest</code> 指法罗德派给他的那桩差事（去找青铜球），译作“法罗德交代的差事”；<code>Next day was soon enough to…</code>＝“第二天再……也不迟”，是口语化的说法，不要理解成“第二天很快就到了”。",
+    "<code>dying is not something one recovers from in an afternoon</code> 用 <code>one</code> 泛指“人”，把“死”说成一种需要慢慢恢复的状态，是全段最冷的一句反讽，无名氏刚死而复生，所以这话带着自嘲。"
+   ],
+   "vocab": [
+    {
+     "w": "Having satisfied",
+     "p": "",
+     "t": "phr.",
+     "z": "满足了……之后（现在完成时分词短语作状语）"
+    },
+    {
+     "w": "of importance to me",
+     "p": "",
+     "t": "phr.",
+     "z": "对我重要的；＝<code>important to me</code>"
+    },
+    {
+     "w": "shadowed",
+     "p": "/ˈʃædəʊd/",
+     "t": "adj.",
+     "z": "昏暗的，笼在阴影里的；形容法罗德那座大厅"
+    },
+    {
+     "w": "hovel",
+     "p": "/ˈhɒvl/",
+     "t": "n.",
+     "z": "破屋，陋室；指玛尔塔住的地方"
+    },
+    {
+     "w": "quest",
+     "p": "/kwest/",
+     "t": "n.",
+     "z": "（受命去完成的）差事、寻找；此处指替他找青铜球"
+    }
+   ]
+  }
+ ]
+}

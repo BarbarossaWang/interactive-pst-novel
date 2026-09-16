@@ -1,0 +1,330 @@
+{
+ "chapter": "Buried Village",
+ "chunk": "buried-village-03",
+ "items": [
+  {
+   "i": 45,
+   "zh": "“这可不是游艺会，尸体。没工夫陪你玩，也没工夫让法罗德陪你转轮盘……你问这些做什么？”我不信这个法罗德，也许撒个谎反倒更好。可这件事太要紧，万一他肯跟我实说，我索性把想问的直接问了出来。",
+   "notes": [
+    "<code>Tisn’t</code>＝<code>It isn’t</code> 的口语吞音写法，<code>’tis</code> 系 <code>it is</code> 的古旧缩合，加 <code>-n’t</code> 后成了市井粗人的腔调；译文用“这可不是”对应。<code>mummer’s fair</code> 指化装游艺会、假面集市，法罗德拿它比喻“陪人做戏”。",
+    "<code>no time for Pharod to play the wheel</code>：<code>play the wheel</code> 指转轮盘赌一类的把戏，转义为“陪你赌运气、陪你绕圈子”；第三人称自称 <code>Pharod</code> 而不说 <code>me</code>，是居高临下的王者口吻，译文保留“让法罗德……”的说法。",
+    "<code>on the chance (that)…</code> 是固定搭配，“抱着……的指望、万一……”；<code>play me straight</code> 中 <code>straight</code> 作副词，意为“实打实地、不耍花样”。末句 <code>asked what I wanted straight out</code> 的 <code>straight out</code>＝直截了当地，与前面的反复掂量形成对照。"
+   ],
+   "vocab": [
+    {"w": "mummer’s fair", "p": "", "t": "n.", "z": "化装游艺会，假面集市（转指“做戏的场合”）"},
+    {"w": "play the wheel", "p": "", "t": "phrase", "z": "玩轮盘赌；转义为“赌运气、绕圈子”"},
+    {"w": "strategy", "p": "/ˈstrætədʒi/", "t": "n.", "z": "策略，法子（此处指“撒谎”这一手）"},
+    {"w": "on the chance", "p": "", "t": "phrase", "z": "抱着……的指望，万一……（后接从句）"},
+    {"w": "straight out", "p": "", "t": "adv.", "z": "直截了当，毫不绕弯"}
+   ]
+  },
+  {
+   "i": 46,
+   "zh": "“我忘了自己是谁，有人叫我来找你。说你知道些我的事。”",
+   "notes": [
+    "<code>forgotten myself</code> 直译是“忘了我自己”，在本章里指丧失记忆、忘了自己的身份，与后面反复出现的失忆主题呼应；译文用“忘了自己是谁”把它落到实处。",
+    "<code>seek you out</code> 是固定短语，“特意寻访、找到某人”；<code>That you would know…</code> 前省略了 <code>I was told</code>，是英语口语里常见的省略式从句，译文补出“说”字以保中文通顺。"
+   ],
+   "vocab": [
+    {"w": "forgotten", "p": "/fərˈɡɑːtn/", "t": "v.", "z": "忘记（forget 的过去分词）"},
+    {"w": "seek you out", "p": "", "t": "phrase", "z": "特意寻访，找到（某人）"},
+    {"w": "know something of me", "p": "", "t": "phrase", "z": "知道我的一些事（of 表“关于”）"}
+   ]
+  },
+  {
+   "i": 47,
+   "zh": "“呃……”法罗德舔了舔嘴唇，发出沙沙的声响，像干羊皮纸蹭在沙子上。“那么是谁跟你说的这话，尸体？”",
+   "notes": [
+    "<code>Eh…</code> 是犹疑、盘算时的感叹词，译文用“呃”。<code>licked his lips</code> 是法罗德的身体习惯，本章反复出现，译文一律作“舔了舔嘴唇”以保持人物印记。",
+    "<code>they made a rasping sound, like dry parchment on sand</code>：<code>rasping</code> 是拟声形容，“刺啦、沙沙”的刮擦声；<code>parchment</code> 是羊皮纸。此句是明喻，用干纸蹭沙来形容他嘴唇之干、之冷，也暗示他不像活人。",
+    "<code>Now who told you such a thing</code>：句首 <code>Now</code> 不表时间，只用来加强追问的语气，可译作“那么／喂”；<code>such a thing</code> 是“这种话”，暗含“这种话也配你问”的讥刺。"
+   ],
+   "vocab": [
+    {"w": "licked his lips", "p": "", "t": "phrase", "z": "舔嘴唇（紧张、垂涎或盘算时的动作）"},
+    {"w": "rasping", "p": "/ˈræspɪŋ/", "t": "adj.", "z": "刺啦作响的，沙沙刮擦的"},
+    {"w": "parchment", "p": "/ˈpɑːrtʃmənt/", "t": "n.", "z": "羊皮纸（旧时书写用，质地干硬）"},
+    {"w": "corpse", "p": "/kɔːrps/", "t": "n.", "z": "尸体（法罗德对无名氏的固定称呼）"}
+   ]
+  },
+  {
+   "i": 48,
+   "zh": "“唔，倒也不是谁跟我说的。我背上有几处纹身……是它们叫我来找你，说万一我忘了自己，就来找你。”",
+   "notes": [
+    "<code>Well</code> 在句首是犹豫、斟酌的填充词，译文作“唔”，与无名氏一再以此开句的语感一致。<code>no one told me, exactly</code> 的 <code>exactly</code> 用来修正前一句，表示“严格说来并非如此”，是英语口语中很常见的补正用法。",
+    "<code>There were these tattoos on my back</code> 是 <code>there be</code> 存在句加指示词 <code>these</code>，带“就是那么几处”的口语味；<code>if I ever forgot myself</code> 中 <code>ever</code> 表“万一哪天”，条件意味比 <code>if</code> 更强。"
+   ],
+   "vocab": [
+    {"w": "exactly", "p": "/ɪɡˈzæktli/", "t": "adv.", "z": "确切地说（此处用于修正前话）"},
+    {"w": "tattoos", "p": "/tæˈtuːz/", "t": "n.", "z": "纹身（复数；本章的关键线索）"},
+    {"w": "forgot", "p": "/fərˈɡɑːt/", "t": "v.", "z": "忘记（forget 的过去式）"}
+   ]
+  },
+  {
+   "i": 49,
+   "zh": "“啊……说得这么少，交代得却这么多……”法罗德沉默下来，忽然，我生出一种感觉：他正在解剖我，像剖开停尸台上的一具尸体。“你要知道的事，我知道的不少。不少，是啊。真不少……”法罗德缓缓笑了，脸上的层层赘肉像帘子一样朝两边掀开。",
+   "notes": [
+    "<code>so little said, so much told</code> 是并列对照的省略结构（<code>so + 形容词 + 过去分词</code>），前后对举见机锋；译文用“说得这么少，交代得却这么多”保留这份一扬一抑。",
+    "<code>was dissecting me, like a corpse on a Mortuary slab</code>：<code>dissect</code> 本义“解剖”，此处喻他逐句拆解无名氏的话；<code>Mortuary</code> 指印记城的停尸间（本作第一章场景），<code>slab</code> 是停尸台。",
+    "<code>the folds of flesh on his face peeling back like a curtain</code>：<code>folds of flesh</code> 是“层层赘肉”；<code>peel back</code>＝像皮一样朝两边剥开；<code>like a curtain</code> 是明喻。他的笑被写成可怖的皮肉翻卷，而非和善。"
+   ],
+   "vocab": [
+    {"w": "dissecting", "p": "/daɪˈsektɪŋ/", "t": "v.", "z": "解剖；此处喻“逐句拆解、审视”"},
+    {"w": "slab", "p": "/slæb/", "t": "n.", "z": "平板，停尸台（Mortuary slab）"},
+    {"w": "peeling back", "p": "", "t": "v.", "z": "（皮、层）剥开，朝两边翻卷"},
+    {"w": "folds of flesh", "p": "", "t": "n.", "z": "层层赘肉（fold＝褶皱、层）"},
+    {"w": "indeed", "p": "/ɪnˈdiːd/", "t": "adv.", "z": "确实，真的（此处用于加重语气）"}
+   ]
+  },
+  {
+   "i": 50,
+   "zh": "“你知道我什么？”法罗德舔了舔嘴唇，随即像只秃鹫一样在拐杖上安顿好自己。",
+   "notes": [
+    "<code>settled himself upon his crutch like a vulture</code>：<code>settle oneself</code>＝把自己安顿、稳住；<code>upon</code> 与 <code>on</code> 同义，偏书面；秃鹫（<code>vulture</code>）栖枝的意象写出他萎缩、阴鸷、居高临下的姿态。",
+    "法罗德的问句在此被无名氏原样重复发问，前后文形成回环；译文保持同一句式，便于读者看到两人话语的缠斗。"
+   ],
+   "vocab": [
+    {"w": "What do you know of me", "p": "", "t": "phrase", "z": "你知道我什么（of 表“关于”）"},
+    {"w": "settled himself", "p": "", "t": "phrase", "z": "安顿好自己，稳住身子"},
+    {"w": "crutch", "p": "/krʌtʃ/", "t": "n.", "z": "拐杖（法罗德常年拄拐，也是他的权杖）"},
+    {"w": "vulture", "p": "/ˈvʌltʃər/", "t": "n.", "z": "秃鹫（喻贪婪、等着吃腐尸的人）"}
+   ]
+  },
+  {
+   "i": 51,
+   "zh": "“不，不……你问的这话，可不白给。”他那双惨白的手在拐杖边缘上敲着。“我能告诉你的多着呢，可讲出来是有代价的。”法罗德用拐杖敲了敲石板地，冷笑一声。“这村子底下埋着的，可不只是埋骨村。”",
+   "notes": [
+    "<code>not free, the question you ask</code> 是表语前置的倒装（正常语序为 <code>the question you ask is not free</code>），把 <code>not free</code> 提到句首以示强调，译文用“可不白给”保留重音在前的顿挫。",
+    "<code>the telling has a cost</code>：<code>telling</code> 是动名词作主语，“讲（这件事）”；<code>has a cost</code>＝要付代价，是法罗德开口要价的委婉铺垫。<code>tapped the flagstones with his crutch</code> 中 <code>flagstone</code> 指铺地的石板。",
+    "<code>This village is not all that lies buried beneath Ragpicker’s Square.</code>：<code>all that</code> 引出定语从句，“并非……的全部”；<code>lies buried</code>＝埋在地下。注意原文作 <code>Ragpicker’s Square</code>（单数），与惯用的 Ragpickers’ Square 稍有出入，此处仍是“拾荒者广场”。"
+   ],
+   "vocab": [
+    {"w": "pasty-white", "p": "/ˈpeɪsti/", "t": "adj.", "z": "惨白如浆糊的，蜡白的（形容病态的肤色）"},
+    {"w": "flagstones", "p": "/ˈflæɡstoʊnz/", "t": "n.", "z": "铺地石板（flagstone 的复数）"},
+    {"w": "sneered", "p": "/snɪrd/", "t": "v.", "z": "冷笑，讥笑（sneer 的过去式）"},
+    {"w": "the telling", "p": "", "t": "n.", "z": "讲述，说明（动名词作主语）"},
+    {"w": "has a cost", "p": "", "t": "phrase", "z": "要付出代价（谈条件时的暗示）"}
+   ]
+  },
+  {
+   "i": 52,
+   "zh": "“一间间墓室、一座座地窖、一条条走廊……里头塞满了死人，全都躺在棺材里睡着。就在那些厅堂的某处，就在那儿，躺着一件放错了地方的东西。一件属于我的东西。”",
+   "notes": [
+    "<code>Chambers, vaults, corridors…</code> 是三个名词并列而无动词的省略句，英语里用于铺陈场景、加快列举节奏；译文用“一间间、一座座、一条条”的量词重叠来复现这种逐一推进的推镜感。",
+    "<code>all a- sleep in their coffins</code>：<code>a-</code> 是古旧的前缀，接动词构成表状态的状语（如 <code>a-sleep</code>、<code>a-hunting</code>），原文写作 <code>a- sleep</code> 中间带空格，译文“睡着”不作“沉睡”，以存其口语的轻描淡写。",
+    "<code>miss-placed</code> 是 <code>misplaced</code>（放错地方的）的变体拼写。<code>Something mine</code> 用名词性物主代词 <code>mine</code> 收尾，短促而笃定，译文以“一件属于我的东西”接住这份不容分说的占有欲。"
+   ],
+   "vocab": [
+    {"w": "vaults", "p": "/vɔːlts/", "t": "n.", "z": "拱顶地窖，墓窖（vault 的复数）"},
+    {"w": "coffins", "p": "/ˈkɔːfɪnz/", "t": "n.", "z": "棺材（coffin 的复数）"},
+    {"w": "miss-placed", "p": "/ˌmɪsˈpleɪst/", "t": "adj.", "z": "放错地方的（即 misplaced 的拼写变体）"},
+    {"w": "Something mine", "p": "", "t": "phrase", "z": "一件属于我的东西（名词性物主代词）"}
+   ]
+  },
+  {
+   "i": 53,
+   "zh": "“是什么东西？”我无可奈何地问。",
+   "notes": [
+    "<code>resignedly</code> 由 <code>resign</code>（听任、认命）加 <code>-ed</code>、<code>-ly</code> 构成，意为“无可奈何地、认命地”，写出无名氏已被法罗德牵着走的处境。",
+    "原文引号内还有一个多余空格（<code>“What is it? “</code>），是原书排版疏漏，译文按正常中文引号处理，不必在译文中保留。"
+   ],
+   "vocab": [
+    {"w": "resignedly", "p": "/rɪˈzaɪnɪdli/", "t": "adv.", "z": "无可奈何地，认命地"},
+    {"w": "What is it", "p": "", "t": "phrase", "z": "是什么东西（用于追问对方所指之物）"}
+   ]
+  },
+  {
+   "i": 54,
+   "zh": "“一件小东西，一个小玩意儿，区区琐物罢了……”法罗德说着，话音竟起了回响，仿佛有两个人同时在说话……我认得这些话……从我自己的嘴里说出来过。",
+   "notes": [
+    "<code>a small thing, a trinket, such a trifle</code>：三个近义词层层递降，<code>trinket</code> 是小饰物，<code>trifle</code> 是微不足道的小物，<code>such a trifle</code> 把轻蔑推到顶；译文用“小东西／小玩意儿／区区琐物”对应这三档降调。",
+    "<code>his words started echoing</code>：<code>start</code> 后接动名词，表示“开始（并持续）”；<code>as if two people were speaking</code> 是与事实相反的虚拟语气（<code>were</code>），暗示这并非寻常的回声，而是前世的自己在同时发声。",
+    "<code>I knew I’d heard them before… from my own lips</code>：<code>I’d</code>＝<code>I had</code>；<code>from my own lips</code>＝出自本人之口。破折号式的省略号停顿，正是无名氏记忆碎片袭来的节奏。"
+   ],
+   "vocab": [
+    {"w": "trinket", "p": "/ˈtrɪŋkɪt/", "t": "n.", "z": "小饰物，不值钱的小玩意儿"},
+    {"w": "trifle", "p": "/ˈtraɪfl/", "t": "n.", "z": "琐物，微不足道的东西（含轻蔑）"},
+    {"w": "echoing", "p": "/ˈekoʊɪŋ/", "t": "v.", "z": "回响，产生回声（echo 的现在分词）"},
+    {"w": "my own lips", "p": "", "t": "phrase", "z": "我自己的嘴（from my own lips＝出自本人之口）"}
+   ]
+  },
+  {
+   "i": 55,
+   "zh": "我替他说完了那句话：“……是个球体。青铜铸的。很丑。摸上去像颗蛋，气味像坏掉的蛋奶糊。我说得对吧？”法罗德死一般静了片刻，然后点了点头。",
+   "notes": [
+    "<code>Made of bronze.</code> 是无主语的省略句，<code>be made of</code>＝由……制成（能看出材质）；一连串碎片式短句（<code>Ugly.</code> <code>Am I right?</code>）复现无名氏脱口而出的记忆，译文照旧用短句断句。",
+    "<code>Feels like an egg to the touch</code>：<code>to the touch</code> 是固定搭配，“摸上去、就触感而言”，与 <code>feels like</code> 连用说明手感。<code>it smells of rotten custard</code> 中 <code>smell of</code>＝散发出……的气味，<code>custard</code> 是蛋奶糊、卡仕达酱。",
+    "<code>fell deathly silent</code> 中 <code>deathly</code> 是副词，“死一般地”；<code>fall + 形容词</code>表状态转变。青铜球（bronze sphere）全书译为“青铜球”，此处保留该译名。"
+   ],
+   "vocab": [
+    {"w": "sphere", "p": "/sfɪr/", "t": "n.", "z": "球体，圆球（本书关键物：青铜球）"},
+    {"w": "bronze", "p": "/brɑːnz/", "t": "n.", "z": "青铜（合金；此处指材质）"},
+    {"w": "to the touch", "p": "", "t": "phrase", "z": "摸上去，就触感而言"},
+    {"w": "custard", "p": "/ˈkʌstərd/", "t": "n.", "z": "蛋奶糊，卡仕达酱"},
+    {"w": "deathly silent", "p": "", "t": "phrase", "z": "死一般地寂静（deathly 作副词）"}
+   ]
+  },
+  {
+   "i": 56,
+   "zh": "“是啊……你到底瞒着我多少事，尸体？”他咯咯一笑。“你是回来看看我还记不记得自己要什么吗？”",
+   "notes": [
+    "<code>how much do you hide from me</code> 是感叹兼追问的 <code>how much</code> 句，字面问“多少”，实为“你瞒我的太多了”；<code>hide sth. from sb.</code>＝对某人隐瞒某事。",
+    "<code>He chuckled</code>：<code>chuckle</code> 是低声轻笑，与后文 <code>grinned</code> 相配，写出法罗德的自得；译文作“咯咯一笑”，不取“哈哈大笑”。",
+    "<code>Did you return to see if I remember what it is I want?</code>：<code>what it is I want</code> 是 <code>what I want</code> 的强调说法（<code>it is… that</code> 强调句的变体），可理解为“我想要的到底是哪样东西”；<code>return</code> 此处是“回来、重返（村子）”。"
+   ],
+   "vocab": [
+    {"w": "chuckled", "p": "/ˈtʃʌkld/", "t": "v.", "z": "低声轻笑（chuckle 的过去式）"},
+    {"w": "hide from", "p": "", "t": "phrase", "z": "对……隐瞒（hide sth. from sb.）"},
+    {"w": "return", "p": "/rɪˈtɜːrn/", "t": "v.", "z": "回来，重返"},
+    {"w": "what it is I want", "p": "", "t": "phrase", "z": "我想要的究竟是什么（强调句式）"}
+   ]
+  },
+  {
+   "i": 57,
+   "zh": "“你怎么不派一个收集者去找？”",
+   "notes": [
+    "<code>Why don’t you…?</code> 形式上是否定疑问句，实际常用来提建议或反问，语气比 <code>Why not…?</code> 更直；译文保留为反问“你怎么不……”。",
+    "<code>get one of your Collectors to search for it</code>：<code>get sb. to do sth.</code>＝让某人去做某事；<code>Collector</code> 是法罗德手下专事收尸聚敛的“收集者”，为全书统一译名。<code>one of + 复数名词</code>表“……之一”。"
+   ],
+   "vocab": [
+    {"w": "Collectors", "p": "/kəˈlektərz/", "t": "n.", "z": "收集者（法罗德的部下，Collector 的复数）"},
+    {"w": "search for", "p": "", "t": "phrase", "z": "搜寻，寻找"},
+    {"w": "Why don’t you", "p": "", "t": "phrase", "z": "你怎么不……（常表建议或反问）"}
+   ]
+  },
+  {
+   "i": 58,
+   "zh": "“因为这走廊里，不缺这个村子再添的死人。”法罗德啧了一声。“强壮、利落、机灵……这些长处，我村里的人一样也没有。他们下去了——就没一个回来。”法罗德瞥了我一眼。“也许死人欢迎自己人，嗯？我就是这么想的，尸体。”",
+   "notes": [
+    "<code>the corridors need no more dead from this village</code>：<code>need</code> 在此作实义动词，<code>no more</code>＝不需要再多的；这句话把“缺人手”说成“死人已经够了”，阴冷而含蓄。",
+    "<code>Pharod tsked</code>：<code>tsk</code> 是啧啧弹舌的声音，表不以为然或惋惜，本章一再出现，是他标志性的口癖。<code>They go below — they do not return</code> 用一般现在时陈述反复发生的事，译文以“下去了——就没一个回来”对应破折号的顿挫。",
+    "<code>the dead will welcome their own</code>：<code>their own</code> 是名词性短语，“他们自己的人”；<code>hmmm?</code> 是拖长的反问语气词，法罗德用它把“你去送死正合适”说成一句玩笑式的揣测。"
+   ],
+   "vocab": [
+    {"w": "tsked", "p": "/tskt/", "t": "v.", "z": "啧啧弹舌（表不以为然；tsk 的过去式）"},
+    {"w": "qualities", "p": "/ˈkwɑːlətiz/", "t": "n.", "z": "品质，长处（quality 的复数）"},
+    {"w": "go below", "p": "", "t": "phrase", "z": "下到（地下的墓穴）里去"},
+    {"w": "their own", "p": "", "t": "phrase", "z": "他们自己人（名词性短语）"},
+    {"w": "glanced at", "p": "", "t": "phrase", "z": "瞥了一眼，匆匆一看"}
+   ]
+  },
+  {
+   "i": 59,
+   "zh": "“你知道那球在哪儿吗？”",
+   "notes": [
+    "无名氏的问句一律短促，与法罗德的铺陈形成落差；译文不加“请问”之类的客套，只留一句直问。",
+    "<code>this sphere</code> 用指示词 <code>this</code> 指前文刚提到的青铜球，而非泛指的 <code>a sphere</code>；中文说“那球”即可承前指代。"
+   ],
+   "vocab": [
+    {"w": "Do you know", "p": "", "t": "phrase", "z": "你知道……吗（一般疑问句）"},
+    {"w": "this sphere", "p": "", "t": "phrase", "z": "这球（this 指前文已提及之物）"}
+   ]
+  },
+  {
+   "i": 60,
+   "zh": "“啊……”法罗德的叹息像沙子在挪动。“那你以为我为什么叫你去找它，尸体？我不知道它在哪儿。我只知道它埋得很深，比村里任何人下去过的都深。”法罗德啧了一声。“说不定就在水势极深极深的地下墓穴里……”",
+   "notes": [
+    "<code>And why do you suppose I ask you to look for it</code>：<code>suppose</code> 在此是“认为、猜想”，整句为反问，暗示“正因为我不知道才要你去”。",
+    "<code>buried deep, far deeper than any villager has ever gone</code>：比较级 <code>far deeper</code> 用 <code>far</code> 加强；<code>than</code> 从句用现在完成时 <code>has ever gone</code>，把“至今没人到过”这层意思带出来。",
+    "<code>where the waters run deep, deep…</code> 中 <code>run</code> 用于水，意为“流淌、水位处于……状态”；重复的 <code>deep, deep</code> 是法罗德拖长声音的拿腔作势，译文用“极深极深”再现。"
+   ],
+   "vocab": [
+    {"w": "sigh", "p": "/saɪ/", "t": "n.", "z": "叹息，叹气"},
+    {"w": "suppose", "p": "/səˈpoʊz/", "t": "v.", "z": "认为，猜想（此处用于反问）"},
+    {"w": "catacombs", "p": "/ˈkætəkoʊmz/", "t": "n.", "z": "地下墓穴（catacomb 的复数）"},
+    {"w": "villager", "p": "/ˈvɪlɪdʒər/", "t": "n.", "z": "村民，村里人"},
+    {"w": "run deep", "p": "", "t": "phrase", "z": "（水）很深；转义“深藏、根深”"}
+   ]
+  },
+  {
+   "i": 61,
+   "zh": "“好吧……我去。可我想知道，拿这小玩意儿换的是什么。”",
+   "notes": [
+    "<code>Very well…</code> 是让步式的应承，“好吧”，语气比 <code>OK</code> 冷淡、比 <code>Fine</code> 克制；本章法罗德也反复用 <code>Very well</code> 收束谈判，两人用语互相呼应。",
+    "<code>what I’m buying with this trinket</code>：<code>buy sth. with sth.</code>＝用……换取……，直译“拿这小玩意儿买的是什么”，即“我这一趟能换来什么”；无名氏把交易说白了，正合他务实的一问。"
+   ],
+   "vocab": [
+    {"w": "Very well", "p": "", "t": "phrase", "z": "好吧（让步、应承，语气偏冷）"},
+    {"w": "I'll do it", "p": "", "t": "phrase", "z": "我来做，我去办"},
+    {"w": "trinket", "p": "/ˈtrɪŋkɪt/", "t": "n.", "z": "小玩意儿，小饰物（此处指青铜球）"}
+   ]
+  },
+  {
+   "i": 62,
+   "zh": "“我这脑瓜子里转悠的见识可多着呢，尸体。”他竖起一根枯瘦的手指。“其中一条是这样：人人都有想要的东西，不管他自己知不知道。关于你，我知道的多了……多的是你想知道的……”",
+   "notes": [
+    "<code>There’s a lot of knowing rattlin’ around in my brain-box</code>：<code>rattlin’</code>＝<code>rattling</code>，丢失末尾 <code>g</code> 是土腔标记，此处作 <code>knowing</code> 的后置分词，“在脑袋里哐当作响地转”；<code>brain-box</code> 是“脑袋瓜子”的俚俗说法，译文保留这份粗野的自夸。",
+    "<code>He held up a withered finger.</code>：<code>withered</code>＝干枯萎缩的，写他老朽却不失威势；竖起一根手指是“且听我讲一条道理”的架势。",
+    "<code>everyone wants something, whether they know it or not</code> 中 <code>whether… or not</code> 引导让步状语从句，“不管……与否”；<code>much that you would want to know</code> 是 <code>much</code> 后接定语从句，省略了关系代词 <code>that</code>，译作“多的是你想知道的”。"
+   ],
+   "vocab": [
+    {"w": "rattlin’", "p": "/ˈrætlɪn/", "t": "v.", "z": "＝rattling，哐当转悠（土腔省去 g）"},
+    {"w": "brain-box", "p": "/ˈbreɪnbɑːks/", "t": "n.", "z": "脑袋瓜子（俚俗说法）"},
+    {"w": "withered", "p": "/ˈwɪðərd/", "t": "adj.", "z": "干枯的，萎缩的"},
+    {"w": "everyone wants something", "p": "", "t": "phrase", "z": "人人都有所求（whether they know it or not＝不管自己知不知道）"}
+   ]
+  },
+  {
+   "i": 63,
+   "zh": "“好吧，”我应道，“我去想办法替你找到这球……换你所知道的事。”我觉得自己落进了套里。他知道我的一些事，我只能指望，等我带着他那个“琐物”回来，他会说出来。",
+   "notes": [
+    "<code>I will see about finding this sphere for you</code>：<code>see about (doing) sth.</code> 是固定搭配，“去着手办、去想办法解决”，比 <code>try to find</code> 更显从容，译文用“想办法”。",
+    "<code>in exchange for what you know</code>：<code>in exchange for</code>＝以……作为交换，是谈交易的常用短语。<code>I felt trapped.</code> 是过去分词作表语，“觉得自己被困住了”，译文作“落进了套里”以合中文语感。",
+    "<code>his ‘trifle.’</code> 中单引号表反讽：法罗德把青铜球贬作“琐物”，无名氏借这个词回敬他。<code>could only hope</code>＝只好指望，含别无他法的无奈。"
+   ],
+   "vocab": [
+    {"w": "see about", "p": "", "t": "phrase", "z": "着手办，想办法处理（see about doing sth.）"},
+    {"w": "in exchange for", "p": "", "t": "phrase", "z": "作为……的交换，换取"},
+    {"w": "trapped", "p": "/træpt/", "t": "adj.", "z": "被困住的，落进套里的"},
+    {"w": "trifle", "p": "/ˈtraɪfl/", "t": "n.", "z": "琐物（此处带反讽引号）"}
+   ]
+  },
+  {
+   "i": 64,
+   "zh": "“好吧，一言为定，就这么说定了……”法罗德把拐杖重重地磕在石板上。“一个球，换你看一眼我脑瓜子里的东西。行了，尸体——没工夫耽搁了。去东南边那道门，让那些睡着的蠢货给你开门——快些，快些。”我还有问题要问，没理会法罗德这突然急着打发我走的意思。",
+   "notes": [
+    "<code>a deal struck, a deal made</code> 是两个并列的“名词＋过去分词”独立结构，无动词而自成句子，像念咒或落槌定案，译文以“一言为定，就这么说定了”复现这种反复敲定的仪式感。",
+    "<code>cracked his crutch sharply against the flagstones</code>：<code>crack</code> 是“猛击而发出脆响”，<code>sharply</code>＝用力而响亮，<code>against</code> 引出被击物。<code>a peek inside my brain box</code> 中 <code>peek</code> 是“窥看、瞄一眼”，与 <code>a sphere for a…</code> 构成对价。",
+    "<code>the gate at the south and east</code> 字面为“南边和东边的那道门”，指东南角的门，译文作“东南边那道门”；<code>make haste</code> 是古雅短语，“赶快”。末句 <code>get rid of me</code>＝把我打发走、甩掉我，写出无名氏识破法罗德急于收场。"
+   ],
+   "vocab": [
+    {"w": "a deal struck", "p": "", "t": "phrase", "z": "一言为定，交易达成（名词＋过去分词的独立结构）"},
+    {"w": "cracked", "p": "/krækt/", "t": "v.", "z": "猛击（发出脆响），啪地敲（crack 的过去式）"},
+    {"w": "peek", "p": "/piːk/", "t": "n.", "z": "一瞥，窥看（have a peek＝看一眼）"},
+    {"w": "make haste", "p": "", "t": "phrase", "z": "赶快，赶紧（偏古雅）"},
+    {"w": "get rid of", "p": "", "t": "phrase", "z": "摆脱，把……打发走"}
+   ]
+  },
+  {
+   "i": 65,
+   "zh": "“我曾听过一个故事，讲的是个叫法罗德的人。垃圾之王。”法罗德的左眼一下睁大，我分不清那是他自己睁的，还是眼皮上那层层褶皱自己掀开的。",
+   "notes": [
+    "<code>I once heard a tale of a man named Pharod. A king of rags.</code> 第二句以名词短语独立成句，是对前句的补注式同位语，“一个破烂之王”；译文同样断开，让绰号单独落地有声。",
+    "<code>a man named Pharod</code> 中 <code>named</code> 为过去分词作后置定语，等于 <code>who was named</code>；<code>of a man</code> 前用 <code>hear a tale of</code>（听说关于……的故事）是常见搭配。",
+    "<code>though I couldn’t tell whether he was doing it, or whether the folds of skin just peeled back</code>：<code>tell</code> 此处意为“分辨、判断”；两个 <code>whether</code> 从句并列作 <code>tell</code> 的宾语，or 后接第二种可能。这一细节写他皮肉之怪，为后文“非人之物”埋伏笔。"
+   ],
+   "vocab": [
+    {"w": "a tale of", "p": "", "t": "phrase", "z": "关于……的故事（hear a tale of…）"},
+    {"w": "named", "p": "/neɪmd/", "t": "adj.", "z": "名叫……的（过去分词作后置定语）"},
+    {"w": "rags", "p": "/ræɡz/", "t": "n.", "z": "破布，破烂衣裳（a king of rags＝破烂之王）"},
+    {"w": "widened", "p": "/ˈwaɪdnd/", "t": "v.", "z": "睁大，变宽（widen 的过去式）"},
+    {"w": "couldn’t tell", "p": "", "t": "phrase", "z": "分辨不出，判断不了"}
+   ]
+  },
+  {
+   "i": 66,
+   "zh": "“是吗？印记城是座故事之城，这话不假，可凡是扯上法罗德的故事，没有哪一耳朵不想听的。”他装出一副疑心的样子看着我，随即咧嘴一笑。“学会讲故事了，尸体？”",
+   "notes": [
+    "<code>That so?</code> 是 <code>Is that so?</code> 的省略口语形式，“是吗？”，带不置可否的玩味。<code>Sigil be a berg of tales, it is</code> 有两处土腔：<code>be</code> 代替 <code>is</code>（方言中 be 泛用），句尾重复 <code>it is</code> 作强调尾缀；<code>berg</code> 是 <code>burg</code>（城镇）的变体。",
+    "<code>any tale involving Pharod can’t be one these ears wouldn’t want to hear</code> 用双重否定（<code>can’t… wouldn’t</code>）表达强烈肯定，“凡是……没有不想听的”；译文以“没有哪一耳朵不想听”保留这层绕弯的自得。",
+    "<code>He looked at me with mock suspicion</code>：<code>mock</code> 作形容词，“假装的、佯作的”，<code>mock suspicion</code> 即装出的疑心；<code>Become a tale-teller have you, corpse?</code> 是 <code>Have you become a tale-teller?</code> 的倒装口语问法（把述语提到句首以表调侃），译文作“学会讲故事了，尸体？”。"
+   ],
+   "vocab": [
+    {"w": "That so?", "p": "", "t": "phrase", "z": "是吗？（Is that so? 的口语省略）"},
+    {"w": "berg", "p": "/bɜːrɡ/", "t": "n.", "z": "＝burg，城镇（土腔变体）"},
+    {"w": "mock suspicion", "p": "", "t": "phrase", "z": "装出的疑心（mock＝假装的）"},
+    {"w": "grinned", "p": "/ɡrɪnd/", "t": "v.", "z": "咧嘴笑（grin 的过去式）"},
+    {"w": "tale-teller", "p": "/ˈteɪltelər/", "t": "n.", "z": "讲故事的人，说书人"}
+   ]
+  }
+ ]
+}

@@ -1,0 +1,782 @@
+{
+ "chapter": "Hive Market",
+ "chunk": "hive-market-02",
+ "items": [
+  {
+   "i": 23,
+   "zh": "“名字，名字……你是谁，你是谁……”他每重复一次，脑袋就微微一抽。“名字……危险，危险。”他瞥了一眼地面，用脚拨弄着泥土。“知道一个名字，或者被一个名字缠上，两样都是天大的麻烦。”他重新抬起眼看我。“我的名字是别人给的，不是我自己求来的。里克温德。”我再一次意识到他嘴里那股恶臭，以及围着他浑身的尿骚和粪臭。“一个别人给的名字，一个别人给的名字。”",
+   "notes": [
+    "<code>both’s a mess of trouble</code>：<code>both</code> 作主语时口语里可以接单数 <code>is</code>（缩合成 <code>both’s</code>），意为“两者都是一团糟的麻烦”；<code>a mess of</code> 是口语中“一大堆、一团”的说法。",
+    "<code>bein’</code> 是 <code>being</code> 的口语拼写，<code>be stuck with sth</code> 意为“被某物缠上、甩不掉”。<code>a given name</code> 本指“教名”，此处双关“被（别人）给予的名字”，与后文 <code>true name</code>（真名）相对。",
+    "<code>Names, names</code>／<code>dangerous, dangerous</code> 这类成对重复是里克温德的口头习惯，译文照原样重复以保留他絮叨、古怪的语感。另：<code>Reekwind</code> 由 <code>reek</code>（恶臭）加 <code>wind</code>（风、气味）构成，名字本身就在暗示他的体味，译文音译作“里克温德”。"
+   ],
+   "vocab": [
+    {
+     "w": "twitch",
+     "p": "/twɪtʃ/",
+     "t": "n.",
+     "z": "抽搐，抽动（此处指头部不由自主地一抽）"
+    },
+    {
+     "w": "reeking",
+     "p": "/ˈriːkɪŋ/",
+     "t": "adj.",
+     "z": "散发恶臭的（由动词 reek 变来）"
+    },
+    {
+     "w": "urine",
+     "p": "/ˈjʊərɪn/",
+     "t": "n.",
+     "z": "尿"
+    },
+    {
+     "w": "feces",
+     "p": "/ˈfiːsiːz/",
+     "t": "n.",
+     "z": "粪便（正式用词，常用复数形式）"
+    }
+   ]
+  },
+  {
+   "i": 24,
+   "zh": "“一个……很贴切的名字。”",
+   "notes": [
+    "<code>An… appropriate name.</code> 省略了主语和谓语（完整说法是 <code>That is an appropriate name.</code>），是口语中的省略句；中间的省略号表示无名氏在斟酌措辞。",
+    "<code>appropriate</code> 意为“恰如其分的、名副其实的”，这里暗指他的名字恰好与他身上的臭味相配。",
+    "用 <code>An</code> 而不是 <code>A</code>，是因为 <code>appropriate</code> 以元音音素开头。"
+   ],
+   "vocab": [
+    {
+     "w": "appropriate",
+     "p": "/əˈprəʊpriət/",
+     "t": "adj.",
+     "z": "恰当的，贴切的（注意重音在第二音节）"
+    },
+    {
+     "w": "name",
+     "p": "/neɪm/",
+     "t": "n.",
+     "z": "名字，名称"
+    }
+   ]
+  },
+  {
+   "i": 25,
+   "zh": "“不是我的真名，真名。”里克温德自顾自嘟囔下去，每说到“名字”这个词，脑袋就抽一下。“真名是危险的东西，会给别人力量。”他用那双大眼睛盯着我，摇了摇手指。“把你的名字藏好，藏紧了，永远别让它露出去。”",
+   "notes": [
+    "<code>mumbled on</code>：<code>on</code> 与动词连用表示“继续不停”，即“絮絮叨叨地往下说”。",
+    "<code>A true name’s</code> 是 <code>A true name is</code> 的缩略；<code>gives others power</code> 承前省略了主语 <code>it</code>（= a true name gives others power）。",
+    "<code>keep it close</code> 的 <code>close</code> 意为“贴身、不外露”，<code>let it out</code> 意为“泄露出去”；两个祈使句连用，语气像在传授禁忌。"
+   ],
+   "vocab": [
+    {
+     "w": "mumbled",
+     "p": "/ˈmʌmbld/",
+     "t": "v.",
+     "z": "嘟囔，含糊地说（mumble 的过去式）"
+    },
+    {
+     "w": "wagged",
+     "p": "/wæɡd/",
+     "t": "v.",
+     "z": "摇动（手指、尾巴）；wag one’s finger 即“摇手指（告诫）”"
+    },
+    {
+     "w": "true name",
+     "p": "",
+     "t": "n.",
+     "z": "真名（奇幻设定中能支配本人的秘密名字）"
+    },
+    {
+     "w": "power",
+     "p": "/ˈpaʊə/",
+     "t": "n.",
+     "z": "力量；支配力（此处指制住他人的能力）"
+    }
+   ]
+  },
+  {
+   "i": 26,
+   "zh": "“名字就像气味……有东西能顺着它找到你。”里克温德咳了起来，咳得眼珠子几乎要从头骨里蹦出来。这一咳像把他肠子都咳松了，他放了个响屁，仿佛是要给自己的话加个着重号。“要是有人知道一个真名，就等于拿到了力量。”他舔了舔嘴唇。“伤人的力量。”",
+   "notes": [
+    "<code>as he did so</code> 中的 <code>do so</code> 是代动词短语，替代前面的 <code>coughed</code>，避免重复。",
+    "<code>for</code> 在此是并列连词，表原因（相当于 because）：<code>His cough seemed to loosen his bowels, for he broke wind loudly</code> 即“他这一咳像是把肠子都咳松了，因为他放了个响屁”。<code>break wind</code> 是“放屁”的委婉说法。",
+    "后半句 <code>it gives them power</code> 里，<code>them</code> 回指单数的 <code>someone</code>，这是英语口语常用的“单数 they”，用来避免指明性别。"
+   ],
+   "vocab": [
+    {
+     "w": "track",
+     "p": "/træk/",
+     "t": "v.",
+     "z": "追踪，循迹找到"
+    },
+    {
+     "w": "bowels",
+     "p": "/ˈbaʊəlz/",
+     "t": "n.",
+     "z": "肠子，肠道（常用复数）"
+    },
+    {
+     "w": "accentuate",
+     "p": "/əkˈsentʃueɪt/",
+     "t": "v.",
+     "z": "强调，突出"
+    },
+    {
+     "w": "broke wind",
+     "p": "",
+     "t": "v.",
+     "z": "放屁（委婉语，break wind 的过去式）"
+    }
+   ]
+  },
+  {
+   "i": 27,
+   "zh": "“我不知道我的真名。”里克温德听了这句话，眼睛一下瞪圆；看着他眼珠又胀大一圈，我心里直发毛。",
+   "notes": [
+    "<code>widen</code> 与 <code>bulge</code> 都含“变宽、凸出”之意，<code>his eyes widened</code> 是“瞪大眼睛”的常见搭配。",
+    "<code>at this</code> 指“听到这话时”，<code>this</code> 回指无名氏刚说的那句话。",
+    "<code>seeing his eyeballs bulge even larger made me uneasy</code> 中，动名词短语 <code>seeing…</code> 作主语，谓语用单数 <code>made</code>；<code>made me uneasy</code> 是“使我不自在”的复合宾语结构。"
+   ],
+   "vocab": [
+    {
+     "w": "widened",
+     "p": "/ˈwaɪdnd/",
+     "t": "v.",
+     "z": "睁大，变宽（widen 的过去式）"
+    },
+    {
+     "w": "bulge",
+     "p": "/bʌldʒ/",
+     "t": "v.",
+     "z": "鼓起，凸出"
+    },
+    {
+     "w": "uneasy",
+     "p": "/ʌnˈiːzi/",
+     "t": "adj.",
+     "z": "不安的，不自在的"
+    }
+   ]
+  },
+  {
+   "i": 28,
+   "zh": "“那你是受祝福的，受祝福的。保持没有名字，你就会像位面上的一个魂灵，无人能追，无人能查，无人看见，无人发现。”他湿漉漉地咂着牙床。“自己挑的名字，别人给的名字……都会让别人找到你、伤到你。”",
+   "notes": [
+    "<code>Remain nameless, and you shall be…</code> 是“祈使句 + and + 陈述句”结构，表示“只要……就会……”。",
+    "<code>untraceable, untrackable, unseen, undiscovered</code> 四个 <code>un-</code> 否定词连排，形成咒语般的节奏，译文用四项排比保留。",
+    "<code>shall</code> 用在第二人称表预言、必然，语气比 <code>will</code> 更庄重，带传说腔；<code>the Planes</code> 是《异域镇魂曲》世界观里的“位面”。"
+   ],
+   "vocab": [
+    {
+     "w": "blessed",
+     "p": "/ˈblesɪd/",
+     "t": "adj.",
+     "z": "受祝福的，有福的"
+    },
+    {
+     "w": "nameless",
+     "p": "/ˈneɪmləs/",
+     "t": "adj.",
+     "z": "无名的，没有名字的"
+    },
+    {
+     "w": "gums",
+     "p": "/ɡʌmz/",
+     "t": "n.",
+     "z": "牙床，牙龈（常用复数）"
+    },
+    {
+     "w": "untraceable",
+     "p": "/ʌnˈtreɪsəbl/",
+     "t": "adj.",
+     "z": "无法追踪的"
+    }
+   ]
+  },
+  {
+   "i": 29,
+   "zh": "“你被人伤过？”里克温德抽着筋似的点了下头，然后挠起身子。",
+   "notes": [
+    "<code>Have you been hurt?</code> 是现在完成时的被动语态，问的是“到现在为止有没有被伤害过”的经历。",
+    "<code>a twitching nod</code>：名词 <code>twitch</code> 加 <code>-ing</code> 作定语，意为“抽动着的一下点头”，专写他神经质的动作。",
+    "<code>scratched himself</code> 中 <code>himself</code> 是反身代词作宾语，指“挠自己（身上的痒）”。"
+   ],
+   "vocab": [
+    {
+     "w": "twitching",
+     "p": "/ˈtwɪtʃɪŋ/",
+     "t": "adj.",
+     "z": "抽搐的，一抽一抽的"
+    },
+    {
+     "w": "nod",
+     "p": "/nɒd/",
+     "t": "n.",
+     "z": "点头"
+    },
+    {
+     "w": "scratched",
+     "p": "/skrætʃt/",
+     "t": "v.",
+     "z": "抓，挠（scratch 的过去式）"
+    }
+   ]
+  },
+  {
+   "i": 30,
+   "zh": "“我的名字漏出去过一次，一次，就一次，就一次。”他的眼睛蒙上一层雾，仿佛那段记忆很痛，随后又不自在地瞥了我一眼。“故事我讲得了，我会讲，可三个铜币我得先见着。”说到“铜币”两个字时，他的脸咧开一个笑，那股臭气像锤子一样砸在我脸上。",
+   "notes": [
+    "<code>but three coppers must I see</code> 是 <code>I must see three coppers</code> 的倒装：<code>must</code> 等情态动词在 <code>but</code> 引导的从句中可后接主谓倒装，语感古旧、古怪；<code>see</code> 此处指“见到（钱）”，即先付钱。",
+    "<code>Tell you the story I can, I will</code> 把宾语 <code>the story</code> 提前（正常语序为 <code>I can tell you the story</code>）。里克温德总把重心词先抛出来，译文用“故事我讲得了”保留这种别扭语序。",
+    "<code>His eyes filmed over</code>：<code>film over</code> 指眼睛蒙上一层膜、变得模糊，常写含泪或茫然；<code>His face split into a smile</code> 中 <code>split</code> 本义“裂开”，脸上“裂开一个笑”即咧嘴而笑，画面感很强。"
+   ],
+   "vocab": [
+    {
+     "w": "slip",
+     "p": "/slɪp/",
+     "t": "v.",
+     "z": "滑落；let sth slip 即“说漏嘴、泄露”"
+    },
+    {
+     "w": "filmed",
+     "p": "/fɪlmd/",
+     "t": "v.",
+     "z": "蒙上薄膜，变得模糊（film over 的过去式）"
+    },
+    {
+     "w": "coppers",
+     "p": "/ˈkɒpəz/",
+     "t": "n.",
+     "z": "铜币（铜板，此处指印记城的小额钱币）"
+    },
+    {
+     "w": "hammer",
+     "p": "/ˈhæmə/",
+     "t": "n.",
+     "z": "锤子（此处作比喻：臭气像锤击）"
+    }
+   ]
+  },
+  {
+   "i": 31,
+   "zh": "我把钱递给他。里克温德摆开一个架势，看看左边，看看右边，然后转向我。他的脸一紧，接着闷哼一声，又放了个屁。那股味道差点把我撂倒，他却浑然不觉。",
+   "notes": [
+    "<code>passed him the jink</code> 是 <code>pass sb sth</code> 双宾语结构，等于 <code>pass sth to sb</code>；<code>jink</code> 是印记城俚语，指“钱币”。",
+    "<code>got into a stance</code> 意为“摆出（说书或比武的）架势”，<code>stance</code> 指站立姿势。",
+    "<code>leveled me</code>：<code>level</code> 在此是俚语“把……打倒、撂倒”；<code>took no notice</code> 意为“毫不在意、没当回事”。"
+   ],
+   "vocab": [
+    {
+     "w": "jink",
+     "p": "/dʒɪŋk/",
+     "t": "n.",
+     "z": "（俚）钱币，钱"
+    },
+    {
+     "w": "stance",
+     "p": "/stæns/",
+     "t": "n.",
+     "z": "站姿，架势"
+    },
+    {
+     "w": "grunt",
+     "p": "/ɡrʌnt/",
+     "t": "n.",
+     "z": "哼声，咕哝声"
+    },
+    {
+     "w": "leveled",
+     "p": "/ˈlevld/",
+     "t": "v.",
+     "z": "（俚）把……打倒、撂倒（level 的过去式）"
+    }
+   ]
+  },
+  {
+   "i": 32,
+   "zh": "“我！被诅咒了！当年我在城区里走得何等风光……”他僵直地站起身，鼻子翘得老高。他来回踱着步，朝看不见的路人点头致意。里克温德忽然定住，双手叉腰。",
+   "notes": [
+    "<code>Cursed, I!</code> 是 <code>I am cursed!</code> 的表语前置倒装，把 <code>Cursed</code> 提到句首以示强调，译文用“我！被诅咒了！”保留这种错位的惊叹口气。",
+    "<code>Walked the wards in splendor</code> 省略了主语 <code>I</code>，是里克温德边说边演、语不成句的讲法；<code>wards</code> 指印记城划分的各“城区”，<code>in splendor</code> 意为“风风光光地”。",
+    "<code>his arms akimbo</code> 是独立主格结构（名词 + 形容词/副词），表伴随状态，意为“双手叉腰”。"
+   ],
+   "vocab": [
+    {
+     "w": "wards",
+     "p": "/wɔːdz/",
+     "t": "n.",
+     "z": "城区（印记城划分的行政区，如书记区）"
+    },
+    {
+     "w": "sauntered",
+     "p": "/ˈsɔːntəd/",
+     "t": "v.",
+     "z": "悠闲地踱步，漫步（saunter 的过去式）"
+    },
+    {
+     "w": "akimbo",
+     "p": "/əˈkɪmbəʊ/",
+     "t": "adv.",
+     "z": "双手叉腰地（arms akimbo 为固定说法）"
+    },
+    {
+     "w": "invisible",
+     "p": "/ɪnˈvɪzəbl/",
+     "t": "adj.",
+     "z": "看不见的，隐形的"
+    }
+   ]
+  },
+  {
+   "i": 33,
+   "zh": "“撞上了个带诅咒的家伙。长得像个南瓜，还有他那一肚子籽儿，诅咒！”里克温德接着把肚子腆出来，装成个胖子，又用脏兮兮的手掌把头发往后一抹，抹得几乎成了秃头，然后开始在他那个“胖”肚子上敲手指。随后他走来走去，绕着他那个“古板、上等人做派”原先站的地方打转。“满身都是诅咒，乱糟糟一团，那家伙。”他撇了撇嘴，随手一扬，朝那个“古板做派”扔出一道看不见的诅咒。",
+   "notes": [
+    "<code>Crossed paths with a crossed one</code>：<code>cross paths with</code> 是“与……不期而遇”，<code>crossed</code> 在此指“被诅咒的、走了霉运的”，两个 cross 构成双关（“交叉”与“被克”）。",
+    "<code>Had the looking of a pumpkin, his seeds</code> 是省略主语的古怪语序（= He had the look of a pumpkin, and his seeds），<code>seeds</code> 指南瓜籽，暗喻他肚子里的货色。",
+    "<code>All-a-jumble with curses, this one was.</code> 是表语前置、主语后置的倒装（= This one was all a-jumble with curses）；<code>a-jumble</code> 意为“乱作一团”。另注意 <code>so as to appear fat</code> 表示目的：“好显得胖”。"
+   ],
+   "vocab": [
+    {
+     "w": "thrust",
+     "p": "/θrʌst/",
+     "t": "v.",
+     "z": "猛推，挺出（thrust out one’s belly 即腆肚子）"
+    },
+    {
+     "w": "slicked",
+     "p": "/slɪkt/",
+     "t": "v.",
+     "z": "把（头发）抹平、抹光（slick back 的过去式）"
+    },
+    {
+     "w": "filthy",
+     "p": "/ˈfɪlθi/",
+     "t": "adj.",
+     "z": "脏兮兮的，污秽的"
+    },
+    {
+     "w": "persona",
+     "p": "/pəˈsəʊnə/",
+     "t": "n.",
+     "z": "（刻意摆出的）人格面具，做派"
+    }
+   ]
+  },
+  {
+   "i": 34,
+   "zh": "“他知道了我的名字，是我自己漏的嘴，是我自己，就那一下，全被夺走了，全被夺走了！”他又挺直身子，深深吸了口气，重新摆出那副“上等人”的做派。那做派忽然塌了，里克温德猛地放了个屁，接着呼出一口气，满空气都是他嘴里那股污浊的臭气。“被诅咒的，满身臭气、怪味、屎尿！本来是来讲故事的，如今也就这点用处了，也就这点用处了。现在里克温德就是名字，别人给的名字，别人给的名字……”",
+   "notes": [
+    "<code>let it slip I had</code> 是倒装（= I had let it slip），<code>let sth slip</code> 意为“说漏嘴、泄露”；把主语挪到句尾是里克温德的标志性语序。",
+    "<code>all it took, took it all</code> 用 <code>take</code> 的双关（“只需那一下”与“夺走了一切”）形成回环节奏，译文用“就那一下，全被夺走了”保留其顿挫。",
+    "<code>all good for</code> 省略了主语和 be 动词（= that’s all I’m good for now），意为“如今我也就这点用处了”。"
+   ],
+   "vocab": [
+    {
+     "w": "stiffened",
+     "p": "/ˈstɪfnd/",
+     "t": "v.",
+     "z": "挺直，变僵硬（stiffen 的过去式）"
+    },
+    {
+     "w": "crumpled",
+     "p": "/ˈkrʌmpld/",
+     "t": "v.",
+     "z": "垮塌，瘫软（crumple 的过去式）"
+    },
+    {
+     "w": "stenches",
+     "p": "/ˈstentʃɪz/",
+     "t": "n.",
+     "z": "恶臭，臭气（stench 的复数）"
+    },
+    {
+     "w": "excrement",
+     "p": "/ˈekskrɪmənt/",
+     "t": "n.",
+     "z": "粪便，排泄物（正式用词）"
+    },
+    {
+     "w": "foul",
+     "p": "/faʊl/",
+     "t": "adj.",
+     "z": "污浊的，恶臭的"
+    }
+   ]
+  },
+  {
+   "i": 35,
+   "zh": "“蜂巢，蜂巢……故事我讲得了，故事我讲得了，我会讲，可三个铜币我得先见着。”他把牙床咂得直响，像猪一样哼了一声。我起了兴致，想再听一个故事，就又递过去一些钱。",
+   "notes": [
+    "<code>a tale I can tell</code> 把宾语 <code>a tale</code> 提前（= I can tell a tale），是里克温德式的倒装，译文作“故事我讲得了”以保留语序的怪异。",
+    "<code>three coppers must I see</code> 即 <code>I must see three coppers</code>，<code>must</code> 后主谓倒装，语感古旧；<code>see</code> 指“见到钱”。",
+    "<code>Intrigued to hear another of his tales</code> 是过去分词短语作原因状语（= Because I was intrigued to hear…）；<code>pass over</code> 在此指“递过去（钱）”。"
+   ],
+   "vocab": [
+    {
+     "w": "snorted",
+     "p": "/ˈsnɔːtɪd/",
+     "t": "v.",
+     "z": "哼鼻子，喷鼻息（snort 的过去式）"
+    },
+    {
+     "w": "Intrigued",
+     "p": "/ɪnˈtriːɡd/",
+     "t": "v.",
+     "z": "被勾起兴趣（intrigue 的过去分词作状语）"
+    },
+    {
+     "w": "smacked",
+     "p": "/smækt/",
+     "t": "v.",
+     "z": "咂（嘴）、拍打出声（smack 的过去式）"
+    }
+   ]
+  },
+  {
+   "i": 36,
+   "zh": "“往尖塔那边，往尖塔那边……”他朝左边一指，指着远处那条烧焦的巷子。“一条险角巷。”他扭起四肢，歪歪扭扭地模仿一栋骨架似的楼房。“不是一直这么歪斜，不是一直这么焦黑；曾经是活的，如今不是了。”",
+   "notes": [
+    "<code>Spireward, spireward</code>：后缀 <code>-ward</code> 表示方向（如 <code>homeward</code>、<code>eastward</code>），<code>Spireward</code> 即“朝尖塔（印记城中心的尖塔）方向”；里克温德照习惯把词重复一遍以自娱。",
+    "<code>in a twisted parody of…</code>：<code>parody</code> 本指“戏仿之作”，此处意为“拙劣又滑稽的模仿”，<code>twisted</code> 形容模仿的姿态扭歪。",
+    "<code>Not always angled, not always burned and charred, once alive, no longer.</code> 全句省略主语与 be 动词（= It was not always…；it was once alive, but it is no longer），是里克温德特有的电报式短句。"
+   ],
+   "vocab": [
+    {
+     "w": "Spireward",
+     "p": "/ˈspaɪəwəd/",
+     "t": "adv.",
+     "z": "朝尖塔方向（Spire 为印记城中心的巨塔）"
+    },
+    {
+     "w": "charred",
+     "p": "/tʃɑːd/",
+     "t": "adj.",
+     "z": "烧焦的，焦黑的"
+    },
+    {
+     "w": "parody",
+     "p": "/ˈpærədi/",
+     "t": "n.",
+     "z": "戏仿，滑稽的模仿"
+    },
+    {
+     "w": "limbs",
+     "p": "/lɪmz/",
+     "t": "n.",
+     "z": "四肢"
+    },
+    {
+     "w": "skeletal",
+     "p": "/ˈskelətl/",
+     "t": "adj.",
+     "z": "骨架似的，骸骨般的"
+    }
+   ]
+  },
+  {
+   "i": 37,
+   "zh": "“火苗，大火！”他把双手往空中一甩，又挥动着模仿火舌。“巷子烧起来了，浓烟滚滚，到处是灰……到最后，只剩下楼房的骨架，死掉的楼房的骨头，死掉的楼房的骨头。角……到处都是角。”他弓着身子凑上前，声音压成了耳语。他身上的臭味又一次像浪一样拍过来。",
+   "notes": [
+    "<code>skeletons of buildings</code> 与 <code>bones of dead buildings</code> 是同位复指，把烧毁的楼房比作骨骸；原文重复 <code>bones of dead buildings</code>，译文照重复以保留说书人反复咂摸的口气。",
+    "<code>his voice a whisper</code> 是独立主格（= his voice was a whisper），表伴随状态，不用连词。",
+    "<code>Angles… everywhere, angles.</code> 把 <code>Angles</code> 拆开重复并省略动词，是口语中的片段句，制造低语般的压迫感。"
+   ],
+   "vocab": [
+    {
+     "w": "flung",
+     "p": "/flʌŋ/",
+     "t": "v.",
+     "z": "猛甩，抛（fling 的过去式）"
+    },
+    {
+     "w": "simulate",
+     "p": "/ˈsɪmjuleɪt/",
+     "t": "v.",
+     "z": "模拟，模仿"
+    },
+    {
+     "w": "ash",
+     "p": "/æʃ/",
+     "t": "n.",
+     "z": "灰，灰烬"
+    },
+    {
+     "w": "hunched",
+     "p": "/hʌntʃt/",
+     "t": "v.",
+     "z": "弓起（身子）（hunch 的过去式）"
+    },
+    {
+     "w": "stench",
+     "p": "/stentʃ/",
+     "t": "n.",
+     "z": "恶臭，臭气"
+    }
+   ]
+  },
+  {
+   "i": 38,
+   "zh": "“现在危险了，坏人把窝安在那儿了，窝安在那儿了。”他鞠了一躬，接着噗噗地放起屁来，一下一下，像吹号角。“一条街是怎么变成险角巷的，这就是那个故事。”他用手在心口上画了个半圆。",
+   "notes": [
+    "<code>kip</code> 是俚语，本义为床铺、下等客栈，引申指“睡觉的地方、窝”，此处作名词“落脚处”。",
+    "<code>in quick spurts</code>：<code>spurt</code> 意为“急促的迸发”，这里形容屁声一阵一阵；<code>like a bugle blowing</code>（像军号在吹）是滑稽的明喻。",
+    "<code>the tale of how a street becomes…</code>：<code>how</code> 引导的名词性从句作 <code>of</code> 的宾语，说明故事的“内容／来历”，译作“……是怎么变成……的故事”。"
+   ],
+   "vocab": [
+    {
+     "w": "kip",
+     "p": "/kɪp/",
+     "t": "n.",
+     "z": "（俚）窝，床铺，落脚处"
+    },
+    {
+     "w": "spurts",
+     "p": "/spɜːts/",
+     "t": "n.",
+     "z": "一股股迸发，一阵阵喷出"
+    },
+    {
+     "w": "bugle",
+     "p": "/ˈbjuːɡl/",
+     "t": "n.",
+     "z": "号角，军号"
+    },
+    {
+     "w": "bowed",
+     "p": "/baʊd/",
+     "t": "v.",
+     "z": "鞠躬，弯腰（bow 的过去式）"
+    }
+   ]
+  },
+  {
+   "i": 39,
+   "zh": "“是一个人弄成这样的。是一头野兽弄成这样的。一个连魔鬼都佩服的人。一个巫师的故事，满篇疯癫、悲伤、燃烧、渴望……”他嘶嘶地笑，那笑声让我想起一堆烧着的火。“一个危险的故事，一个危险的故事。”",
+   "notes": [
+    "<code>A man made it so. A beast made it so.</code> 两句句法相同而主语不同，形成传说开篇式的排比节奏；<code>make it so</code> 意为“使之如此、造成这样的局面”。",
+    "<code>A man whom even fiends admire</code> 是含关系代词 <code>whom</code> 的名词短语（并非完整句），紧跟上句作补充，<code>fiend</code> 指恶魔、魔鬼。",
+    "<code>filled with madness, sadness, burning, yearning</code> 用四个词连排（其中 <code>sadness</code>／<code>yearning</code> 等带韵），形成吟诵感，译文保留四项叠加。"
+   ],
+   "vocab": [
+    {
+     "w": "fiends",
+     "p": "/fiːndz/",
+     "t": "n.",
+     "z": "恶魔，魔鬼（比 devil 更具文学色彩）"
+    },
+    {
+     "w": "sorcerer",
+     "p": "/ˈsɔːsərə/",
+     "t": "n.",
+     "z": "巫师，术士"
+    },
+    {
+     "w": "yearning",
+     "p": "/ˈjɜːnɪŋ/",
+     "t": "n.",
+     "z": "渴望，思慕"
+    },
+    {
+     "w": "cackled",
+     "p": "/ˈkækld/",
+     "t": "v.",
+     "z": "咯咯怪笑（cackle 的过去式）"
+    }
+   ]
+  },
+  {
+   "i": 40,
+   "zh": "“从前有个巫师，不是那种乡下的蹩脚术士，而是个有力量的法师。”里克温德双手虔诚地合在一起，接着露出一个邪恶的笑。“他心里燃着法术之火，而法术之火也把他烧了。”",
+   "notes": [
+    "<code>A sorcerer there was</code> 是 <code>There was a sorcerer</code> 的倒装，把 <code>A sorcerer</code> 提到句首作话题，带民间故事的开头感（类似“话说有个巫师”）。",
+    "<code>no simple hedge wizard this</code> 是插入的否定式同位语，<code>this</code> 后置回指前面的巫师（= this was no simple hedge wizard）；<code>hedge wizard</code> 指没受过正规训练的乡下野法师。",
+    "<code>He burned with the Art, and the Art burned him.</code> 用交错配列（chiasmus）把 <code>burn</code> 的主动与被动对调；<code>the Art</code> 大写，指“法术这门技艺”。"
+   ],
+   "vocab": [
+    {
+     "w": "hedge wizard",
+     "p": "",
+     "t": "n.",
+     "z": "乡下野法师，蹩脚术士（hedge 有“粗野、不入流”之意）"
+    },
+    {
+     "w": "mage",
+     "p": "/meɪdʒ/",
+     "t": "n.",
+     "z": "法师，术士（比 wizard 更正式）"
+    },
+    {
+     "w": "reverently",
+     "p": "/ˈrevərəntli/",
+     "t": "adv.",
+     "z": "虔诚地，恭敬地"
+    },
+    {
+     "w": "Art",
+     "p": "/ɑːt/",
+     "t": "n.",
+     "z": "（首字母大写）法术，秘艺"
+    },
+    {
+     "w": "evilly",
+     "p": "/ˈiːvəli/",
+     "t": "adv.",
+     "z": "邪恶地，不怀好意地"
+    }
+   ]
+  },
+  {
+   "i": 41,
+   "zh": "“别人给他的名字是伊格纳斯——一个先被敬重，继而被畏惧，再被憎恨，最后被惩罚的名字。”里克温德喉咙里发出一阵咔咔的喘息，接着伸手抓挠空气，嘶嘶有声，显然是在模仿“伊格纳斯”。",
+   "notes": [
+    "<code>The name given him was Ignus</code>：<code>given him</code> 是后置的过去分词短语修饰 <code>name</code>（= the name that was given to him），中间省略了 <code>to</code>。",
+    "<code>a name respected, then feared, then hated, then punished</code> 是四个过去分词并列作 <code>a name</code> 的后置定语，<code>then</code> 层层递进，形成直线下坠的节奏。",
+    "<code>Ignus</code> 源自拉丁语 <code>ignis</code>（火），名字本身就在暗示他与火的宿命，译文音译作“伊格纳斯”。"
+   ],
+   "vocab": [
+    {
+     "w": "rattling",
+     "p": "/ˈrætlɪŋ/",
+     "t": "adj.",
+     "z": "咔咔作响的（形容呼吸声）"
+    },
+    {
+     "w": "wheeze",
+     "p": "/wiːz/",
+     "t": "n.",
+     "z": "喘息声，哮鸣声"
+    },
+    {
+     "w": "clawed",
+     "p": "/klɔːd/",
+     "t": "v.",
+     "z": "用爪抓，抓挠（claw 的过去式）"
+    },
+    {
+     "w": "imitating",
+     "p": "/ˈɪmɪteɪtɪŋ/",
+     "t": "v.",
+     "z": "模仿（imitate 的现在分词）"
+    }
+   ]
+  },
+  {
+   "i": 42,
+   "zh": "“伊格纳斯是由最后几位大法师之一教出来的，作为学徒，他学了很多，很多……同时又什么都没学到。”里克温德难过地摇了摇头。“在他心里，那颗煤一样黑的心，烧着一团火。那火烧着，烧着，饿了。”里克温德抓着自己的胸口，像是在疼。“它饿了，伊格纳斯就饿了。他的心愿，就是看着各位面烧起来。”",
+   "notes": [
+    "<code>Taught by one of the last great magi Ignus was</code> 是 <code>Ignus was taught by…</code> 的表语前置倒装，先把关键的 <code>Taught by…</code> 抛出来，译文以“伊格纳斯是由……教出来的”保留其强调重心。",
+    "<code>magi</code> 是 <code>magus</code> 的复数，指（古代或波斯的）大法师、术士。",
+    "<code>a fire blazed</code> 是主语后置的存在句（= a fire blazed in his heart），<code>blaze</code> 意为“熊熊燃烧”；<code>It was his wish to…</code> 中 <code>it</code> 是形式主语，真主语是 <code>to see the Planes burn</code>。"
+   ],
+   "vocab": [
+    {
+     "w": "magi",
+     "p": "/ˈmeɪdʒaɪ/",
+     "t": "n.",
+     "z": "大法师，术士（magus 的复数）"
+    },
+    {
+     "w": "apprentice",
+     "p": "/əˈprentɪs/",
+     "t": "n.",
+     "z": "学徒，徒弟"
+    },
+    {
+     "w": "blazed",
+     "p": "/bleɪzd/",
+     "t": "v.",
+     "z": "熊熊燃烧（blaze 的过去式）"
+    },
+    {
+     "w": "coal-black",
+     "p": "/ˌkəʊl ˈblæk/",
+     "t": "adj.",
+     "z": "煤一样黑的，乌黑的"
+    },
+    {
+     "w": "hungered",
+     "p": "/ˈhʌŋɡəd/",
+     "t": "v.",
+     "z": "饥饿；渴望（此处兼指火与人一同“饿”）"
+    }
+   ]
+  },
+  {
+   "i": 43,
+   "zh": "“就在夜里……”里克温德弓下身子，开始慢慢地朝那条巷子的方向潜行，脸上挂着疯癫的笑。“伊格纳斯来到那条日后将成为角巷的巷子，他眼里的火，他心里的火，他全放了出来。”里克温德指着那条巷子，然后把双臂往空中一甩，无声地又喊又笑。",
+   "notes": [
+    "<code>was to be</code> 表过去将来、命中注定：<code>the Alley that was to be the Alley of Angles</code> 即“那条后来变成角巷的巷子”。",
+    "原文此处写作 <code>Alley of Angles</code>（少了 <code>Dangerous</code>），与前文 <code>An Alley of Dangerous Angles</code> 指同一条巷子，是说书人随口省略的说法；译文作“角巷”以对应。",
+    "<code>the fire in his eyes, the fire in his heart, both he let out</code> 把宾语 <code>both</code> 提前（= he let out both the fire in his eyes and the fire in his heart），是里克温德的倒装句式。"
+   ],
+   "vocab": [
+    {
+     "w": "stalk",
+     "p": "/stɔːk/",
+     "t": "v.",
+     "z": "潜行，悄悄逼近（猎物）"
+    },
+    {
+     "w": "grin",
+     "p": "/ɡrɪn/",
+     "t": "n.",
+     "z": "咧嘴笑，狞笑"
+    },
+    {
+     "w": "let out",
+     "p": "",
+     "t": "v.",
+     "z": "放出，释放（此处指把火放出来）"
+    },
+    {
+     "w": "silently",
+     "p": "/ˈsaɪləntli/",
+     "t": "adv.",
+     "z": "无声地，不出声地"
+    }
+   ]
+  },
+  {
+   "i": 44,
+   "zh": "“肉像蜡一样流下来，人像蜡烛，伊格纳斯笑着，笑着……”里克温德瘫倒在地，身体被想象中的痛楚扭得直抽。“一桩恶行，一桩恶行做下了，不会被忘记，不会被忘记。”他站起身，又弓着背，看看左边，看看右边，然后开始嘟囔，像是在跟谁偷偷商议什么。“总得做点什么，做点什么……”他僵直地站直，脸上是一片决然。",
+   "notes": [
+    "<code>Flesh ran like wax, people like candles</code>：后半句承前省略动词（= people ran like candles），两个明喻叠加，形容人被烧化的景象。",
+    "<code>forgotten not</code> 是 <code>not forgotten</code> 的倒装，为强调而把否定词后置，语感古旧；<code>An evil, an evil was done</code> 把宾语提前作主语（被动句），译文作“一桩恶行……做下了”。",
+    "<code>his body wracked with imagined pain</code> 与 <code>his face resolute</code> 都是独立主格（= his body was wracked…；his face was resolute），表伴随状态；<code>wrack</code> 意为“折磨、使痛苦不堪”。"
+   ],
+   "vocab": [
+    {
+     "w": "wax",
+     "p": "/wæks/",
+     "t": "n.",
+     "z": "蜡（此处喻肉体像蜡一样融化）"
+    },
+    {
+     "w": "wracked",
+     "p": "/rækt/",
+     "t": "v.",
+     "z": "折磨，使痛苦不堪（wrack 的过去式）"
+    },
+    {
+     "w": "resolute",
+     "p": "/ˈrezəluːt/",
+     "t": "adj.",
+     "z": "坚定的，决然的"
+    },
+    {
+     "w": "mumbling",
+     "p": "/ˈmʌmblɪŋ/",
+     "t": "v.",
+     "z": "嘟囔，含糊自语（mumble 的现在分词）"
+    },
+    {
+     "w": "conference",
+     "p": "/ˈkɒnfərəns/",
+     "t": "n.",
+     "z": "商议，会谈（此处指与人密谈）"
+    }
+   ]
+  }
+ ]
+}

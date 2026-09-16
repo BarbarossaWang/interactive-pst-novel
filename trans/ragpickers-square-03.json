@@ -1,0 +1,791 @@
+{
+ "chapter": "Ragpickers' Square",
+ "chunk": "ragpickers-square-03",
+ "items": [
+  {
+   "i": 45,
+   "zh": "“是啊，没错。”他看着我，像是在盘算什么。“可话说回来，同一时候的死人也就那么些。我和我手下的弟兄能捡的就那么多。要是还有别人也在收死人，那落进咱们兜里的钱币就少那么多。”",
+   "notes": [
+    "<code>there's only so many deaders at any one time</code>：<code>only so many</code> 是固定说法，意为“就那么多、数量有限”，暗示再多也没有了；<code>at any one time</code> 即“在任意同一个时刻”。",
+    "<code>My bloods</code> 是黑话式的称呼，<code>blood</code>（血）在这里指“自家兄弟、同伙”，并非字面上的血缘亲属，译作“我手下的弟兄”以保留这种匪气。",
+    "<code>Aye, that's right.</code> 是老派口语的“是啊，没错”；<code>Aye</code> 是方言/古体的 yes，本章的拾荒者们都爱用这个字眼。"
+   ],
+   "vocab": [
+    {
+     "w": "only so many",
+     "p": "",
+     "t": "phr.",
+     "z": "就那么多，数量有限（表示再多也有限度）"
+    },
+    {
+     "w": "deaders",
+     "p": "/ˈdedəz/",
+     "t": "n.",
+     "z": "死人，尸体（dead 加 -er 的俚俗说法，收尸人的行话）"
+    },
+    {
+     "w": "bloods",
+     "p": "/blʌdz/",
+     "t": "n.",
+     "z": "自家弟兄，同伙（黑话中 blood 指同伴、兄弟）"
+    },
+    {
+     "w": "gather",
+     "p": "/ˈɡæðə/",
+     "t": "v.",
+     "z": "收集，收拢（此处指收尸）"
+    },
+    {
+     "w": "jink",
+     "p": "/dʒɪŋk/",
+     "t": "n.",
+     "z": "（俚）钱币，钱财；本段指收尸挣的钱"
+    }
+   ]
+  },
+  {
+   "i": 46,
+   "zh": "“法罗德也在弄尸体？”",
+   "notes": [
+    "原句是省略主语的疑问句 <code>Pharod is taking bodies, too?</code>，靠语调和 <code>too</code> 完成提问，比 <code>Is Pharod taking bodies?</code> 更贴近口语的脱口一问；译文用“也在弄尸体？”保留这种随口追问的口气。",
+    "<code>take bodies</code>：<code>take</code> 在此不是“拿走”，而是行话里“接走、接手（尸体）”的意思，与上文收尸人的营生相呼应；译作“弄尸体”带一点市井味。"
+   ],
+   "vocab": [
+    {
+     "w": "Pharod",
+     "p": "",
+     "t": "n.",
+     "z": "法罗德（人名，专有名词；无名氏要找的人）"
+    },
+    {
+     "w": "taking",
+     "p": "/ˈteɪkɪŋ/",
+     "t": "v.",
+     "z": "拿，接走（此处 take bodies 指收走尸体）"
+    },
+    {
+     "w": "bodies",
+     "p": "/ˈbɒdiz/",
+     "t": "n.",
+     "z": "尸体，躯身（body 的复数）"
+    }
+   ]
+  },
+  {
+   "i": 47,
+   "zh": "“是啊。麻烦的是，他找到了一处大矿脉，死人多得挖不完。可我在印记城没听说哪儿闹过大屠杀啊。”他皱起眉，敲着下巴。“所以我很想知道，这些死人都是从哪儿冒出来的。”",
+   "notes": [
+    "<code>The rub is that that he's found…</code>：<code>the rub</code> 是习语“难处、症结所在”（源自莎士比亚《哈姆雷特》的 <code>ay, there's the rub</code>）；句中连着两个 <code>that</code> 是口语里的重复口误，第一个是引出表语从句的连接词，第二个是多余的口头顿一下。",
+    "<code>a mother-lode of them</code>：<code>mother lode</code> 本是矿业的“主矿脉、母矿脉”，引申为“取之不尽的货源、大金矿”；<code>of them</code> 指代前面的 <code>deaders</code>，即“尸体的大矿脉”。",
+    "<code>where all the deaders are coming from</code> 用现在进行时，问的是眼前这批尸体“正源源不断地从哪儿来”，比一般现在时更强调持续涌入的感觉。"
+   ],
+   "vocab": [
+    {
+     "w": "The rub",
+     "p": "",
+     "t": "n.",
+     "z": "难处，症结（习语 the rub 指麻烦所在）"
+    },
+    {
+     "w": "mother-lode",
+     "p": "/ˈmʌðələʊd/",
+     "t": "n.",
+     "z": "主矿脉；引申为取之不尽的货源、大宝库"
+    },
+    {
+     "w": "massacres",
+     "p": "/ˈmæsəkəz/",
+     "t": "n.",
+     "z": "大屠杀，惨杀（massacre 的复数）"
+    },
+    {
+     "w": "frowned",
+     "p": "/fraʊnd/",
+     "t": "v.",
+     "z": "皱眉（表示困惑或不快）"
+    },
+    {
+     "w": "tapping",
+     "p": "/ˈtæpɪŋ/",
+     "t": "v.",
+     "z": "轻敲，轻叩（tap 的现在分词，此处写他敲下巴想事）"
+    }
+   ]
+  },
+  {
+   "i": 48,
+   "zh": "“你要是愿意，我可以替你把这事儿查出来。”",
+   "notes": [
+    "<code>if you'd like</code> 是 <code>if you would like</code> 的缩略，用来礼貌地表示“你要是有兴趣的话”，把决定权留给对方；<code>I could find out for you</code> 用 <code>could</code> 而非 <code>can</code>，语气更委婉、更像在提议。",
+    "<code>find out</code> 是“查明、打探出（实情）”，与 <code>find</code>（找到具体的人或物）不同——这正是无名氏随后要卖弄的本钱。"
+   ],
+   "vocab": [
+    {
+     "w": "find out",
+     "p": "",
+     "t": "phr.",
+     "z": "查明，打探出来（弄清事情的真相或消息）"
+    },
+    {
+     "w": "I could",
+     "p": "",
+     "t": "phr.",
+     "z": "我可以（could 比 can 更委婉，带试探、提议的口气）"
+    },
+    {
+     "w": "if you'd like",
+     "p": "",
+     "t": "phr.",
+     "z": "你要是愿意的话（礼貌地征求对方意见）"
+    }
+   ]
+  },
+  {
+   "i": 49,
+   "zh": "“哦，是吗？那你打算怎么查？”",
+   "notes": [
+    "<code>Oh, aye?</code> 是 <code>Oh, yes?</code> 的老派说法，<code>aye</code> 在此不是答“是”，而是带怀疑的追问，相当于“哦？真的？”",
+    "<code>And how would you do that?</code> 用 <code>would</code> 表示假设性的“那你倒要怎么做到”，比 <code>how will you</code> 多一层将信将疑；<code>that</code> 指代上一句里“查出来”这件事。"
+   ],
+   "vocab": [
+    {
+     "w": "Oh, aye",
+     "p": "",
+     "t": "phr.",
+     "z": "哦，是吗（aye 在此表怀疑的反问，不是应答）"
+    },
+    {
+     "w": "how would you",
+     "p": "",
+     "t": "phr.",
+     "z": "你打算怎么（would 表假设，含怀疑意味）"
+    },
+    {
+     "w": "do that",
+     "p": "",
+     "t": "phr.",
+     "z": "做到那件事（that 指代上文的“查明”）"
+    }
+   ]
+  },
+  {
+   "i": 50,
+   "zh": "“我只需要找到他。剩下的让我来操心。”我没有说出口的是：一旦找到法罗德，什么时候兑现、怎么兑现这个承诺，就由我说了算了。",
+   "notes": [
+    "<code>All I need to do is find him.</code>：<code>All + 定语从句 + is</code> 是一种强调句式，意为“我只需要做的就只是……”；<code>is</code> 后直接接动词原形 <code>find</code>，是口语里常见的省略 <code>to</code> 的用法。",
+    "<code>Let me worry about the rest.</code> 是“别的事我来操心、不用你管”的客套式自信说法，潜台词是他并不打算向对方交代细节。",
+    "<code>I left unstated that…</code>：<code>leave + 宾语 + 过去分词</code>表示“让某事保持（未被说出）的状态”，<code>unstated</code> 即“未言明”；这句是叙事者的内心补白，点明他承诺时的保留态度。"
+   ],
+   "vocab": [
+    {
+     "w": "All I need to do",
+     "p": "",
+     "t": "phr.",
+     "z": "我唯一要做的（All…is… 强调句式）"
+    },
+    {
+     "w": "left unstated",
+     "p": "",
+     "t": "phr.",
+     "z": "没有说出口，未予言明（leave + 宾语 + 过去分词）"
+    },
+    {
+     "w": "determining",
+     "p": "/dɪˈtɜːmɪnɪŋ/",
+     "t": "v.",
+     "z": "决定，裁定（determine 的现在分词）"
+    },
+    {
+     "w": "fulfill",
+     "p": "/fʊlˈfɪl/",
+     "t": "v.",
+     "z": "履行，兑现（诺言、义务）"
+    },
+    {
+     "w": "promise",
+     "p": "/ˈprɒmɪs/",
+     "t": "n.",
+     "z": "承诺，诺言"
+    }
+   ]
+  },
+  {
+   "i": 51,
+   "zh": "“嗯。嘿。行，就这么说定了；我还给你一百枚铜币，算你的辛苦费。你爬到那些台架上去，顺着它们往北、往西走，会走到一扇门，那门通着法罗德的藏身窝。怎么进去、怎么把消息弄到手，那是你的事。还有，要是有人问起，你不认识我，我们也从没说过这番话，听见没？”",
+   "notes": [
+    "<code>You got it</code> 是口语“成交、就这么定了”；<code>I'll even give you… for your trouble</code> 中的 <code>for your trouble</code> 是“作为你的辛苦费、酬谢”，常用于付钱答谢别人跑腿。",
+    "<code>Pharod's bolt-hole</code>：<code>bolt-hole</code> 是英式英语的“藏身之处、避难窝”（像兔子钻的洞穴），带贬义；<code>Getting in and getting the information is your deal.</code> 里两个动名词短语作主语，谓语用单数 <code>is</code>，是口语中把两件事当成一桩来处理的说法，<code>your deal</code> 即“归你负责”。",
+    "<code>And if anyone asks, you don't know me, and we never had this talk, hear?</code> 是典型的灭口式叮嘱：一串并列的短句砸下来，末尾 <code>hear?</code> 是方言口音的 <code>do you hear me?</code>，译文用“听见没？”对应这种威压口气。"
+   ],
+   "vocab": [
+    {
+     "w": "You got it",
+     "p": "",
+     "t": "phr.",
+     "z": "成交，就这么定了（口语表示答应对方）"
+    },
+    {
+     "w": "copper commons",
+     "p": "",
+     "t": "n.",
+     "z": "铜币（印记城通用小额货币，copper 即铜板）"
+    },
+    {
+     "w": "for your trouble",
+     "p": "",
+     "t": "phr.",
+     "z": "作为酬谢，给你的辛苦费"
+    },
+    {
+     "w": "platforms",
+     "p": "/ˈplætfɔːmz/",
+     "t": "n.",
+     "z": "台架，高台（platform 的复数，拾荒者广场上的木架平台）"
+    },
+    {
+     "w": "bolt-hole",
+     "p": "/ˈbəʊlthəʊl/",
+     "t": "n.",
+     "z": "藏身处，避难窝（英式口语，含贬义）"
+    }
+   ]
+  },
+  {
+   "i": 52,
+   "zh": "我离开夏格雷夫的时候，心里憋着一股不痛快。该怎么去法罗德那儿，我仍旧没有头绪。既然这样，我索性去察看一下别人给我描述过的那片广场区域，不过一路上我还是留意着有没有别的可以盘问的人。",
+   "notes": [
+    "<code>might as well</code> 表示“（既然没有更好的办法）不妨、索然就这么办”，带无奈的让步语气；<code>I might as well inspect…</code> 正是无名氏在没有线索时的将就之举。",
+    "<code>I still had no clear idea of how to get to Pharod.</code>：<code>have no idea of how to do sth.</code> 是“对如何做某事毫无头绪”的固定搭配；<code>get to</code> 在此指“到达（某人所在之处）”。",
+    "<code>kept an eye out for anyone else who might be questioned</code>：<code>keep an eye out for</code> 即“留心、留意找”；<code>who might be questioned</code> 是修饰 <code>anyone else</code> 的定语从句，用被动加 <code>might</code> 表示“那些说不定能被盘问出点什么的人”。"
+   ],
+   "vocab": [
+    {
+     "w": "disgruntled",
+     "p": "/dɪsˈɡrʌntld/",
+     "t": "adj.",
+     "z": "不满的，心里憋气的（比 angry 更偏“悻悻然”）"
+    },
+    {
+     "w": "might as well",
+     "p": "",
+     "t": "phr.",
+     "z": "不妨，索然（没有更好选择时的让步说法）"
+    },
+    {
+     "w": "inspect",
+     "p": "/ɪnˈspekt/",
+     "t": "v.",
+     "z": "查看，实地察看"
+    },
+    {
+     "w": "kept an eye out",
+     "p": "",
+     "t": "phr.",
+     "z": "留心，留意（keep an eye out for 即留意找）"
+    },
+    {
+     "w": "questioned",
+     "p": "/ˈkwestʃənd/",
+     "t": "v.",
+     "z": "被盘问，被问话（question 的过去分词）"
+    }
+   ]
+  },
+  {
+   "i": 53,
+   "zh": "我没理会广场上那些收集者。他们多半也不会比他们的头儿多知道什么。不过前方倒有一间木棚，看上去不像周围其他木结构那样破败得厉害，于是我决定进去看看有没有人在。",
+   "notes": [
+    "<code>There was, however, a wooden hut ahead.</code> 把 <code>however</code> 插在 <code>was</code> 与主语之间，是书面语里的插入式转折，作用是把前面的否定一笔带过、再把话头转到新发现上。",
+    "<code>It didn't look as far gone as most of the other wooden structures</code>：<code>far gone</code> 是固定说法，指“（腐败、破损到）很严重的地步、快不行了”，此处形容木棚破败程度；<code>as…as</code> 构成同级比较，<code>most of</code> 即“大多数”。",
+    "<code>I determined to see if anyone was inside.</code>：<code>determine to do sth.</code> 是“下决心做某事”（比 decide 更硬），<code>see if…</code> 即“看看是否……”。"
+   ],
+   "vocab": [
+    {
+     "w": "collectors",
+     "p": "/kəˈlektəz/",
+     "t": "n.",
+     "z": "收集者（尘人里负责收尸的角色；collector 的复数）"
+    },
+    {
+     "w": "doubtful",
+     "p": "/ˈdaʊtfl/",
+     "t": "adj.",
+     "z": "令人怀疑的，不大可能的（It was doubtful that… 即“未必……”）"
+    },
+    {
+     "w": "wooden hut",
+     "p": "",
+     "t": "n.",
+     "z": "木棚，木板小屋"
+    },
+    {
+     "w": "structures",
+     "p": "/ˈstrʌktʃəz/",
+     "t": "n.",
+     "z": "建筑，构造物（structure 的复数）"
+    },
+    {
+     "w": "determined",
+     "p": "/dɪˈtɜːmɪnd/",
+     "t": "v.",
+     "z": "下定决心（determine to do sth. 即决意做某事）"
+    }
+   ]
+  },
+  {
+   "i": 54,
+   "zh": "里面只有一个人。那矮胖的老妇人像是被人把身上所有的颜色都抽干了——从头发到披肩，再到长袍，全是深浅不一的灰。她身上仅有的几处颜色，来自几株古怪的草药，用茎秆系在她腰带上。她一动，那些草药就发出一阵怪异的“唰——唰——”声，像扫帚。",
+   "notes": [
+    "<code>The squat old woman looked like she had had all the color bled out of her</code>：<code>looked like</code> 后接从句是口语用法（相当于 <code>as if</code>）；<code>had had</code> 是过去完成时的“双 had”（前一个助动词，后一个实义动词 have），<code>bleed sth. out of sb.</code> 意为“把……从某人身上放干、抽尽”，这里用来写她整个人褪成灰白。",
+    "<code>all were shades of gray</code> 中 <code>shades</code> 指“色调、色度”，<code>shades of gray</code> 即“各种灰调”，不是“阴影”；破折号中间那串 <code>from her hair, to her shawl, to her robe</code> 是用三个 <code>to</code> 把身体各处逐一点过。",
+    "<code>The herbs made a strange swsshhh when she moved, like a broom.</code>：<code>swsshhh</code> 是作者自造的拟声拼写，模拟草叶摩擦的“唰唰”声，译文用带引号的“唰——唰——”保留这种声响效果；<code>like a broom</code> 是明喻，点出她整个人像一把扫地笤帚。"
+   ],
+   "vocab": [
+    {
+     "w": "occupant",
+     "p": "/ˈɒkjʊpənt/",
+     "t": "n.",
+     "z": "住户，占用者（此处指棚里唯一的人）"
+    },
+    {
+     "w": "squat",
+     "p": "/skwɒt/",
+     "t": "adj.",
+     "z": "矮胖的，敦实的"
+    },
+    {
+     "w": "bled out",
+     "p": "",
+     "t": "phr.",
+     "z": "被抽干，被放尽（bleed out 指把血或液体放干，此处喻颜色尽褪）"
+    },
+    {
+     "w": "splotches",
+     "p": "/splɒtʃɪz/",
+     "t": "n.",
+     "z": "斑块，污渍（splotch 的复数，指一小片颜色）"
+    },
+    {
+     "w": "swsshhh",
+     "p": "",
+     "t": "n.",
+     "z": "唰唰声（作者自造的拟声词，摹写草药摩擦声）"
+    }
+   ]
+  },
+  {
+   "i": 55,
+   "zh": "那老妇人转过身来盯着我……我这才注意到，罩住她全身的灰调也蔓延到了她的五官上。她的头发是稀疏的灰白，眼睛像两片花岗岩碎片。她看见我，皱起了眉。",
+   "notes": [
+    "<code>the gray shades blanketing her body extended to her features as well</code>：<code>blanketing</code> 是现在分词作后置定语，本义“像毯子一样盖上”，此处形容灰调覆盖全身；<code>features</code> 指“面容、五官”，不是“特征”。",
+    "<code>Her hair was a wispy gray, and her eyes were like chips of granite.</code>：<code>wispy</code> 形容毛发“稀疏纤细、成缕的”；<code>chips of granite</code> 是暗喻，把眼睛比作花岗岩碎屑，取其灰硬、无光、冷硬之意，译文直译为“花岗岩碎片”以留住这个意象。"
+   ],
+   "vocab": [
+    {
+     "w": "elderly",
+     "p": "/ˈeldəli/",
+     "t": "adj.",
+     "z": "年老的，上了年纪的（elderly 比 old 委婉）"
+    },
+    {
+     "w": "blanketing",
+     "p": "/ˈblæŋkɪtɪŋ/",
+     "t": "v.",
+     "z": "覆盖，笼罩（blanket 的现在分词，如毯子般盖上）"
+    },
+    {
+     "w": "features",
+     "p": "/ˈfiːtʃəz/",
+     "t": "n.",
+     "z": "五官，面容（复数形式特指脸相）"
+    },
+    {
+     "w": "wispy",
+     "p": "/ˈwɪspi/",
+     "t": "adj.",
+     "z": "稀疏纤细的，成缕的（多形容毛发、烟雾）"
+    },
+    {
+     "w": "granite",
+     "p": "/ˈɡrænɪt/",
+     "t": "n.",
+     "z": "花岗岩（此处取其灰硬无光之意）"
+    }
+   ]
+  },
+  {
+   "i": 56,
+   "zh": "“你又是什么人，嗯？”再次被没有名字这件事弄得难堪，我又搬出了那套万能谎言。",
+   "notes": [
+    "<code>And who might ye be, hmmmn?</code>：<code>might</code> 在此不是客气，而是老妇人口音里的反问口气（<code>ye</code> 即 you）；<code>hmmmn</code> 是拖长的鼻音哼声，译文作“嗯？”以保留她的审视态度。",
+    "<code>Once again caught by the embarrassment of not having a name</code>：<code>caught by</code> 是被动式，<code>caught by the embarrassment</code> 意为“被抓进那种窘迫里、被难堪攫住”；<code>not having a name</code> 是动名词的否定式，作 <code>of</code> 的宾语。",
+    "<code>I fell back on my all-purpose lie.</code>：<code>fall back on</code> 是“退而依靠、拿……来应付”，含“实在没法子只好用”的意味；<code>all-purpose</code> 字面“万用的、通用的”，译作“万能谎言”正合无名氏惯用假名行骗的做派。"
+   ],
+   "vocab": [
+    {
+     "w": "who might ye be",
+     "p": "",
+     "t": "phr.",
+     "z": "你又是什么人（ye＝you，方言口音；might 表追问）"
+    },
+    {
+     "w": "embarrassment",
+     "p": "/ɪmˈbærəsmənt/",
+     "t": "n.",
+     "z": "难堪，窘迫"
+    },
+    {
+     "w": "fell back on",
+     "p": "",
+     "t": "phr.",
+     "z": "退而依靠，拿……应急（fall back on sth.）"
+    },
+    {
+     "w": "all- purpose lie",
+     "p": "",
+     "t": "phr.",
+     "z": "万能的谎话，通用假话（应付任何场合；原文连字符后带空格）"
+    },
+    {
+     "w": "lie",
+     "p": "/laɪ/",
+     "t": "n.",
+     "z": "谎言，假话"
+    }
+   ]
+  },
+  {
+   "i": 57,
+   "zh": "“我叫阿丹。你是谁？”她奸笑了几声，扬了扬眉毛。",
+   "notes": [
+    "<code>The name's Adahn.</code> 是自称的固定句式（<code>The name is…</code> 的缩略），比 <code>My name is…</code> 更随便、更像江湖人的口气；<code>Adahn</code> 是音译名“阿丹”。",
+    "<code>With a sly cackle, she wagged her eyebrows.</code>：介词短语 <code>With a sly cackle</code> 提到句首作伴随状语；<code>cackle</code> 指老妇或女巫那种尖利刺耳的笑（也用于母鸡咯咯叫）；<code>wag</code> 本指“摇（尾巴）”，<code>wagged her eyebrows</code> 即“挑动眉毛、扬眉”，是一种得意又促狭的神色。"
+   ],
+   "vocab": [
+    {
+     "w": "Adahn",
+     "p": "",
+     "t": "n.",
+     "z": "阿丹（无名氏惯用的化名，音译）"
+    },
+    {
+     "w": "sly",
+     "p": "/slaɪ/",
+     "t": "adj.",
+     "z": "狡黠的，奸猾的"
+    },
+    {
+     "w": "cackle",
+     "p": "/ˈkækl/",
+     "t": "n.",
+     "z": "尖利的笑声，咯咯怪笑（多指老妇或女巫）"
+    },
+    {
+     "w": "wagged",
+     "p": "/wæɡd/",
+     "t": "v.",
+     "z": "摇动，挑动（wag 的过去式；wag one's eyebrows 即扬眉）"
+    },
+    {
+     "w": "eyebrows",
+     "p": "/ˈaɪbraʊz/",
+     "t": "n.",
+     "z": "眉毛（eyebrow 的复数）"
+    }
+   ]
+  },
+  {
+   "i": 58,
+   "zh": "“你难道没听说过老梅贝丝，广场上的接生婆？真没听过？”她眯起眼睛，压低了声音。“那好，现在你就听说了，因为我就是梅贝丝。”",
+   "notes": [
+    "<code>Ol' Mebbeth</code> 里的 <code>Ol'</code> 是 <code>Old</code> 的口音写法（省略末尾辅音），译文用“老梅贝丝”对应这种乡野叫法；<code>the midwife of the Square</code> 是同位语，进一步说明她是谁。",
+    "<code>Have ye not heard of…? Have ye not now?</code> 用的是古体否定疑问，相当于 <code>Haven't you heard of…? Haven't you now?</code>，第二句 <code>Have ye not now?</code> 是省略了动词的追问，靠 <code>now</code> 加一分逼问的劲儿，译文用“真没听过？”保留这层逼问。",
+    "<code>fer I be Mebbeth</code>：<code>fer</code>＝for，<code>I be</code> 是方言中不随人称变化的 be 动词用法（相当于 I am），两处口音标记共同塑造老妇土腔；<code>She narrowed her eyes, and her voice dropped.</code> 中 <code>drop</code> 指嗓音压低，是使人凑近听的威压感。"
+   ],
+   "vocab": [
+    {
+     "w": "Mebbeth",
+     "p": "",
+     "t": "n.",
+     "z": "梅贝丝（人名，广场上的接生婆，音译）"
+    },
+    {
+     "w": "midwife",
+     "p": "/ˈmɪdwaɪf/",
+     "t": "n.",
+     "z": "接生婆，助产士"
+    },
+    {
+     "w": "narrowed",
+     "p": "/ˈnærəʊd/",
+     "t": "v.",
+     "z": "眯起，使变窄（narrow 的过去式；narrow one's eyes 即眯眼）"
+    },
+    {
+     "w": "dropped",
+     "p": "/drɒpt/",
+     "t": "v.",
+     "z": "降低，压低（drop 的过去式；此处指压低嗓音）"
+    },
+    {
+     "w": "fer",
+     "p": "",
+     "t": "conj.",
+     "z": "因为（for 的方言拼写）"
+    }
+   ]
+  },
+  {
+   "i": 59,
+   "zh": "“你是接生婆？你都干些什么？”",
+   "notes": [
+    "<code>You're a midwife?</code> 用陈述句加问号构成确认性反问，表示对对方身份将信将疑，译文用“你是接生婆？”保留这种确认口气。",
+    "<code>What do you do?</code> 是一般现在时，问的是“（这行的）日常工作是做什么”，不是此刻正在做什么（那要用 <code>What are you doing?</code>）；两问连着抛出来，也是无名氏一贯简短直问的说话方式。"
+   ],
+   "vocab": [
+    {
+     "w": "midwife",
+     "p": "/ˈmɪdwaɪf/",
+     "t": "n.",
+     "z": "接生婆，助产士"
+    },
+    {
+     "w": "What do you do",
+     "p": "",
+     "t": "phr.",
+     "z": "你做什么的（问职业或日常营生）"
+    }
+   ]
+  },
+  {
+   "i": 60,
+   "zh": "“我给人正骨，替病人把咳嗽赶出去，把那些又犟又爱叫唤的娃娃拽出来，补补斗篷、缝缝破布，还配些药剂、草药什么的。”她眯眼打量着我身上的伤疤。“这么说，你是要几副药喽？”",
+   "notes": [
+    "这一串是动词原形的排比铺陈（<code>set bones right, drive the cough outta the sick, yank out…, mend…, make…</code>），像报手艺清单一样一气数下来，译文照原样铺开，不加连接词，以保留老妇自夸家当的絮叨感。",
+    "<code>drive the cough outta the sick</code>：<code>outta</code> 是 <code>out of</code> 的口音连写；<code>the sick</code> 是“the + 形容词”表示一类人，即“病人”。",
+    "<code>yank out squealing, stubborn babes</code> 把 <code>squealing</code>（尖声叫的）与 <code>stubborn</code>（犟的）两个形容词并置前置修饰 <code>babes</code>，写接生时硬拽出来的婴儿；<code>Be needin' a cure or three, do ye then?</code> 是方言疑问句，<code>a cure or three</code> 仿 <code>one or two</code> 的说法，即“一两副、三两副药”，末尾 <code>do ye then?</code> 是反意追问。"
+   ],
+   "vocab": [
+    {
+     "w": "set bones",
+     "p": "",
+     "t": "phr.",
+     "z": "正骨，把骨头接正"
+    },
+    {
+     "w": "yank out",
+     "p": "",
+     "t": "phr.",
+     "z": "猛地拽出，硬拉出来"
+    },
+    {
+     "w": "squealing",
+     "p": "/ˈskwiːlɪŋ/",
+     "t": "adj.",
+     "z": "尖声叫唤的（squeal 的现在分词作定语）"
+    },
+    {
+     "w": "stubborn",
+     "p": "/ˈstʌbən/",
+     "t": "adj.",
+     "z": "固执的，犟的"
+    },
+    {
+     "w": "squinted",
+     "p": "/ˈskwɪntɪd/",
+     "t": "v.",
+     "z": "眯眼看，斜眼细看（squint 的过去式）"
+    }
+   ]
+  },
+  {
+   "i": 61,
+   "zh": "“是啊，你是得弄几副药照看照看自己。要不要买几副，嗯……？”她又瞟了一眼我满身的伤疤，然后耸了耸肩。“我看，现在要药也太迟了。”",
+   "notes": [
+    "<code>ta lookatcha</code> 是 <code>to look after you</code> 的口音连读（after 里的 f 音被吞掉），字面“来照看你”，此处指用药调养身体；译文作“照看照看自己”。",
+    "<code>D'ye want ta buy some, do ye…?</code> 是 <code>Do you want to buy some, do you?</code> 的方言形式，末尾重复的 <code>do ye</code> 是口语里追加的反问尾巴，句尾省略号暗示她自己也觉得这生意没戏。",
+    "<code>Too late ta be askin' for them, I think.</code>：<code>too late to do sth.</code> 是“做某事已经太迟”，<code>I think</code> 放在句末作插入语表示“我看、依我说”，给她这句刻薄话留了半分开脱的余地。"
+   ],
+   "vocab": [
+    {
+     "w": "lookatcha",
+     "p": "",
+     "t": "phr.",
+     "z": "照看你（look after you 的口音连读，方言拼写）"
+    },
+    {
+     "w": "glanced",
+     "p": "/ɡlɑːnst/",
+     "t": "v.",
+     "z": "瞥了一眼，扫视（glance 的过去式）"
+    },
+    {
+     "w": "scars",
+     "p": "/skɑːz/",
+     "t": "n.",
+     "z": "伤疤，疤痕（scar 的复数）"
+    },
+    {
+     "w": "shrugged",
+     "p": "/ʃrʌɡd/",
+     "t": "v.",
+     "z": "耸肩（shrug 的过去式，表示不以为然或无能为力）"
+    },
+    {
+     "w": "Too late",
+     "p": "",
+     "t": "phr.",
+     "z": "太迟了，来不及了"
+    }
+   ]
+  },
+  {
+   "i": 62,
+   "zh": "“你认识一个叫法罗德的人吗？”",
+   "notes": [
+    "<code>someone named Pharod</code>：<code>named</code> 是过去分词作后置定语，相当于 <code>who is named Pharod</code>，即“一个名叫法罗德的人”，比直接用 <code>Pharod</code> 作宾语更委婉、更像打听。",
+    "无名氏问话依旧短、直、不带铺垫——他不寒暄、不解释来意，这正是他失忆之后一贯的干硬口气。"
+   ],
+   "vocab": [
+    {
+     "w": "named",
+     "p": "/neɪmd/",
+     "t": "v.",
+     "z": "名叫……的（name 的过去分词作后置定语）"
+    },
+    {
+     "w": "Pharod",
+     "p": "",
+     "t": "n.",
+     "z": "法罗德（人名，专有名词）"
+    }
+   ]
+  },
+  {
+   "i": 63,
+   "zh": "“法罗德？！那个——那个——呸！”我看着梅贝丝啐了一口……两口……三口，接着又在心口上画了半个圈。“那个蠢货鸟粪！你找他这种人干什么？”",
+   "notes": [
+    "连吐三口唾沫，再在心口画半圈，是民间驱邪避晦的迷信动作——仿佛提到法罗德这个名字就会招来晦气，所以要用唾沫和手势把邪气挡开，译文直写动作，不点破其中含义。",
+    "<code>That gull tird!</code> 是 <code>that gull turd</code>（海鸥屎）的口音拼写，<code>tird</code>＝turd（屎、粪），是很粗的骂人话；译文用“蠢货鸟粪”兼顾骂人与土腔。",
+    "<code>Whatcha be wantin' with the likes of him?</code>：<code>Whatcha</code>＝What do you，<code>the likes of him</code> 是固定说法“他那种人、他这一类货色”，整句含轻蔑；<code>pah!</code> 是表示厌恶的啐声叹词。"
+   ],
+   "vocab": [
+    {
+     "w": "pah",
+     "p": "/pɑː/",
+     "t": "int.",
+     "z": "呸（表示轻蔑、厌恶的叹词）"
+    },
+    {
+     "w": "spat",
+     "p": "/spæt/",
+     "t": "v.",
+     "z": "吐唾沫（spit 的过去式）"
+    },
+    {
+     "w": "semi- circle",
+     "p": "",
+     "t": "n.",
+     "z": "半圆（此处指在心口画半圈的手势；原文此处带空格）"
+    },
+    {
+     "w": "gull tird",
+     "p": "",
+     "t": "n.",
+     "z": "海鸥屎；骂人话（tird＝turd“粪”，方言拼写，此指“蠢货、混蛋”）"
+    },
+    {
+     "w": "the likes of him",
+     "p": "",
+     "t": "phr.",
+     "z": "他那种人，他这类货色（含轻蔑）"
+    }
+   ]
+  },
+  {
+   "i": 64,
+   "zh": "“我得找到他。你知道他在哪儿吗？”",
+   "notes": [
+    "<code>I need to find him.</code> 用 <code>need to</code> 而非 <code>want to</code>，口气是“非找到不可”，把目的说得很硬；无名氏不解释理由，正合他惜字如金的行事风格。",
+    "<code>Do you know where he is?</code> 是 <code>where</code> 引导的宾语从句作 <code>know</code> 的宾语，从句本身保持陈述语序（<code>he is</code>），不能倒装成 <code>where is he</code>。"
+   ],
+   "vocab": [
+    {
+     "w": "I need to",
+     "p": "",
+     "t": "phr.",
+     "z": "我必须，我得（语气比 want to 强硬，强调必要）"
+    },
+    {
+     "w": "Do you know where",
+     "p": "",
+     "t": "phr.",
+     "z": "你知道……在哪儿吗（宾语从句用陈述语序）"
+    }
+   ]
+  },
+  {
+   "i": 65,
+   "zh": "“他不在拾荒者广场，这点我倒是能告诉你……你得找条路钻到广场底下去，才能摸到那只臭蜘蛛的窝。”她又啐了一口。“光是说起他，嘴里就留下一股臭味儿。”",
+   "notes": [
+    "<code>that much I ken tell ye</code>：<code>that much</code> 是“就这一点、至少这么多”（把宾语提前到句首以示强调），<code>ken</code> 是方言里的 can（苏格兰、北英格兰一带用法），整句即“这一点我倒是能告诉你”。",
+    "<code>ta get ta that tird spider's kip</code>：<code>ta</code>＝to，<code>tird</code>＝turd，<code>kip</code> 是俚语“床铺、睡觉的地方”，引申为“窝、巢”；把法罗德称作“臭蜘蛛的窝”里的蜘蛛，是极轻蔑的比喻。",
+    "<code>Even talkin' 'bout him leaves a foul taste, it does.</code>：动名词短语 <code>Even talkin' 'bout him</code> 作主语，谓语用单数 <code>leaves</code>；句末 <code>it does</code> 是口语里的重复强调（resumptive 用法），相当于“真的，说起他嘴里就发臭”，译文用“光是说起他”来对应 <code>even</code> 的让步语气。"
+   ],
+   "vocab": [
+    {
+     "w": "ken",
+     "p": "/ken/",
+     "t": "v.",
+     "z": "（方言）能，会（相当于 can，苏格兰等地用法）"
+    },
+    {
+     "w": "tird",
+     "p": "",
+     "t": "n.",
+     "z": "粪，屎（turd 的方言拼写，骂人话）"
+    },
+    {
+     "w": "kip",
+     "p": "/kɪp/",
+     "t": "n.",
+     "z": "（俚）床铺，睡觉的地方；引申为窝、巢"
+    },
+    {
+     "w": "foul",
+     "p": "/faʊl/",
+     "t": "adj.",
+     "z": "恶臭的，令人作呕的"
+    },
+    {
+     "w": "taste",
+     "p": "/teɪst/",
+     "t": "n.",
+     "z": "味道，滋味（a foul taste 即一股臭味）"
+    }
+   ]
+  },
+  {
+   "i": 66,
+   "zh": "“他在广场底下？”",
+   "notes": [
+    "<code>He's under the Square?</code> 同样是陈述句加问号构成的回声式反问：无名氏把对方刚说的话原样抛回去确认，比 <code>Is he under the Square?</code> 更简短、更显出他一时没料到的意外。",
+    "<code>under the Square</code> 与上文 <code>a way under the Square</code> 呼应，指广场地下的通道或空间；<code>the Square</code> 大写是 <code>Ragpicker's Square</code> 的简称。"
+   ],
+   "vocab": [
+    {
+     "w": "under",
+     "p": "/ˈʌndə/",
+     "t": "prep.",
+     "z": "在……下面，在……底下"
+    },
+    {
+     "w": "the Square",
+     "p": "",
+     "t": "n.",
+     "z": "广场（此指 Ragpicker's Square 拾荒者广场的简称）"
+    }
+   ]
+  }
+ ]
+}

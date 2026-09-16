@@ -1,0 +1,145 @@
+{
+ "chapter": "Unbroken Circle Of Zerthimon, Part I",
+ "chunk": "unbroken-circle-of-zerthimon-part-i-03",
+ "items": [
+  {
+   "i": 45,
+   "zh": "“达肯？”我开口问道，心里有些担忧。",
+   "notes": [
+    "<code>“Dak'kon?” I asked, concerned.</code> 这里的 <code>concerned</code> 是过去分词转成的形容词，作伴随状语修饰说话时的“我”，等于 <code>I was concerned</code>；译成“心里有些担忧”而不译“关切地”，更能带出无名氏自己也不完全明白的不安。",
+    "引号里只有一个名字，没有谓语动词，是英语口语中常见的独词问句：靠升调和问号表达疑问。中文保留“达肯？”这一短问即可，不要补成“达肯，你怎么了？”，以免替他添了原文没有的猜测。"
+   ],
+   "vocab": [
+    {
+     "w": "Dak'kon",
+     "p": "/ˈdækkɒn/",
+     "t": "专有名词",
+     "z": "达肯（吉斯泽莱人泽斯武士，本章的同伴与讲经者）"
+    },
+    {
+     "w": "asked",
+     "p": "/ɑːskt/",
+     "t": "v.",
+     "z": "问道（ask 的过去式）"
+    },
+    {
+     "w": "concerned",
+     "p": "/kənˈsɜːnd/",
+     "t": "adj.",
+     "z": "担忧的，挂虑的（concern 的过去分词作形容词）"
+    }
+   ]
+  },
+  {
+   "i": 46,
+   "zh": "达肯黑色的眼睛从不破之环上抬起，望向我。",
+   "notes": [
+    "<code>rose from...</code> 是 <code>rise</code>（升起、抬起）的过去式，与 <code>raise</code>（举起某物，及物）不同：这里他的目光自己“升起”，所以用不及物动词 <code>rose</code>。",
+    "<code>Dak'kon’s black eyes rose from the Circle and looked at me.</code> 是一句两个动作连缀的简单句，中间只用 <code>and</code> 连接，没有任何情绪副词——达肯的每一个动作都被写得极简、极慢，中文照此直写、不加渲染。",
+    "<code>the Circle</code> 首字母大写，指前文所说的 <code>Unbroken Circle of Zerthimon</code>（泽西蒙不破之环），是圣典也是一件可握在手中的器物；后文单说 <code>the fourth circle</code> 则指环上的一节教示。"
+   ],
+   "vocab": [
+    {
+     "w": "black eyes",
+     "p": "/blæk aɪz/",
+     "t": "短语",
+     "z": "黑色的眼睛（写吉斯泽莱人眼瞳无白，此处是达肯的标志性外貌）"
+    },
+    {
+     "w": "rose",
+     "p": "/rəʊz/",
+     "t": "v.",
+     "z": "升起，抬起（rise 的过去式，不及物）"
+    },
+    {
+     "w": "looked at",
+     "p": "/lʊkt æt/",
+     "t": "短语",
+     "z": "看向，望着"
+    }
+   ]
+  },
+  {
+   "i": 47,
+   "zh": "“你要知道，我本不信你终会懂得环的教诲。你修习泽西蒙之道，所走的是一条艰难的路。你的心志，可专注于此事？”",
+   "notes": [
+    "<code>Know that...</code> 是经文的宣告式开头，直译“你要知道／当知”，达肯说经时惯用这种句式把自己的话抬到训示的分量上；中文用“你要知道”保留这一庄重口气。",
+    "<code>It is… a difficult path you will walk</code> 是强调句式，<code>a difficult path</code> 被提前，后面 <code>you will walk</code> 是省略了关系代词 <code>that</code> 的定语从句；<code>It is... a difficult path</code> 中的省略号是达肯的停顿，中文以逗号或直接连读均可，破折号式的停顿感不宜丢掉。",
+    "<code>Is your mind focused on this matter?</code> 用一般疑问句加被动结构 <code>be focused on</code>（专注于），比 <code>Are you paying attention?</code> 庄重得多；<code>this matter</code> 指修习环之教示这件事，译“此事”即可，无须具体化。"
+   ],
+   "vocab": [
+    {
+     "w": "Know that",
+     "p": "/nəʊ ðæt/",
+     "t": "固定句式",
+     "z": "你要知道，当知（经文的宣告式开头）"
+    },
+    {
+     "w": "teachings",
+     "p": "/ˈtiːtʃɪŋz/",
+     "t": "n.",
+     "z": "教示，教诲，教义（常用复数）"
+    },
+    {
+     "w": "the Way",
+     "p": "/ðə weɪ/",
+     "t": "n.",
+     "z": "道，修行之路（首字母大写，指泽西蒙的教法）"
+    },
+    {
+     "w": "focused",
+     "p": "/ˈfəʊkəst/",
+     "t": "adj.",
+     "z": "专注的；be focused on sth 专注于某事"
+    },
+    {
+     "w": "matter",
+     "p": "/ˈmætə(r)/",
+     "t": "n.",
+     "z": "事情，事项（this matter 即“此事”）"
+    }
+   ]
+  },
+  {
+   "i": 48,
+   "zh": "我向他保证确然如此，他便为我开启了第四环。我瞥了一眼眼前的内容：讲的是一个背叛族人的人。可夜已深，我看不出这叛徒的故事究竟要对吉斯泽莱人说什么。我决定日后重拾此卷研读。",
+   "notes": [
+    "<code>When I assured him it was</code> 中 <code>it was</code> 后省略了 <code>focused</code>（= assured him it was focused），是英语里常见的省略；<code>assure sb (that)...</code> 意为“向某人保证、让某人确信”，比 <code>tell</code> 正式。",
+    "<code>I glanced at what was before me, which concerned a traitor to their people.</code> 用了 <code>what</code> 引导的宾语从句（眼前之物）加 <code>which</code> 引导的非限制性定语从句补充说明内容；<code>concern</code> 在此作动词，意为“涉及、讲的是”，不是“关心”。<code>a traitor to their people</code> 中 <code>to</code> 表对象，“背叛族人的人”，<code>their</code> 指吉斯泽莱人。",
+    "<code>it was late</code> 是英语里说“天色已晚、太晚了”的固定说法，一般不用 <code>the time was late</code>；<code>take up its study again, later</code> 中 <code>take up</code> 是“重新拾起、着手（某事物）”，<code>its study</code> 指对这段经文的研读，此句也呼应开头无名氏疲惫却仍愿继续的状态。"
+   ],
+   "vocab": [
+    {
+     "w": "assured",
+     "p": "/əˈʃʊəd/",
+     "t": "v.",
+     "z": "向……保证，使确信（assure sb that... 的过去式）"
+    },
+    {
+     "w": "unlocked",
+     "p": "/ʌnˈlɒkt/",
+     "t": "v.",
+     "z": "开启，解锁（unlock 的过去式；此处指解开环上的一节教示）"
+    },
+    {
+     "w": "glanced",
+     "p": "/ɡlɑːnst/",
+     "t": "v.",
+     "z": "瞥了一眼（glance at sth 的过去式）"
+    },
+    {
+     "w": "traitor",
+     "p": "/ˈtreɪtə(r)/",
+     "t": "n.",
+     "z": "叛徒，背叛者；a traitor to one's people 背叛自己族人的人"
+    },
+    {
+     "w": "take up its study again",
+     "p": "/teɪk ʌp ɪts ˈstʌdi əˈɡen/",
+     "t": "短语",
+     "z": "重新拾起对它的研读（take up 着手、拾起）"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,793 @@
+{
+ "chapter": "Mazed",
+ "chunk": "mazed-01",
+ "items": [
+  {
+   "i": 1,
+   "zh": "我走出那座破败的建筑，心里不安。我迈出一步……却发现自己身在别处。只有我一个人。周遭的一切与先前截然不同。我站在石头上，那石头砌成了一环套一环的同心圆。环与环之间有缺口，虽有石桥在间隔不一的地方把各个圆环连起来。圆环本身也带着缺口。",
+   "notes": [
+    "<code>I took a step… and found myself elsewhere</code>：<code>find oneself + 地点/形容词</code> 表示“不知不觉发现自己处于某处、某种状态”，正是被投入迷宫那一刻的失重感；中间的省略号把动作拉慢，暗示一步之间的骤然转换。",
+    "<code>formed into concentric rings</code> 是过去分词短语作后置定语，修饰 <code>stone</code>，相当于 which was formed into…，中文用“砌成了……”顺接。",
+    "<code>although</code> 引导让步状语从句，把“有缺口”与“有石桥相连”两句拧在一起，形成“残缺却被勉强连缀”的空间感。"
+   ],
+   "vocab": [
+    {
+     "w": "troubled",
+     "p": "/ˈtrʌbld/",
+     "t": "adj.",
+     "z": "不安的，烦恼的（此处指心里发慌）"
+    },
+    {
+     "w": "elsewhere",
+     "p": "/ˌelsˈweə/",
+     "t": "adv.",
+     "z": "在别处，在另外的地方"
+    },
+    {
+     "w": "concentric",
+     "p": "/kənˈsentrɪk/",
+     "t": "adj.",
+     "z": "同心的，同心圆的（数学/几何用语）"
+    },
+    {
+     "w": "at irregular intervals",
+     "p": "",
+     "t": "短语",
+     "z": "间隔不一地，不规律地（与 at regular intervals 相对）"
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "zh": "我往石头之间的缝隙里往下看，只见一片灰蒙蒙的虚无。圆环的数量也有限。最外一圈的外面还是那片灰蒙蒙的虚无，仿佛我如今所占的这一小片空间在某种意义上是封闭的。紧挨最外圈的那一环上，每隔一段距离就立着一道拱门，我很快就发现，每一道拱门里都含着一扇传送门。可那些传送门只是把我从一环送到另一环；没有一扇像是通向外面的。",
+   "notes": [
+    "<code>all I saw was a gray nothingness</code> 是 <code>all (that) + 定语从句 + be</code> 的强调句式，意为“我看到的只有……”，比 <code>I only saw…</code> 更有“除此之外别无他物”的意味。",
+    "<code>as though</code> 引导方式状语从句，表“仿佛、好像”；从句里用 <code>somehow</code> 与被动式 <code>was bounded</code>，把无名氏说不清的困局写得含糊。",
+    "<code>However</code> 在此不是“然而”这一层转折那么简单，它紧接上句、把“拱门很多”与“却都出不去”对撞，译作“可”最自然；<code>none seemed to lead out</code> 中 <code>none</code> 后接复数动词，是“没有一个”的常规用法。"
+   ],
+   "vocab": [
+    {
+     "w": "nothingness",
+     "p": "/ˈnʌθɪŋnəs/",
+     "t": "n.",
+     "z": "虚无，空无一物"
+    },
+    {
+     "w": "bounded",
+     "p": "/ˈbaʊndɪd/",
+     "t": "adj./v.",
+     "z": "有边界的，被限制住的（bound 的过去分词）"
+    },
+    {
+     "w": "arches",
+     "p": "/ɑːtʃɪz/",
+     "t": "n.",
+     "z": "拱门，拱形结构（复数）"
+    },
+    {
+     "w": "portals",
+     "p": "/ˈpɔːtlz/",
+     "t": "n.",
+     "z": "传送门（术语：印记城连接各处的魔法通道）"
+    },
+    {
+     "w": "transported",
+     "p": "/trænˈspɔːtɪd/",
+     "t": "v.",
+     "z": "运送，传送（此处指被传送门送往别处）"
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "zh": "就在我核实这一点的时候，我注意到一处不是光秃秃岩石的地方，那里堆着些垃圾。我走过去查看，发现此前有人在这儿宿营过。我在那营地里找到了一件古怪的东西。",
+   "notes": [
+    "<code>a place that wasn’t bare rock, where rubbish was piled</code> 里一个先行词带了两个定语从句：<code>that…</code> 说明那是什么地方，<code>where…</code> 说明那儿有什么，中文用“一处……的地方，那里……”分层译出。",
+    "<code>I found someone before me had camped here</code>：<code>someone before me</code> 是宾语从句的主语，<code>before me</code> 作后置定语，意为“在我之前（到过这里）的人”，<code>had camped</code> 用过去完成时表示更早发生。",
+    "<code>moved to investigate</code> 是不定式作目的状语，意为“挪步过去查看”。"
+   ],
+   "vocab": [
+    {
+     "w": "verifying",
+     "p": "/ˈverɪfaɪɪŋ/",
+     "t": "v.",
+     "z": "核实，查证（verify 的现在分词）"
+    },
+    {
+     "w": "rubbish",
+     "p": "/ˈrʌbɪʃ/",
+     "t": "n.",
+     "z": "垃圾，废物（英式用法）"
+    },
+    {
+     "w": "investigate",
+     "p": "/ɪnˈvestɪɡeɪt/",
+     "t": "v.",
+     "z": "调查，查看"
+    },
+    {
+     "w": "camped",
+     "p": "/kæmpt/",
+     "t": "v.",
+     "z": "宿营，扎营（camp 的过去式）"
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "zh": "它看上去像是某种日志。一片片干枯的人皮被绷在一副骨架上，而奇怪的是，那些皮片竟在接缝处彼此愈合，合成了一本书的书脊。看那样子，外层的皮片为锁在骨架里的一叠皮页充当了封面。",
+   "notes": [
+    "<code>Sheets of dried human skin had been stretched across…</code> 用被动语态 <code>had been stretched</code>（过去完成时的被动）交代“在无名氏发现之前就已被绷好”。",
+    "<code>strangely enough</code> 是插入语，意为“说来奇怪、奇怪的是”，用来给下一句反常的现象加语气。",
+    "<code>the sheets of skin had healed together at the seams</code> 中 <code>heal together</code> 指伤口“长合、愈合在一起”，这里把皮片拟作活物；<code>forming the spine</code> 是现在分词作结果状语。"
+   ],
+   "vocab": [
+    {
+     "w": "journal",
+     "p": "/ˈdʒɜːnl/",
+     "t": "n.",
+     "z": "日志，日记（此处指那本皮页书）"
+    },
+    {
+     "w": "dried",
+     "p": "/draɪd/",
+     "t": "adj.",
+     "z": "干枯的，晾干的"
+    },
+    {
+     "w": "seams",
+     "p": "/siːmz/",
+     "t": "n.",
+     "z": "接缝，缝合处（复数）"
+    },
+    {
+     "w": "makeshift",
+     "p": "/ˈmeɪkʃɪft/",
+     "t": "adj.",
+     "z": "临时凑合的，将就代用的"
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "zh": "皮页的外侧用血写着一连串符号，可我辨认不出；它们看起来是某种文字，却像是倒着写的、从右往左写，还歪七扭八地斜着，看得我眼睛发疼。",
+   "notes": [
+    "<code>I couldn’t make them out</code> 中 <code>make out</code> 是固定短语，指“（费力地）辨认出、看清”，与后文 <code>make sense of</code>（弄懂）是两回事。",
+    "<code>they appeared to be… but they seemed to be…</code> 两句都用 <code>appear/seem + to be</code> 表不确定的推测，正合无名氏“像是什么又说不准”的犹疑口气。",
+    "<code>right to left</code> 与 <code>upside down</code>、<code>at odd angles</code> 三个状语并列，把阅读的错乱感层层叠加；<code>made my eyes hurt</code> 是 <code>make + 宾语 + 动词原形</code> 的使役结构。"
+   ],
+   "vocab": [
+    {
+     "w": "symbols",
+     "p": "/ˈsɪmblz/",
+     "t": "n.",
+     "z": "符号，记号（复数）"
+    },
+    {
+     "w": "upside down",
+     "p": "",
+     "t": "短语",
+     "z": "倒着，上下颠倒"
+    },
+    {
+     "w": "odd",
+     "p": "/ɒd/",
+     "t": "adj.",
+     "z": "古怪的，不寻常的；at odd angles 即“歪斜地”"
+    },
+    {
+     "w": "blood",
+     "p": "/blʌd/",
+     "t": "n.",
+     "z": "血，血液（此处指以血为墨）"
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "zh": "尽管字迹粗劣，我不得不承认，那副骨架的设计其实相当精巧；骨头经过雕琢，彼此能严丝合缝地扣在一起。看样子那些骨头还能相互脱钩，好让这本书打开来读。",
+   "notes": [
+    "<code>Despite the crudity of the writing</code> 是介词短语作让步状语，<code>despite</code> 后接名词（不接从句），相当于 although the writing was crude。",
+    "<code>so that they snapped neatly together</code>：<code>so that</code> 引导目的状语从句；<code>snap together</code> 指卡扣“啪地一声扣合”。",
+    "<code>allowing the book to be opened and read</code> 是现在分词作结果状语，<code>allow sth. to be done</code> 为“使某事得以被做”；被动不定式 <code>to be opened and read</code> 的主语仍是 book。"
+   ],
+   "vocab": [
+    {
+     "w": "crudity",
+     "p": "/ˈkruːdəti/",
+     "t": "n.",
+     "z": "粗糙，粗劣（由 crude 派生）"
+    },
+    {
+     "w": "intricate",
+     "p": "/ˈɪntrɪkət/",
+     "t": "adj.",
+     "z": "精巧复杂的，繁复的"
+    },
+    {
+     "w": "carved",
+     "p": "/kɑːvd/",
+     "t": "v.",
+     "z": "雕刻（carve 的过去分词）"
+    },
+    {
+     "w": "unhooked",
+     "p": "/ʌnˈhʊkt/",
+     "t": "v.",
+     "z": "把……从钩上解下，使脱钩"
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "zh": "我解开了骨扣，骨架啪的一声利落地展开。我翻开日志，细看那些书页……上面写满了与外面封面相同的古怪符号，而且似乎毫无意义。",
+   "notes": [
+    "<code>which unfolded with a neat snap</code> 是非限制性定语从句，<code>with a neat snap</code> 作方式状语，汉语用拟声的“啪的一声”还原。",
+    "<code>studied the pages</code> 中 <code>study</code> 作动词是“仔细端详、研读”，不是“学习”，此处正对应他逐页查看的动作。",
+    "<code>the same… as were on the exterior cover</code> 是 <code>the same + 名词 + as</code> 的比较结构，<code>as</code> 后省略了 <code>the symbols that</code>；<code>didn’t seem to make any sense</code> 意为“看不出任何意义”。"
+   ],
+   "vocab": [
+    {
+     "w": "unlocked",
+     "p": "/ʌnˈlɒkt/",
+     "t": "v.",
+     "z": "打开（锁），解开（unlock 的过去式）"
+    },
+    {
+     "w": "unfolded",
+     "p": "/ʌnˈfəʊldɪd/",
+     "t": "v.",
+     "z": "展开，摊开（unfold 的过去式）"
+    },
+    {
+     "w": "snap",
+     "p": "/snæp/",
+     "t": "n.",
+     "z": "啪的一声，脆响"
+    },
+    {
+     "w": "exterior",
+     "p": "/ɪkˈstɪəriə/",
+     "t": "adj.",
+     "z": "外部的，外面的（与 interior 相对）"
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "zh": "不管我怎么试，都弄不懂那些符号的意思。我灰了心，决定把日志放下。就在我重新扣上骨架的时候，一个古怪的念头忽然击中了我——书里那些内页本来就不该让人看懂。是我……是当时那个我……把符号写在那里，为的是骗过任何想读真正内容的人；而真正的内容，藏在日志骨架里的别处。",
+   "notes": [
+    "<code>Much as I tried</code> 是让步状语从句的倒装式，等于 Although I tried hard，意为“无论我怎么努力”，语气比 although 更重。",
+    "<code>were not supposed to make any sense</code>：<code>be supposed to</code> 表“按理应该”，加否定后意为“本就不该（让人看懂）”，是整段顿悟的关键。",
+    "<code>I… whoever I was at the time…</code> 用两个省略号插入一个让步性同位语，模拟无名氏在“我”与“前世的我”之间迟疑；<code>looking to read</code> 中 <code>look to do</code> 意为“想要做”。"
+   ],
+   "vocab": [
+    {
+     "w": "despaired",
+     "p": "/dɪˈspeəd/",
+     "t": "v.",
+     "z": "绝望，灰心（despair 的过去式）"
+    },
+    {
+     "w": "deceive",
+     "p": "/dɪˈsiːv/",
+     "t": "v.",
+     "z": "欺骗，蒙骗某人"
+    },
+    {
+     "w": "make sense",
+     "p": "",
+     "t": "短语",
+     "z": "有意义，讲得通；make sense of 即“弄懂”"
+    },
+    {
+     "w": "real",
+     "p": "/rɪəl/",
+     "t": "adj.",
+     "z": "真正的，真实的（此处指真正的内容）"
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "zh": "我细看骨架的边缘，发现其中一根骨头的一端有一道极细的裂纹；我把手按在边缘，拧下了那根骨头的顶端，露出一个中空的地方。空腔里有一小片卷起来的皮子。",
+   "notes": [
+    "<code>a hairline fracture</code> 是固定说法，指“发丝般的细裂纹”（医学上也指骨头的细微骨折），此处恰好用在骨头上，语带双关。",
+    "<code>I put my hand over the edge and twisted off the top of the bone</code> 连用两个过去式动词，动作一气呵成；<code>twist off</code> 为“拧下、扭断”。",
+    "<code>revealing a hollow space</code> 是现在分词作结果状语，<code>hollow</code> 作形容词指“中空的”，与下文 <code>inside the space</code> 形成藏物机关的完整交代。"
+   ],
+   "vocab": [
+    {
+     "w": "hairline fracture",
+     "p": "",
+     "t": "短语",
+     "z": "发丝般的细裂纹（fracture 本义“骨折、断裂”）"
+    },
+    {
+     "w": "twisted off",
+     "p": "",
+     "t": "短语",
+     "z": "拧下，扭断（twist off 的过去式）"
+    },
+    {
+     "w": "hollow",
+     "p": "/ˈhɒləʊ/",
+     "t": "adj.",
+     "z": "中空的，空心的"
+    },
+    {
+     "w": "scrap",
+     "p": "/skræp/",
+     "t": "n.",
+     "z": "小片，碎块（a scrap of 一小片……）"
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "zh": "读起来很吃力，但我大致辨认出了其中大半。",
+   "notes": [
+    "<code>It was difficult to read</code> 用形式主语 <code>it</code> 代替真正的主语 <code>to read</code>，中文不必译出“它”，直接说“读起来很吃力”即可。",
+    "<code>make out</code> 再次出现（与第 5 段呼应），此处 <code>make out most of it</code> 意为“把其中的大部分辨认出来”；<code>most of it</code> 指那片皮子上的字。"
+   ],
+   "vocab": [
+    {
+     "w": "difficult",
+     "p": "/ˈdɪfɪkəlt/",
+     "t": "adj.",
+     "z": "困难的，费劲的"
+    },
+    {
+     "w": "make out",
+     "p": "",
+     "t": "短语",
+     "z": "（费力地）辨认出，看清"
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "zh": "困住了 困住了 夫人的意旨 必得成全 躲开她的目光……我杀了太多太多，太多太多 掐死 杀死 堵住他们喉咙里的气息……有出路 我知道有出路 到那时我就要 让那持刃的家伙 干瞪眼……",
+   "notes": [
+    "原文明写的大小写错乱（<code>TRAPPed TraPped</code>、<code>KILL'd</code>、<code>BREATH</code>）是刻意的病态书写：即使到了遗书里，前世的“我”也已神智崩坏，故译文以空格断句、不加标点来还原这种断续、颤抖的语流。",
+    "<code>LADY'S WILL be done</code> 是宗教套语 <code>Thy will be done</code>（愿你的旨意成就）的扭曲，把“痛苦女士”套进祈祷句式里，愈显疯狂；“Lady”在印记城语境中专指 the Lady of Pain（痛苦女士）。",
+    "<code>give the BLADed one the laugh</code> 中 <code>give sb. the laugh</code> 是俚语“反过来嘲笑某人、让某人吃瘪”，<code>the bladed one</code> 指手上有刀的人（很可能就是无名氏本人）。"
+   ],
+   "vocab": [
+    {
+     "w": "LADY'S",
+     "p": "",
+     "t": "n.",
+     "z": "夫人的（LADY 大写＋所有格，此处指痛苦女士）"
+    },
+    {
+     "w": "gaze",
+     "p": "/ɡeɪz/",
+     "t": "n.",
+     "z": "凝视，注视（dodge her gaze 即“躲开她的目光”）"
+    },
+    {
+     "w": "strangle",
+     "p": "/ˈstræŋɡl/",
+     "t": "v.",
+     "z": "掐死，勒死"
+    },
+    {
+     "w": "BREATH",
+     "p": "/breθ/",
+     "t": "n.",
+     "z": "气息（原文大写强调；注意与动词 breathe 拼写不同）"
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "zh": "……拱门里有一道 通着出路，其中一道 通着，有一道 是出口，总不能 一遍又一遍 一道道地走过去，也许——也许我该穿过一道，然后 原路回到同一扇传送门，不要……",
+   "notes": [
+    "<code>ARCHEZ</code> 是 <code>arches</code>（拱门）的错拼，与前文第 2 段的 <code>arches</code> 对应，暗示前世已被困到连字都写不准；译文以“拱门”照译不改。",
+    "<code>ONE of the ARCHEZ holds way Out</code> 用了三次排比（ONE…, ONE…, ONE…），是疯子反复自我确认的口气，中文也保留三段重复的节奏。",
+    "<code>can’t just keep GOING through them one at a time</code> 中 <code>one at a time</code> 是固定短语“一次一个、逐个地”，<code>keep doing</code> 表“不停地做”；末尾的 <code>without…</code> 悬空未说完，正是遗书作者的思路在此崩断。"
+   ],
+   "vocab": [
+    {
+     "w": "ARCHEZ",
+     "p": "",
+     "t": "n.",
+     "z": "拱门的错拼（＝arches，原文大写）"
+    },
+    {
+     "w": "way Out",
+     "p": "",
+     "t": "短语",
+     "z": "出路，出口（way out 的强调写法）"
+    },
+    {
+     "w": "one at a time",
+     "p": "",
+     "t": "短语",
+     "z": "一次一个地，逐个地"
+    },
+    {
+     "w": "walk back",
+     "p": "",
+     "t": "短语",
+     "z": "走回去，原路返回"
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "zh": "那则记录拖到最后，化成了一团无法辨认的涂鸦。不知为何，我有种感觉：那就是最后一则了……要么是那一世的我死在了迷宫里，要么就是想法子逃了出去。",
+   "notes": [
+    "<code>trailed off into…</code> 是固定搭配，指声音或文字“渐渐减弱、断掉”，此处形容字迹越写越乱直至不成形。",
+    "<code>that was the last entry</code> 里 <code>entry</code> 指日记的“一则记录、一篇”，与第 11、12 段那两段残文对应；<code>either… or…</code> 并列两种可能，正合无名氏对前世结局的无从查证。",
+    "<code>the incarnation</code> 在本书中是专门概念，指无名氏的一次次“转世/化身”，即前一个自己。"
+   ],
+   "vocab": [
+    {
+     "w": "indecipherable",
+     "p": "/ˌɪndɪˈsaɪfərəbl/",
+     "t": "adj.",
+     "z": "无法辨认的，读不懂的"
+    },
+    {
+     "w": "scrawls",
+     "p": "/skrɔːlz/",
+     "t": "n.",
+     "z": "潦草的字迹，乱涂（复数）"
+    },
+    {
+     "w": "entry",
+     "p": "/ˈentri/",
+     "t": "n.",
+     "z": "（日记的）一则，一条记录"
+    },
+    {
+     "w": "incarnation",
+     "p": "/ˌɪnkɑːˈneɪʃn/",
+     "t": "n.",
+     "z": "化身，转世之身（本书指无名氏的某一世）"
+    },
+    {
+     "w": "escaped",
+     "p": "/ɪˈskeɪpt/",
+     "t": "v.",
+     "z": "逃脱，逃出（escape 的过去式）"
+    }
+   ]
+  },
+  {
+   "i": 14,
+   "zh": "我发现，只要我先走进外围某道拱门里的传送门，然后不进任何别的传送门、直接回到同一扇门前，我就会被送到一座先前到不了的拱门。那道拱门里的传送门放我出去，把我送回蜂巢，落点正是我离开的地方。我觉得，我现在知道奥拉那些信徒是上哪儿去了。",
+   "notes": [
+    "<code>if I entered…, then went back…, I was transported…</code> 是一个条件句套时间顺序的复合句，中文拆成“只要……然后……就……”以保清晰。",
+    "<code>without entering any other</code> 是介词短语作伴随/条件状语，<code>any other</code> 后省略了 <code>portal</code>，意为“不进任何别的传送门”。",
+    "<code>at the spot where I left</code> 中 <code>where I left</code> 是定语从句，<code>left</code> 后省略宾语（the Hive / that place），译作“正是我离开的地方”。"
+   ],
+   "vocab": [
+    {
+     "w": "periphery",
+     "p": "/pəˈrɪfəri/",
+     "t": "n.",
+     "z": "外围，边缘（on the periphery 在外围）"
+    },
+    {
+     "w": "arch",
+     "p": "/ɑːtʃ/",
+     "t": "n.",
+     "z": "拱门（单数）"
+    },
+    {
+     "w": "disciples",
+     "p": "/dɪˈsaɪplz/",
+     "t": "n.",
+     "z": "信徒，门徒（复数）"
+    },
+    {
+     "w": "disappeared",
+     "p": "/ˌdɪsəˈpɪəd/",
+     "t": "v.",
+     "z": "消失，不见了（disappear 的过去式）"
+    }
+   ]
+  },
+  {
+   "i": 15,
+   "zh": "我简短地跟莫提讲了经过。我们从险角巷的另一头出去，要是我没算错，那里离停尸间不算太远。我继续在蜂巢里探走，朝一片此前没去过的区域走去。",
+   "notes": [
+    "<code>We left the Alley of Dangerous Angles on its other side</code>：<code>on its other side</code> 是“从它的另一头/另一侧”，中文补出“出去”才通顺。",
+    "<code>not too far from the Mortuary if my reckoning was right</code>：<code>if</code> 从句插在句末作保留条件，<code>my reckoning</code> 指“我的估算、我的方位判断”，正合无名氏在陌生城市里靠推算认路的处境。",
+    "<code>heading towards a section I had not visited before</code> 用过去完成时 <code>had not visited</code>，表示“（在此之前）一直没去过”，定语从句省略了关系代词 that。"
+   ],
+   "vocab": [
+    {
+     "w": "briefly",
+     "p": "/ˈbriːfli/",
+     "t": "adv.",
+     "z": "简短地，简要地"
+    },
+    {
+     "w": "explained",
+     "p": "/ɪkˈspleɪnd/",
+     "t": "v.",
+     "z": "解释，说明（explain 的过去式）"
+    },
+    {
+     "w": "reckoning",
+     "p": "/ˈrekənɪŋ/",
+     "t": "n.",
+     "z": "估算，推算（航海用语引申而来）"
+    },
+    {
+     "w": "exploring",
+     "p": "/ɪkˈsplɔːrɪŋ/",
+     "t": "v.",
+     "z": "探察，探索（explore 的现在分词）"
+    }
+   ]
+  },
+  {
+   "i": 16,
+   "zh": "我听见前方传来一阵嚎叫。是什么怪畜生发出这种声音？接着我看清了，那其实是个目光狂乱的男人，弓着背，龇牙低吼。看样子他好多年没剪过头发……头发长得像一层帘子，遮住了眼睛。他留着一绺细长黏结的胡子，糊满了油污和汗渍，胡子梢垂得太低，已经和底下乱蓬蓬的络腮胡缠成了一团。",
+   "notes": [
+    "<code>What strange animal was producing the sound?</code> 是无名氏的自问，用进行时 <code>was producing</code> 强调“此刻正发出”；中文以“是什么怪畜生”保留这种惊疑。",
+    "<code>I saw it was actually a wild-eyed man</code> 里 <code>it</code> 指前面那个“声音的来源”，<code>actually</code> 表“原来竟然是”，是揭晓真相的转折词。",
+    "<code>hunched over, snarling and giving low growls</code> 三个分词短语并列作伴随状语，描绘他四肢着地、兽性未褪的姿态；<code>so… that…</code> 结构（<code>so long it formed…</code>）表“长到以至于……”。"
+   ],
+   "vocab": [
+    {
+     "w": "howling",
+     "p": "/ˈhaʊlɪŋ/",
+     "t": "n./v.",
+     "z": "嚎叫，长嗥（howl 的动名词）"
+    },
+    {
+     "w": "wild-eyed",
+     "p": "/ˈwaɪld aɪd/",
+     "t": "adj.",
+     "z": "目光狂乱的，眼神发直的"
+    },
+    {
+     "w": "hunched over",
+     "p": "",
+     "t": "短语",
+     "z": "弓着背，佝偻着身子"
+    },
+    {
+     "w": "snarling",
+     "p": "/ˈsnɑːlɪŋ/",
+     "t": "v.",
+     "z": "龇牙低吼（snarl 的现在分词）"
+    },
+    {
+     "w": "growls",
+     "p": "/ɡraʊlz/",
+     "t": "n.",
+     "z": "低吼声，咆哮（复数）"
+    }
+   ]
+  },
+  {
+   "i": 17,
+   "zh": "我跟他打了声招呼。那人吼到一半停住了，抬手把遮住眼睛的那道头发帘拨开。他那只干枯的手一掀开脏发，就有几只紫褐色的怪虫子从头发里掉出来，四散在卵石地上。发帘后面，那人的皮肉苍白如月，满是皱褶。他直勾勾地盯着我，浓密的粗眉毛拧成一个“V”字。",
+   "notes": [
+    "<code>stopped in mid-snarl</code> 中 <code>in mid-</code> 是构词前缀，表示“在……进行到一半时”，如 in mid-sentence（话说到一半）。",
+    "<code>As his withered hand pulled away his dirty locks</code> 由 <code>as</code> 引导时间状语从句，<code>locks</code> 是“（一绺）头发”的文学说法，不是“锁”。",
+    "<code>moon- pale</code> 是作者自造的复合形容词（原文在连字符后多了一个空格），意为“像月亮一样苍白的”；<code>His thick, bushy eyebrows formed a ‘V’</code> 用字母 V 描形状，中文照用引号保留。"
+   ],
+   "vocab": [
+    {
+     "w": "greeted",
+     "p": "/ˈɡriːtɪd/",
+     "t": "v.",
+     "z": "问候，打招呼（greet 的过去式）"
+    },
+    {
+     "w": "withered",
+     "p": "/ˈwɪðəd/",
+     "t": "adj.",
+     "z": "干枯的，枯萎的（形容手、皮肤）"
+    },
+    {
+     "w": "puce-colored",
+     "p": "",
+     "t": "adj.",
+     "z": "紫褐色的，暗紫红色的（puce 原为跳蚤色）"
+    },
+    {
+     "w": "wrinkles",
+     "p": "/ˈrɪŋklz/",
+     "t": "n.",
+     "z": "皱纹，皱褶（复数）"
+    },
+    {
+     "w": "bushy",
+     "p": "/ˈbʊʃi/",
+     "t": "adj.",
+     "z": "浓密的，毛茸茸的（多形容眉毛、尾巴）"
+    }
+   ]
+  },
+  {
+   "i": 18,
+   "zh": "“手，我的 拿 月亮 飞，也也也？”我听着费劲，但觉得勉强能猜出他的意思。",
+   "notes": [
+    "<code>Hand, my take th’ moon fly, toooo?</code> 是刻意支离破碎的疯话：<code>th’</code> 是 the 的口音化拼写，<code>toooo</code> 把元音拖长拼写，模拟他舌头打结、声音拉长的样子；中文以无标点的碎词和拉长的“也也也”来对应。",
+    "<code>I had difficulty, but thought I could puzzle out his meaning</code>：<code>have difficulty</code> 后省略了 <code>(in) understanding</code>；<code>puzzle out</code> 是固定短语，意为“（靠琢磨）猜出、解开”。",
+    "注意原文在段的开头就补了一句叙述，而不是让无名氏直接回应——他在答话前先要猜对方在说什么，本书反复用这种“先困惑后应答”的节奏。"
+   ],
+   "vocab": [
+    {
+     "w": "th’",
+     "p": "",
+     "t": "art.",
+     "z": "the 的口音化写法（省去 e，读作 /ð/）"
+    },
+    {
+     "w": "toooo",
+     "p": "",
+     "t": "adv.",
+     "z": "拖长音的“也/太”（原文以重复字母模拟拉长的发音）"
+    },
+    {
+     "w": "difficulty",
+     "p": "/ˈdɪfɪkəlti/",
+     "t": "n.",
+     "z": "困难，费劲（have difficulty 感到吃力）"
+    },
+    {
+     "w": "puzzle out",
+     "p": "",
+     "t": "短语",
+     "z": "琢磨出，猜出（某人的意思）"
+    }
+   ]
+  },
+  {
+   "i": 19,
+   "zh": "“‘抬起你的手，飞向月亮？’今天不行，朋友。”",
+   "notes": [
+    "引语内套引语：无名氏先把自己的理解用单引号 <code>‘ ’</code> 复述一遍，再给出回答。中文用“ ‘ ’ ”（内层）与“ ”（外层）区分层级。",
+    "<code>Not today, my friend</code> 是英语里委婉拒绝的惯用说法，字面“不是今天”，言下之意“改天再说、现在免谈”，译作“今天不行”最贴切。",
+    "<code>my friend</code> 是称呼语，用逗号与句子隔开；无名氏对疯老人依旧称“朋友”，显出他此时并不带敌意。"
+   ],
+   "vocab": [
+    {
+     "w": "Not today",
+     "p": "",
+     "t": "短语",
+     "z": "今天不行（委婉拒绝的惯用语）"
+    },
+    {
+     "w": "hand",
+     "p": "/hænd/",
+     "t": "n.",
+     "z": "手（此处为无名氏复述对方的话）"
+    },
+    {
+     "w": "moon",
+     "p": "/muːn/",
+     "t": "n.",
+     "z": "月亮（飞向月亮是对方疯话里的意象）"
+    },
+    {
+     "w": "friend",
+     "p": "/frend/",
+     "t": "n.",
+     "z": "朋友（称呼语）"
+    }
+   ]
+  },
+  {
+   "i": 20,
+   "zh": "那人皱起眉头，可他的眉毛却向上斜成个倒“V”，挤出一脸古怪的表情。我完全不明白他是怎么做出这副面孔的，只是看着他的面部肌肉重新排成那个新花样，心里很不舒服。我判断不出他是生气、好奇、两者兼有，还是两者都谈不上。",
+   "notes": [
+    "<code>his eyebrows tilted upwards in a reverse ‘V’</code> 与上一段的 <code>formed a ‘V’</code> 前后照应：同一对眉毛先成 V、再成倒 V，是老人不可解的表情语言。",
+    "<code>I had no idea how he accomplished the facial expression</code>：<code>have no idea</code> 是“毫无头绪、完全不知道”的口语说法；<code>how</code> 引导的从句作 <code>idea</code> 的同位语。",
+    "<code>whether he was angry, curious, both or neither</code> 由 <code>whether</code> 引导宾语从句，四项并列（both/neither）把“无从判断”推到极致；<code>shift into the new pattern</code> 中 <code>shift into</code> 意为“转变成”。"
+   ],
+   "vocab": [
+    {
+     "w": "frowned",
+     "p": "/fraʊnd/",
+     "t": "v.",
+     "z": "皱眉（frown 的过去式）"
+    },
+    {
+     "w": "eyebrows",
+     "p": "/ˈaɪbraʊz/",
+     "t": "n.",
+     "z": "眉毛（复数；一条眉毛是 eyebrow）"
+    },
+    {
+     "w": "bizarre",
+     "p": "/bɪˈzɑː/",
+     "t": "adj.",
+     "z": "怪异的，离奇的"
+    },
+    {
+     "w": "uncomfortable",
+     "p": "/ʌnˈkʌmftəbl/",
+     "t": "adj.",
+     "z": "不舒服的，不自在的"
+    },
+    {
+     "w": "accomplished",
+     "p": "/əˈkʌmplɪʃt/",
+     "t": "v.",
+     "z": "做到，完成（accomplish 的过去式）"
+    }
+   ]
+  },
+  {
+   "i": 21,
+   "zh": "“一记 亲吻 说出一颗 男人，一个答案 更想要 一个 木头女人的 心。”",
+   "notes": [
+    "<code>Singed kisssspeak a man, answersss pre-fur a wood woman heart.</code> 是老人把两句正常英文糅碎后的疯话：<code>kisssspeak</code> 疑似 kiss speaks 的粘连（多出的 s 是口齿不清），<code>answersss</code> 把 s 拖长，<code>pre-fur</code> 是 prefer 的走音拼写，<code>wood woman</code> 则把 woman 说成“木头女人”。",
+    "句中省略了所有冠词与介词，只堆实词，这是失语者与呓语者的典型句法；译文同样不加标点、以空格断开，保留破碎感。",
+    "无名氏在下一段把这句话“复原”成完整英文，可对照阅读：<code>A single kiss speaks a woman’s heart, but a man’s answer is what you would prefer.</code>"
+   ],
+   "vocab": [
+    {
+     "w": "kisssspeak",
+     "p": "",
+     "t": "v.",
+     "z": "亲吻＋说（原文把 kiss speaks 粘连并拉长 s，模拟含混口齿）"
+    },
+    {
+     "w": "answersss",
+     "p": "",
+     "t": "n.",
+     "z": "答案（原文拖长 s，模拟嘶声）"
+    },
+    {
+     "w": "pre-fur",
+     "p": "",
+     "t": "v.",
+     "z": "prefer（更喜欢）的走音拼写"
+    },
+    {
+     "w": "wood",
+     "p": "/wʊd/",
+     "t": "n.",
+     "z": "木头（wood woman 即“木头女人”，疯话中的错位说法）"
+    }
+   ]
+  },
+  {
+   "i": 22,
+   "zh": "“‘一个吻，道出一个女人的心；可你更想要的，是一个男人的答案？’那好，不过你听清楚：我的答案是一个问题，而我要的，是你的答案。”那男人似乎被我的声音迷住了。我说的每一个字，都让他眼里闪过一丝光。",
+   "notes": [
+    "这一句把上一段的疯话复原为通顺英文，形成“破碎—还原”的对照；<code>A single kiss speaks a woman’s heart</code> 是拟人用法，<code>speak</code> 的主语本是物，意为“一个吻足以道出女人的心”。",
+    "<code>but know this:</code> 是祈使句加冒号的提请注意句式，意为“但你得知道这一点”，后面引出真正的警告。",
+    "<code>an answer from you is what I would prefer</code> 用 <code>what</code> 引导表语从句，比直接说 <code>I prefer your answer</code> 更绕，也更郑重；末句 <code>With every word I spoke, a light flickered in his eyes</code> 用 <code>with + 名词短语</code> 表“随着……”，<code>flicker</code> 指光“闪动、明灭不定”，暗示老人残存的神智被声音唤醒。"
+   ],
+   "vocab": [
+    {
+     "w": "Very well",
+     "p": "",
+     "t": "短语",
+     "z": "那好吧，很好（表示勉强同意或转入正题）"
+    },
+    {
+     "w": "answer",
+     "p": "/ˈɑːnsə/",
+     "t": "n.",
+     "z": "回答，答案（本章反复出现的核心词）"
+    },
+    {
+     "w": "question",
+     "p": "/ˈkwestʃən/",
+     "t": "n.",
+     "z": "问题，疑问"
+    },
+    {
+     "w": "mesmerized",
+     "p": "/ˈmezməraɪzd/",
+     "t": "adj./v.",
+     "z": "被迷住的，看呆了的（mesmerize 的过去分词）"
+    }
+   ]
+  }
+ ]
+}

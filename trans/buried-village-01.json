@@ -1,0 +1,322 @@
+{
+ "chapter": "Buried Village",
+ "chunk": "buried-village-01",
+ "items": [
+  {
+   "i": 1,
+   "zh": "第二天，我回到广场，顺着那条路走进塞满垃圾的拱门。我带的那堆破烂果然打开了一道传送门。我走进去，再出现时，已在拱门所属的那座小屋的另一头。",
+   "notes": [
+    "<code>did, in fact, open a portal</code> 里 <code>did</code> 是助动词，后接动词原形表示强调，等于“真的、确实打开了”；<code>in fact</code> 插在中间进一步加强这一层确认意味。",
+    "<code>the trash-packed arch</code> 中 <code>trash-packed</code> 是“名词＋过去分词”构成的复合形容词，意为“被垃圾塞满的”，比 <code>full of trash</code> 更凝练。",
+    "<code>the small building the arch was part of</code> 是省略了关系词 <code>which</code> 的定语从句：<code>be part of</code> 即“是……的一部分”；<code>reappeared on the other side</code> 写传送门把人送到另一侧。"
+   ],
+   "vocab": [
+    {"w": "trash-packed", "p": "", "t": "adj.", "z": "塞满垃圾的（trash“垃圾”＋packed“塞满的”）"},
+    {"w": "junk", "p": "/dʒʌŋk/", "t": "n.", "z": "破烂，废旧杂物"},
+    {"w": "portal", "p": "/ˈpɔːtl/", "t": "n.", "z": "传送门（术语，统一译“传送门”）"},
+    {"w": "reappeared", "p": "/ˌriːəˈpɪə(r)d/", "t": "v.", "z": "再次出现（reappear 的过去式）"},
+    {"w": "arch", "p": "/ɑːtʃ/", "t": "n.", "z": "拱门，拱形门洞"}
+   ]
+  },
+  {
+   "i": 2,
+   "zh": "我沿着尘土里的脚印走了一小段，来到一扇通往地下的门。我加快脚步往前赶，却发觉门里就有一群收集者。我四下找我的同伴，可我已经把莫提和达肯甩得太远了。我想，摆出一副胸有成竹的样子才是上策，于是往前迈步，结果被一个蠢货拦住了——他手里攥着一把明晃晃的刀。其余的人围拢过来，个个刀剑出鞘。我也拔了自己的兵器，可对方人太多，护不过来，我很快便倒了下去，半打刀刃一齐扎进我身上。我最后的一个念头是：别就这么完了。",
+   "notes": [
+    "<code>only to realize...</code> 与后文 <code>only to be blocked...</code> 是同一结构：<code>only to do</code> 表示“结果却（发生了出乎意料的事）”，语气带遗憾和挫折，中文用“却”“结果”来对应。",
+    "<code>Figuring that an air of confidence was my best strategy</code> 是现在分词短语作状语，等于 <code>Since I figured that...</code>；<code>an air of confidence</code> 意为“一副有把握的神气”，<code>air</code> 此处是不可数名词。",
+    "<code>went down</code> 是 <code>go down</code> 的俚语用法，意为“倒下、被打倒”；<code>half a dozen blades piercing me</code> 是独立主格结构（名词＋现在分词），作伴随状语，比并列句更紧凑。"
+   ],
+   "vocab": [
+    {"w": "collectors", "p": "/kəˈlektəz/", "t": "n.", "z": "收集者（法罗德手下的帮派，术语统一译“收集者”）"},
+    {"w": "distanced", "p": "/ˈdɪstənst/", "t": "v.", "z": "把……甩开一段距离（distance 作动词的过去分词）"},
+    {"w": "berks", "p": "/bɜːks/", "t": "n.", "z": "蠢货、笨蛋（印记城俚语 berk，术语统一译“蠢货”）"},
+    {"w": "naked blade", "p": "", "t": "n.", "z": "出鞘的刀（naked 此处指“未加鞘的、亮出来的”）"},
+    {"w": "piercing", "p": "/ˈpɪəsɪŋ/", "t": "v.", "z": "刺穿、扎进（pierce 的现在分词）"}
+   ]
+  },
+  {
+   "i": 3,
+   "zh": "我醒在一张血迹斑斑的桌子上。一边站着莫提和达肯。我发觉自己认得出他们。自打在停尸间醒来之后的所有记忆，似乎都完好无损。我毫不怀疑自己就死在那一片刀刃之下。但无论从前是什么在我身上作祟，这一回，死亡没能抹掉我学到的东西。",
+   "notes": [
+    "<code>All my memories since wakening in the Mortuary seemed to be intact</code>：<code>since wakening</code> 是“自从醒来以来”，<code>since</code> 后接动名词而不接从句；<code>intact</code> 意为“完好无损的”。",
+    "<code>I didn’t doubt for a moment that...</code> 是 <code>not... for a moment</code> 的强调否定，意为“一刻也没有怀疑过、毫不怀疑”。",
+    "<code>whatever had affected me</code> 中 <code>whatever</code> 引导主语从句，表示“无论是什么（东西）”；<code>this time death hadn’t erased what I had learned</code> 用过去完成时点出“死亡没能抹去（此前）学到的东西”。"
+   ],
+   "vocab": [
+    {"w": "awoke", "p": "/əˈwəʊk/", "t": "v.", "z": "醒来（awake 的过去式）"},
+    {"w": "blood-stained", "p": "/ˈblʌdsteɪnd/", "t": "adj.", "z": "沾满血迹的，血迹斑斑的"},
+    {"w": "intact", "p": "/ɪnˈtækt/", "t": "adj.", "z": "完整无损的，未受破坏的"},
+    {"w": "Mortuary", "p": "/ˈmɔːtʃuəri/", "t": "n.", "z": "停尸间（印记城中安放死者的巨大建筑，专名大写）"},
+    {"w": "erased", "p": "/ɪˈreɪzd/", "t": "v.", "z": "抹去，擦掉（erase 的过去分词）"}
+   ]
+  },
+  {
+   "i": 4,
+   "zh": "我从桌上起来，看见旁边还有个人。那是个粗壮如墩的女人，裹着一件厚重的粗麻布长袍。她在屋里笨重地挪来挪去，弯腰从各张桌子上捡东西时，关节嘎巴作响。她的头发用一根骨簪挽在脑后，脸上一副酸腐的苦相。她尖着嗓子哼唱似的自言自语。",
+   "notes": [
+    "<code>a blockish woman dressed in a heavy burlap robe</code>：<code>dressed in...</code> 是过去分词短语作后置定语，修饰 <code>woman</code>；<code>blockish</code> 意为“粗笨如木块的”，中文用“粗壮如墩”保留这个比喻。",
+    "<code>her joints popping as she bent to pick up objects</code> 是独立主格结构（<code>her joints</code> ＋现在分词 <code>popping</code>），描写伴随的声响细节；<code>bend to do sth</code> 意为“弯腰去做某事”。",
+    "<code>curd-faced</code> 是作者自造词，字面为“脸像凝乳一样的”，即“面色酸腐、板着一张苦脸”；<code>mumbling to herself in a sing-song voice</code> 中 <code>in a sing-song voice</code> 指“用拉长调子的唱腔”。"
+   ],
+   "vocab": [
+    {"w": "blockish", "p": "/ˈblɒkɪʃ/", "t": "adj.", "z": "粗笨如木块的，身形粗壮的"},
+    {"w": "burlap", "p": "/ˈbɜːlæp/", "t": "n.", "z": "粗麻布；此处作定语“粗麻布做的”"},
+    {"w": "lumbered", "p": "/ˈlʌmbə(r)d/", "t": "v.", "z": "笨重迟缓地移动（lumber 的过去式）"},
+    {"w": "hairpin", "p": "/ˈheəpɪn/", "t": "n.", "z": "发簪，束发的簪子"},
+    {"w": "mumbling", "p": "/ˈmʌmblɪŋ/", "t": "v.", "z": "含糊地嘟囔（mumble 的现在分词）"}
+   ]
+  },
+  {
+   "i": 5,
+   "zh": "我试着引起她的注意。那女人好像根本没听见我打招呼——她反倒踉跄着回到一张长桌旁，开始在一具尸体上拨弄起来。",
+   "notes": [
+    "<code>didn’t appear to hear my greeting</code> 中 <code>appear to do</code> 表示“看起来、似乎”，比直接说 <code>didn’t hear</code> 留有余地，暗示叙述者只是这么判断。",
+    "<code>The woman didn’t... — instead, she stumbled back...</code> 破折号后的 <code>instead</code> 表转折，意为“反倒、相反”，中文用“反倒”承接。",
+    "<code>picking at one of the corpses</code>：<code>pick at</code> 指“挑剔地拨弄、一点点抠”，正好写出她用手指甲抠牙的动作。"
+   ],
+   "vocab": [
+    {"w": "attempted", "p": "/əˈtemptɪd/", "t": "v.", "z": "试图（attempt 的过去式）；<code>attempt to do</code> 即“试图做”"},
+    {"w": "stumbled", "p": "/ˈstʌmbld/", "t": "v.", "z": "踉跄而行，绊了一下（stumble 的过去式）"},
+    {"w": "corpses", "p": "/ˈkɔːpsɪz/", "t": "n.", "z": "尸体（corpse 的复数）"}
+   ]
+  },
+  {
+   "i": 6,
+   "zh": "“来嘛，乖……”她啧了啧牙。“别这么难缠嘛，别为难玛尔塔……他难缠得很，是不是，玛尔塔……？是啊，是啊，他就是……”我看得出来，她像是要把那具尸体嘴里的牙挖出来……而且只用两只手和指甲。挖不动，她就掏出一把裂了口的木凿子和一柄木槌，对着牙床一通敲，直敲得牙齿崩落下来，再把它丢进腰间的袋子里。我又试了一次。",
+   "notes": [
+    "<code>Don’t be all-difficult on Marta</code> 是孩子气、哄劝式的说法，<code>be difficult on sb</code> 意为“跟某人较劲、让某人不好办”；玛尔塔用第三人称称呼自己，是本章贯穿始终的疯癫口吻，中文保留“为难玛尔塔”的自我称呼。",
+    "<code>he’s bein’ difficult isn’t he</code> 是反义疑问句，<code>bein’</code> 为 <code>being</code> 的省音拼写；她自问自答，译文用“是不是，玛尔塔……？”加自答来还原这种自言自语。",
+    "<code>thwacked at the gums until the tooth snapped free</code>：<code>thwack</code> 是拟声动词“啪地猛敲”，<code>snap free</code> 指“啪地一下脱落”，两个拟声／拟态词连用，声音感很强。"
+   ],
+   "vocab": [
+    {"w": "clicked", "p": "/klɪkt/", "t": "v.", "z": "发出嗒嗒声（此处指咂嘴作声，click 的过去式）"},
+    {"w": "splintered", "p": "/ˈsplɪntə(r)d/", "t": "adj.", "z": "裂了口的，起了毛刺的（splinter“裂成碎片”）"},
+    {"w": "chisel", "p": "/ˈtʃɪzl/", "t": "n.", "z": "凿子"},
+    {"w": "mallet", "p": "/ˈmælɪt/", "t": "n.", "z": "木槌，锤子"},
+    {"w": "gums", "p": "/ɡʌmz/", "t": "n.", "z": "牙床，齿龈（gum 的复数）"}
+   ]
+  },
+  {
+   "i": 7,
+   "zh": "“呃……你在干什么？”听到我的声音，玛尔塔从尸体旁猛地跳开，吓了一大跳，发出一声尖利的叫喊。",
+   "notes": [
+    "<code>At the sound of my voice</code> 意为“一听见我的声音”，<code>at</code> 用于表示“一……就……”的即时反应。",
+    "<code>leaped away from the corpse, startled</code>：<code>startled</code> 是过去分词作伴随状语，说明她跳开时的状态“被吓了一跳”。",
+    "<code>gave a piercing shriek</code> 是 <code>give a + 名词</code> 的搭配，等于“发出一声……的叫喊”；<code>piercing</code> 意为“刺耳的、尖厉的”。"
+   ],
+   "vocab": [
+    {"w": "leaped", "p": "/liːpt/", "t": "v.", "z": "猛跳，跃起（leap 的过去式）"},
+    {"w": "startled", "p": "/ˈstɑːtld/", "t": "adj.", "z": "受惊的，被吓一跳的"},
+    {"w": "shriek", "p": "/ʃriːk/", "t": "n.", "z": "尖叫，尖厉的喊声"},
+    {"w": "piercing", "p": "/ˈpɪəsɪŋ/", "t": "adj.", "z": "刺耳的，尖厉的（此处形容叫声）"}
+   ]
+  },
+  {
+   "i": 8,
+   "zh": "“啊呀！”她喘过一口气，随即气冲冲地嘶声骂起来——骂的是桌上那具尸体。“你要是没死，早该吭一声的，假尸首，臭尸首，听见没有！你就不害臊吗？”",
+   "notes": [
+    "她连用 <code>ye</code>、<code>mights</code>、<code>haves</code> 等古旧而错乱的语法形式，是作者标记其疯癫与村野口吻的手段（<code>ye</code> 相当于 <code>you</code>）；中文用“你要是没死”“早该”加泼辣的语气来对应。",
+    "<code>If dead you were not</code> 把表语 <code>dead</code> 提到句首，是古体倒装语序，等于 <code>If you were not dead</code>；<code>mights have said</code> 也是错拼的情态动词完成式。",
+    "<code>nasty corpse, yes!</code> 这类“名词并列＋yes”的自我呼应是她的口头习惯，等于自己给自己帮腔，译文用“听见没有”保留那股咄咄逼人的劲。"
+   ],
+   "vocab": [
+    {"w": "caught her breath", "p": "", "t": "phr.", "z": "喘过气来，缓过一口气"},
+    {"w": "hissed", "p": "/hɪst/", "t": "v.", "z": "嘶声说，气声骂（hiss 的过去式）"},
+    {"w": "nasty", "p": "/ˈnɑːsti/", "t": "adj.", "z": "讨厌的，肮脏恶心的"},
+    {"w": "shame", "p": "/ʃeɪm/", "t": "n.", "z": "羞耻，羞愧；<code>have no shame</code> 即“不知羞”"}
+   ]
+  },
+  {
+   "i": 9,
+   "zh": "“说话的是我，不是那具尸体。”玛尔塔眯起眼，转过身来。",
+   "notes": [
+    "<code>I am the one who spoke</code> 用 <code>the one who...</code> 强调“说话的（人）是我”，中文用“说话的是我”对应这种强调。",
+    "<code>not the corpse</code> 是省略结构，完整为 <code>I am not the corpse</code>，并列中承前省去主谓，避免重复。",
+    "<code>squinted and turned</code> 两个动词连用不带连接词，节奏仓促，写出她眯眼转身这一瞬的狐疑与笨拙。"
+   ],
+   "vocab": [
+    {"w": "spoke", "p": "/spəʊk/", "t": "v.", "z": "说话（speak 的过去式）"},
+    {"w": "squinted", "p": "/ˈskwɪntɪd/", "t": "v.", "z": "眯起眼看（squint 的过去式）"}
+   ]
+  },
+  {
+   "i": 10,
+   "zh": "“嗯？你怎么这么快就跑到那边去了？”她又自言自语起来。“玛尔塔，他是怎么弄的？没闪没影，没闪没影。”",
+   "notes": [
+    "<code>How’s you get over there so fastus?</code> 是作者刻意写出的错误语法（应为 <code>How did you get...</code>，<code>fastus</code> 更是生造的怪词），标记玛尔塔没有受过教育、脑子也不清醒；译文用“你怎么这么快就跑到那边去了”保留语法错乱的口气。",
+    "<code>Eh?</code> 是乡野口音的疑问叹词，相当于“嗯？啊？”。",
+    "<code>No glimmer, no glimmer</code> 是她的嘟囔式重复；<code>glimmer</code> 本义为“微光、闪现的一丝迹象”，此处指她压根没看见对方挪动的迹象，中文用“没闪没影”保留重复。"
+   ],
+   "vocab": [
+    {"w": "Eh", "p": "/eɪ/", "t": "int.", "z": "（口音）嗯？啊？（表疑问或没听清）"},
+    {"w": "fastus", "p": "", "t": "adv.", "z": "作者生造的错词，意在代替 fastus→fast“飞快地”，标记其语法错乱"},
+    {"w": "glimmer", "p": "/ˈɡlɪmə(r)/", "t": "n.", "z": "微光；一丝迹象（此处指“没看到一丝动静”）"}
+   ]
+  },
+  {
+   "i": 11,
+   "zh": "“这掘墓蛆又瞎又聋。”莫提评论道。",
+   "notes": [
+    "<code>gravebait</code> 是作者造出的贬称，<code>grave</code>（坟墓）＋<code>bait</code>（诱饵、吃食），字面近于“坟里的食儿”，指她整天在尸体堆里讨生活；中文译“掘墓蛆”以保留这股下贱的侮辱味。",
+    "<code>blind and near-deaf</code> 中 <code>near-</code> 作前缀表示“近乎”，<code>near-deaf</code> 即“快聋了、近乎耳聋”；两个形容词并列不加连词，语气像顺手一评。",
+    "<code>Morte commented</code> 用 <code>commented</code> 而不说 <code>said</code>，暗示莫提是在旁边看戏、随口下评语，符合他油滑爱嘲弄的性格。"
+   ],
+   "vocab": [
+    {"w": "gravebait", "p": "", "t": "n.", "z": "（作者造词，贬称）坟里的吃食、掘墓蛆；指靠尸体过活的人"},
+    {"w": "blind", "p": "/blaɪnd/", "t": "adj.", "z": "瞎的，看不见的"},
+    {"w": "commented", "p": "/ˈkɒmentɪd/", "t": "v.", "z": "评论道，下评语（comment 的过去式）"}
+   ]
+  },
+  {
+   "i": 12,
+   "zh": "玛尔塔还在自言自语，说些什么尸体啦、感恩啦之类的话，我没太听清。",
+   "notes": [
+    "<code>was still mumbling to herself</code> 用过去进行时表示动作仍在持续，说明她根本没理会旁人的问话。",
+    "<code>something about corpses and gratitude</code> 中 <code>something about...</code> 是“关于……的什么话”，表示说话人没听清、只抓到零星字眼。",
+    "<code>which I didn’t quite catch</code> 是非限制性定语从句，<code>which</code> 指前面她嘟囔的那番话；<code>not quite catch</code> 意为“没能完全听清”。"
+   ],
+   "vocab": [
+    {"w": "gratitude", "p": "/ˈɡrætɪtjuːd/", "t": "n.", "z": "感激，感恩"},
+    {"w": "catch", "p": "/kætʃ/", "t": "v.", "z": "听清，听懂（此处指听见并理解话语）"}
+   ]
+  },
+  {
+   "i": 13,
+   "zh": "“你是谁？”我问她。",
+   "notes": [
+    "原文 <code>“Who are you? “ I asked her.</code> 左引号与问号之间夹着一个多余空格，是文本录入留下的痕迹；中文照常处理为一句问答即可。",
+    "无名氏的问话始终简短直接，符合他失去记忆、只能靠一句句追问拼凑世界的状态。"
+   ],
+   "vocab": [
+    {"w": "Who", "p": "/huː/", "t": "pron.", "z": "谁（疑问代词，此处作表语提问身份）"},
+    {"w": "asked", "p": "/ɑːskt/", "t": "v.", "z": "问，询问（ask 的过去式）"}
+   ]
+  },
+  {
+   "i": 14,
+   "zh": "“玛尔塔，他是不是在问俺是谁呀？是哩，是哩，他问了……”她开始哼起来。“俺谁也不归，俺是玛尔塔，缝尸的玛尔塔……嗯嗯嗯嗯……玛——尔——塔——缝——尸——的……玛——尔——塔——缝——尸——的……”她转过身去，对着那具尸体，把自己的名字唱给自己听。",
+   "notes": [
+    "<code>dids this one asks whose I was?</code> 又是语法错乱的自言自语（<code>dids</code>、<code>asks</code> 均为错形），<code>whose I was</code> 等于“我是谁的人、我属于谁”。",
+    "<code>Nobody but mine, I am Marta</code> 直译“除了我自己，谁也不属于”，意即“俺只归俺自己”；中文译“俺谁也不归”保留这层自我宣称。",
+    "<code>Marta the Seamstress</code> 用 <code>the + 职业</code> 作称号（如同 <code>John the Baptist</code> 一类的结构）；<code>Seamstress</code> 本指女裁缝，此处她干的是缝合尸体，故译“缝尸的”。她的名字被她拖着长音唱成“Mar-ta — the — Seam — Stress”，译文用破折号拉长的字音来还原。"
+   ],
+   "vocab": [
+    {"w": "Seamstress", "p": "/ˈsiːmstrəs/", "t": "n.", "z": "女裁缝；此处作玛尔塔的自称“缝尸的玛尔塔”"},
+    {"w": "humming", "p": "/ˈhʌmɪŋ/", "t": "v.", "z": "哼唱，用鼻音哼曲调（hum 的现在分词）"},
+    {"w": "singing", "p": "/ˈsɪŋɪŋ/", "t": "v.", "z": "唱（sing 的现在分词）；<code>sing sth to oneself</code> 即“唱给自己听”"},
+    {"w": "Aye", "p": "/aɪ/", "t": "adv.", "z": "（古／方言）是，对（相当于 yes）"}
+   ]
+  },
+  {
+   "i": 15,
+   "zh": "“你在干什么？”玛尔塔气呼呼地转回那具尸体那边。",
+   "notes": [
+    "原文引号内是问句，引号外却跟着玛尔塔转回尸体的动作，说话人并无明确标注；从上下文看，这句问话更可能是她冲着尸体嘀咕的，译文照原文的含混处理，不添主语。",
+    "<code>with a huff</code> 意为“气呼呼地、悻悻地”，<code>huff</code> 指一阵恼怒的喷气，常与 <code>in a huff</code>（赌气）连用。",
+    "<code>turned back to the corpse</code> 中 <code>turn back to</code> 是“转回身对着……”，与第 14 段末尾的 <code>She turned away</code>（转过身去）形成一来一回的对照。"
+   ],
+   "vocab": [
+    {"w": "huff", "p": "/hʌf/", "t": "n.", "z": "气恼，悻悻然（<code>with a huff</code> 气呼呼地）"},
+    {"w": "turned back", "p": "", "t": "phr.", "z": "转回身，转身回到（原处或原对象）"}
+   ]
+  },
+  {
+   "i": 16,
+   "zh": "“俺正想叫这蠢货把他的针脚、他的牙都交出来，他就是不给俺回话，不不……”她摇着手指头，像在训一个小孩子。“犟得像块石头，是不是呀，玛尔塔？”她撅起嘴。“是呀，是呀，他就是……”",
+   "notes": [
+    "<code>I'm trying ta gets this berk to give up...</code>：<code>ta</code> 是 <code>to</code> 的口音拼法，<code>gets</code> 又是错形；<code>give up</code> 在此不是“放弃”而是“交出、让出”，<code>berk</code> 是印记城俚语“蠢货”。",
+    "<code>recoop-erating</code> 被连字符硬拆开，是作者模拟玛尔塔把一个词咬得支离破碎的发音（本应为 <code>cooperating</code>，她理解成“配合”），译文用“不给俺回话”保留她词不达意的疯态。",
+    "<code>She wagged her finger, as if lecturing a small child</code>：<code>wag one’s finger</code> 是“摆动食指（表示责备、告诫）”，<code>as if lecturing</code> 为 <code>as if + 现在分词</code>，意为“像在训诫……似的”。"
+   ],
+   "vocab": [
+    {"w": "stitchies", "p": "", "t": "n.", "z": "（玛尔塔的儿语造词）缝合线、针脚，指缝在尸体上的线"},
+    {"w": "teethies", "p": "", "t": "n.", "z": "（儿语造词）牙牙，指尸体的牙齿"},
+    {"w": "berk", "p": "/bɜːk/", "t": "n.", "z": "蠢货，笨蛋（印记城俚语）"},
+    {"w": "Stubborn", "p": "/ˈstʌbən/", "t": "adj.", "z": "固执的，犟的"},
+    {"w": "pouted", "p": "/ˈpaʊtɪd/", "t": "v.", "z": "撅嘴，鼓腮（pout 的过去式）"}
+   ]
+  },
+  {
+   "i": 17,
+   "zh": "“针脚……还有牙牙？你在说什么？”",
+   "notes": [
+    "无名氏把对方的怪词原样重复一遍再发问，是本章最常见的对话推进方式：他只抓住对方话里的字眼反问，显得困惑而简短。",
+    "<code>What are you talking about?</code> 是口语中表示“你在说什么呀”的固定问法，语气比 <code>What do you mean?</code> 更带困惑与不解。"
+   ],
+   "vocab": [
+    {"w": "What", "p": "/wɒt/", "t": "pron.", "z": "什么（疑问代词，此处作介词宾语）"},
+    {"w": "talking about", "p": "", "t": "phr.", "z": "谈论，说及（<code>What are you talking about?</code> 你在说什么？）"}
+   ]
+  },
+  {
+   "i": 18,
+   "zh": "“得把针脚拽出来，牙牙也得拽出来……哎，玛尔塔，要不你搭把手……俺一直在帮你的手哩，老疯婆子……把针脚和牙牙拽出来，对。还有里面的那些小东西。”",
+   "notes": [
+    "<code>Gotta pulls the stitchies out</code>：<code>gotta</code> 是 <code>got to</code> 的口语缩合，意为“得、必须”，后面却又错加 <code>pulls</code>；中文用“得把……拽出来”对应这种粗野的口语。",
+    "这一整段是她与假想中的对话者（其实还是她自己）吵架：先求“你搭把手”，立刻又反驳“俺一直在帮你”，中间的 <code>old battie</code>（老疯婆／老蝙蝠）是她骂自己的话；译文保留一来一往的语气。",
+    "<code>the thingies inside</code> 中 <code>-y/-ie</code> 后缀把 <code>thing</code> 变成儿语“小东西”，下一段莫提就抓着这个词打趣。"
+   ],
+   "vocab": [
+    {"w": "Gotta", "p": "/ˈɡɒtə/", "t": "v.", "z": "（口语缩合）got to，得、必须"},
+    {"w": "battie", "p": "", "t": "n.", "z": "（作者造词，贬称）老疯婆、老蝙蝠；bats“疯癫”的变体"},
+    {"w": "thingies", "p": "/ˈθɪŋiz/", "t": "n.", "z": "（儿语造词）小东西、那些玩意儿"}
+   ]
+  },
+  {
+   "i": 19,
+   "zh": "“我猜她是指内脏。但愿她说的是内脏。”莫提说。玛尔塔重复道：“小东西。”莫提瞥了玛尔塔一眼。“对，‘小东西’。”随后他转向我。“都是字眼儿上的事。”",
+   "notes": [
+    "<code>I think she means organs. I hope she means organs.</code> 两句一递一进，先猜后祈，写出莫提既想解释又不敢深想的心态；<code>mean</code> 此处为“指的是、意思是”。",
+    "<code>It’s all semantics</code> 直译“全是语义学问题”，是莫提式的油滑调侃：不管叫“小东西”还是“内脏”，实质一样。中文用“都是字眼儿上的事”保留这份轻佻。",
+    "<code>He then turned to me</code> 在动作链中补上 <code>then</code>，把莫提“接话—看人—转身”的一串小动作排成顺序，译文用“随后”承接。"
+   ],
+   "vocab": [
+    {"w": "organs", "p": "/ˈɔːɡənz/", "t": "n.", "z": "内脏，器官（organ 的复数）"},
+    {"w": "semantics", "p": "/sɪˈmæntɪks/", "t": "n.", "z": "语义学；此处指“不过是叫法／字眼的问题”"},
+    {"w": "glanced", "p": "/ɡlɑːnst/", "t": "v.", "z": "瞥一眼，很快地看（glance 的过去式）"}
+   ]
+  },
+  {
+   "i": 20,
+   "zh": "我问她：“玛尔塔，你为什么要拔尸体的牙和缝线？”",
+   "notes": [
+    "原文用 <code>I asked her, “...”</code> 把说话人放在引语之前，与前文多次 <code>“...” she said</code> 的排列相反，译文照此把“我问她”置于句首。",
+    "无名氏开始改用“刺激她开口”的问法，把 <code>stitchies</code>、<code>teethies</code> 归回正常词汇 <code>teeth and stitches</code>，显示他正在努力把她的疯话翻译成人话。"
+   ],
+   "vocab": [
+    {"w": "stitches", "p": "/ˈstɪtʃɪz/", "t": "n.", "z": "缝线，针脚（stitch 的复数）"},
+    {"w": "corpse’s", "p": "/ˈkɔːpsɪz/", "t": "n.", "z": "尸体的（corpse 的所有格；注意原文用的是弯撇号 ’）"}
+   ]
+  },
+  {
+   "i": 21,
+   "zh": "“搁到一边去，玛尔塔，俺在这儿干的就是这个。”她挠挠头。“是哩，玛尔塔，咱干的就是这个……缝线和牙牙都是值钱东西，能换成钱钱。‘把你们弄来的尸首给俺剥了，’他们这么吩咐玛尔塔：‘把牙牙、缝线、尸首里头的小东西都拽出来，给俺剥得干干净净，然后咱把货卖给尘人。’”一个古怪的念头从我心里冒出来，仿佛从一堵假想的墙后面——那墙挡着前几世记忆的碎片。",
+   "notes": [
+    "<code>Put ‘em aside</code> 中 <code>‘em</code> 是 <code>them</code> 的省音形式（原文用的是弯引号 U+2018）；<code>put sth aside</code> 意为“把……搁到一边、放一放”。",
+    "<code>‘Strip the corpses we bring ya,’ they tell Marta</code>：<code>ya</code> 即 <code>you</code> 的土音；<code>strip</code> 意为“剥去（衣物、外皮或可取之物）”，此处指从尸体上搜刮一切；引语内是她转述雇主的话，故译文加“他们这么吩咐玛尔塔”。",
+    "<code>from behind that imagined wall which hid fragments of memory from past lives</code> 是介词短语 <code>from behind...</code> 作状语提前，<code>which</code> 从句修饰 <code>wall</code>；中文用破折号插入解释，保留“记忆像被墙挡住”的比喻。"
+   ],
+   "vocab": [
+    {"w": "precious", "p": "/ˈpreʃəs/", "t": "adj.", "z": "珍贵的，值钱的"},
+    {"w": "jink-jink", "p": "", "t": "n.", "z": "（儿语叠词）钱钱；由俚语 jink“钱币”变来"},
+    {"w": "strip", "p": "/strɪp/", "t": "v.", "z": "剥去，搜刮干净（此处指把尸体上的值钱物取下）"},
+    {"w": "Dusties", "p": "/ˈdʌstiz/", "t": "n.", "z": "灰烬党人，尘人的俗称（Dustmen 的昵称，术语统一译“尘人”）"},
+    {"w": "fragments", "p": "/ˈfræɡmənts/", "t": "n.", "z": "碎片，片断（fragment 的复数）"}
+   ]
+  },
+  {
+   "i": 22,
+   "zh": "“你在尸体里面找东西？能不能也在我身上掏摸掏摸，看有什么？”玛尔塔眯起眼打量我。",
+   "notes": [
+    "<code>dig around in my body for anything</code>：<code>dig around</code> 是“到处翻找、扒拉”，<code>dig around in sth for sth</code> 即“在某物里翻找某物”，与玛尔塔掏尸体器官的动作呼应，故译“掏摸掏摸”。",
+    "无名氏的问句由两个问号连缀（<code>You look for things...? Can you...</code>），先是确认对方的行当，再顺势提出荒唐的请求，中文用“能不能也……”保留这层顺势而为。",
+    "<code>Marta squinted at me</code> 以动作收尾不接应答，留下悬念；<code>squint at sb</code> 意为“眯眼打量某人”，与第 9 段的 <code>squinted</code> 同一用法，点出她狐疑的惯性反应。"
+   ],
+   "vocab": [
+    {"w": "dig around", "p": "", "t": "phr.", "z": "到处翻找，胡乱掏挖"},
+    {"w": "look for", "p": "", "t": "phr.", "z": "寻找，寻求"},
+    {"w": "squinted at", "p": "", "t": "phr.", "z": "眯起眼打量（某人）"}
+   ]
+  }
+ ]
+}

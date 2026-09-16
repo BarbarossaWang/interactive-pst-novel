@@ -1,0 +1,327 @@
+{
+ "chapter": "Smoldering Corpse",
+ "chunk": "smoldering-corpse-01",
+ "items": [
+  {
+   "i": 1,
+   "zh": "我们沿街闲逛时，一个掮客正冲过路人吆喝。",
+   "notes": [
+    "<code>A tout was calling out to passerbys as we meandered down a street.</code> 中 <code>as</code> 引出同时发生的动作，等于“我们一边沿街闲逛，他一边吆喝”。<code>meander</code> 本义指河流蜿蜒，此处写无名氏一行人不紧不慢地晃荡，暗示他此刻全无目标。",
+    "<code>tout</code> 在印记城指站在店门口替店家拉客的掮客。<code>passerbys</code> 是作者写下的不规范复数（标准写法为 <code>passersby</code>），保留原文的粗糙感即可，中文不必另作处理。"
+   ],
+   "vocab": [
+    {"w": "tout", "p": "/taʊt/", "t": "n.", "z": "拉客的掮客，站在店门口替店家招揽客人的人"},
+    {"w": "passerbys", "p": "/ˈpɑːsəbaɪz/", "t": "n.", "z": "过路人（作者笔下的不规范复数，标准写作 passersby）"},
+    {"w": "meandered", "p": "/miˈændə(r)/", "t": "v.", "z": "闲逛，漫无目的地走；本义指河流蜿蜒"},
+    {"w": "calling out", "p": "/kɔːlɪŋ aʊt/", "t": "短语", "z": "大声吆喝、叫喊"}
+   ]
+  },
+  {
+   "i": 2,
+   "zh": "“往前走一步，来看看这个烧着的男人！试试把他浇灭，请他喝一杯。他渴着呢。他浑身是火。他滚烫滚烫。进来吧。进来吧，来看看我说的到底是啥！”我停下脚步，打量掮客背后那幢房子。见我停住，他冲我喊了起来。",
+   "notes": [
+    "整段吆喝全是短句连发，是招徕生意的叫卖腔。<code>Step right up</code> 是集市摊贩的套话，意为“上前一步、靠近点看”；<code>Come on in</code> 则是“进来吧”。中文用一连串短句加句号并列，保留那种连珠炮似的气口。",
+    "<code>He’s red hot</code> 中 <code>red hot</code> 指“烧得通红、滚烫”，不是俚语意义上的“火爆”。<code>see what I mean</code> 直译“看看我是什么意思”，此处应作“来看看我说的到底是怎么回事”。",
+    "<code>Seeing me stop</code> 是现在分词短语作状语，等于 <code>When he saw me stop</code>；主句 <code>he yelled to me</code> 表明掮客是抓准了客人驻足才加码叫喊的。"
+   ],
+   "vocab": [
+    {"w": "Step right up", "p": "/step raɪt ʌp/", "t": "短语", "z": "（叫卖套语）上前一步、过来瞧瞧"},
+    {"w": "red hot", "p": "/red hɒt/", "t": "adj.", "z": "炽热的，烧得通红的（此处指实火，非“火爆”义）"},
+    {"w": "paused", "p": "/pɔːz/", "t": "v.", "z": "停下，顿住（pause 的过去式）"},
+    {"w": "yelled", "p": "/jel/", "t": "v.", "z": "大喊，吼叫（yell 的过去式）"}
+   ]
+  },
+  {
+   "i": 3,
+   "zh": "“进来吧刀客！快进来吧刀客，你准会喜欢这玩意儿！”那幢房子显然是一间酒吧；看来是个打听消息的好去处。我走了进去。让我意外的是，那儿当真悬着一具烧着的尸体，在地板上嵌着的通红烤架上方半空中扭动着。",
+   "notes": [
+    "<code>you’re goin’ ta love this</code> 是口音拼写，<code>goin’ ta</code> 即 <code>going to</code>。这种省音写法是作者标记市井粗人口音的手段；中文用“准会”这类口语词来对应。<code>cutter</code> 是印记城俚语，本项目统一译“刀客”。",
+    "<code>this seemed like a good place to gather information</code>：<code>a good place to do sth</code> 中不定式作后置定语，修饰 <code>place</code>，等于“一个适合打听消息的地方”。<code>gather information</code> 是固定搭配“收集情报”。",
+    "<code>there was in fact a flaming corpse</code> 中 <code>in fact</code> 插在 <code>there was</code> 与主语之间，强调“出乎意料、居然真有”；<code>twisting in mid-air above red hot grills set in the floor</code> 里 <code>set in the floor</code> 是过去分词短语作后置定语，修饰 <code>grills</code>。"
+   ],
+   "vocab": [
+    {"w": "flaming", "p": "/ˈfleɪmɪŋ/", "t": "adj.", "z": "燃烧着的，火焰腾腾的"},
+    {"w": "corpse", "p": "/kɔːps/", "t": "n.", "z": "尸体；此处是活人被永恒之火焚烧的身体"},
+    {"w": "evidently", "p": "/ˈevɪdəntli/", "t": "adv.", "z": "显然，明显地"},
+    {"w": "grills", "p": "/ɡrɪl/", "t": "n.", "z": "烤架，铁栅（grill 的复数，此处指嵌在地板里的火栅）"},
+    {"w": "mid-air", "p": "/ˌmɪd ˈeə(r)/", "t": "n.", "z": "半空，空中（in mid-air 悬在半空）"}
+   ]
+  },
+  {
+   "i": 4,
+   "zh": "近旁站着一个女人，脸上和胳膊上的淤青正在褪色，深陷的眼窝里满是绝望的渴盼。她当年也许是个美人，可那样的日子早已远去了。她缓缓转过身来面对我。生机涌回了她的眉眼之间，此刻在她眼中跳动的那一点讥诮的亮光，让我怀疑自己是不是看花了眼。",
+   "notes": [
+    "<code>She might have been pretty once, but those days were long ago.</code> 中 <code>might have been</code> 是对过去的推测（“当年也许曾是”）；<code>those days were long ago</code> 用过去时把时间一把推开，写尽人物被岁月耗空的味道。",
+    "<code>Life poured into her features</code> 是拟物化的说法，字面“生命倒进了她的五官”，译作“生机涌回了她的眉眼之间”以保住这个灌入的意象；<code>the spark of sardonic light that danced in her eyes</code> 中心词是 <code>spark</code>，定语从句 <code>that danced in her eyes</code> 修饰它。",
+    "<code>made me wonder if my eyes were deceiving me</code>：<code>make sb do sth</code> 使役结构；<code>if</code> 在此等于 <code>whether</code>，引出宾语从句“是不是”。"
+   ],
+   "vocab": [
+    {"w": "bruises", "p": "/bruːz/", "t": "n.", "z": "淤青，伤痕（bruise 的复数）"},
+    {"w": "despairing", "p": "/dɪˈspeərɪŋ/", "t": "adj.", "z": "绝望的（despairing longing 绝望的渴盼）"},
+    {"w": "sunken", "p": "/ˈsʌŋkən/", "t": "adj.", "z": "深陷的（sunken eyes 深陷的双眼，形容憔悴）"},
+    {"w": "sardonic", "p": "/sɑːˈdɒnɪk/", "t": "adj.", "z": "讥诮的，冷笑式的"},
+    {"w": "deceiving", "p": "/dɪˈsiːvɪŋ/", "t": "v.", "z": "欺骗，使看错（deceive 的现在分词）"}
+   ]
+  },
+  {
+   "i": 5,
+   "zh": "“欢迎来到冒烟的尸体，满身伤疤的男人。”",
+   "notes": [
+    "此句是德鲁西拉的登场问候。<code>scarred man</code> 是她的固定称呼，译“满身伤疤的男人”，既点出无名氏的身体特征，也带一点看透来客的讥诮；后文酒保也以 <code>cutter</code>、<code>pal</code> 相称，各人称呼习惯须区分。",
+    "<code>the Smoldering Corpse</code> 是店名，本项目统一译“冒烟的尸体”；<code>smoldering</code> 意为“无焰地闷烧、阴燃”，正与店中那具不死的焚烧之躯相呼应。"
+   ],
+   "vocab": [
+    {"w": "Welcome", "p": "/ˈwelkəm/", "t": "interj.", "z": "欢迎（Welcome to… 欢迎来到……）"},
+    {"w": "Smoldering", "p": "/ˈsməʊldərɪŋ/", "t": "adj.", "z": "闷烧的，阴燃的（无明火而持续燃烧）"},
+    {"w": "scarred", "p": "/skɑːd/", "t": "adj.", "z": "满布伤疤的（scar 的过去分词作形容词）"},
+    {"w": "Corpse", "p": "/kɔːps/", "t": "n.", "z": "尸体（店名中的一词）"}
+   ]
+  },
+  {
+   "i": 6,
+   "zh": "“你是谁？”",
+   "notes": [
+    "无名氏的一句短问，与他一贯困惑、简短的口气一致。英文用 <code>Who are you?</code> 而不用更客气的 <code>May I ask who you are?</code>，正显出他不绕弯子的直愣。",
+    "疑问句由 <code>who</code> 加一般疑问句语序构成，回答时按传统语法应用主格 <code>It is I</code>——下一段德鲁西拉偏偏用 <code>I? I am Drusilla.</code> 接住，语气上先自问再自答，很有点戏弄人的味道。"
+   ],
+   "vocab": [
+    {"w": "Who", "p": "/huː/", "t": "pron.", "z": "谁（问身份）"},
+    {"w": "you", "p": "/juː/", "t": "pron.", "z": "你（此处作主语）"}
+   ]
+  },
+  {
+   "i": 7,
+   "zh": "“我？我叫德鲁西拉。那你一定是个什么都不懂的愣头青了。别问我怎么知道的。这东西从你身上直往外冒。”我没理会这句插话，又提了个问题。",
+   "notes": [
+    "<code>And you must be clueless.</code> 中 <code>must be</code> 表肯定推测（“想必、一定”），语气笃定。<code>clueless</code> 是口语形容词，指“一无所知、糊里糊涂”，译“什么都不懂的愣头青”以存其轻慢。",
+    "<code>Don’t ask me how I know that. It just shines off you.</code> 是带刺的俏皮话：<code>Don’t ask me…</code> 意为“别问我……”，<code>shines off you</code> 字面“从你身上往外发光”，比喻“一眼就看得出来”。",
+    "<code>Ignoring the interjection</code> 是现在分词短语作状语，<code>interjection</code> 指对话中插进来的一句（此处即她嘲讽他的那句话），译“插话”最贴切。"
+   ],
+   "vocab": [
+    {"w": "clueless", "p": "/ˈkluːləs/", "t": "adj.", "z": "一无所知的，糊里糊涂的（clue 线索 + -less 无）"},
+    {"w": "interjection", "p": "/ˌɪntəˈdʒekʃn/", "t": "n.", "z": "插话，突然插入的一句（亦指感叹词）"},
+    {"w": "Ignoring", "p": "/ɪɡˈnɔː(r)/", "t": "v.", "z": "不理会，无视（ignore 的现在分词作状语）"},
+    {"w": "shines", "p": "/ʃaɪn/", "t": "v.", "z": "发光，闪耀（shine 的第三人称单数）"}
+   ]
+  },
+  {
+   "i": 8,
+   "zh": "“关于这个地方，你能告诉我些什么？”",
+   "notes": [
+    "<code>What can you tell me about this place?</code> 是 <code>tell sb about sth</code>（告诉某人关于某事）的疑问形式，<code>about this place</code> 提前到疑问词后，中文按汉语习惯把状语“关于这个地方”前置更顺。",
+    "无名氏四处打听消息、收集情报，这类句式在本章反复出现（后文 <code>What’s your connection to him?</code> 同一路数），语气一律平直，不作铺垫，正合他“困惑而务实”的口吻。"
+   ],
+   "vocab": [
+    {"w": "tell", "p": "/tel/", "t": "v.", "z": "告诉，讲述（tell sb about sth 告诉某人关于某事）"},
+    {"w": "this place", "p": "/ðɪs pleɪs/", "t": "n.", "z": "这个地方（无名氏尚未知道此处的底细）"},
+    {"w": "about", "p": "/əˈbaʊt/", "t": "prep.", "z": "关于，就……而言"}
+   ]
+  },
+  {
+   "i": 9,
+   "zh": "“这儿？这儿就是冒烟的尸体，不过那个冒烟的人还没死。他只是在硬撑着一口气，等有人来帮他解脱。爱看人受苦的混账会来这儿。恶魔喜欢这地方。不爱被人打搅的家伙也来这儿……光凭这店名就能挡掉大半蠢货。”",
+   "notes": [
+    "<code>He’s just keepin’ himself alive ‘til someone comes along to help him out.</code> 中 <code>‘til</code> 即 <code>until</code>；<code>keep oneself alive</code> 是“维持自己的性命”，<code>come along</code> 指“碰巧出现、找上门来”，<code>help sb out</code> 意为“帮某人摆脱困境”。",
+    "<code>Sods who like to see people in pain come here.</code> 是含定语从句的复合句：<code>Sods</code> 是主语，<code>who like to see people in pain</code> 修饰它。英式俚语 <code>sod</code> 指“蠢货、混账东西”，译“混账”以存鄙夷。",
+    "<code>Folks who don’t much care for bein’ bothered come here too</code>：<code>care for</code> 此处意为“喜欢、愿意”，<code>not much care for</code> 即“不大喜欢”；<code>the name alone keeps out most of the berks</code> 中 <code>alone</code> 表示“仅凭……就”，<code>keep out</code>＝“把……挡在门外”。"
+   ],
+   "vocab": [
+    {"w": "smoldering", "p": "/ˈsməʊldərɪŋ/", "t": "adj.", "z": "闷烧的，阴燃的（smoldering corpse 店名所指）"},
+    {"w": "Sods", "p": "/sɒd/", "t": "n.", "z": "（英俚）蠢货，混账；sod 的复数"},
+    {"w": "berks", "p": "/bɜːk/", "t": "n.", "z": "（印记城俚语）蠢货，笨蛋；berk 的复数"},
+    {"w": "Fiends", "p": "/fiːnd/", "t": "n.", "z": "恶魔，魔鬼（fiend 的复数）"},
+    {"w": "bothered", "p": "/ˈbɒðə(r)/", "t": "v.", "z": "打搅，烦扰（bother 的过去分词）"}
+   ]
+  },
+  {
+   "i": 10,
+   "zh": "“门口那儿烧着的是谁？”先前我在她脸上见过的那种绝望，又一次掠过她的面孔，像一道黑影展翅飞过，随即她又把神色压住了。",
+   "notes": [
+    "<code>Who is that burning by the entryway?</code> 中 <code>burning by the entryway</code> 是现在分词短语作后置定语，修饰 <code>that</code>（那个烧着的人）；<code>entryway</code> 指“入口、门道”。",
+    "<code>That despair I saw on her face before flitted across it again</code> 结构较绕：主语是 <code>That despair</code>，<code>I saw on her face before</code> 是省略了 <code>that</code> 的定语从句，<code>it</code> 指她的脸。中文把定语化开，译成“先前我在她脸上见过的那种绝望”。",
+    "<code>like a black-winged shadow before she mastered herself</code>：<code>before</code> 引出时间状语从句“在……之前”，<code>master oneself</code> 是固定说法，意为“控制住自己、稳住情绪”。"
+   ],
+   "vocab": [
+    {"w": "entryway", "p": "/ˈentriweɪ/", "t": "n.", "z": "入口，门道"},
+    {"w": "flitted", "p": "/flɪt/", "t": "v.", "z": "掠过，一闪而过（flit 的过去式）"},
+    {"w": "despair", "p": "/dɪˈspeə(r)/", "t": "n.", "z": "绝望"},
+    {"w": "mastered", "p": "/ˈmɑːstə(r)/", "t": "v.", "z": "控制，压住（master oneself 控制住自己的情绪）"}
+   ]
+  },
+  {
+   "i": 11,
+   "zh": "“那是伊格纳斯，从这一潭烂泥里冒出来的法师当中，数得上号的厉害角色。他们抓住了他，在他身体里开了一条通往火之位面的通道，如今他整个人就成了那火的一扇门，全凭意志力硬撑着一口气不死。要是有人能把他浇灭上一会儿，就能把他的命还给他——可这世上的水，压根儿就不够使。”我盯着那具烧着的尸体看了片刻。我觉得总该有办法……算了，不想了。",
+   "notes": [
+    "<code>one of the greatest wizards ever to come out of this slummy excuse for a cesspool</code> 是全段最重的一句：<code>ever to come out of…</code> 是“从……里出过的（最伟大者）”；<code>excuse for a…</code> 是固定贬义说法，字面“勉强算作某物的东西”，译“这一潭烂泥”以存刻毒。<code>cesspool</code> 本指污水坑。",
+    "<code>they opened a channel to the plane of Fire through him</code> 中 <code>open a channel to</code> 即“开辟一条通往……的通道”，<code>through him</code> 是关键：通道是穿他身体而过的。<code>a doorway for it</code> 把整个人比成一扇门，译“他整个人就成了那火的一扇门”保留比喻。",
+    "<code>keepin’ himself alive by force o’ will alone</code> 中 <code>by force o’ will</code> 即 <code>by force of will</code>，“凭意志之力”；<code>alone</code> 表“仅仅”。<code>If someone could douse him…, it'd give him his life back again</code> 是虚拟条件句（与现在事实相反），<code>it'd</code> 即 <code>it would</code>。<code>never mind</code> 是口语“算了、别提了”，写无名氏念头刚起便自己按住。"
+   ],
+   "vocab": [
+    {"w": "wizards", "p": "/ˈwɪzəd/", "t": "n.", "z": "法师，巫师（wizard 的复数）"},
+    {"w": "channel", "p": "/ˈtʃænl/", "t": "n.", "z": "通道，渠道（open a channel to… 开辟通往……的通道）"},
+    {"w": "douse", "p": "/daʊs/", "t": "v.", "z": "浇灭，用水扑灭"},
+    {"w": "cesspool", "p": "/ˈsespuːl/", "t": "n.", "z": "污水坑，粪坑（此喻蜂巢这片烂地方）"},
+    {"w": "will", "p": "/wɪl/", "t": "n.", "z": "意志，意志力（by force of will 凭意志之力）"}
+   ]
+  },
+  {
+   "i": 12,
+   "zh": "“你跟他是什么关系？”她答话的声音里，几乎带着一阵深沉的痛楚在震颤。",
+   "notes": [
+    "<code>What’s your connection to him?</code> 中 <code>connection to sb</code> 意为“与某人的关系、牵连”，比 <code>relationship</code> 更中性、更像追问。",
+    "<code>Her voice in reply practically throbbed with a deep ache.</code> 中 <code>throb</code> 本指脉搏跳动、阵阵作痛，此处写声音“一颤一颤、痛得发抖”；<code>practically</code> 是口语副词“几乎、简直”；<code>with a deep ache</code> 表伴随，<code>ache</code> 指钝痛、心痛。"
+   ],
+   "vocab": [
+    {"w": "connection", "p": "/kəˈnekʃn/", "t": "n.", "z": "关联，关系（connection to sb 与某人的关系）"},
+    {"w": "throbbed", "p": "/θrɒb/", "t": "v.", "z": "阵阵作痛，跳动（throb 的过去式）"},
+    {"w": "ache", "p": "/eɪk/", "t": "n.", "z": "疼痛，心痛（deep ache 深沉的痛楚）"},
+    {"w": "practically", "p": "/ˈpræktɪkli/", "t": "adv.", "z": "几乎，简直"}
+   ]
+  },
+  {
+   "i": 13,
+   "zh": "“我是伊格纳斯的情人，他是我心爱的人。他爱火焰胜过爱我，如今他自己已成了那火焰——而我爱他，所以我也爱这火焰……可那一切都过去了。如今我就等他把自己浇灭。我把仅剩的一点东西都卖了，只为能守在他近旁。”",
+   "notes": [
+    "<code>I was Ignus’ lover and he, my beloved.</code> 后半句是省略句：<code>he</code> 后省去了 <code>was</code>，写成 <code>he, my beloved</code>，中文补出动词“他是我心爱的人”，语序对举而更见情深。",
+    "<code>He loved the flame more than me and now he has become the flame</code> 中 <code>more than me</code> 是比较结构（爱火焰胜过爱我）；<code>has become</code> 用现在完成时，强调“已成定局、不可逆”。破折号后的 <code>and because I love him, I love the flame</code> 是她的逻辑自陈，译时保留破折号让这层因果自己站出来。",
+    "<code>that’s all done with now</code> 是口语说法，<code>be done with</code>＝“与……了结、结束”，<code>all</code> 加强语气；“我卖我所有的那一点点”<code>I sell what little I have just so I can be near him</code> 中 <code>what little I have</code> 意为“我仅有的那一点点东西”，<code>just so (that)</code> 引出目的。"
+   ],
+   "vocab": [
+    {"w": "lover", "p": "/ˈlʌvə(r)/", "t": "n.", "z": "情人，爱人"},
+    {"w": "beloved", "p": "/bɪˈlʌvɪd/", "t": "n.", "z": "心爱的人（此处作名词，与 lover 对举）"},
+    {"w": "flame", "p": "/fleɪm/", "t": "n.", "z": "火焰；此处既指火之位面之火，也指伊格纳斯本人"},
+    {"w": "douse", "p": "/daʊs/", "t": "v.", "z": "浇灭（douse himself 把自己浇灭，指熄灭身上的火）"},
+    {"w": "near", "p": "/nɪə(r)/", "t": "prep.", "z": "在……近旁（be near him 守在他身边）"}
+   ]
+  },
+  {
+   "i": 14,
+   "zh": "我转身离开她的悲伤，朝酒保走去。我看见一个皮肤像皮革的男人，脸上只透着一点灰白色。他的牙齿似乎比常人尖利，眼里盛着一种见得太多的厌倦。他的嗓音又尖又短促。",
+   "notes": [
+    "<code>I turned away from her sorrow</code> 中 <code>turn away from</code>＝“从……转身离开”，<code>her sorrow</code> 用作转喻，指那个沉浸在悲伤里的人；中文直译“转身离开她的悲伤”，保留这层修辞。",
+    "<code>with just a hint of ashen color to his face</code>：<code>a hint of</code> 是固定搭配，“一丝、一点”；<code>ashen</code> 由 <code>ash</code>（灰烬）加 <code>-en</code> 而来，指“灰白的”，正与尘人、灰烬的意象相扣。",
+    "<code>the boredom that comes with having seen too much</code> 中 <code>come with</code>＝“伴随……而来”，<code>having seen too much</code> 是动名词的完成式，作 <code>with</code> 的宾语，表示“因为已经见过太多”。<code>His voice was nasal and clipped.</code> 两个形容词并置：<code>nasal</code> 鼻音重，<code>clipped</code> 本指“剪短的”，形容说话短促、把字音吞掉。"
+   ],
+   "vocab": [
+    {"w": "leather-skinned", "p": "/ˈleðə skɪnd/", "t": "adj.", "z": "皮子一样的皮肤的，皮肤粗糙如革的"},
+    {"w": "ashen", "p": "/ˈæʃn/", "t": "adj.", "z": "灰白色的，灰烬般的（ash 灰 + -en）"},
+    {"w": "nasal", "p": "/ˈneɪzl/", "t": "adj.", "z": "鼻音的，带鼻音的"},
+    {"w": "clipped", "p": "/klɪpt/", "t": "adj.", "z": "短促的，把字音吞掉的（形容说话又快又硬）"},
+    {"w": "boredom", "p": "/ˈbɔːdəm/", "t": "n.", "z": "厌倦，无聊"}
+   ]
+  },
+  {
+   "i": 15,
+   "zh": "“又是你，嗯？这回想要什么？”",
+   "notes": [
+    "<code>You again, eh?</code> 中 <code>eh?</code> 是口语中的反问尾音，相当于“嗯？是吧？”，显出酒保认得来人、又懒得客气。<code>again</code> 单独立句而不用完整句，是粗人说话的省力法。",
+    "<code>Whaddya want this time?</code> 是口音拼写，<code>Whaddya</code> 即 <code>What do you</code>；<code>this time</code> 暗示这不是第一回打交道。中文用“又是你”“这回”两个短句还原那份不耐烦。"
+   ],
+   "vocab": [
+    {"w": "again", "p": "/əˈɡen/", "t": "adv.", "z": "又一次（You again 又是你）"},
+    {"w": "eh", "p": "/eɪ/", "t": "interj.", "z": "（口语）嗯？是吧？（追问或反问的尾音）"},
+    {"w": "this time", "p": "/ðɪs taɪm/", "t": "短语", "z": "这一回，这次"}
+   ]
+  },
+  {
+   "i": 16,
+   "zh": "“‘又是你？’你这话是什么意思？”我说话时带着认命的口气，因为我又一次被人认了出来。",
+   "notes": [
+    "<code>‘You again?’ What do you mean?</code> 先把对方的话原样引回来再发问，中文同样用引号照搬，保留无名氏抓住话头追问的习惯。",
+    "<code>I spoke with resignation</code> 中 <code>with resignation</code> 是介词短语作方式状语，“带着认命／无可奈何的口气”；<code>since I had been recognized yet again</code> 中 <code>since</code> 引原因（“因为”），<code>yet again</code>＝“又一次”，<code>had been recognized</code> 是被动语态的过去完成时，说明“被认出”这事已反复发生。"
+   ],
+   "vocab": [
+    {"w": "mean", "p": "/miːn/", "t": "v.", "z": "意思是，指的是（What do you mean? 你什么意思？）"},
+    {"w": "resignation", "p": "/ˌrezɪɡˈneɪʃn/", "t": "n.", "z": "认命，无可奈何（with resignation 带着认命的口气）"},
+    {"w": "recognized", "p": "/ˈrekəɡnaɪz/", "t": "v.", "z": "认出，辨认出（被动形式 had been recognized 被人认出）"},
+    {"w": "yet again", "p": "/jet əˈɡen/", "t": "短语", "z": "又一次，再一次（含无奈）"}
+   ]
+  },
+  {
+   "i": 17,
+   "zh": "“对，‘又是你’。怎么，你现在耳朵也不好使了？十五年前你来过这儿，喝得烂醉，把这地方砸了个稀烂，撂下一堆钱，还不够赔损失的。于是你就把自己那颗血淋淋的眼珠子抠出来，跟我说等你凑够两百枚硬币就回来赎。算上十五年的利钱，你如今得给五百枚左右。钱你有了，伙计，你的眼珠子在我这儿。”",
+   "notes": [
+    "<code>You got a hearing problem or something now?</code> 是很冲的反问：<code>or something</code> 表示“还是怎么着”，译“耳朵也不好使了？”以存挖苦。<code>You was in here</code> 用 <code>was</code> 配 <code>you</code>，是作者刻意写的市井语病，中文不必模仿，用粗直口吻对应即可。",
+    "<code>got all bubbed up</code> 是印记城一带的俚语，指“喝得烂醉”（<code>bub</code> 本是一种酒饮）；<code>smashed up the place</code> 是短语动词“把地方砸烂”。<code>left a pile o’ coin that wasn’t enough to pay for the damages</code> 中 <code>that</code> 引导定语从句修饰 <code>coin</code>，<code>damages</code> 在此是法律色彩的“损害赔偿”。",
+    "<code>So you plucked out your own bleedin’ eyeball and tells me…</code>：<code>pluck out</code>＝“拔出、抠出”，<code>bleedin’</code> 是英式粗口 <code>bleeding</code> 的省音形式，此处加强语气（“该死的、血淋淋的”）；<code>tells</code> 与前面 <code>plucked</code> 时态不一致，是口语里常见的时态跳跃。<code>With fifteen years of interest</code> 指“加上十五年的利息”，<code>jink</code> 是印记城俚语“钱币”。"
+   ],
+   "vocab": [
+    {"w": "bubbed", "p": "/bʌbd/", "t": "adj.", "z": "（印记城俚语）喝醉的（bubbed up 喝得烂醉）"},
+    {"w": "smashed up", "p": "/smæʃt ʌp/", "t": "短语", "z": "砸烂，捣毁（smash up the place 把地方砸个稀烂）"},
+    {"w": "eyeball", "p": "/ˈaɪbɔːl/", "t": "n.", "z": "眼球（pluck out one’s eyeball 抠出自己的眼珠）"},
+    {"w": "interest", "p": "/ˈɪntrəst/", "t": "n.", "z": "利息（fifteen years of interest 十五年的利钱）"},
+    {"w": "jink", "p": "/dʒɪŋk/", "t": "n.", "z": "（印记城俚语）钱币，钱"}
+   ]
+  },
+  {
+   "i": 18,
+   "zh": "“五百？这也太离谱了！”他顿了一下，盘算起来。",
+   "notes": [
+    "<code>That’s ridiculous!</code> 中的 <code>ridiculous</code> 指“荒唐、离谱”，是砍价时的标准抗议语，语气不重不轻，正合无名氏不善争辩的性情。",
+    "<code>He paused for a moment, considering.</code> 中 <code>considering</code> 是现在分词作伴随状语，表示他“一边停顿一边琢磨”，并未说出宾语——中文补上“盘算”即可，不必点明盘算什么。"
+   ],
+   "vocab": [
+    {"w": "ridiculous", "p": "/rɪˈdɪkjələs/", "t": "adj.", "z": "荒唐的，离谱的"},
+    {"w": "paused", "p": "/pɔːz/", "t": "v.", "z": "停顿，顿住（pause 的过去式）"},
+    {"w": "considering", "p": "/kənˈsɪdə(r)/", "t": "v.", "z": "考虑，盘算（consider 的现在分词作状语）"}
+   ]
+  },
+  {
+   "i": 19,
+   "zh": "“可不是嘛。这么着吧。给我三百，眼珠子归你。”不知怎的，有股劲儿催着我答应下来。",
+   "notes": [
+    "<code>That it is.</code> 是 <code>That is</code> 的倒装强调式（把 <code>That</code> 提前），等于“确实如此、可不是嘛”，是英式口语里很地道的应声法，比 <code>Yes, it is.</code> 更带几分认同与自嘲。",
+    "<code>Tell you what.</code> 是口语固定说法，意为“这样吧、我跟你说”，用于提出新方案；<code>Give me three hundred, and the eye’s yours.</code> 是“祈使句 + and + 陈述句”结构，相当于“你只要给我三百，（那么）眼珠就是你的”。",
+    "<code>Something prompted me to agree.</code> 中 <code>prompt sb to do sth</code>＝“促使某人做某事”，主语 <code>Something</code> 故意含糊，暗示无名氏自己也不明白为何答应——是本作里“命运／前世意志”牵引的常见写法，故译“不知怎的，有股劲儿催着我”。"
+   ],
+   "vocab": [
+    {"w": "Tell you what", "p": "/tel juː wɒt/", "t": "短语", "z": "（口语）这么着吧，我跟你说（提出方案时的开场）"},
+    {"w": "yours", "p": "/jɔːz/", "t": "pron.", "z": "你的（the eye’s yours 眼珠归你）"},
+    {"w": "prompted", "p": "/prɒmpt/", "t": "v.", "z": "促使，驱使（prompt sb to do sth 促使某人做某事）"},
+    {"w": "agree", "p": "/əˈɡriː/", "t": "v.", "z": "同意，答应"}
+   ]
+  },
+  {
+   "i": 20,
+   "zh": "“成交。钱给你。”",
+   "notes": [
+    "<code>It’s a deal.</code> 是买卖中敲定的固定说法“成交、就这么定了”，前后两段各出现一次（先由酒保提出，再由无名氏确认），构成一来一往的呼应，中文重复“成交”以存其应声之感。",
+    "<code>Here’s your money.</code> 是 <code>Here is…</code> 的倒装递物句，口语中边说边把钱递出去，中文“钱给你”正合这种边给边说的节奏。"
+   ],
+   "vocab": [
+    {"w": "deal", "p": "/diːl/", "t": "n.", "z": "交易，协议（It’s a deal. 成交）"},
+    {"w": "money", "p": "/ˈmʌni/", "t": "n.", "z": "钱，钱款"}
+   ]
+  },
+  {
+   "i": 21,
+   "zh": "“成交。”他从口袋里掏出一只黑乎乎、塞着蜡封口的阔口瓶。我听见里面有液体晃荡的声响，还夹着一种更沉、更黏糊的动静。他把瓶塞打开，一股防腐药水的气味冲上来，差点把我熏吐。黏稠的浊液里，浮着一只眼球。“你最好想清楚拿它怎么办……既然你已经让它见了空气，你还不如往这瓶里塞个腌蛋——反正它也就剩这么点用了。拿定主意，刀客……要腌蛋，还是不要？”",
+   "notes": [
+    "<code>He produced a darkened, wax-stoppered, wide- mouth bottle from his pocket.</code> 中 <code>produce</code> 在此作动词“取出、掏出”；三个前置形容词层层叠加，写这只瓶子又黑又旧、蜡封塞口。原文 <code>wide- mouth</code> 中间多出一个空格（作者笔误），中文照常译“阔口瓶”即可，不必把笔误搬进译文。",
+    "<code>I heard the sound of liquid sloshing around inside it, along with a heavier, squishier noise.</code>：<code>along with</code>＝“连同、还夹着”；<code>sloshing</code> 是拟声词，写液体晃荡的哗啦声；比较级 <code>heavier, squishier</code> 与前面“液体声”相对照，暗示瓶里泡着的东西更沉、更黏。<code>nearly made me gag</code> 中 <code>gag</code> 指“作呕、干呕”，<code>nearly</code> 表“差点”。",
+    "<code>now you’ve exposed it to the air</code> 中 <code>now (that)</code> 引原因，“既然”；<code>you might as well put a pickled egg in the jar for all the good it’ll do you</code> 是固定句式 <code>might as well…</code>（还不如……）加 <code>for all the good it’ll do you</code>（“不管它对你还有多大用处”——实为反讽“毫无用处”）。<code>Make up your mind</code>＝“拿定主意”，<code>cutter</code> 译“刀客”。"
+   ],
+   "vocab": [
+    {"w": "wax-stoppered", "p": "", "t": "adj.", "z": "蜡封口的（stopper 塞子，用蜡封住瓶塞）"},
+    {"w": "sloshing", "p": "/slɒʃɪŋ/", "t": "v.", "z": "（液体）晃荡作声（slosh 的现在分词）"},
+    {"w": "viscid", "p": "/ˈvɪsɪd/", "t": "adj.", "z": "黏稠的，胶状的"},
+    {"w": "pickled", "p": "/ˈpɪkld/", "t": "adj.", "z": "腌制的（pickled egg 腌蛋）"},
+    {"w": "gag", "p": "/ɡæɡ/", "t": "v.", "z": "作呕，干呕"}
+   ]
+  },
+  {
+   "i": 22,
+   "zh": "有那么一瞬，我盯着那只眼球，不敢相信自己竟为它花掉了剩下的几乎所有钱。随后我动手了——趁自己还没想得动弹不得。",
+   "notes": [
+    "<code>unable to believe I had spent nearly all my remaining money for it</code> 中 <code>unable to…</code> 是形容词短语作伴随状语，<code>spend money for sth</code> 意为“为某物花掉钱”，<code>had spent</code> 用过去完成时表示“这笔钱在此刻之前就已经花出去了”。",
+    "<code>Then I acted, before I could think myself into inaction.</code> 是本段最妙的一句：<code>think oneself into…</code> 是仿造用法，意为“靠着思前想后把自己想成某种状态”，<code>inaction</code> 指“无所作为、动不了手”。中文用“趁自己还没想得动弹不得”还原这种“再想就下不了手”的自嘲式紧迫。"
+   ],
+   "vocab": [
+    {"w": "stared", "p": "/steə(r)/", "t": "v.", "z": "盯着看，凝视（stare 的过去式）"},
+    {"w": "unable", "p": "/ʌnˈeɪbl/", "t": "adj.", "z": "不能的，无法的（be unable to do 无法做某事）"},
+    {"w": "remaining", "p": "/rɪˈmeɪnɪŋ/", "t": "adj.", "z": "剩下的，剩余的"},
+    {"w": "inaction", "p": "/ɪnˈækʃn/", "t": "n.", "z": "无所作为，不动手（in- 否定 + action）"}
+   ]
+  }
+ ]
+}

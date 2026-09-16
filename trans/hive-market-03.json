@@ -1,0 +1,750 @@
+{
+ "chapter": "Hive Market",
+ "chunk": "hive-market-03",
+ "items": [
+  {
+   "i": 45,
+   "zh": "“于是判了个罚。那些半吊子法师、接生婆、算符文的女人、一个铜板都要抠的巫婆，各式各样的小法师……全来了，一个不落，就连只沾一丁点儿法术边儿的也来了，都是来罚伊格纳斯的。他们分开来，就是一群苍蝇……”他在自己烂糟糟的牙床之间嗡嗡作响。“凑到一块儿，可危险，危险得很。”他哼了一声，然后举起双手……",
+   "notes": [
+    "这串头衔是刻意的罗列堆叠（<code>hedge wizards, midwives, rune-tellers, copper-pinching witches</code>），像报菜名一样把城里的三教九流数一遍，译文照原样一口气铺开，不加连接词，以保留这股絮叨劲儿。",
+    "<code>all manner of magelings</code>：<code>manner of</code> 是“各式各样的”，<code>mageling</code> 由 <code>mage</code> 加指小的后缀 <code>-ling</code> 构成，即“小法师、不入流的法师”；<code>the Art</code> 在奇幻语境里专指“法术这门技艺”，所以 <code>the smallest trace of the Art</code> 译作“只沾一丁点儿法术边儿”。",
+    "<code>Separately, they were flies… Together, dangerous, dangerous.</code> 是里克温德典型的倒装与省略：把状语提到句首、系动词和主语一概省略，只把关键词砸出来。中文用“他们分开来，就是一群苍蝇……凑到一块儿，可危险”保留这种断句。"
+   ],
+   "vocab": [
+    {
+     "w": "hedge wizard",
+     "p": "",
+     "t": "n.",
+     "z": "野法师，半吊子法师（没受过正式师承的土法师，带贬义）"
+    },
+    {
+     "w": "midwives",
+     "p": "/ˈmɪdwaɪvz/",
+     "t": "n.",
+     "z": "接生婆，助产士（midwife 的复数）"
+    },
+    {
+     "w": "rune-tellers",
+     "p": "",
+     "t": "n.",
+     "z": "算符文的人，以解读符文占卜吉凶者"
+    },
+    {
+     "w": "copper-pinching",
+     "p": "",
+     "t": "adj.",
+     "z": "抠铜板的，一毛不拔的（pinch 有“捏紧、抠门”之意）"
+    },
+    {
+     "w": "magelings",
+     "p": "/ˈmeɪdʒlɪŋz/",
+     "t": "n.",
+     "z": "小法师，末流法师（mage + 指小后缀 -ling，含轻蔑）"
+    }
+   ]
+  },
+  {
+   "i": 46,
+   "zh": "“抓住了伊格纳斯，准了他的愿……”他双手打转，像是在施法。“他求的是烧起来，他们就准了他，拿他自己的欲念去给法术当柴烧。他们把他的身子做成了一扇门，通向火元素位面——他们本是想杀了他，杀了他……”",
+   "notes": [
+    "<code>granted his wish</code>：<code>grant</code> 意为“准许、应允”，<code>grant a wish</code> 即“满足某人的愿望”，比 <code>give</code> 多一层“恩准”的意味，此处带着阴森的反讽。",
+    "<code>using his own desire to fuel the casting</code>：<code>fuel</code> 在这里作动词，“给……加燃料”；<code>casting</code> 指施法这件事本身（动词 cast a spell 的名词化），全句即“用他本人的欲望作施法的燃料”。",
+    "<code>They made his body a door to the Plane of Fire</code> 是“make + 宾语 + 名词”结构（使其成为……）；<code>a door to…</code> 是暗喻，中文直译为“一扇门”，保留这个意象。注意术语：<code>Plane of Fire</code> 固定译作“火元素位面”。"
+   ],
+   "vocab": [
+    {
+     "w": "granted",
+     "p": "/ɡrɑːntɪd/",
+     "t": "v.",
+     "z": "准许，应允（grant a wish 即“满足愿望、应验心愿”）"
+    },
+    {
+     "w": "fuel",
+     "p": "/ˈfjuːəl/",
+     "t": "v.",
+     "z": "给……提供燃料，助长（此处用作动词）"
+    },
+    {
+     "w": "casting",
+     "p": "/ˈkɑːstɪŋ/",
+     "t": "n.",
+     "z": "施法（cast a spell 的名词形式）"
+    },
+    {
+     "w": "Plane of Fire",
+     "p": "",
+     "t": "n.",
+     "z": "火元素位面（异域设定中的外层/内层位面之一）"
+    }
+   ]
+  },
+  {
+   "i": 47,
+   "zh": "“没成，没成……”里克温德又放了个屁，像是要给法师们的失败加个注脚。“伊格纳斯活着，活着，只是睡了，一条火焰的毯子，火焰，他一边烧一边在梦里翻身，再没有比那更舒坦的时候了，再没有比那更舒坦的时候了……”他闭上眼，双臂抱住自己，慢慢转着身子。“烧着……永远烧着……”他猛地睁开眼。“总有一天他会醒，到那时候，到时候整个位面都要烧起来！”",
+   "notes": [
+    "<code>broke wind</code> 是“放屁”的委婉说法，字面“破了风”，英语里属常见但略粗俗的表达；译文用“放了个屁”对应，紧接的 <code>as if to accentuate the failure</code> 说明这个动作是他给叙述“加重音”的习惯性表演。",
+    "<code>only slept</code> 中 <code>only</code> 不是“仅仅”的贬义，而是强调与前面 <code>lived</code> 的对立：“（没死，）只是睡了”。<code>blanket of flames</code> 与 <code>turned in his sleep as he burned</code> 是同位语与时间状语从句交叠的画面式描写，译文拆成短句更顺。",
+    "<code>never happier</code> 是 <code>never + 比较级</code> 的强调结构，等于最高级“再快活不过了”，写他在火中反而最满足，是全段最诡异的一笔。术语 <code>Planes</code> 在此泛指“诸界”，译作“整个位面”。"
+   ],
+   "vocab": [
+    {
+     "w": "broke wind",
+     "p": "",
+     "t": "phr.",
+     "z": "放屁（委婉语）"
+    },
+    {
+     "w": "accentuate",
+     "p": "/əkˈsentʃueɪt/",
+     "t": "v.",
+     "z": "强调，突出（此处指用放屁给话“加重音”）"
+    },
+    {
+     "w": "blanket",
+     "p": "/ˈblæŋkɪt/",
+     "t": "n.",
+     "z": "毯子，覆盖层（a blanket of flames 即“一层火焰”）"
+    },
+    {
+     "w": "snapped open",
+     "p": "",
+     "t": "phr.",
+     "z": "猛地睁开（snap 有“啪地一下、突然”的动感）"
+    },
+    {
+     "w": "Planes",
+     "p": "/pleɪnz/",
+     "t": "n.",
+     "z": "诸界（异域设定中的多重世界，单数为 Plane）"
+    }
+   ]
+  },
+  {
+   "i": 48,
+   "zh": "这个里克温德好像知道不少事。也许他的见识能延伸到我要找的那个人身上。",
+   "notes": [
+    "<code>seemed to know much</code>：<code>seem to do</code> 表示“看起来、似乎”，是叙述者凭观察下的判断，不是断言；<code>much</code> 作代词指“许多事情”，比 <code>many things</code> 更简洁。",
+    "<code>Perhaps his knowledge extended to…</code>：<code>extend to</code> 本义“延伸到（某范围）”，此处指“他的所知也涵盖到……”。无名氏的思路一贯直接而实用，句子短、带盘算意味。",
+    "<code>the one I sought</code> 是“the + one + 定语从句”的写法，<code>the one</code> 即“那个人”，从句省略了关系代词 that（<code>the one [that] I sought</code>），译作“我要找的那个人”。"
+   ],
+   "vocab": [
+    {
+     "w": "seemed",
+     "p": "/siːmd/",
+     "t": "v.",
+     "z": "似乎，好像（seem to do 表推测性判断）"
+    },
+    {
+     "w": "extended",
+     "p": "/ɪkˈstendɪd/",
+     "t": "v.",
+     "z": "延伸，扩展（extend to 即“延伸到、涵盖到”）"
+    },
+    {
+     "w": "sought",
+     "p": "/sɔːt/",
+     "t": "v.",
+     "z": "寻找（seek 的过去式，书面语，比 looked for 正式）"
+    }
+   ]
+  },
+  {
+   "i": 49,
+   "zh": "“你能不能告诉我，上哪儿能找到一个人，他叫法罗德？”果然不出我所料，这话又换来一句要钱：想听故事，得多给铜币。我答应了。",
+   "notes": [
+    "<code>Can you tell me where I could find someone named Pharod?</code>：<code>could</code> 而非 <code>can</code>，语气更委婉试探；<code>someone named Pharod</code> 是过去分词短语作后置定语，即“一个名叫法罗德的人”。",
+    "<code>As I thought would be the case</code> 是插入主句之前的比较/评述从句，其中 <code>as</code> 是关系代词，代指后面整件事：“正如我预料会发生的（情况）”。中文用“果然不出我所料”这一固定说法收束。",
+    "<code>this elicited a demand for more copper to hear a story</code>：<code>elicit</code> 意为“引出、招来（反应）”，<code>a demand for…</code> 是“对……的索取”；<code>to hear a story</code> 是目的状语。注意术语：<code>copper</code> 译作“铜币”。"
+   ],
+   "vocab": [
+    {
+     "w": "elicited",
+     "p": "/ɪˈlɪsɪtɪd/",
+     "t": "v.",
+     "z": "引出，招来（反应、回答等）"
+    },
+    {
+     "w": "demand",
+     "p": "/dɪˈmɑːnd/",
+     "t": "n.",
+     "z": "要求，索取（a demand for 即“索要……”）"
+    },
+    {
+     "w": "copper",
+     "p": "/ˈkɒpə/",
+     "t": "n.",
+     "z": "铜币（印记城的低值钱币，复数同形）"
+    },
+    {
+     "w": "agreed",
+     "p": "/əˈɡriːd/",
+     "t": "v.",
+     "z": "同意，答应"
+    }
+   ]
+  },
+  {
+   "i": 50,
+   "zh": "“法罗德啊，从前是个有头有脸的人，一个人物，有志向，有身份。后来全成了空，成了空，化作了一阵气。”里克温德眯起眼，接着又放了个屁，把空气搅得一阵翻胃的臭。“化作了一阵气……还有臭。”",
+   "notes": [
+    "<code>Once a man of respect, Pharod was</code> 把表语提到主语之前，是里克温德惯用的倒装腔，作用是把“从前”和“有头有脸”先砸出来；译文用“法罗德啊，从前是……”来对应这种提示性语序。",
+    "<code>a man of goals, and position</code> 是 <code>a man of + 抽象名词</code> 的固定结构，表示“具有某种品质/地位的人”，如 a man of honor、a man of wealth。",
+    "<code>All became nothing, nothing, turned to air.</code> 中 <code>All</code> 指“这一切（身份、志向）”，<code>turned to air</code> 是“化为乌有”的形象说法；末句 <code>Turned to air… and stink.</code> 故意把“化气”接上“臭气”，用双关嘲笑法罗德的下场，也与里克温德自身的臭味呼应。"
+   ],
+   "vocab": [
+    {
+     "w": "a man of respect",
+     "p": "",
+     "t": "phr.",
+     "z": "体面人，受敬重的人（a man of + 名词，表“具有……的人”）"
+    },
+    {
+     "w": "squinted",
+     "p": "/ˈskwɪntɪd/",
+     "t": "v.",
+     "z": "眯眼看，斜眼瞄"
+    },
+    {
+     "w": "churning",
+     "p": "/ˈtʃɜːnɪŋ/",
+     "t": "adj.",
+     "z": "翻搅的，翻腾的（gut-churning 即“搅得人肠胃翻腾、令人作呕的”，原文此处连字符后多出一个空格）"
+    },
+    {
+     "w": "stink",
+     "p": "/stɪŋk/",
+     "t": "n.",
+     "z": "恶臭，臭味（此处与 air 押同一个“气”字形成双关）"
+    }
+   ]
+  },
+  {
+   "i": 51,
+   "zh": "“撒谎的，行骗的，一个把律法掰弯的人，这就是法罗德。”他弓着背，像伏在案前写字。他这么‘写’了一阵，忽然停下，一脸害怕。“结果有一天，他发现自己把自己也给掰弯了！”",
+   "notes": [
+    "<code>A liar, a cheater, a man who twisted law, Pharod was.</code> 又是倒装加同位语罗列：三个名词短语并列在前，主语和系动词压到最后，构成一种判决书式的口吻。",
+    "<code>twisted law</code> 中的 <code>twist</code> 本义“扭、拧”，引申为“曲解、玩弄（法律）”；下文 <code>he had twisted himself</code> 刻意复用同一个动词，形成“他掰弯了律法，最终把自己也掰弯了”的因果反讽，译文保留“掰弯”的重复。",
+    "<code>He ‘wrote’ for a moment</code> 里的引号表示这是假动作——他并没有真的纸笔，只是凭空比划。中文用单引号‘写’保留这层“假装”的标记。"
+   ],
+   "vocab": [
+    {
+     "w": "liar",
+     "p": "/ˈlaɪə/",
+     "t": "n.",
+     "z": "说谎的人，骗子"
+    },
+    {
+     "w": "cheater",
+     "p": "/ˈtʃiːtə/",
+     "t": "n.",
+     "z": "骗子，作弊的人"
+    },
+    {
+     "w": "twisted",
+     "p": "/ˈtwɪstɪd/",
+     "t": "v.",
+     "z": "扭弯，曲解（twist the law 即“曲解法律”）"
+    },
+    {
+     "w": "hunched",
+     "p": "/hʌntʃt/",
+     "t": "v.",
+     "z": "弓起背，耸肩缩背（hunch over 即“俯身弓背”）"
+    }
+   ]
+  },
+  {
+   "i": 52,
+   "zh": "“他撒谎撒到这个地步，以至于死的时候，他本该去一个可怕的地方……”里克温德难过地摇摇头，然后再次弓起身子，朝四下里狂乱地张望。“法罗德不肯认，不肯，不肯！他骗过别人，这回也要骗过自己的命！”",
+   "notes": [
+    "<code>Such a liar he had become, that…</code> 是 <code>such…that…</code>（如此……以至于……）结构，并为了强调把 <code>Such a liar</code> 提前到句首，属倒装；中文用“撒谎撒到这个地步，以至于……”还原。",
+    "<code>he was to go to a horrible place</code>：<code>be to do</code> 表示按命运/安排“注定要、本该要”，此处指死后该去的地方。<code>a horrible place</code> 不点明是哪里，译文保留模糊，让下文自己说话。",
+    "<code>He had cheated others, he would cheat his fate, too!</code> 用“过去完成 + 过去将来”对照：先前的骗人已成事实，骗命则是他打定的主意；<code>would</code> 在这里表意愿，不是单纯的将来。"
+   ],
+   "vocab": [
+    {
+     "w": "horrible",
+     "p": "/ˈhɒrəbl/",
+     "t": "adj.",
+     "z": "可怕的，令人毛骨悚然的"
+    },
+    {
+     "w": "sadly",
+     "p": "/ˈsædli/",
+     "t": "adv.",
+     "z": "难过地，惋惜地（非“悲伤地哭”，仅表遗憾）"
+    },
+    {
+     "w": "wildly",
+     "p": "/ˈwaɪldli/",
+     "t": "adv.",
+     "z": "狂乱地，失控地"
+    },
+    {
+     "w": "fate",
+     "p": "/feɪt/",
+     "t": "n.",
+     "z": "命运，命数（cheat his fate 即“骗过自己的命”）"
+    }
+   ]
+  },
+  {
+   "i": 53,
+   "zh": "“他读书，在书里刨，又去问先知……”里克温德来回踱步，一只手遮在眼睛上，像是在眺望远处。“……他们告诉他，只有在垃圾堆里，他才能找到那个能让他骗过命数的东西。”里克温德又放了个屁，跟着是一阵臭烘烘的咳嗽。“说不定他们是骗他的……”",
+   "notes": [
+    "<code>dug in books</code> 字面“在书里挖”，是英语里很形象的说法，指埋头翻查、翻掘资料；中文用“在书里刨”保留这个动作感。",
+    "<code>only in trash could he find that which would let him cheat his fate</code>：<code>only + 状语</code> 置于句首引起部分倒装（<code>could he find</code>）；<code>that which</code> 是书面语，等于 <code>what</code>，作 <code>find</code> 的宾语；“只有在垃圾里，他才能找到……”这一句式中文照搬即可。",
+    "<code>they</code> 指上文的先知（seers）。末句 <code>Perhaps they lied…</code> 是里克温德对自己刚讲的传闻下的一笔反讽——也顺势把“垃圾堆”这个线索的可信度打了个问号。"
+   ],
+   "vocab": [
+    {
+     "w": "consulted",
+     "p": "/kənˈsʌltɪd/",
+     "t": "v.",
+     "z": "请教，咨询（consult a seer 即“求问先知”）"
+    },
+    {
+     "w": "seers",
+     "p": "/ˈsiːəz/",
+     "t": "n.",
+     "z": "先知，预言者（能预见未来的人）"
+    },
+    {
+     "w": "stalked",
+     "p": "/stɔːkt/",
+     "t": "v.",
+     "z": "大步踱走，气势汹汹地走"
+    },
+    {
+     "w": "trash",
+     "p": "/træʃ/",
+     "t": "n.",
+     "z": "垃圾，废物（此处又是双关：垃圾也是法罗德日后的“王国”）"
+    },
+    {
+     "w": "reeking",
+     "p": "/ˈriːkɪŋ/",
+     "t": "adj.",
+     "z": "散发恶臭的，臭气熏人的"
+    }
+   ]
+  },
+  {
+   "i": 54,
+   "zh": "里克温德僵直地站起身，然后开始把身上那些并不存在的衣服一件件扒下来扔掉。他每扔掉一‘件’，背就驼得更厉害一分。",
+   "notes": [
+    "<code>stood up stiffly</code>：<code>stiffly</code> 指动作僵硬、关节不灵便，也呼应他此前趴伏的姿态，译作“僵直地”。",
+    "<code>began to fling off imaginary clothes</code>：<code>fling off</code> 是“（一把）扯掉、甩掉”，比 take off 猛烈；<code>imaginary</code> 说明衣服是凭空表演出来的。中文用“并不存在的衣服”把这层点明，避免读者误以为他真有衣服可脱。",
+    "<code>With every piece of ‘clothing’ he threw away, he became more hunched.</code>：<code>With every…</code> 表示“随着每一次……”，<code>more hunched</code> 是 <code>hunched</code> 的比较级（更驼）；引号同样是“假装”的标记。"
+   ],
+   "vocab": [
+    {
+     "w": "stiffly",
+     "p": "/ˈstɪfli/",
+     "t": "adv.",
+     "z": "僵硬地，僵直地（形容关节不灵便的动作）"
+    },
+    {
+     "w": "fling off",
+     "p": "",
+     "t": "phr.",
+     "z": "猛地甩掉，一把扯下（比 take off 更用力、更突然）"
+    },
+    {
+     "w": "imaginary",
+     "p": "/ɪˈmædʒɪnəri/",
+     "t": "adj.",
+     "z": "想象中的，虚构的（与 imaginative“富有想象力的”不同）"
+    },
+    {
+     "w": "hunched",
+     "p": "/hʌntʃt/",
+     "t": "adj.",
+     "z": "弓着背的，驼背的（此处比较级 more hunched 表“更驼”）"
+    }
+   ]
+  },
+  {
+   "i": 55,
+   "zh": "“法罗德扔掉了他的身份，他的志向，换了个新头衔……”里克温德停下来，斜眼瞟着我。他抓着自己的破布衣裳抖了抖。“他成了个‘破布之王’！他要统治垃圾，让臣民把垃圾翻个底朝天，找出他要的那件东西。”他摇摇头。“直到如今他还在找，还在找……”",
+   "notes": [
+    "<code>took up a new title</code>：<code>take up</code> 在此为“开始从事、接受（某种身份）”，<code>title</code> 指“头衔、名号”，与下文 <code>King of Rags</code> 呼应。",
+    "<code>King of Rags</code> 是双关：既指“破布之王”，也影射“衣衫褴褛的乞丐之王”；因他是拾荒者们的头目，故加引号直译，另有译本作“破烂王”。<code>rags</code> 单数 <code>rag</code> 本义“破布、抹布”。",
+    "<code>He would rule the trash, have his subjects search it all</code> 用 <code>would</code> 表他此后立定的打算，后一半是 <code>have + 宾语 + 动词原形</code>（使役结构）：“让他的臣民把垃圾统统翻一遍”。末句 <code>He looks even now</code> 中 <code>looks</code> 意为“寻找”（look for 的省略式，古旧用法），双关“他看上去……”，中文只能取“找”义。"
+   ],
+   "vocab": [
+    {
+     "w": "leered",
+     "p": "/lɪəd/",
+     "t": "v.",
+     "z": "斜眼不怀好意地看，色迷迷/阴恻恻地瞟"
+    },
+    {
+     "w": "rags",
+     "p": "/ræɡz/",
+     "t": "n.",
+     "z": "破布，褴褛的衣裳（习语 in rags 即“衣衫褴褛”）"
+    },
+    {
+     "w": "subjects",
+     "p": "/ˈsʌbdʒɪkts/",
+     "t": "n.",
+     "z": "臣民，属民（subject 的复数；作名词时重音在前）"
+    },
+    {
+     "w": "title",
+     "p": "/ˈtaɪtl/",
+     "t": "n.",
+     "z": "头衔，名号"
+    }
+   ]
+  },
+  {
+   "i": 56,
+   "zh": "“呃……你知道我该上哪儿找他吗？”里克温德摇了摇头。",
+   "notes": [
+    "<code>Uh… do you know where I could find him?</code> 以 <code>Uh…</code> 起头，是无名氏被那套表演绕得有点发懵时的迟疑；译文用“呃……”保留这口气，也维持他一贯的短句提问风格。",
+    "<code>where I could find him</code> 是 <code>know</code> 的宾语从句，语序为陈述语序（疑问词 + 主语 + 谓语），不能写成 <code>where could I find him</code>——这是间接疑问句的常见考点。",
+    "整段把问话与“摇头”并置，没有加任何解释，是原文简洁的叙述节奏：动作本身即是回答，中文照此留白。"
+   ],
+   "vocab": [
+    {
+     "w": "Uh",
+     "p": "/ʌ/",
+     "t": "int.",
+     "z": "呃，嗯（表示迟疑、犹豫的填充音）"
+    },
+    {
+     "w": "shook his head",
+     "p": "",
+     "t": "phr.",
+     "z": "摇了摇头（表否定或不知情；注意英语摇头是 no，点头是 yes）"
+    }
+   ]
+  },
+  {
+   "i": 57,
+   "zh": "“他就住在破布和垃圾堆里。去那儿，你能找到他，找到他……”",
+   "notes": [
+    "<code>amongst</code> 是 <code>among</code> 的变体，多见于英式书面语，意为“在……之中、夹杂在……之间”；<code>amongst rags and trash</code> 直译“在破布与垃圾之间”，不必改写成“住在垃圾堆那儿”。",
+    "<code>There, you will find him</code> 把地点副词 <code>There</code> 提到句首，起强调作用：“就在那儿，你能找到他”。<code>will</code> 在此表推断性的将来（“你自会找到他”），而非许诺。",
+    "句末重复的 <code>find him…</code> 是里克温德的口头习惯（每句话都爱把关键词再吐一遍），同时以省略号收尾，暗示他也没法再说得更具体，中文照旧重复“找到他”。"
+   ],
+   "vocab": [
+    {
+     "w": "amongst",
+     "p": "/əˈmʌŋst/",
+     "t": "prep.",
+     "z": "在……之中（among 的变体，偏英式、书面）"
+    },
+    {
+     "w": "rags",
+     "p": "/ræɡz/",
+     "t": "n.",
+     "z": "破布，破烂衣物"
+    },
+    {
+     "w": "trash",
+     "p": "/træʃ/",
+     "t": "n.",
+     "z": "垃圾，废弃物"
+    }
+   ]
+  },
+  {
+   "i": 58,
+   "zh": "这么看来也算不上什么真帮忙。我继续往前走，离开了集市区。",
+   "notes": [
+    "<code>No real help then.</code> 是省略句：<code>then</code> 在此为“那么、这么说来”，整句等于“那算不上真正的帮助”。省略主语和系动词是英语口语与日记体叙述的常见写法，中文补出“这么看来”即可。",
+    "<code>I continued walking, leaving the market area.</code>：<code>continue doing</code> 表示“接着做同一件事”；<code>leaving…</code> 是现在分词作伴随状语，说明“往前走”的同时就离开了集市，并非两个先后的动作。",
+    "无名氏的叙述一贯冷、短、不作感慨，此句只用两个小句交代“没收获、走人”，译文不额外添加情绪词。"
+   ],
+   "vocab": [
+    {
+     "w": "No real help",
+     "p": "",
+     "t": "phr.",
+     "z": "算不上真正的帮助（省略句，口语中常独立成句）"
+    },
+    {
+     "w": "continued",
+     "p": "/kənˈtɪnjuːd/",
+     "t": "v.",
+     "z": "继续（continue doing sth. 即“接着做某事”）"
+    },
+    {
+     "w": "market area",
+     "p": "",
+     "t": "n.",
+     "z": "集市区，市场一带"
+    }
+   ]
+  },
+  {
+   "i": 59,
+   "zh": "我对里克温德提到的那条险角巷很好奇。它就在附近，我们便走了进去。那里有许多烧空的建筑残骸，还有两伙帮派，要收过路钱才放我们进去。在一座坍塌的教堂里，我遇到一个自称奥拉的男人。他似乎急着跟我说话——我一进那栋建筑，他就立刻迎上来打招呼。",
+   "notes": [
+    "<code>I was curious about this Alley of Dangerous Angles Reekwind had mentioned.</code>：<code>this</code> 后接一个省略了关系代词的定语从句（<code>[that] Reekwind had mentioned</code>），指前面说书人提到过的那条巷子。术语 <code>Alley of Dangerous Angles</code> 统一译作“险角巷”。",
+    "<code>burnt shells of buildings</code>：<code>shell</code> 指“只剩外壳的空架子”，<code>burnt shells</code> 即“烧得只剩空壳的建筑”，译作“烧空的建筑残骸”。<code>two gangs, who charged us a toll to enter the area</code> 中 <code>charge sb. a toll</code> 是“向某人收取通行费”，<code>who</code> 引导非限制性定语从句补充说明帮派的作为。",
+    "<code>coming over to greet me as soon as I entered the building</code> 是分词短语，解释前半句“急着搭话”的具体表现；<code>as soon as</code> 强调“一……就……”，译文用“一……就立刻……”保留这种急切感。"
+   ],
+   "vocab": [
+    {
+     "w": "Alley of Dangerous Angles",
+     "p": "",
+     "t": "n.",
+     "z": "险角巷（印记城蜂巢区的焦黑小巷，因当年大火与巷中凶险得名）"
+    },
+    {
+     "w": "shells",
+     "p": "/ʃelz/",
+     "t": "n.",
+     "z": "空壳，只剩外框的建筑残骸（shell 的复数）"
+    },
+    {
+     "w": "gangs",
+     "p": "/ɡæŋz/",
+     "t": "n.",
+     "z": "帮派，团伙"
+    },
+    {
+     "w": "toll",
+     "p": "/təʊl/",
+     "t": "n.",
+     "z": "通行费，过路钱（charge a toll 即“收费”）"
+    },
+    {
+     "w": "ruined",
+     "p": "/ˈruːɪnd/",
+     "t": "adj.",
+     "z": "坍塌的，破败的（ruined church 即“坍塌的教堂”）"
+    }
+   ]
+  },
+  {
+   "i": 60,
+   "zh": "“欢迎来到奥斯卡大教堂。你是来跟我一起敬拜奥斯卡的吗？你可以做他的第二位门徒。”",
+   "notes": [
+    "<code>cathedral of Aoskar</code>：<code>cathedral</code> 指“大教堂、主教座堂”，比 church 规格更高；此处是一座已成废墟的教堂，奥拉仍沿用旧称，译文保留“大教堂”。",
+    "<code>Have you come to worship Aoskar with me?</code>：<code>have come</code> 是现在完成时，强调“来”这个动作造成眼下“人已在此”的状态；<code>to worship</code> 为目的状语。",
+    "<code>You can be his second disciple.</code>：<code>second</code> 是序数词“第二”，暗示奥拉自居首位门徒、眼下门可罗雀——这句看似客气的邀请其实先透了底，是后文无人来访的伏笔。"
+   ],
+   "vocab": [
+    {
+     "w": "cathedral",
+     "p": "/kəˈθiːdrəl/",
+     "t": "n.",
+     "z": "大教堂，主教座堂"
+    },
+    {
+     "w": "worship",
+     "p": "/ˈwɜːʃɪp/",
+     "t": "v.",
+     "z": "敬拜，崇拜（指对神祇的宗教礼拜）"
+    },
+    {
+     "w": "disciple",
+     "p": "/dɪˈsaɪpl/",
+     "t": "n.",
+     "z": "门徒，弟子（宗教语境中指追随某位神或导师的信徒）"
+    }
+   ]
+  },
+  {
+   "i": 61,
+   "zh": "“跟我多讲讲奥斯卡吧。”奥拉的嗓音立刻带上了谄媚的调子。",
+   "notes": [
+    "这一段只有两句，第二句在原文里同时也是接下来那段布道的引子，结构上是“提问 + 舞台提示 + 回答”的三明治写法，中文照原样保留这种紧凑的推进。",
+    "<code>Aola’s voice took on a tone of adulation.</code>：<code>take on</code> 意为“呈现出、带上（某种性质）”；<code>adulation</code> 指过分的吹捧、谄媚，比 praise 多了肉麻、邀宠的意味，故译“谄媚”。",
+    "注意叙述者只写“奥拉的声音变了调”，并不点破他在推销自己的神，冷处理反而更显出这祭司的急切；译文不加评论。"
+   ],
+   "vocab": [
+    {
+     "w": "tone",
+     "p": "/təʊn/",
+     "t": "n.",
+     "z": "语调，口气（take on a tone 即“带上了某种腔调”）"
+    },
+    {
+     "w": "adulation",
+     "p": "/ˌædjuˈleɪʃn/",
+     "t": "n.",
+     "z": "谄媚，过分的吹捧（比 praise 更露骨）"
+    }
+   ]
+  },
+  {
+   "i": 62,
+   "zh": "“奥斯卡是门径的守护者。门径之力——传送门、门户与机遇——都在奥斯卡身上。印记城又叫‘门之城’，这里曾是奥斯卡的家，直到他被那位该死的女士‘扔’了出去。如今这里的奥斯卡信徒没几个，因为那位女士禁止敬拜他。不过，这很快就会改变，因为我在帮着人们看清奥斯卡的伟大。她挡不住众人的意志！”奥斯卡，是吗？我看不出让一位神明站到我这边有什么坏处。就算这位祭司的神帮不上我，他本人说不定还有用。",
+   "notes": [
+    "<code>Keeper of Gateways</code>：<code>keeper</code> 是“看守人、掌管者”，<code>gateway</code> 指“门户、入口”，合为神的尊号“门径的守护者”；紧随其后的 <code>the power of portals, doorways and opportunity</code> 是三个名词并列作同位说明，中文把“门径之力”提前再罗列，读起来更像布道腔。",
+    "<code>‘cast’ out by that accursed Lady</code> 里 <code>cast</code> 加了引号，暗示“逐出”是官方说法而奥拉并不服气；<code>that accursed Lady</code>（那位该死的女士）指痛苦女士，奥拉不敢直呼其名，只用 <code>that Lady</code> 指代，<code>the Lady forbids it</code> 中的 <code>the Lady</code> 同理，译文统一作“那位女士”。",
+    "<code>I didn’t see how it could hurt to have a deity on my side.</code> 是 <code>not see how… could hurt</code> 的句式，字面“我看不出……会有什么害处”，即“何乐而不为”；<code>Even if this priest’s god didn’t help me, he himself might be useful.</code> 是 <code>even if</code>（即使，表让步）引导的复合句，末句 <code>he himself</code> 用反身代词加强“他本人”的所指，暴露无名氏只管实用、不问神明的态度。"
+   ],
+   "vocab": [
+    {
+     "w": "Keeper of Gateways",
+     "p": "",
+     "t": "n.",
+     "z": "门径的守护者（奥斯卡的尊号，Keeper 即“看守者、掌管者”）"
+    },
+    {
+     "w": "portals",
+     "p": "/ˈpɔːtlz/",
+     "t": "n.",
+     "z": "传送门（异域设定中连接各地的门径）"
+    },
+    {
+     "w": "accursed",
+     "p": "/əˈkɜːsɪd/",
+     "t": "adj.",
+     "z": "该死的，可诅咒的"
+    },
+    {
+     "w": "forbids",
+     "p": "/fəˈbɪdz/",
+     "t": "v.",
+     "z": "禁止（forbid sb. to do / forbid sth.，第三人称单数加 -s）"
+    },
+    {
+     "w": "deity",
+     "p": "/ˈdeɪəti/",
+     "t": "n.",
+     "z": "神明，神祇"
+    }
+   ]
+  },
+  {
+   "i": 63,
+   "zh": "“我想成为奥斯卡的门徒。”",
+   "notes": [
+    "<code>I wish to become a disciple of Aoskar.</code> 用 <code>wish to do</code> 表达意愿，比 <code>want to</code> 正式、书面，和前面那些市井腔形成对比；这里也是游戏里选定的对话选项，无名氏用最短的一句把自己卖给了这位神。",
+    "<code>become a disciple of…</code>：<code>become</code> 是系动词，后接名词表身份变化；“某神的门徒”用 <code>a disciple of + 神名</code>，注意介词是 of 而非 to。"
+   ],
+   "vocab": [
+    {
+     "w": "wish",
+     "p": "/wɪʃ/",
+     "t": "v.",
+     "z": "想要，希望（wish to do 比 want to 正式）"
+    },
+    {
+     "w": "become",
+     "p": "/bɪˈkʌm/",
+     "t": "v.",
+     "z": "成为（系动词，后接表身份的名词）"
+    },
+    {
+     "w": "disciple",
+     "p": "/dɪˈsaɪpl/",
+     "t": "n.",
+     "z": "门徒，弟子"
+    }
+   ]
+  },
+  {
+   "i": 64,
+   "zh": "“太好了！上一位来问的人到现在都过去多久了。”奥拉让我做了一连串繁复的仪式，然后说：“你现在是奥斯卡的门徒了；去吧，把这消息传给印记城的居民，让所有人都知道奥斯卡的荣耀！”我这才迟了一步地担心起来。",
+   "notes": [
+    "<code>It’s been so long since the last person asked.</code>：<code>It’s been + 时间 + since + 过去时从句</code>是固定句型，“自从上次有人问起，已经过了很久”。奥拉的一句感叹就透出他的教派早已无人问津，为下文“门徒全都失踪”埋了线。",
+    "<code>Aola made me perform a series of complex rituals</code>：<code>make sb. do sth.</code> 是“使役”结构，宾语补足语用动词原形（不带 to）；<code>a series of</code> 意为“一连串”。",
+    "<code>Belatedly, I grew worried.</code> 中 <code>belatedly</code> 意为“迟了一步地、事后才”，<code>grew</code> 是 <code>grow</code> 作系动词表“渐渐变得”；这句是叙述者对自己迟钝的冷自嘲，中文用“这才迟了一步地”保留那点后知后觉的滑稽。"
+   ],
+   "vocab": [
+    {
+     "w": "series",
+     "p": "/ˈsɪəriːz/",
+     "t": "n.",
+     "z": "一连串，一系列（单复数同形，a series of 后接复数名词）"
+    },
+    {
+     "w": "rituals",
+     "p": "/ˈrɪtʃuəlz/",
+     "t": "n.",
+     "z": "仪式，礼规（ritual 的复数）"
+    },
+    {
+     "w": "spread the word",
+     "p": "",
+     "t": "phr.",
+     "z": "传话，把消息传播开（固定说法，word 前不加 the 之外的数量词）"
+    },
+    {
+     "w": "denizens",
+     "p": "/ˈdenɪznz/",
+     "t": "n.",
+     "z": "居民，常住者（比 residents 文气，常指某地的“生灵”）"
+    },
+    {
+     "w": "Belatedly",
+     "p": "/bɪˈleɪtɪdli/",
+     "t": "adv.",
+     "z": "迟了一步地，事后才（be late 的副词化，多含懊悔）"
+    }
+   ]
+  },
+  {
+   "i": 65,
+   "zh": "“为什么奥斯卡没有别的门徒？”",
+   "notes": [
+    "<code>Why are there no other disciples of Aoskar?</code> 是 <code>there be</code> 句型的疑问形式：<code>Why are there…?</code>（为什么有/没有……）。<code>other</code> 在此为形容词“别的、其他的”，修饰复数 <code>disciples</code>。",
+    "无名氏问得直接、不给面子，一句反问直戳要害——这正是他一贯的简短口气；译文不加语气助词，保持干硬的追问。"
+   ],
+   "vocab": [
+    {
+     "w": "other",
+     "p": "/ˈʌðə/",
+     "t": "adj.",
+     "z": "别的，其他的（后接复数名词）"
+    },
+    {
+     "w": "disciples",
+     "p": "/dɪˈsaɪplz/",
+     "t": "n.",
+     "z": "门徒，弟子（disciple 的复数）"
+    }
+   ]
+  },
+  {
+   "i": 66,
+   "zh": "“这些年来我有过不少门徒。不幸的是，他们全都失踪了。说实话，这挺让人窝火的。他们一入教，我就再也见不到人影。最近外头有传言说，祸首就是那位女士本人。如今再没人上门了。你是这么久以来，我头一个见着停步进来的人。”",
+   "notes": [
+    "<code>they have all disappeared</code> 用现在完成时，强调“失踪”这一结果一直延续到现在（也就是至今仍下落不明）；<code>As soon as they become initiates I never see them again.</code> 以 <code>as soon as</code>（一……就……）搭配一般现在时 <code>never see</code>，写出这种循环往复、每次都如此的情形。",
+    "<code>there has been a rumor going around that…</code>：<code>there has been</code> 表“一直有（传言）”，<code>going around</code> 是“四处流传”的口语说法，<code>that</code> 引导的从句是 rumor 的同位语从句，说明传言的内容。",
+    "<code>You are the first soul I've seen stop by in a long while.</code>：<code>the first + 名词 + 定语从句</code>，“我这么久以来见过的头一个”；<code>soul</code> 在此不指“灵魂”，而是口语里代指“人”（相当于 person），<code>stop by</code> 即“顺路上门”。全段的吊诡之处也在这里：门徒一个个消失，奥拉却毫不在意地继续招人，无名氏的担心正是冲此而来。"
+   ],
+   "vocab": [
+    {
+     "w": "Unfortunately",
+     "p": "/ʌnˈfɔːtʃənətli/",
+     "t": "adv.",
+     "z": "不幸的是，遗憾的是"
+    },
+    {
+     "w": "disappeared",
+     "p": "/ˌdɪsəˈpɪəd/",
+     "t": "v.",
+     "z": "消失，失踪（此处指人不知去向）"
+    },
+    {
+     "w": "frustrating",
+     "p": "/frʌˈstreɪtɪŋ/",
+     "t": "adj.",
+     "z": "令人气恼的，叫人窝火的（以 -ing 修饰事物）"
+    },
+    {
+     "w": "initiates",
+     "p": "/ɪˈnɪʃiəts/",
+     "t": "n.",
+     "z": "新入教者，刚入门的人（initiate 的复数）"
+    },
+    {
+     "w": "stop by",
+     "p": "",
+     "t": "phr.",
+     "z": "顺路来访，上门停留一会儿"
+    }
+   ]
+  }
+ ]
+}

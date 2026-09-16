@@ -10,6 +10,13 @@
 | 二 | Deionarra 戴娜拉 | 75 | 14–19 | 20–25 |
 | 三 | The Hive 蜂巢 | 105 | 20–28 | 26–34 |
 | 四 | Morte, Part I 莫提（上） | 6 | 29–30 | 35–36 |
+| 五 | Hive Market 蜂巢集市 | 66 | 31–37 | 37–43 |
+| 六 | Mazed 迷宫 | 32 | 38–41 | 44–47 |
+| 七 | Smoldering Corpse 冒烟的尸体 | 75 | 42–51 | 48–57 |
+| 八 | Dak'kon, Part I 达肯（上） | 54 | 52–55 | 58–61 |
+| 九 | Ragpickers' Square 拾荒者广场 | 128 | 56–65 | 62–71 |
+| 十 | Buried Village 埋骨村 | 98 | 66–73 | 72–79 |
+| 十一 | Unbroken Circle Of Zerthimon, Part I 泽西蒙不破之环（上） | 48 | 74–79 | 80–85 |
 
 ## 打开方式
 
@@ -24,7 +31,7 @@ python -m http.server 8000   # 然后访问 http://127.0.0.1:8000/
 | 文件 | 内容 |
 | --- | --- |
 | `index.html` | 章节目录页：各章卡片 + 阅读进度 + 全站统计 |
-| `the-mortuary.html` / `deionarra.html` / `the-hive.html` / `morte-part-i.html` | 各章精读页 |
+| `the-mortuary.html` / `deionarra.html` / `the-hive.html` / `morte-part-i.html` / `hive-market.html` / `mazed.html` / `smoldering-corpse.html` / `dak-kon-part-i.html` / `ragpickers-square.html` / `buried-village.html` / `unbroken-circle-of-zerthimon-part-i.html` | 各章精读页 |
 | `assets/style.css` | 全站样式（含深色模式、打印样式） |
 | `assets/app.js` | 交互逻辑：点词查义、朗读、进度、目录跟随、搜索、CSV 导出 |
 | `data/*.js` | 各章内容数据（段落、译文、注释、词表） |
@@ -55,5 +62,12 @@ PDF 版式特殊：每个字形单独绘制、行内被切成多段、换行处�
 | Deionarra | 14–19 | 20–25 |
 | The Hive | 20–28 | 26–34 |
 | Morte, Part I | 29–30 | 35–36 |
+| Hive Market | 31–37 | 37–43 |
+| Mazed | 38–41 | 44–47 |
+| Smoldering Corpse | 42–51 | 48–57 |
+| Dak'kon, Part I | 52–55 | 58–61 |
+| Ragpickers' Square | 56–65 | 62–71 |
+| Buried Village | 66–73 | 72–79 |
+| Unbroken Circle Of Zerthimon, Part I | 74–79 | 80–85 |
 
 仅供个人英语学习使用。

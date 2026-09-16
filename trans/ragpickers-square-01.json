@@ -1,0 +1,696 @@
+{
+ "chapter": "Ragpickers' Square",
+ "chunk": "ragpickers-square-01",
+ "items": [
+  {
+   "i": 1,
+   "zh": "拾荒者广场\n\n我们那晚歇在客栈，与人合住一间大通铺，同屋有一个巴瑞尔——一种半人半马的造物——还有个疯子，嘴里不住地念叨他的叉子。",
+   "notes": [
+    "<code>spent the night at the inn</code> 是“在客栈过的夜”，<code>spend the night</code> 为固定搭配；注意此处 <code>spent</code> 是 <code>spend</code> 的过去式。",
+    "<code>sharing a common room with...</code> 是现在分词短语作伴随状语，说明“过夜”的情形；<code>common room</code> 指客栈里供多人共住的通铺／公共房间。",
+    "<code>a Bariaur, a centaur-like creature</code> 用同位语给异域专名作解释，译文用破折号插入说明；<code>kept muttering about...</code> 中 <code>keep + doing</code> 表示“不停地做某事”。"
+   ],
+   "vocab": [
+    {
+     "w": "common room",
+     "p": "",
+     "t": "n.",
+     "z": "公共房间，客栈里多人合住的大通铺"
+    },
+    {
+     "w": "Bariaur",
+     "p": "/ˈbæriɔːr/",
+     "t": "n.",
+     "z": "巴瑞尔，半人半马的造物（异域设定中的种族）"
+    },
+    {
+     "w": "centaur-like",
+     "p": "",
+     "t": "adj.",
+     "z": "半人马模样的（centaur“半人马”+ -like“像……的”）"
+    },
+    {
+     "w": "muttering",
+     "p": "/ˈmʌtərɪŋ/",
+     "t": "v.",
+     "z": "低声嘟囔（mutter 的现在分词）；<code>mutter about</code> 即“念叨某事”"
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "zh": "第二天一早，我动身前往拾荒者广场——我认定在那儿准能打听到法罗德的消息。那地方真是惨不忍睹，到处是成堆的垃圾，还有一栋栋塌败的房屋，看那样子马上就要垮下来，再给这地方添上新的一堆。",
+   "notes": [
+    "<code>set out for</code> 意为“动身前往（某地）”，比 <code>leave for</code> 多一层“出发上路”的意味。",
+    "<code>for sure</code> 是口语化的“肯定、准没错”，此处 <code>I thought for sure I would find...</code> 即“我满以为一定能找到……”。",
+    "<code>A miserable place it was</code> 把表语提前造成倒装，是叙述者带感情的强调句式，中文用“那地方真是惨不忍睹”的重音收束来对应；<code>as though</code> 引导虚拟语气从句，故有 <code>would</code>。"
+   ],
+   "vocab": [
+    {
+     "w": "set out for",
+     "p": "",
+     "t": "phr.",
+     "z": "动身前往（某地），启程去……"
+    },
+    {
+     "w": "miserable",
+     "p": "/ˈmɪzrəbl/",
+     "t": "adj.",
+     "z": "凄惨的，糟得可怜的"
+    },
+    {
+     "w": "piles of trash",
+     "p": "",
+     "t": "n.",
+     "z": "成堆的垃圾（pile 为“一堆”）"
+    },
+    {
+     "w": "broken down",
+     "p": "",
+     "t": "adj.",
+     "z": "破败的，坍塌失修的（指房屋等）"
+    },
+    {
+     "w": "collapse",
+     "p": "/kəˈlæps/",
+     "t": "v.",
+     "z": "倒塌，垮掉"
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "zh": "我走进广场时，注意到几个人影裹在肮脏破烂的褐色长袍里，长长的兜帽把大半张脸都遮住了。这种装扮我已经学会把它和收集者联系在一起。我走近其中一个。我看见兜帽底下他的眼睛一眯，然后往后退了一步。",
+   "notes": [
+    "<code>draped in filthy, tattered brown robes</code> 是被动式分词短语作后置定语；<code>drape</code> 本义“把布披挂上去”，此处指长袍松松裹在身上。",
+    "<code>a long hood concealing most of the face from view</code> 是独立主格结构（名词 + 现在分词），在句末补充说明长袍的样式，相当于“兜帽遮住了……”这一分句；<code>conceal sth from view</code> 为固定搭配，“把某物遮挡得看不见”。",
+    "<code>This costume I had learned to associate with collectors</code> 把宾语 <code>this costume</code> 提到句首以示强调，正常语序是 <code>I had learned to associate this costume with collectors</code>；<code>associate A with B</code> 意为“把 A 与 B 联系起来”。"
+   ],
+   "vocab": [
+    {
+     "w": "draped",
+     "p": "/dreɪpt/",
+     "t": "v.",
+     "z": "披裹（drape 的过去分词）；常用 be draped in 表示“裹着……”"
+    },
+    {
+     "w": "tattered",
+     "p": "/ˈtætəd/",
+     "t": "adj.",
+     "z": "破烂的，褴褛的（衣服撕成条状）"
+    },
+    {
+     "w": "hood",
+     "p": "/hʊd/",
+     "t": "n.",
+     "z": "兜帽，头巾"
+    },
+    {
+     "w": "collectors",
+     "p": "/kəˈlektəz/",
+     "t": "n.",
+     "z": "收集者，尘人里专门收尸的人"
+    },
+    {
+     "w": "took a step back",
+     "p": "",
+     "t": "phr.",
+     "z": "后退一步（step 在此作名词，“一步”）"
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "zh": "“你想干啥？”",
+   "notes": [
+    "土腔对白：<code>ye</code>＝<code>you</code>，是拾荒者、市井底层常用的方言写法；译文用“干啥”保留这份粗直口气，不必译成“您想要什么”。",
+    "这一句只有四个词，语气生硬、防人，说明收集者对陌生人（无名氏）抱着戒备；无名氏的回答也刻意简短。"
+   ],
+   "vocab": [
+    {
+     "w": "ye",
+     "p": "/jiː/",
+     "t": "pron.",
+     "z": "你（方言／土腔拼法，等于 you）"
+    },
+    {
+     "w": "want",
+     "p": "/wɒnt/",
+     "t": "v.",
+     "z": "想要，要（此处 <code>What do ye want?</code> 是“你要干什么”）"
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "zh": "“你在做什么？”我问。",
+   "notes": [
+    "英文用现在进行时 <code>What are you doing?</code>，问的是此刻手上的动作；上文收集者问的是“想要什么”，一来一往，问的层面不同，译文照原样用“在做什么”。",
+    "无名氏的台词一律用标准语、句子短，与拾荒者的土腔形成对照，这是本书区分人物口吻的常用手法。"
+   ],
+   "vocab": [
+    {
+     "w": "What are you doing",
+     "p": "",
+     "t": "phr.",
+     "z": "你在做什么（现在进行时，问当下动作）"
+    },
+    {
+     "w": "asked",
+     "p": "/ɑːskt/",
+     "t": "v.",
+     "z": "问，问道（ask 的过去式）"
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "zh": "“我在找几具该死的尸体，这就是我要干的事；可照眼下这情形——人人都健健康康的——你还以为是死神们卷起铺盖离开了诸界呢。”他眼里忽然一亮：“上个月我们这儿闹过一场瘟疫，那可是段风光日子，真风光……尸体臭气熏天，直冲九霄，钱也大把大把地赚。”",
+   "notes": [
+    "<code>is what I'm tryin' ta do</code> 是 <code>What I'm trying to do is...</code> 的倒装强化说法，口语里常用来加重语气，可译为“这就是我要干的事”。",
+    "土腔拼写密集：<code>lookin'</code>、<code>tryin'</code>、<code>stinkin'</code> 省去 <code>-g</code>；<code>ta</code>＝<code>to</code>，<code>an'</code>＝<code>and</code>；<code>ye'd</code>＝<code>you would</code>。译文用“找／干啥／臭气熏天”这类市井口吻对应。",
+    "<code>ye'd think the Dead Powers had packed up their kip an' left the Planes</code> 是虚拟语气（“你会以为……了”）：<code>pack up one's kip</code> 字面“卷起铺盖”，<code>kip</code> 在俚语里指住处／睡觉的地方；<code>Dead Powers</code> 指司掌死亡的诸位神力，译作“死神们”。<code>a glorious time, it was</code> 句末重复主语是口语强调。"
+   ],
+   "vocab": [
+    {
+     "w": "damned",
+     "p": "/dæmd/",
+     "t": "adj.",
+     "z": "该死的，可恶的（骂人的加强语）"
+    },
+    {
+     "w": "ta",
+     "p": "",
+     "t": "prep.",
+     "z": "＝to（土腔拼法）"
+    },
+    {
+     "w": "kip",
+     "p": "/kɪp/",
+     "t": "n.",
+     "z": "（俚）住处，铺盖；pack up one's kip 即“卷铺盖走人”"
+    },
+    {
+     "w": "pox",
+     "p": "/pɒks/",
+     "t": "n.",
+     "z": "瘟疫，痘疫（旧时用语）"
+    },
+    {
+     "w": "jink",
+     "p": "/dʒɪŋk/",
+     "t": "n.",
+     "z": "（俚）钱币，钱财"
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "zh": "“你找尸体做什么？”他一脸诧异。",
+   "notes": [
+    "<code>Why are you looking for bodies?</code> 与上一段的无名氏问句结构相同，但这次问的是原因；注意 <code>look for</code> 是“寻找”，与 <code>find</code>（找到）不同。",
+    "<code>He looked surprised.</code> 用 <code>look + 形容词</code> 表“看起来……”，此处是叙述插入语，译文处理成“他一脸诧异”。"
+   ],
+   "vocab": [
+    {
+     "w": "bodies",
+     "p": "/ˈbɒdiz/",
+     "t": "n.",
+     "z": "尸体，身体（body 的复数，此处指尸首）"
+    },
+    {
+     "w": "surprised",
+     "p": "/səˈpraɪzd/",
+     "t": "adj.",
+     "z": "惊讶的，诧异的"
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "zh": "“这个嘛，你把那些家伙拖到停尸间去。到了那儿，你跟尘人聊两句，讨价还价一番，就能挣到几个钱。尘人，他们负责收尸……那是他们的活计。他们付钱让我们多跑几片地方，找到尸体就给他们送去。然后他们保证那家伙的尸身去它该去的地方，或者火化掉。他们对自己那套疯疯癫癫的哲理可认真了，可对我来说，这只不过意味着更多的钱。”他眨了眨眼。",
+   "notes": [
+    "<code>y'haul</code> 是 <code>you haul</code> 的压缩写法；<code>haul</code> 意为“拖、拉（重物）”，<code>ya</code>＝<code>you</code>。译文用“这个嘛”承接，保留他作答时的那股随意劲儿。",
+    "<code>blighter</code> 是英式俚语，指“可鄙的家伙、讨厌鬼”，此处只是随口指“那些死鬼”；<code>the Dusties</code> 是 <code>Dustmen</code> 的昵称，译作“尘人”。",
+    "<code>haggle a little, an' get a few bits of jink</code> 是三个并列动词短语连用，模拟他数着步骤算钱的口吻；<code>They pay us ta cover more area</code> 中 <code>cover</code> 意为“跑遍、覆盖（某片区域）”。<code>goes ta its proper place or gets cremated</code> 是 <code>get + 过去分词</code> 表被动（“被火化”）。"
+   ],
+   "vocab": [
+    {
+     "w": "Mortuary",
+     "p": "/ˈmɔːtʃuəri/",
+     "t": "n.",
+     "z": "停尸间，太平间（此处专指印记城的尘人大本营）"
+    },
+    {
+     "w": "blighter",
+     "p": "/ˈblaɪtə/",
+     "t": "n.",
+     "z": "（英俚）家伙，讨厌鬼（此处随口指死者）"
+    },
+    {
+     "w": "haggle",
+     "p": "/ˈhæɡl/",
+     "t": "v.",
+     "z": "讨价还价，讲价"
+    },
+    {
+     "w": "barmy",
+     "p": "/ˈbɑːmi/",
+     "t": "adj.",
+     "z": "疯癫的，脑子不正常的（英俚）"
+    },
+    {
+     "w": "cremated",
+     "p": "/krɪˈmeɪtɪd/",
+     "t": "v.",
+     "z": "火化（cremate 的过去分词，此处与 get 连用表被动）"
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "zh": "“我在找一个叫法罗德的人。”我知道他接下来要问什么，便抢在他开口之前扔给他几个铜币。他猛地眯起眼睛。",
+   "notes": [
+    "<code>I knew what his next question was going to be</code> 用过去将来时 <code>was going to be</code>，表示“（当时）接下来将会是什么”，是回顾式叙述里常见的时态。",
+    "<code>before he could ask</code> 意为“还没等他能问出口”，<code>could</code> 在此表当时的可能性；<code>threw him several coppers</code> 的 <code>throw</code> 写出动作的随意，暗示这是行贿式的塞钱。",
+    "<code>He narrowed his eyes suddenly.</code> 与第 3 段 <code>I saw his eyes narrow</code> 呼应，同一个人物两次眯眼，第一次是戒备，这次是起疑／动了心思。"
+   ],
+   "vocab": [
+    {
+     "w": "Pharod",
+     "p": "/ˈfærɒd/",
+     "t": "n.",
+     "z": "法罗德（人名，拾荒者广场一带的势力头目）"
+    },
+    {
+     "w": "coppers",
+     "p": "/ˈkɒpəz/",
+     "t": "n.",
+     "z": "铜币（copper 的复数，本义“铜”）"
+    },
+    {
+     "w": "narrowed",
+     "p": "/ˈnærəʊd/",
+     "t": "v.",
+     "z": "眯起（眼睛）（narrow 的过去式，narrow one's eyes 表怀疑或打量）"
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "zh": "“法罗德……他怎么了？”尽管收了钱，他看上去还是犹犹豫豫。",
+   "notes": [
+    "<code>what about ‘im?</code> 中 <code>‘im</code>＝<code>him</code>，是常见于伦敦土话的头音脱落写法（h-dropping）；整句 <code>What about him?</code> 意为“他怎么了／你问他做什么？”，带回避意味。",
+    "<code>Despite the jink</code> 是介词短语作让步状语，“尽管收了钱”；<code>Despite</code> 后接名词或名词短语，不能接从句（接从句要用 <code>although</code>）。",
+    "<code>hesitant</code> 表示“迟疑的、不愿多说的”，与第 9 段他“猛地眯眼”相呼应：钱收下了，话却不肯痛快说。"
+   ],
+   "vocab": [
+    {
+     "w": "‘im",
+     "p": "",
+     "t": "pron.",
+     "z": "＝him（土腔头音脱落写法，见于 <code>what about ‘im</code>）"
+    },
+    {
+     "w": "Despite",
+     "p": "/dɪˈspaɪt/",
+     "t": "prep.",
+     "z": "尽管，虽然（后接名词或短语，不接从句）"
+    },
+    {
+     "w": "hesitant",
+     "p": "/ˈhezɪtənt/",
+     "t": "adj.",
+     "z": "犹豫的，迟疑不决的"
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "zh": "“你一下子变得这么警惕……为什么？”",
+   "notes": [
+    "<code>wary</code> 指“警觉的、提防的”，比 <code>careful</code> 更强调“怕有危险而留神”，此处指出他忽然不肯多谈法罗德。",
+    "省略号后的 <code>why?</code> 独立成句，是无名氏惯用的追问方式：不解释、不客套，直接戳问对方的态度变化。中文保留这个短促的收尾。"
+   ],
+   "vocab": [
+    {
+     "w": "wary",
+     "p": "/ˈweəri/",
+     "t": "adj.",
+     "z": "警惕的，提防的（对人事心存戒备）"
+    },
+    {
+     "w": "suddenly",
+     "p": "/ˈsʌdənli/",
+     "t": "adv.",
+     "z": "突然地，一下子"
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "zh": "“法罗德，哼！”他啐了一口，轻蔑地冷笑。“拾荒者广场是夏格雷夫的——我老板的地盘，你明白吧。法罗德和他的狗腿子前些时候闯进来，想赶我们走。我们把他们打退了，真的，所以现在他们都躲在什么地方。我们时不时还能在广场周围逮到他手下的一个小子。通常我们就把他们弄成停尸间里一笔快钱，这帮讨人嫌的杂种。”",
+   "notes": [
+    "<code>so’s they’re all in hidin’</code> 中 <code>so’s</code>＝<code>so that</code>，“因此、结果”；<code>in hidin’</code>＝<code>in hiding</code>，“躲藏起来”。",
+    "<code>We still catch one a’ his lads now an’ then ‘round the Square</code>：<code>a’</code>＝<code>of</code>，<code>lads</code> 指“手下、小弟”，<code>now an’ then</code> 即“时不时”，<code>‘round</code>＝<code>around</code>。",
+    "<code>turn ‘em inta a quick spot a’ jink</code> 字面是“把他们变成一笔快钱”，<code>spot</code> 在此作俚语的“一笔（钱）”；这句是冷血的黑色幽默：把人命说成生意进项。"
+   ],
+   "vocab": [
+    {
+     "w": "contemptuously",
+     "p": "/kənˈtemptʃuəsli/",
+     "t": "adv.",
+     "z": "轻蔑地，鄙夷地"
+    },
+    {
+     "w": "territory",
+     "p": "/ˈterətri/",
+     "t": "n.",
+     "z": "地盘，势力范围"
+    },
+    {
+     "w": "oust",
+     "p": "/aʊst/",
+     "t": "v.",
+     "z": "赶走，驱逐（夺去某人的位置）"
+    },
+    {
+     "w": "hidin’",
+     "p": "",
+     "t": "n.",
+     "z": "＝hiding，躲藏（in hidin’ 即“躲起来”）"
+    },
+    {
+     "w": "sods",
+     "p": "/sɒdz/",
+     "t": "n.",
+     "z": "（英俚，粗）混蛋，杂种（sod 的复数）"
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "zh": "“跟我说说夏格雷夫。”",
+   "notes": [
+    "无名氏的问话极短，几乎像下令，这是他失忆后一贯的说话方式：直奔目标，不谈交情。",
+    "<code>Tell me about...</code> 是询问某人／某事情况的固定句式，比 <code>Who is...?</code> 更笼统，能引出对方愿意说的全部信息。"
+   ],
+   "vocab": [
+    {
+     "w": "Sharegrave",
+     "p": "/ˈʃeəɡreɪv/",
+     "t": "n.",
+     "z": "夏格雷夫（人名，拾荒者广场收集者的头目）"
+    },
+    {
+     "w": "Tell me about",
+     "p": "",
+     "t": "phr.",
+     "z": "跟我说说……（询问情况的固定说法）"
+    }
+   ]
+  },
+  {
+   "i": 14,
+   "zh": "“他是我老板……好些个收集者都罩在他的影子底下，千真万确。我劝你别靠近他，除非你有十足的好理由去跟那人说话……我自己可从没跟他说过话。”",
+   "notes": [
+    "<code>He’s me boss</code> 中 <code>me</code>＝<code>my</code>，是口语中极常见的土腔用法（<code>me</code> 代替物主代词）；译文用“我老板”自然带出口吻。",
+    "<code>casts his shadow o’er a whole mess a’ Collectors</code>：<code>o’er</code>＝<code>over</code>（诗歌／方言缩略），<code>a whole mess a’</code>＝<code>a whole mess of</code>，“一大堆、好些个”；<code>cast one’s shadow over</code> 本义“把影子投在……上”，引申为“势力笼罩、管着一大片”。",
+    "<code>unless ye gots right good cause ta talk ta the man</code>：<code>gots</code> 是土腔里多加 -s 的写法（＝<code>got</code>／<code>have got</code>），<code>right good cause</code> 即“十足正当的理由”；<code>meself</code>＝<code>myself</code>，句末再次加重语气。"
+   ],
+   "vocab": [
+    {
+     "w": "casts",
+     "p": "/kɑːsts/",
+     "t": "v.",
+     "z": "投下，投射（cast 的第三人称单数；cast one’s shadow over 即“影子罩住”）"
+    },
+    {
+     "w": "Collectors",
+     "p": "/kəˈlektəz/",
+     "t": "n.",
+     "z": "收集者（尘人中负责收尸的人；此处词首大写源于原文）"
+    },
+    {
+     "w": "cause",
+     "p": "/kɔːz/",
+     "t": "n.",
+     "z": "理由，缘故（good cause 即“正当理由”）"
+    },
+    {
+     "w": "personally",
+     "p": "/ˈpɜːsənəli/",
+     "t": "adv.",
+     "z": "亲自，本人（I’ve never spoken with him personally 即“从没跟他本人说过话”）"
+    }
+   ]
+  },
+  {
+   "i": 15,
+   "zh": "“你知道法罗德在哪儿吗？”",
+   "notes": [
+    "疑问句用陈述语序（<code>where Pharod is</code>）作宾语从句，全句仍是 <code>Do you know...?</code> 引导的一般疑问句；这是间接疑问句的典型结构。",
+    "短短一句继续追问法罗德的下落，与第 9、13 段构成同一条追问链：法罗德→夏格雷夫→法罗德，显出无名氏只认目标、不在意闲谈。"
+   ],
+   "vocab": [
+    {
+     "w": "Do you know",
+     "p": "",
+     "t": "phr.",
+     "z": "你知道……吗（后接陈述语序的宾语从句）"
+    },
+    {
+     "w": "where",
+     "p": "/weə/",
+     "t": "adv.",
+     "z": "在哪里（引导宾语从句时句子不倒装）"
+    }
+   ]
+  },
+  {
+   "i": 16,
+   "zh": "“我知道那鼠辈杂种不在哪儿……他不在大多数收集者落脚的地方，也就是拾荒者广场；但据内情说，他就在那附近某处。”也许这夏格雷夫能帮我，只要他比法罗德好找些。我转身要走时，那收集者在后面喊了一声。",
+   "notes": [
+    "<code>I know where the rat-bastard isn’t</code> 是俏皮的反说：不明说“他在哪儿”，只说“我知道他不在哪儿”；<code>rat-bastard</code> 是骂人话（“鼠辈杂种”），比 <code>bastard</code> 多一层鼠辈的卑劣。",
+    "<code>he ain’t where most a’ the Collectors call kip</code>：<code>ain’t</code>＝<code>is not</code>，<code>call kip</code> 意为“把某处叫作住处”，即“落脚／安身的地方”。",
+    "<code>that he’s close by there somewhere’s the chant</code> 用倒装把表语从句提前，正常语序是 <code>the chant is that he’s close by there somewhere</code>；<code>the chant</code> 是印记城俚语，意为“内情、消息”。<code>assuming he was easier to find than Pharod</code> 是分词短语作条件状语，“只要他……”。"
+   ],
+   "vocab": [
+    {
+     "w": "rat-bastard",
+     "p": "",
+     "t": "n.",
+     "z": "鼠辈杂种（骂人话，含极强轻蔑）"
+    },
+    {
+     "w": "ain’t",
+     "p": "/eɪnt/",
+     "t": "v.",
+     "z": "＝is not／are not／am not（口语、土腔常用）"
+    },
+    {
+     "w": "kip",
+     "p": "/kɪp/",
+     "t": "n.",
+     "z": "（俚）住处，落脚处（call kip 即“把某处当作住处”）"
+    },
+    {
+     "w": "chant",
+     "p": "/tʃɑːnt/",
+     "t": "n.",
+     "z": "（俚）内情，消息，门道（印记城黑话）"
+    },
+    {
+     "w": "assuming",
+     "p": "/əˈsjuːmɪŋ/",
+     "t": "conj.",
+     "z": "假如，假定（作连词引导条件从句）"
+    }
+   ]
+  },
+  {
+   "i": 17,
+   "zh": "“行了，自己当心点，刀客。要是我在街上撞见你，我会善待你的尸首的。”",
+   "notes": [
+    "<code>keep yerself safe</code> 中 <code>yerself</code>＝<code>yourself</code>；“自己当心点”保留了这句劝告里的市井口气。",
+    "<code>cutter</code> 是印记城黑话，泛指“刀客、汉子、家伙”，街头打招呼时常带几分江湖气，此处是带威胁意味的招呼。",
+    "<code>If I find ye on the streets, I’ll be kind ta yer corpse.</code> 是一句黑色幽默的“祝福”：前提是你已经死了，所谓“善待”实指“我会替你收尸”。<code>be kind to</code> 的固定搭配在此被反讽地使用。"
+   ],
+   "vocab": [
+    {
+     "w": "cutter",
+     "p": "/ˈkʌtə/",
+     "t": "n.",
+     "z": "（俚）刀客，汉子，家伙（印记城街头对人的泛称）"
+    },
+    {
+     "w": "kind",
+     "p": "/kaɪnd/",
+     "t": "adj.",
+     "z": "和善的，厚道的（be kind to sb 即“善待某人”）"
+    },
+    {
+     "w": "corpse",
+     "p": "/kɔːps/",
+     "t": "n.",
+     "z": "尸体，尸首"
+    }
+   ]
+  },
+  {
+   "i": 18,
+   "zh": "一个獐头鼠目的家伙在垃圾堆间鬼鬼祟祟地溜来溜去，活像一片破破烂烂的影子。看见我和莫提，他朝我招了招手。",
+   "notes": [
+    "<code>weasely-looking</code> 由 <code>weasel</code>（黄鼠狼）加 <code>-y</code>、<code>-looking</code> 构成，“长得像黄鼠狼的”，中文用成语“獐头鼠目”对应这种猥琐相。",
+    "<code>skulking about the garbage like a tattered shadow</code>：<code>skulk</code> 意为“鬼鬼祟祟地潜行、躲躲藏藏”；<code>like a tattered shadow</code> 是明喻，把他写成垃圾堆里的一片破影，译文保留这个意象。",
+    "<code>Seeing me and Morte, he beckoned to me.</code> 句首现在分词短语作时间状语；<code>beckon to sb</code> 是“向某人招手（示意其过来）”，比 <code>wave</code> 更有“招呼你上前”的意味。"
+   ],
+   "vocab": [
+    {
+     "w": "weasely-looking",
+     "p": "",
+     "t": "adj.",
+     "z": "獐头鼠目的，长得像黄鼠狼的（含贬义）"
+    },
+    {
+     "w": "skulking",
+     "p": "/ˈskʌlkɪŋ/",
+     "t": "v.",
+     "z": "鬼鬼祟祟地潜行（skulk 的现在分词）"
+    },
+    {
+     "w": "garbage",
+     "p": "/ˈɡɑːbɪdʒ/",
+     "t": "n.",
+     "z": "垃圾，废弃物"
+    },
+    {
+     "w": "beckoned",
+     "p": "/ˈbekənd/",
+     "t": "v.",
+     "z": "招手示意（beckon to sb 即“向某人招手叫他过来”）"
+    }
+   ]
+  },
+  {
+   "i": 19,
+   "zh": "“嘶——嘘……哎！那颗骷髅。你打哪儿弄来的骷髅，哎？那是我的骷髅，是我的！还给我。”莫提转向那个蜂巢佬。",
+   "notes": [
+    "<code>Hsssssst… ey!</code> 是用字母拉长模拟的嘘声／嘶声，译文照原样用破折号与省略号拉长；<code>ey</code> 是市井口语里的招呼词，相当于“哎、喂”，全段反复出现，是他的口头禅。",
+    "<code>Th’skull</code> 是把 <code>the</code> 的元音吞掉后与 <code>skull</code> 连读的写法（约等于 <code>the skull</code>），显示此人说话含混、气声很重。",
+    "<code>Give it backta me</code> 中 <code>backta</code>＝<code>back to</code>，是语流中的连写；<code>Me skull, it is!</code> 是口语里把话题提前、再用代词复指的结构（“我的骷髅，它才是”），译文用“那是我的骷髅，是我的！”保留这份急切的抢白。"
+   ],
+   "vocab": [
+    {
+     "w": "Th'skull",
+     "p": "",
+     "t": "n.",
+     "z": "＝the skull（吞音连读写法）：那颗骷髅"
+    },
+    {
+     "w": "ey",
+     "p": "/eɪ/",
+     "t": "interj.",
+     "z": "（土腔）哎，喂（招呼、催促对方注意）"
+    },
+    {
+     "w": "skull",
+     "p": "/skʌl/",
+     "t": "n.",
+     "z": "头骨，骷髅"
+    },
+    {
+     "w": "Hiver",
+     "p": "/ˈhaɪvə/",
+     "t": "n.",
+     "z": "蜂巢居民，蜂巢佬（the Hive“蜂巢”加 -er）"
+    }
+   ]
+  },
+  {
+   "i": 20,
+   "zh": "“滚远点。”我倒是对这家伙更感兴趣了。",
+   "notes": [
+    "<code>Pike off</code> 是俚语命令句，相当于“滚开、滚远点”（<code>pike</code> 本义与“走开”相关，粗直而不算极脏），莫提说话一贯油滑刻薄，此处一句撵人了事。",
+    "叙述句用过去进行时 <code>I was more curious about this fellow.</code>，表示当时心里逐渐升起的兴趣，与莫提的冷淡形成对照；<code>be curious about</code> 是“对……感兴趣／好奇”的固定搭配。"
+   ],
+   "vocab": [
+    {
+     "w": "Pike off",
+     "p": "",
+     "t": "phr.",
+     "z": "（俚）滚开，滚远点（撵人的粗话）"
+    },
+    {
+     "w": "curious",
+     "p": "/ˈkjʊəriəs/",
+     "t": "adj.",
+     "z": "好奇的，感兴趣的（be curious about sth）"
+    },
+    {
+     "w": "fellow",
+     "p": "/ˈfeləʊ/",
+     "t": "n.",
+     "z": "家伙，汉子（口语中略带轻蔑或戏谑）"
+    }
+   ]
+  },
+  {
+   "i": 21,
+   "zh": "“你是谁？”他压根不理我，眼睛仍盯着莫提。",
+   "notes": [
+    "<code>He ignored me, still staring at Morte.</code> 中 <code>still staring</code> 是分词短语作伴随状语，表明“不理我”和“盯着莫提”是同时发生的动作，中文用“仍盯着”自然衔接。",
+    "<code>ignore</code> 意为“故意不理会、无视”，比 <code>not answer</code> 更能写出他眼中只有骷髅、全不管无名氏问话的痴态。"
+   ],
+   "vocab": [
+    {
+     "w": "ignored",
+     "p": "/ɪɡˈnɔːd/",
+     "t": "v.",
+     "z": "不理会，无视（ignore 的过去式）"
+    },
+    {
+     "w": "staring",
+     "p": "/ˈsteərɪŋ/",
+     "t": "v.",
+     "z": "盯着看（stare 的现在分词；stare at sb 即“盯着某人”）"
+    }
+   ]
+  },
+  {
+   "i": 22,
+   "zh": "“骷髅是我的，我的，哎！把它给我，我就当没你偷过这回事。”他嘟嘟囔囔，眯细的眼睛四下乱瞟。我对这家伙越来越不耐烦，索性让他自己去弄个明白。",
+   "notes": [
+    "<code>Skull’s mine, mine, ey!</code> 接连重复 <code>mine</code>，是痴人强调所有权的口吻；译文照样重复“我的，我的”，不合并为一句。",
+    "<code>I’ll forgit ye stole it.</code>：<code>forgit</code>＝<code>forget</code>，土腔拼法；这句是讨价还价式的哄骗——先许下“不追究”，只为把骷髅要回去。",
+    "<code>his narrowed eyes darting</code> 是独立主格结构（名词 + 现在分词），写他眼神躲闪、四处乱瞟，暗示他心虚或神志不清；<code>let him find out for himself</code> 意为“让他自己去弄明白”，暗示无名氏要放任莫提收拾他。"
+   ],
+   "vocab": [
+    {
+     "w": "forgit",
+     "p": "",
+     "t": "v.",
+     "z": "＝forget（土腔拼法）：忘记，不追究"
+    },
+    {
+     "w": "mumbled",
+     "p": "/ˈmʌmbld/",
+     "t": "v.",
+     "z": "含混地嘟囔（mumble 的过去式）"
+    },
+    {
+     "w": "darting",
+     "p": "/ˈdɑːtɪŋ/",
+     "t": "v.",
+     "z": "（目光）飞快地扫动、乱瞟（dart 的现在分词）"
+    },
+    {
+     "w": "annoyed",
+     "p": "/əˈnɔɪd/",
+     "t": "adj.",
+     "z": "恼火的，不耐烦的"
+    }
+   ]
+  }
+ ]
+}

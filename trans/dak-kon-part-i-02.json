@@ -1,0 +1,686 @@
+{
+ "chapter": "Dak'kon, Part I",
+ "chunk": "dak-kon-part-i-02",
+ "items": [
+  {
+   "i": 23,
+   "zh": "“这刀刃象征着什么位阶？”",
+   "notes": [
+    "<code>What rank does the blade signify?</code> 是特殊疑问句：<code>rank</code> 作 <code>signify</code> 的宾语时被提前，助动词 <code>does</code> 留在主语 <code>the blade</code> 之前。",
+    "<code>signify</code> 比 <code>mean</code> 更书面，含“以符号标示、象征”之意，正合达肯提到刀刃是标记的语气。",
+    "无名氏的问话只有一句，简短直接；中文也用短句，不加“请问”之类的客套，保持对话的冷硬节奏。"
+   ],
+   "vocab": [
+    {
+     "w": "rank",
+     "p": "/ræŋk/",
+     "t": "n.",
+     "z": "位阶，等级，军衔；此处指泽斯在族中的身份高低"
+    },
+    {
+     "w": "signify",
+     "p": "/ˈsɪɡnɪfaɪ/",
+     "t": "v.",
+     "z": "表示，象征，意味着（较 mean 更正式）"
+    },
+    {
+     "w": "blade",
+     "p": "/bleɪd/",
+     "t": "n.",
+     "z": "刀刃，刀身；也指持刀的人，此处指刀本身"
+    }
+   ]
+  },
+  {
+   "i": 24,
+   "zh": "“刀是泽斯佩戴的标记。泽斯，就是知晓泽西蒙之言的人。既知晓泽西蒙之言，他们便认识了自己。”",
+   "notes": [
+    "<code>A zerth is one who knows the words of Zerthimon.</code> 中 <code>one who...</code> 是“（那个）……的人”的定义式说法，语带箴言味；中文用“就是……的人”对应。",
+    "<code>In knowing the words of Zerthimon, they know themselves.</code> 是 <code>in doing sth</code> 表原因、条件的结构，相当于“既……便……”；<code>they</code> 指前句的 zerth（单数概念、复数所指）。",
+    "<code>Zerthimon</code> 是吉斯泽莱传说中的立族者，与族称 <code>zerth</code>（泽斯）同源；本章反复以“知晓／认识自己”为核心词，译名须处处一致。"
+   ],
+   "vocab": [
+    {
+     "w": "zerth",
+     "p": "/zɜːθ/",
+     "t": "n.",
+     "z": "泽斯；吉斯泽莱人中知晓泽西蒙之言的修行者、智者"
+    },
+    {
+     "w": "symbol",
+     "p": "/ˈsɪmbl/",
+     "t": "n.",
+     "z": "象征，标记，符号"
+    },
+    {
+     "w": "carried",
+     "p": "/ˈkærid/",
+     "t": "v.(过去分词)",
+     "z": "被携带的；carry a symbol 佩戴标记、身上带着标志"
+    },
+    {
+     "w": "knowing",
+     "p": "/ˈnəʊɪŋ/",
+     "t": "n./v.-ing",
+     "z": "知晓，认识；此处为动名词，作介词 in 的宾语"
+    }
+   ]
+  },
+  {
+   "i": 25,
+   "zh": "“泽西蒙？”我又追问了一句。",
+   "notes": [
+    "这句是叙述句，只把专名重复一遍再加一个问号，表示无名氏抓住这个词往下追问；中文用“又追问了一句”比“又提示道”自然。",
+    "<code>prompt</code> 在此是“提示、促使（对方说下去）”，不是“催促”；<code>again</code> 说明他已不止一次这样引达肯开口。",
+    "达肯每答一句都极短，无名氏只能靠抛出一个词换他继续说，译文不宜把这一问扩写成长句。"
+   ],
+   "vocab": [
+    {
+     "w": "prompted",
+     "p": "/ˈprɒmptɪd/",
+     "t": "v.",
+     "z": "提示，追问，促使（某人继续说）"
+    },
+    {
+     "w": "again",
+     "p": "/əˈɡen/",
+     "t": "adv.",
+     "z": "再次，又；此处表示又一次追问"
+    }
+   ]
+  },
+  {
+   "i": 26,
+   "zh": "“泽西蒙创立了我们这一族。在吉斯泽莱人认识自己之前，他已认识了他们。他为族人立下界说。他赐予他们同一个心智。”",
+   "notes": [
+    "全段四个短句，都以 <code>He</code> 或 <code>He</code> 的省略主语开头，是典型的祭仪式排比；中文同样用“他……”起句，保留那种念诵般的节奏。",
+    "<code>He knew the githzerai before they knew themselves</code> 中 <code>before</code> 引导时间状语从句，主句用过去时、从句也用过去时，表示“在……之前就已……”。",
+    "<code>He defined the People.</code> 的 <code>define</code> 是“给……下定义、划定其为怎样一个存在”，比“描述”重，故译“立下界说”；<code>He gave them one mind.</code> 的 <code>one mind</code> 指同心一志、万众一心。"
+   ],
+   "vocab": [
+    {
+     "w": "founded",
+     "p": "/ˈfaʊndɪd/",
+     "t": "v.",
+     "z": "创立，缔造，奠定（种族、城邦、学说）"
+    },
+    {
+     "w": "race",
+     "p": "/reɪs/",
+     "t": "n.",
+     "z": "种族，族类；此处指吉斯泽莱这一族"
+    },
+    {
+     "w": "defined",
+     "p": "/dɪˈfaɪnd/",
+     "t": "v.",
+     "z": "界定，给……下定义；使……具有明确形态"
+    },
+    {
+     "w": "mind",
+     "p": "/maɪnd/",
+     "t": "n.",
+     "z": "心智，心志；one mind 同一个心智、一条心"
+    }
+   ]
+  },
+  {
+   "i": 27,
+   "zh": "“你似乎对‘知晓’格外强调。你指的是什么？”",
+   "notes": [
+    "<code>place an emphasis on sth</code> 是固定搭配，“把重点放在某事上”；<code>special</code> 加强语气，故译“格外强调”。",
+    "<code>‘knowing’</code> 用单引号标出，是在引对方刚说过的一个词，中文相应地加上引号，才能看出无名氏在追问达肯的用词。",
+    "<code>What do you mean?</code> 是口语里追问定义的常用句，译“你指的是什么”比“你是什么意思”更贴合他在抠字眼。"
+   ],
+   "vocab": [
+    {
+     "w": "emphasis",
+     "p": "/ˈemfəsɪs/",
+     "t": "n.",
+     "z": "强调，重点；place an emphasis on 着重于"
+    },
+    {
+     "w": "special",
+     "p": "/ˈspeʃl/",
+     "t": "adj.",
+     "z": "特别的，格外的；a special emphasis 着意的强调"
+    },
+    {
+     "w": "knowing",
+     "p": "/ˈnəʊɪŋ/",
+     "t": "n.",
+     "z": "知晓，认识；此处被引号括起，指达肯口中那个关键词"
+    }
+   ]
+  },
+  {
+   "i": 28,
+   "zh": "“万物，无论石造之物还是血肉之躯——其存在皆由对自身的认识所界定。”",
+   "notes": [
+    "<code>whether structure or flesh</code> 是 <code>whether A or B</code> 的让步/选择结构，作插入语补充说明 <code>all things</code>，译“无论……还是……”。",
+    "<code>structure</code> 在此指“建造之物、构体”（与血肉之躯相对），故译“石造之物”，与达肯石一般的语感相合。",
+    "<code>their existence is defined by their knowing of themselves</code> 是被动语态：<code>is defined by</code> “由……所界定”，<code>knowing</code> 是动名词，<code>of themselves</code> 是它的宾语，全句即“存在取决于自我认识”。"
+   ],
+   "vocab": [
+    {
+     "w": "structure",
+     "p": "/ˈstrʌktʃə(r)/",
+     "t": "n.",
+     "z": "结构，构造；此处指建造而成的物体，与血肉相对"
+    },
+    {
+     "w": "flesh",
+     "p": "/fleʃ/",
+     "t": "n.",
+     "z": "肉，血肉之躯；structure or flesh 石造之物与血肉之躯"
+    },
+    {
+     "w": "existence",
+     "p": "/ɪɡˈzɪstəns/",
+     "t": "n.",
+     "z": "存在；存在的方式"
+    },
+    {
+     "w": "defined",
+     "p": "/dɪˈfaɪnd/",
+     "t": "v.(被动)",
+     "z": "被界定，被规定；be defined by 由……决定其性质"
+    }
+   ]
+  },
+  {
+   "i": 29,
+   "zh": "“那如果一个人不认识自己呢？”",
+   "notes": [
+    "<code>And if...</code> 是省略了主句的条件句，用于接过对方的话头假设一种情形；中文用“那如果……呢”保持同一语气。",
+    "<code>a man</code> 用不定冠词，是泛指“任何一个人”，不是特指某男子；中文用“一个人”对应。",
+    "<code>does not know</code> 用一般现在时表泛指的情形，而非此刻正在发生，说明无名氏是在做推演，不是在问达肯本人。"
+   ],
+   "vocab": [
+    {
+     "w": "man",
+     "p": "/mæn/",
+     "t": "n.",
+     "z": "人（泛指），男子；a man 任何一个人"
+    },
+    {
+     "w": "know",
+     "p": "/nəʊ/",
+     "t": "v.",
+     "z": "认识，了解；know oneself 认识自己"
+    }
+   ]
+  },
+  {
+   "i": 30,
+   "zh": "“心智不认识自己，便有缺陷。心智有缺陷，人便有缺陷。人有缺陷，他所触碰之物便有缺陷。”达肯顿了顿。“据说，有缺陷的人所见的，到了他手中便成了破碎。”",
+   "notes": [
+    "前三个分句是同头叠尾的顶针句式（<code>flawed</code> 结上句、起下句），像推演也像咒文；中文照此链式推进，不能改写成并列句。",
+    "<code>that which he touches</code> 是 <code>that which</code> 引导的名词性从句，等于 <code>what he touches</code>，比 <code>what</code> 更庄重，故译“他所触碰之物”。",
+    "<code>It is said that...</code> 是“据说”的固定句型，引出族中流传的箴言；<code>his hands make broken</code> 语序倒装，相当于 <code>his hands make (it) broken</code>——“他手所做，皆成残破”。"
+   ],
+   "vocab": [
+    {
+     "w": "flawed",
+     "p": "/flɔːd/",
+     "t": "adj.",
+     "z": "有缺陷的，有瑕疵的；本章反复出现的关键词"
+    },
+    {
+     "w": "paused",
+     "p": "/pɔːzd/",
+     "t": "v.",
+     "z": "停顿，暂停；pause 此处指说话中间的一顿"
+    },
+    {
+     "w": "touches",
+     "p": "/ˈtʌtʃɪz/",
+     "t": "v.",
+     "z": "触碰，触及；that which he touches 他所触及的东西"
+    },
+    {
+     "w": "broken",
+     "p": "/ˈbrəʊkən/",
+     "t": "adj.",
+     "z": "破碎的，残破的；make broken 使其残破"
+    }
+   ]
+  },
+  {
+   "i": 31,
+   "zh": "“你认识你自己吗？”",
+   "notes": [
+    "这是接住上句“人有缺陷”的推论直刺本人，句子短到只有四个词，中文也要短，不加任何修饰。",
+    "一般现在时 <code>Do you know...</code> 问的是当下、一贯的状态，而非某一次的行为，因此这一问等于逼达肯表态。",
+    "这句问话在第 33 段被无名氏原样重复（<code>I ask again</code>），译文必须与这里完全一字不差，前后呼应才成立。"
+   ],
+   "vocab": [
+    {
+     "w": "Do you know yourself",
+     "p": "",
+     "t": "短语",
+     "z": "（问句）你认识你自己吗；本章反复出现的追问"
+    },
+    {
+     "w": "yourself",
+     "p": "/jɔːˈself/",
+     "t": "pron.",
+     "z": "你自己（反身代词）；know yourself 认识你自己"
+    }
+   ]
+  },
+  {
+   "i": 32,
+   "zh": "达肯沉默下来。他那双煤黑色的眼睛又浮起我初次与他说话时见过的那种疏离。我感到这个问题要紧，便逼问下去。",
+   "notes": [
+    "<code>took on</code> 是“呈现出（某种神色、面貌）”，如 <code>take on a new look</code>；此处指眼里浮现出某种神情。",
+    "<code>the same distance that I noticed when I first spoke</code> 中 <code>that</code> 引导定语从句修饰 <code>distance</code>；<code>distance</code> 是抽象名词，指神情上的“疏远、出神”，不是空间距离。",
+    "<code>I sensed this question was important, so I pressed him.</code> 中 <code>sensed</code> 后省略了连词 <code>that</code>；<code>press</code> 意为“紧逼、追问”，比 <code>ask</code> 用力得多。"
+   ],
+   "vocab": [
+    {
+     "w": "silent",
+     "p": "/ˈsaɪlənt/",
+     "t": "adj.",
+     "z": "沉默的，不出声的；fall silent 静默下来"
+    },
+    {
+     "w": "coal black",
+     "p": "",
+     "t": "adj.",
+     "z": "煤黑色的，乌黑的；形容达肯的眼睛"
+    },
+    {
+     "w": "distance",
+     "p": "/ˈdɪstəns/",
+     "t": "n.",
+     "z": "距离；此处指神情上的疏离、出神、遥不可及"
+    },
+    {
+     "w": "pressed",
+     "p": "/prest/",
+     "t": "v.",
+     "z": "催促，追问，紧逼；press sb 逼某人（回答）"
+    }
+   ]
+  },
+  {
+   "i": 33,
+   "zh": "“我再问一次：你认识你自己吗？”达肯再开口时，声音已经变了；他的话语带着回声，像一块巨石落入深渊。他像是硬生生把字句从胸腔里挤出来。",
+   "notes": [
+    "<code>When Dak'kon spoke again</code> 是时间状语从句；<code>his voice had changed</code> 用过去完成时，表示“在开口那一刻之前就已经变了”，故译“已经变了”。",
+    "<code>like a great stone dropped into a chasm</code> 中 <code>dropped</code> 是过去分词作后置定语，等于 <code>that was dropped</code>；中文用“落入深渊”的动词结构还原。",
+    "<code>It looked like he was forcing...</code> 的 <code>looked like</code> 在此是“看上去好像”，表叙述者的观感；<code>force sth from</code> 意为“硬把……从……里逼出来”。"
+   ],
+   "vocab": [
+    {
+     "w": "echoed",
+     "p": "/ˈekəʊd/",
+     "t": "v.",
+     "z": "回响，发出回声；echo 还可用作名词“回声”"
+    },
+    {
+     "w": "chasm",
+     "p": "/ˈkæzəm/",
+     "t": "n.",
+     "z": "深渊，裂谷，巨大裂隙"
+    },
+    {
+     "w": "forcing",
+     "p": "/ˈfɔːsɪŋ/",
+     "t": "v.-ing",
+     "z": "强行挤出，硬逼；force sth from sth 把……从……中强取出来"
+    },
+    {
+     "w": "chest",
+     "p": "/tʃest/",
+     "t": "n.",
+     "z": "胸膛，胸腔"
+    }
+   ]
+  },
+  {
+   "i": 34,
+   "zh": "“让你知道这些，并非我的意愿。”我如今确信，他的回答——或者说他的拒绝回答——会告诉我许多东西。",
+   "notes": [
+    "<code>It is not my will that you know this.</code> 中 <code>It</code> 是形式主语，真正的主语是 <code>that</code> 从句；<code>will</code> 是名词“意愿”，不是助动词，故译“并非我的意愿”。",
+    "<code>his answer, or refusal to answer</code> 用 <code>or</code> 引出同位性质的更正，等于“或者说”；<code>refusal to do sth</code> 是固定搭配“拒绝做某事”。",
+    "<code>would tell me much</code> 用 <code>would</code> 表过去将来，即“（我确信）它将会告诉我很多”，不是虚拟语气。"
+   ],
+   "vocab": [
+    {
+     "w": "will",
+     "p": "/wɪl/",
+     "t": "n.",
+     "z": "意愿，意志；此处是名词，故前面有 my 修饰"
+    },
+    {
+     "w": "refusal",
+     "p": "/rɪˈfjuːzl/",
+     "t": "n.",
+     "z": "拒绝；refusal to do sth 拒绝做某事"
+    },
+    {
+     "w": "sure",
+     "p": "/ʃʊə(r)/",
+     "t": "adj.",
+     "z": "确信的，肯定的；I was sure (that)... 我确信……"
+    }
+   ]
+  },
+  {
+   "i": 35,
+   "zh": "“也许我把它说成一个问题，是太客气了：告诉我。”回答的话从达肯口中缓缓出来，仿佛是被一个字一个字抬出来的。",
+   "notes": [
+    "<code>I was being too kind</code> 用过去进行时 <code>was being</code>，强调“（刚才）那么做显得太客气”，是一种对自身行为的临时评判。",
+    "<code>phrasing it as a question</code> 是分词短语作状语，<code>phrase sth as sth</code> 意为“把……说成、表述为……”；冒号后 <code>Tell me.</code> 由问句改为命令，正是无名氏在施压，译文用冒号加命令句保留这一转折。",
+    "<code>as if they were being carried one by one</code> 用 <code>as if</code> 加过去进行时的被动式表虚拟；<code>one by one</code> 是固定短语“一个接一个”。"
+   ],
+   "vocab": [
+    {
+     "w": "Perhaps",
+     "p": "/pəˈhæps/",
+     "t": "adv.",
+     "z": "也许，或许；比 maybe 略正式"
+    },
+    {
+     "w": "kind",
+     "p": "/kaɪnd/",
+     "t": "adj.",
+     "z": "客气的，体贴的，善意的"
+    },
+    {
+     "w": "phrasing",
+     "p": "/ˈfreɪzɪŋ/",
+     "t": "v.-ing",
+     "z": "措辞，表述；phrase sth as sth 把……表述为……"
+    },
+    {
+     "w": "carried",
+     "p": "/ˈkærid/",
+     "t": "v.(被动)",
+     "z": "被搬运，被抬送；one by one 一个接一个"
+    }
+   ]
+  },
+  {
+   "i": 36,
+   "zh": "“这……终于成了事实：我已不再认识我自己。”达肯的声音低了下去，如沙砾一般。“我不知道为什么。一切确已发生，我却不知其始末，不知其缘由……也不知该如何再次认识我自己。”这些话让我生出一种悲哀，我小心地把它压在心底，不让达肯察觉，因为他显然不会领这份情。我转开了话头，谈些更无关痛痒的事。",
+   "notes": [
+    "<code>It… has come to pass that...</code> 是固定说法，<code>come to pass</code> 意为“发生、应验”，语气古旧庄重，常带宿命感；<code>It</code> 是形式主语，<code>that</code> 从句才是真主语。",
+    "<code>I know not the how, nor the when</code> 是古体否定用法，<code>know not</code> 等于 <code>do not know</code>，<code>nor</code> 连接并列成分并引起倒装式的省略，故译“不知其始末，不知其缘由”。",
+    "<code>keep it on the inside</code> 是口语说法，“把它藏在心里、不外露”；<code>away from Dak'kon</code> 的 <code>away from</code> 表“避开、不让……看到”。<code>would not appreciate it</code> 中 <code>appreciate</code> 意为“领会、领情”，不是“感激”。"
+   ],
+   "vocab": [
+    {
+     "w": "pass",
+     "p": "/pɑːs/",
+     "t": "v.",
+     "z": "发生，应验；come to pass 成为事实（古雅说法）"
+    },
+    {
+     "w": "whisper",
+     "p": "/ˈwɪspə(r)/",
+     "t": "n.",
+     "z": "低语，耳语，气声；drop to a whisper 压低成耳语"
+    },
+    {
+     "w": "sadness",
+     "p": "/ˈsædnəs/",
+     "t": "n.",
+     "z": "悲伤，悲哀"
+    },
+    {
+     "w": "appreciate",
+     "p": "/əˈpriːʃieɪt/",
+     "t": "v.",
+     "z": "领会，体谅，领情；此处不是“感激”"
+    },
+    {
+     "w": "neutral",
+     "p": "/ˈnjuːtrəl/",
+     "t": "adj.",
+     "z": "中立的，不带感情的；a neutral subject 无关痛痒的话题"
+    }
+   ]
+  },
+  {
+   "i": 37,
+   "zh": "“你能跟我说说这座城市吗？”",
+   "notes": [
+    "<code>Can you tell me about...?</code> 是最普通的请求句式，语力很轻，正好用来把话题从达肯的隐痛上岔开。",
+    "<code>this city</code> 用 <code>this</code> 指眼前所在的城，尚未点出名字，所以下一段达肯才报出城名。",
+    "原文一句问话独立成段，中文保持一句，不加任何过渡语，避免破坏达肯与无名氏之间一问一答的干脆节奏。"
+   ],
+   "vocab": [
+    {
+     "w": "tell",
+     "p": "/tel/",
+     "t": "v.",
+     "z": "告诉，讲述；tell sb about sth 向某人讲说某事"
+    },
+    {
+     "w": "about",
+     "p": "/əˈbaʊt/",
+     "t": "prep.",
+     "z": "关于，有关；tell me about sth 给我讲讲某事"
+    }
+   ]
+  },
+  {
+   "i": 38,
+   "zh": "“它的名字是‘印记城’。在族人中间，它被称作那座不认识自己的城。”",
+   "notes": [
+    "<code>It is known by the name ‘Sigil.’</code> 是被动结构，<code>by the name</code> 意为“以……之名”；<code>is known as</code> 则是“被称为、作为……而闻名”，两个搭配在此对举。",
+    "<code>Among the People, it is known as...</code> 中 <code>among</code> 表“在……中间、在……当中”，主语仍是 <code>it</code>（城市）；<code>the People</code> 特指吉斯泽莱族人。",
+    "<code>the city that does not know itself</code> 用 <code>that</code> 引导定语从句，且以否定式修饰整座城市，与前面“人不认识自己便有缺陷”构成同一套说法的呼应。"
+   ],
+   "vocab": [
+    {
+     "w": "Sigil",
+     "p": "/ˈsɪdʒɪl/",
+     "t": "n.",
+     "z": "印记城（城名，通译“印记城”）；sigil 本义“印记、符印”"
+    },
+    {
+     "w": "Among",
+     "p": "/əˈmʌŋ/",
+     "t": "prep.",
+     "z": "在……中间，在……当中；Among the People 在族人中间"
+    },
+    {
+     "w": "People",
+     "p": "/ˈpiːpl/",
+     "t": "n.",
+     "z": "族人；此处特指吉斯泽莱人自称的“族人”"
+    }
+   ]
+  },
+  {
+   "i": 39,
+   "zh": "“它不认识自己？你指的是什么？”",
+   "notes": [
+    "<code>It doesn’t know itself?</code> 是回声问句：把对方刚说的话原样抛回去再加问号，表示惊讶与不解，中文用“它不认识自己？”照搬这种回声效果。",
+    "注意这里 <code>It</code> 指城市，<code>itself</code> 是反身代词，与上文的 <code>know yourself</code> 形成同一动词搭配的换位使用。",
+    "<code>What do you mean?</code> 与第 27 段问达肯同一个句子，无名氏又一次被抽象说法卡住，故译文与前面保持一致。"
+   ],
+   "vocab": [
+    {
+     "w": "What do you mean?",
+     "p": "",
+     "t": "短语",
+     "z": "（口语）你指的是什么；追问对方用语的固定问句"
+    },
+    {
+     "w": "itself",
+     "p": "/ɪtˈself/",
+     "t": "pron.",
+     "z": "它自己（反身代词）；know itself 认识自身"
+    }
+   ]
+  },
+  {
+   "i": 40,
+   "zh": "“这座城存在着，却不认识自己。正因不认识自己，它的存在便有缺陷。”",
+   "notes": [
+    "<code>In not knowing itself</code> 是 <code>in doing sth</code> 结构，表原因：“由于不认识自己”；否定动名词 <code>not knowing</code> 需把 <code>not</code> 放在动名词之前。",
+    "本段与第 30 段“心智不认识自己便有缺陷”的句式完全平行，只是主语从 <code>a mind</code> 换成 <code>the city</code>；这是达肯把同一命题套用于印记城，译文句式也要平行。",
+    "<code>its existence is flawed</code> 中 <code>flawed</code> 是形容词作表语，译“有缺陷”，与前文 <code>flawed man</code>“有缺陷的人”用同一词根。"
+   ],
+   "vocab": [
+    {
+     "w": "exists",
+     "p": "/ɪɡˈzɪsts/",
+     "t": "v.",
+     "z": "存在，实有；exist 强调实际存在而非仅被设想"
+    },
+    {
+     "w": "flawed",
+     "p": "/flɔːd/",
+     "t": "adj.",
+     "z": "有缺陷的，有毛病的；本章核心词"
+    }
+   ]
+  },
+  {
+   "i": 41,
+   "zh": "“这座城的存在与自身相悖。它把自己与诸界分隔开来，却又想同时无所不在。它的城墙就是门，可它偏把这些门锁着。这样的存在说明的是一个不认识自己的东西。既不认识自己，它便有缺陷。”我琢磨他这番话，组织起一条反驳，摆出了几分思路的灵活劲——我心里清楚，不久之前我还绝没有这份本事。",
+   "notes": [
+    "<code>in opposition to itself</code> 意为“与自身相对立、相矛盾”；<code>set itself apart from</code> 是固定搭配，“把自己与……区分、隔离开”。",
+    "<code>Its walls are doors, yet it keeps these doors locked.</code> 用 <code>yet</code> 表转折，<code>keep sth done</code>（keep + 宾语 + 过去分词）表示“使某物保持某种状态”，此处即“让门一直锁着”；<code>tells of</code> 意为“表明、说明”。",
+    "<code>displaying a suppleness of mind</code> 是分词短语作伴随状语；<code>suppleness</code> 本指“柔软、柔韧”，此处喻思维灵活。<code>which I felt sure I could not have managed</code> 是定语从句，修饰 <code>a suppleness</code>，虚拟形式 <code>could not have managed</code> 指“（若在过去）本来做不到”。"
+   ],
+   "vocab": [
+    {
+     "w": "opposition",
+     "p": "/ˌɒpəˈzɪʃn/",
+     "t": "n.",
+     "z": "对立，相反；in opposition to 与……相对立"
+    },
+    {
+     "w": "planes",
+     "p": "/pleɪnz/",
+     "t": "n.",
+     "z": "诸界，位面（单数 plane）；异域设定中并存的各个世界"
+    },
+    {
+     "w": "locked",
+     "p": "/lɒkt/",
+     "t": "adj./v.(过去分词)",
+     "z": "锁着的；keep sth locked 让某物一直锁着"
+    },
+    {
+     "w": "walls",
+     "p": "/wɔːlz/",
+     "t": "n.",
+     "z": "墙，城墙；其复数指环绕城市的墙体"
+    },
+    {
+     "w": "suppleness",
+     "p": "/ˈsʌplnəs/",
+     "t": "n.",
+     "z": "柔韧；喻（思路的）灵活、机变"
+    }
+   ]
+  },
+  {
+   "i": 42,
+   "zh": "“可要是这座城市并没有缺陷呢？一样东西不必非得有条理、有目的，才算认识自己。要是这些矛盾其实是你看不出的强项呢？”",
+   "notes": [
+    "<code>What if...?</code> 提出假设并反问，等于“要是……又怎样”；两句 <code>What if</code> 连用，是无名氏在步步反问达肯。",
+    "<code>A thing does not need to be ordered and have a purpose to know itself.</code> 中 <code>need to</code> 后接两个并列不定式 <code>be</code> 与 <code>have</code>（第二个省略了 <code>to</code>）；<code>be ordered</code> 是被动不定式，“有条理、有秩序”。",
+    "<code>strengths that you cannot see</code> 是定语从句，修饰 <code>strengths</code>；<code>you cannot see</code> 表面说“你看不见”，实则暗指达肯的成见，中文用“是你看不出的”保留这一刺。"
+   ],
+   "vocab": [
+    {
+     "w": "ordered",
+     "p": "/ˈɔːdəd/",
+     "t": "adj./v.(被动)",
+     "z": "有秩序的，有条理的；be ordered 井然有序"
+    },
+    {
+     "w": "purpose",
+     "p": "/ˈpɜːpəs/",
+     "t": "n.",
+     "z": "目的，意图；have a purpose 有目的、有用途"
+    },
+    {
+     "w": "strengths",
+     "p": "/streŋθs/",
+     "t": "n.",
+     "z": "长处，强项，优势（strength 的复数）"
+    }
+   ]
+  },
+  {
+   "i": 43,
+   "zh": "“对你的问题，我回以一个提问：倘若这座城确实有缺陷，而它的矛盾就在你四周，你又当如何？”",
+   "notes": [
+    "<code>To your question, a question:</code> 是省略句，完整说法近于 <code>To your question I answer with a question</code>；介词 <code>to</code> 表“针对”，中文用“对你的问题，我回以一个提问”还原这种句法游戏。",
+    "<code>What if the city is flawed, and you see its contradictions all around you?</code> 是把对方的假设反掷回去：你问“若非如此”，我便问“若果如此”；<code>all around you</code> 意为“在你四周、比比皆是”。",
+    "达肯惯用“以问answer问”的方式回应，不正面驳论；这段与下一段无名氏的 <code>To your question, a question</code> 构成对称回敬，译文两处须用同一句式。"
+   ],
+   "vocab": [
+    {
+     "w": "question",
+     "p": "/ˈkwestʃən/",
+     "t": "n.",
+     "z": "问题，疑问；To your question, a question 以问answer问"
+    },
+    {
+     "w": "contradictions",
+     "p": "/ˌkɒntrəˈdɪkʃnz/",
+     "t": "n.",
+     "z": "矛盾，相悖之处"
+    },
+    {
+     "w": "all around",
+     "p": "",
+     "t": "短语",
+     "z": "在四周，到处；all around you 在你周围"
+    }
+   ]
+  },
+  {
+   "i": 44,
+   "zh": "“对你的问题，我回以一个提问：你断言这座城的存在有缺陷。你接受了这一点，却不去探问是否可能存在某种更宏大的东西。这说明你是有缺陷的……你不寻求真知，只寻求一个方便的答案。”达肯沉默下来。",
+   "notes": [
+    "<code>You have accepted this rather than explore...</code> 中 <code>rather than</code> 连接两个并列成分，表示“是……而不是……”；其后 <code>explore</code> 与前句的 <code>have accepted</code> 共用完成时意义。",
+    "<code>That suggests you are flawed</code> 的 <code>That</code> 指代前面整句所述行为（接受缺陷论而不追问），译“这说明”即可；<code>suggests</code> 在此是“表明、意味着”，不是“建议”。",
+    "<code>not... but only...</code> 是“不是……而只是……”的对照结构，末句戳破无名氏图省事。结尾 <code>Dak'kon fell silent.</code> 与第 32 段重复，达肯以沉默收束，不给反驳的余地。"
+   ],
+   "vocab": [
+    {
+     "w": "claim",
+     "p": "/kleɪm/",
+     "t": "v.",
+     "z": "断言，声称；此处指无名氏的说法"
+    },
+    {
+     "w": "accepted",
+     "p": "/əkˈseptɪd/",
+     "t": "v.",
+     "z": "接受，认可；accept sth rather than do sth 宁接受……而不去……"
+    },
+    {
+     "w": "possibility",
+     "p": "/ˌpɒsəˈbɪləti/",
+     "t": "n.",
+     "z": "可能性；explore the possibility 探究某种可能"
+    },
+    {
+     "w": "suggests",
+     "p": "/səˈdʒests/",
+     "t": "v.",
+     "z": "表明，意味着，暗示（非“建议”）"
+    },
+    {
+     "w": "convenient",
+     "p": "/kənˈviːniənt/",
+     "t": "adj.",
+     "z": "方便的，省事的，图省力的"
+    }
+   ]
+  }
+ ]
+}

@@ -1,146 +1,66 @@
 [
  {
-  "name": "the-mortuary-01",
-  "chapter": "The Mortuary",
-  "slug": "the-mortuary",
+  "name": "buried-village-01",
+  "chapter": "Buried Village",
+  "slug": "buried-village",
   "first": 1,
   "last": 22,
   "count": 22
  },
  {
-  "name": "the-mortuary-02",
-  "chapter": "The Mortuary",
-  "slug": "the-mortuary",
+  "name": "buried-village-02",
+  "chapter": "Buried Village",
+  "slug": "buried-village",
   "first": 23,
   "last": 44,
   "count": 22
  },
  {
-  "name": "the-mortuary-03",
-  "chapter": "The Mortuary",
-  "slug": "the-mortuary",
+  "name": "buried-village-03",
+  "chapter": "Buried Village",
+  "slug": "buried-village",
   "first": 45,
   "last": 66,
   "count": 22
  },
  {
-  "name": "the-mortuary-04",
-  "chapter": "The Mortuary",
-  "slug": "the-mortuary",
+  "name": "buried-village-04",
+  "chapter": "Buried Village",
+  "slug": "buried-village",
   "first": 67,
   "last": 88,
   "count": 22
  },
  {
-  "name": "the-mortuary-05",
-  "chapter": "The Mortuary",
-  "slug": "the-mortuary",
+  "name": "buried-village-05",
+  "chapter": "Buried Village",
+  "slug": "buried-village",
   "first": 89,
-  "last": 110,
-  "count": 22
+  "last": 98,
+  "count": 10
  },
  {
-  "name": "the-mortuary-06",
-  "chapter": "The Mortuary",
-  "slug": "the-mortuary",
-  "first": 111,
-  "last": 132,
-  "count": 22
- },
- {
-  "name": "the-mortuary-07",
-  "chapter": "The Mortuary",
-  "slug": "the-mortuary",
-  "first": 133,
-  "last": 154,
-  "count": 22
- },
- {
-  "name": "the-mortuary-08",
-  "chapter": "The Mortuary",
-  "slug": "the-mortuary",
-  "first": 155,
-  "last": 174,
-  "count": 20
- },
- {
-  "name": "deionarra-01",
-  "chapter": "Deionarra",
-  "slug": "deionarra",
+  "name": "unbroken-circle-of-zerthimon-part-i-01",
+  "chapter": "Unbroken Circle Of Zerthimon, Part I",
+  "slug": "unbroken-circle-of-zerthimon-part-i",
   "first": 1,
   "last": 22,
   "count": 22
  },
  {
-  "name": "deionarra-02",
-  "chapter": "Deionarra",
-  "slug": "deionarra",
+  "name": "unbroken-circle-of-zerthimon-part-i-02",
+  "chapter": "Unbroken Circle Of Zerthimon, Part I",
+  "slug": "unbroken-circle-of-zerthimon-part-i",
   "first": 23,
   "last": 44,
   "count": 22
  },
  {
-  "name": "deionarra-03",
-  "chapter": "Deionarra",
-  "slug": "deionarra",
+  "name": "unbroken-circle-of-zerthimon-part-i-03",
+  "chapter": "Unbroken Circle Of Zerthimon, Part I",
+  "slug": "unbroken-circle-of-zerthimon-part-i",
   "first": 45,
-  "last": 66,
-  "count": 22
- },
- {
-  "name": "deionarra-04",
-  "chapter": "Deionarra",
-  "slug": "deionarra",
-  "first": 67,
-  "last": 75,
-  "count": 9
- },
- {
-  "name": "the-hive-01",
-  "chapter": "The Hive",
-  "slug": "the-hive",
-  "first": 1,
-  "last": 22,
-  "count": 22
- },
- {
-  "name": "the-hive-02",
-  "chapter": "The Hive",
-  "slug": "the-hive",
-  "first": 23,
-  "last": 44,
-  "count": 22
- },
- {
-  "name": "the-hive-03",
-  "chapter": "The Hive",
-  "slug": "the-hive",
-  "first": 45,
-  "last": 66,
-  "count": 22
- },
- {
-  "name": "the-hive-04",
-  "chapter": "The Hive",
-  "slug": "the-hive",
-  "first": 67,
-  "last": 88,
-  "count": 22
- },
- {
-  "name": "the-hive-05",
-  "chapter": "The Hive",
-  "slug": "the-hive",
-  "first": 89,
-  "last": 105,
-  "count": 17
- },
- {
-  "name": "morte-part-i-01",
-  "chapter": "Morte, Part I",
-  "slug": "morte-part-i",
-  "first": 1,
-  "last": 6,
-  "count": 6
+  "last": 48,
+  "count": 4
  }
 ]

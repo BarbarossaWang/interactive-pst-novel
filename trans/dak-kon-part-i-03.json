@@ -1,0 +1,373 @@
+{
+ "chapter": "Dak'kon, Part I",
+ "chunk": "dak-kon-part-i-03",
+ "items": [
+  {
+   "i": 45,
+   "zh": "“我们问出的那些问题，答案无从知晓。可这座城市确然存在。如此而已。”我并不打算就此放下这个话题。",
+   "notes": [
+    "<code>There is no knowing...</code> 是固定句式，等于 <code>It is impossible to know...</code>，直译是“无从知晓、无法得知”，比 <code>We cannot know</code> 更书面、更冷峻，正合达肯说话的分量。",
+    "<code>Yet the city exists. That is all.</code> 两句都极短，<code>yet</code> 表转折（“然而、可”），<code>That is all</code> 意为“如此而已、别无其他”。达肯不解释、不铺陈，用最短的句子把话封死，中文也要保持这种箴言式的收束。",
+    "<code>I was not ready to let the subject drop.</code> 中 <code>let sth drop</code> 是固定搭配，本义“让（手中之物）掉下去”，引申为“放下、不再提（话题）”；<code>not ready to do sth</code> 是“还不肯／还没打算做某事”。"
+   ],
+   "vocab": [
+    {
+     "w": "There is no knowing",
+     "p": "/ðeər ɪz nəʊ ˈnəʊɪŋ/",
+     "t": "固定句式",
+     "z": "无从知晓，无法得知（= It is impossible to know）"
+    },
+    {
+     "w": "exists",
+     "p": "/ɪɡˈzɪsts/",
+     "t": "v.",
+     "z": "存在（exist 的第三人称单数）"
+    },
+    {
+     "w": "let the subject drop",
+     "p": "/let ðə ˈsʌbdʒɪkt drɒp/",
+     "t": "短语",
+     "z": "放下这个话题，不再提它"
+    }
+   ]
+  },
+  {
+   "i": 46,
+   "zh": "“可我还是要说：我们正是凭着自己提出的那些问题——以及那些我们没有提出的问题——来认识自己的。倘若我们不再发问，只肯接受自己所能感知的东西……”",
+   "notes": [
+    "<code>I would maintain</code> 中 <code>would</code> 表示说话人的意愿与委婉的坚持，<code>maintain</code> 是“坚持认为、主张”，常用于论证场合，比 <code>I think</code> 强硬得多；无名氏这里用对等的书面语顶了回去。",
+    "<code>the questions we ask and the ones we do not</code> 里 <code>the ones</code> 代指前面的 <code>the questions</code>，<code>we do not</code> 后省略了 <code>ask</code>，即“我们没有问出口的那些问题”。",
+    "<code>cease asking questions</code> 中 <code>cease</code> 是 <code>stop</code> 的书面同义词，后接动名词 <code>asking</code>；<code>perceive</code> 指“凭感官察觉、感知”，此处与“发问”相对，指只相信看得见摸得着的东西。句末省略号表示话被达肯接了过去。"
+   ],
+   "vocab": [
+    {
+     "w": "maintain",
+     "p": "/meɪnˈteɪn/",
+     "t": "v.",
+     "z": "坚持认为，主张（不是“维护、保养”）"
+    },
+    {
+     "w": "cease",
+     "p": "/siːs/",
+     "t": "v.",
+     "z": "停止，终止（书面语；cease doing sth = stop doing sth）"
+    },
+    {
+     "w": "perceive",
+     "p": "/pəˈsiːv/",
+     "t": "v.",
+     "z": "察觉，感知，看出"
+    },
+    {
+     "w": "the ones",
+     "p": "/ðə wʌnz/",
+     "t": "代词",
+     "z": "那些（代指前面复数名词 the questions）"
+    }
+   ]
+  },
+  {
+   "i": 47,
+   "zh": "“那我们就不再认识自己了。”达肯的声音变了些许，沉了下去。“这样的话，从前有人说过。我听过，也认得它们。”",
+   "notes": [
+    "<code>Then we will cease to know ourselves.</code> 中 <code>then</code> 承接上句的假设，相当于“那么、那便是”，即顺着无名氏的思路把结论说出来；这正是本段“知晓你自己”的主题所在。",
+    "<code>had changed slightly, become heavier</code> 两个动词并列，后一个承前省略了 <code>had</code>（= had become heavier）；<code>become heavier</code> 字面“变重了”，写声音低沉、有了压抑的分量，中文用“沉了下去”更自然。",
+    "<code>Such words have been spoken before.</code> 是现在完成时的被动语态，强调的是“到如今为止已被说过”这一状态；紧接着 <code>I have heard them and know them</code> 里 <code>have heard</code> 完成时表经历、<code>know</code> 现在时表当下的熟悉感，时态交错很有讲究。"
+   ],
+   "vocab": [
+    {
+     "w": "cease",
+     "p": "/siːs/",
+     "t": "v.",
+     "z": "停止；cease to do sth 不再做某事"
+    },
+    {
+     "w": "slightly",
+     "p": "/ˈslaɪtli/",
+     "t": "adv.",
+     "z": "略微，稍稍"
+    },
+    {
+     "w": "heavier",
+     "p": "/ˈheviə(r)/",
+     "t": "adj.",
+     "z": "更沉重的（heavy 的比较级；此处形容声音低沉）"
+    },
+    {
+     "w": "Such words have been spoken before",
+     "p": "/sʌtʃ wɜːdz həv biːn ˈspəʊkən bɪˈfɔː(r)/",
+     "t": "句子",
+     "z": "这样的话从前有人说过（现在完成时被动语态）"
+    },
+    {
+     "w": "know them",
+     "p": "/nəʊ ðəm/",
+     "t": "短语",
+     "z": "认得它们；对它们熟悉（此处 know 是“认识、认得”）"
+    }
+   ]
+  },
+  {
+   "i": 48,
+   "zh": "“你在哪儿听过？”",
+   "notes": [
+    "<code>Where have you heard them?</code> 用现在完成时追问经历，问的是“在你过往的听闻里，这话出自何处”，而不是单指某一次动作。",
+    "无名氏的话一句到底、不加修饰，短促的追问正好接住上一句的庄重气氛；译文保留问号即可，不必添“到底”之类的语气词。"
+   ],
+   "vocab": [
+    {
+     "w": "Where",
+     "p": "/weə(r)/",
+     "t": "adv.",
+     "z": "在哪里（疑问副词，此处问来源或场合）"
+    },
+    {
+     "w": "heard",
+     "p": "/hɜːd/",
+     "t": "v.",
+     "z": "听见（hear 的过去分词；have heard 表有过这样的经历）"
+    }
+   ]
+  },
+  {
+   "i": 49,
+   "zh": "“那些话本就是我的。从前，我认得它们，也懂得它们的含义。直到你开口，我才想起自己已经忘了。”达肯的目光穿过我望出去，他手中刀刃的微光也停了，褪尽所有颜色，变得近乎透明。沉默了一瞬，达肯才抬眼看我。“我愿与你同行此路。”",
+   "notes": [
+    "<code>The words are mine.</code> 用一般现在时，不是“曾经是我的”，而是“这话本来、始终属于我”；<code>Once</code> 单独成句作时间状语，意为“从前、曾有一回”。<code>I had forgotten them until you spoke.</code> 中 <code>had forgotten</code> 是过去完成时，表示“在你开口之前就已经忘了”，<code>until</code> 引出那个转折点。",
+    "<code>his gaze traveled through me</code> 直译“目光穿过我而行”，写他视而不见地望着更远处；<code>bleeding of all color until it was translucent</code> 是现在分词短语作伴随状语，<code>bleeding</code> 把“褪色”写成“流血般渗出颜色”，直到刀刃 <code>translucent</code>（半透明）。",
+    "<code>I would travel your path with you.</code> 中 <code>would</code> 表意愿，语气近于誓言；译作“我愿与你同行此路”，既保留他极简庄重的措辞，也呼应全章 <code>path</code>（道路）的隐喻。"
+   ],
+   "vocab": [
+    {
+     "w": "gaze",
+     "p": "/ɡeɪz/",
+     "t": "n.",
+     "z": "凝视，目光；v. 凝视"
+    },
+    {
+     "w": "traveled",
+     "p": "/ˈtrævld/",
+     "t": "v.",
+     "z": "行进，穿行（travel 的过去式；此处写目光移过）"
+    },
+    {
+     "w": "shimmering",
+     "p": "/ˈʃɪmərɪŋ/",
+     "t": "v.",
+     "z": "闪着微光（shimmer 的现在分词）"
+    },
+    {
+     "w": "translucent",
+     "p": "/trænzˈluːsnt/",
+     "t": "adj.",
+     "z": "半透明的，透光的"
+    },
+    {
+     "w": "I would travel your path with you",
+     "p": "/aɪ wʊd ˈtrævl jɔː(r) pɑːθ wɪð juː/",
+     "t": "句子",
+     "z": "我愿与你同行此路（would 表意愿）"
+    }
+   ]
+  },
+  {
+   "i": 50,
+   "zh": "我坐了下来——这一天里，我又一次被震住了。我看着达肯，明白自己无法拒绝他。不知怎的，我觉得自己与他之间有了某种牵系。",
+   "notes": [
+    "<code>stunned yet again this day</code> 中 <code>yet again</code> 是固定短语“又一次、再一次”，<code>stunned</code> 是过去分词作伴随状语，写他被震得说不出话。",
+    "<code>I could not refuse him</code> 用 <code>could</code> 而非 <code>can</code>，是过去时里的“当时做不到”；中文译“无法拒绝”比“不能拒绝”更贴这层身不由己。",
+    "<code>I felt a connection, somehow, to him.</code> 中 <code>a connection to sb</code> 是固定搭配“与某人的联系／牵系”；<code>somehow</code> 作插入语，表示“不知怎么的、说不清为什么”，恰是无名氏那种自己也讲不明白的感觉，不能漏译。"
+   ],
+   "vocab": [
+    {
+     "w": "stunned",
+     "p": "/stʌnd/",
+     "t": "adj.",
+     "z": "震惊的，愣住的（stun 的过去分词）"
+    },
+    {
+     "w": "yet again",
+     "p": "/jet əˈɡen/",
+     "t": "短语",
+     "z": "又一次，再一次"
+    },
+    {
+     "w": "refuse",
+     "p": "/rɪˈfjuːz/",
+     "t": "v.",
+     "z": "拒绝"
+    },
+    {
+     "w": "connection",
+     "p": "/kəˈnekʃn/",
+     "t": "n.",
+     "z": "联系，牵系；a connection to sb 与某人的关联"
+    },
+    {
+     "w": "somehow",
+     "p": "/ˈsʌmhaʊ/",
+     "t": "adv.",
+     "z": "不知怎么地，以某种方式"
+    }
+   ]
+  },
+  {
+   "i": 51,
+   "zh": "我一答应，他便说：“你的路便是我的路。”说来奇怪，他的声音听着很远，还带着回响，仿佛他是隔着极远的距离在说话。",
+   "notes": [
+    "<code>As I agreed</code> 中 <code>as</code> 表时间或伴随，译成“我一答应”最顺；<code>agreed</code> 指对他同行的提议表示同意。",
+    "<code>Your path is mine.</code> 是省略句，完整为 <code>Your path is my path</code>；用名词性物主代词 <code>mine</code> 把两句并作一句，短促如誓词，正对应达肯的语言风格。",
+    "<code>Strangely enough</code> 是固定短语“说来奇怪、奇怪的是”；<code>as if he were speaking</code> 用虚拟语气 <code>were</code>，表示这只是比喻而非事实；<code>from across a great distance</code> 中 <code>across</code> 表“隔着、越过”。"
+   ],
+   "vocab": [
+    {
+     "w": "Your path is mine",
+     "p": "/jɔː(r) pɑːθ ɪz maɪn/",
+     "t": "句子",
+     "z": "你的路便是我的路（省略句，mine = my path）"
+    },
+    {
+     "w": "Strangely enough",
+     "p": "/ˈstreɪndʒli ɪˈnʌf/",
+     "t": "短语",
+     "z": "说来奇怪，奇怪的是"
+    },
+    {
+     "w": "distant",
+     "p": "/ˈdɪstənt/",
+     "t": "adj.",
+     "z": "遥远的；此处形容声音仿佛从远处传来"
+    },
+    {
+     "w": "echoed",
+     "p": "/ˈekəʊd/",
+     "t": "v.",
+     "z": "发出回声，回响（echo 的过去式）"
+    },
+    {
+     "w": "as if",
+     "p": "/əz ɪf/",
+     "t": "连词",
+     "z": "仿佛，好像（后常接虚拟语气）"
+    }
+   ]
+  },
+  {
+   "i": 52,
+   "zh": "我认定今天已经够折腾了，便往回走，去先前路过的一家小客栈。途中达肯稍稍落在了后头，莫提赶紧凑到我身边，压低声音对我说起话来。",
+   "notes": [
+    "<code>I had had enough for one day</code> 是过去完成时（had + 过去分词 had），<code>have had enough</code> 意为“受够了、已经够多了”；<code>for one day</code> 指“一天之内（的量）”。",
+    "<code>a small inn I had passed earlier</code> 中 <code>I had passed earlier</code> 是省略了关系代词 <code>that</code> 的定语从句，修饰 <code>inn</code>，用过去完成时表明“更早之前路过过”。<code>when Dak'kon had fallen a little behind</code> 里 <code>fall behind</code> 是固定搭配“落在后面”，<code>a little</code> 修饰程度；<code>Morte hurried up alongside</code> 中 <code>alongside</code> 是副词“并排、靠上来”。",
+    "<code>in a low-voice</code> 即 <code>in a low voice</code>，固定搭配“压低声音、小声地”；原文误加了连字符，属原文笔误，但词条必须照原文原样保留。"
+   ],
+   "vocab": [
+    {
+     "w": "had had enough",
+     "p": "/hæd hæd ɪˈnʌf/",
+     "t": "短语",
+     "z": "已经受够了，觉得足够了（过去完成时）"
+    },
+    {
+     "w": "headed",
+     "p": "/ˈhedɪd/",
+     "t": "v.",
+     "z": "朝……走去，前往（head back 往回走）"
+    },
+    {
+     "w": "inn",
+     "p": "/ɪn/",
+     "t": "n.",
+     "z": "小客栈，旅店"
+    },
+    {
+     "w": "fallen a little behind",
+     "p": "/ˈfɔːlən ə ˈlɪtl bɪˈhaɪnd/",
+     "t": "短语",
+     "z": "落下了一点，稍稍跟在后头（fall behind 落在后面）"
+    },
+    {
+     "w": "in a low-voice",
+     "p": "/ɪn ə ləʊ vɔɪs/",
+     "t": "短语",
+     "z": "压低声音地（原文连字符为笔误，规范写法 in a low voice）"
+    }
+   ]
+  },
+  {
+   "i": 53,
+   "zh": "“啊……我不信这帮吉斯人。我说，把他撇下算了。”",
+   "notes": [
+    "<code>the gith</code> 是 <code>githzerai</code>（吉斯泽莱人）的简称，属口头的省称，莫提说得随意，也透着他那点偏见与提防。",
+    "<code>I don't trust...</code> 用一般现在时，表示一贯的态度而非一时之感；<code>I say we leave him behind</code> 中 <code>I say</code> 是口语里提建议的说法，等于“我说、我提议”，后接省略 <code>that</code> 的宾语从句，从句用动词原形 <code>leave</code>。",
+    "<code>leave sb behind</code> 是固定搭配“把某人留下、撇下不管”；<code>Ah…</code> 后加省略号，把莫提半吞半吐、先试探一下的语气写出来。"
+   ],
+   "vocab": [
+    {
+     "w": "trust",
+     "p": "/trʌst/",
+     "t": "v.",
+     "z": "信任，相信"
+    },
+    {
+     "w": "gith",
+     "p": "/ɡɪθ/",
+     "t": "n.",
+     "z": "吉斯人（githzerai 吉斯泽莱人的简称）"
+    },
+    {
+     "w": "I say",
+     "p": "/aɪ seɪ/",
+     "t": "短语",
+     "z": "（口语）我说，我提议（用于提出建议）"
+    },
+    {
+     "w": "leave him behind",
+     "p": "/liːv hɪm bɪˈhaɪnd/",
+     "t": "短语",
+     "z": "把他撇下，丢下他不管"
+    },
+    {
+     "w": "Ah",
+     "p": "/ɑː/",
+     "t": "感叹词",
+     "z": "啊（表犹豫、开口前的迟疑）"
+    }
+   ]
+  },
+  {
+   "i": 54,
+   "zh": "他这话让我意外。莫提又能对达肯知道些什么？我没理他，继续往前走。",
+   "notes": [
+    "<code>I was surprised at his words.</code> 中 <code>be surprised at sth</code> 是固定搭配“对某事感到意外”，介词用 <code>at</code>，不用 <code>by</code> 或 <code>for</code>。",
+    "<code>What could Morte possibly know about Dak'kon, anyway?</code> 是反问句，<code>could</code> 加 <code>possibly</code> 表示“究竟能……呢”，带明显的不以为然；<code>anyway</code> 放句末加强语气，意为“说到底、再说了”。",
+    "<code>I ignored him, and continued on.</code> 两个动词并列，<code>continue on</code> 是“继续往前走”；无名氏连话都懒得回，中文译出这种懒得搭理的态度即可。"
+   ],
+   "vocab": [
+    {
+     "w": "surprised",
+     "p": "/səˈpraɪzd/",
+     "t": "adj.",
+     "z": "感到意外的；be surprised at sth 对某事感到意外"
+    },
+    {
+     "w": "possibly",
+     "p": "/ˈpɒsəbli/",
+     "t": "adv.",
+     "z": "究竟，到底（与 can/could 连用加强反问语气）"
+    },
+    {
+     "w": "anyway",
+     "p": "/ˈeniweɪ/",
+     "t": "adv.",
+     "z": "反正，说到底，再说了"
+    },
+    {
+     "w": "ignored",
+     "p": "/ɪɡˈnɔːd/",
+     "t": "v.",
+     "z": "不理睬，无视（ignore 的过去式）"
+    }
+   ]
+  }
+ ]
+}

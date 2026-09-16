@@ -1,0 +1,396 @@
+{
+ "chapter": "Mazed",
+ "chunk": "mazed-02",
+ "items": [
+  {
+   "i": 23,
+   "zh": "“狂吠——怀尔德——是我——我是！想——要，在——问，你——可以，你——可以吗？”我开始摸到他那套话的路数了。",
+   "notes": [
+    "<code>Barking Wilder Am-I, I-Am!</code> 是老人自报名号，同时把语序整个颠倒过来：正常应是 <code>I am Barking Wilder</code>，他先说绰号、再倒装说 <code>Am-I</code>，后面又补一句 <code>I-Am</code>，像把自己的名字翻来覆去地嚼。中文用一串破折号还原这种断断续续、前后错位的絮叨感。",
+    "<code>A-Wanting, Asking-A, May-You, You-May?</code> 同样是整段倒装拼凑，把 want / ask / may 几个动词切成碎片再翻个个儿；<code>May-You</code> 与 <code>You-May</code> 这一对照，正说明他的口语是“把词倒着装”的。",
+    "<code>I was starting to get a feel for his language.</code> 中 <code>get a feel for sth</code> 是固定搭配，指“对某事物渐渐有了感觉、摸到了门道”。<code>start to do</code> 比 <code>begin</code> 更口语，写无名氏在乱语里慢慢辨认出规律的耐心。"
+   ],
+   "vocab": [
+    {
+     "w": "Barking Wilder",
+     "p": "/ˈbɑːkɪŋ ˈwaɪldə(r)/",
+     "t": "专名",
+     "z": "“狂吠的怀尔德”，老人的绰号；barking 有“疯癫”的俚语义，wild 有“狂野”义，绰号本身即双关"
+    },
+    {
+     "w": "Am-I",
+     "p": "/æm aɪ/",
+     "t": "倒装",
+     "z": "把 I am 颠倒成 Am-I，是老人说话“词序打乱”的标志性习惯"
+    },
+    {
+     "w": "get a feel for",
+     "p": "/ɡet ə fiːl fɔː(r)/",
+     "t": "短语",
+     "z": "对……渐渐有感觉、摸出门道"
+    },
+    {
+     "w": "language",
+     "p": "/ˈlæŋɡwɪdʒ/",
+     "t": "n.",
+     "z": "语言；此处指老人那套颠倒破碎的说话方式"
+    }
+   ]
+  },
+  {
+   "i": 24,
+   "zh": "“你可以，我也愿意：你到底……是什么人？或者说……是什么东西？”",
+   "notes": [
+    "<code>You may, and I will</code> 是省略句：<code>You may</code> 后省了 <code>ask</code>，<code>I will</code> 后省了 <code>answer</code>，完整意思为“你问吧，我会答”。<code>may</code> 表许可，<code>will</code> 表意愿，两词对举，无名氏等于用老人自己的倒装腔回敬他。",
+    "<code>Who… or what… are you?</code> 用两个省略号把 <code>who</code> 和 <code>what</code> 隔开，<code>who</code> 问“人”，<code>what</code> 问“非人／什么东西”。这一停顿是刻意的：无名氏见对方说得像人、又不完全像人，语气里带着困惑和警惕。"
+   ],
+   "vocab": [
+    {
+     "w": "may",
+     "p": "/meɪ/",
+     "t": "modal v.",
+     "z": "可以（表许可）；You may 此处省略了 ask"
+    },
+    {
+     "w": "will",
+     "p": "/wɪl/",
+     "t": "modal v.",
+     "z": "愿意，会（表意愿）；I will 此处省略了 answer"
+    },
+    {
+     "w": "Who",
+     "p": "/huː/",
+     "t": "pron.",
+     "z": "谁（问身份、问“是什么人”）"
+    },
+    {
+     "w": "what",
+     "p": "/wɒt/",
+     "t": "pron.",
+     "z": "什么（问性质，含“什么东西”的意味）"
+    }
+   ]
+  },
+  {
+   "i": 25,
+   "zh": "“混——沌！”他结结巴巴地吐出这个词，像是舌头绕不过来。‘混沌党，倒过来念，’他说，‘党——沌——混。混……沌……人。不，是人；不，不是人，也是人；三个鼻子凑一块儿才叫一声是。’他蜷着身子跪下去，开始前后摇晃，用孩子似的尖嗓子唱起来：‘混沌人，混沌人，蹦蹦跳跳回了家；是个派系，可咱孤零零。’反正也没什么可输的，我又问了一个问题。",
+   "notes": [
+    "<code>stuttered out the word</code> 中 <code>stutter</code> 指“结巴着说”，<code>out</code> 表“终于挤出口”；<code>having difficulty getting his tongue around it</code> 是固定说法，字面“舌头绕不过这个词”，形容发音困难。中文的“舌头绕不过来”正对应这个意象。",
+    "<code>Some say Xaositects, I say S-tect- I-soax.</code> 是全段最有意思的文字游戏：<code>Xaositects</code>（混沌党）被他按音节倒着拼出来，字母一个个错位，正呼应“混沌”二字——连名字都要打乱。<code>CHAOS-men</code> 全大写强调，是他给孩子气顺口溜加重音。紧接的 <code>Men no. Nem no, men yes, three nose make a yes.</code> 则是他把 <code>men</code> 倒读成 <code>nem</code> 再自问自答的一串胡话，<code>three nose make a yes</code> 更是无意义押韵——这类句子不必逐字求解：作者是用语音的错乱写他脑子里的错乱。",
+    "<code>Not having anything to lose</code> 是现在分词短语作原因状语，等于 <code>Since I had nothing to lose</code>；“反正也没什么可输的”保留无名氏务实、简短的口气。<code>hop-a-long home</code> 是童谣式的拟声叠韵，译成“蹦蹦跳跳回了家”以存其天真感。"
+   ],
+   "vocab": [
+    {
+     "w": "stuttered",
+     "p": "/ˈstʌtə(r)d/",
+     "t": "v.（stutter 的过去式）",
+     "z": "结结巴巴地说；口吃"
+    },
+    {
+     "w": "tongue",
+     "p": "/tʌŋ/",
+     "t": "n.",
+     "z": "舌头；get one's tongue around sth 把某个音念得出来"
+    },
+    {
+     "w": "hunched",
+     "p": "/hʌntʃt/",
+     "t": "v.（hunch 的过去式）",
+     "z": "弓起身子，蜷缩；hunch down on one's knees 屈膝缩成一团"
+    },
+    {
+     "w": "rock",
+     "p": "/rɒk/",
+     "t": "v.",
+     "z": "（前后）摇晃；rock back and forth 来回晃，是精神失常者的典型动作"
+    },
+    {
+     "w": "soprano",
+     "p": "/səˈprɑːnəʊ/",
+     "t": "n.",
+     "z": "女高音；此处指尖细的高音嗓子"
+    }
+   ]
+  },
+  {
+   "i": 26,
+   "zh": "“我在找一本丢掉的日志。你知道哪儿能找到吗？”他皱起眉，把眼睛眯紧闭上，然后又睁开。等他再开口时，声音平稳而直白……那像换了个人在说话，一个清醒得多的人。这感觉让人发毛。",
+   "notes": [
+    "<code>Do you know where I might find one?</code> 里 <code>might</code> 不是过去式，而是虚拟／委婉用法，比 <code>can</code> 更不确定，等于“我有可能在哪儿找到”，透出无名氏并不指望他答得上来。",
+    "<code>He frowned, squinted his eyes shut, then opened them back up.</code> 三个动作并列，句式极短，节奏像镜头快切；<code>squint sth shut</code> 指“把……眯紧到闭上”。<code>When he spoke again</code> 处的 <code>again</code> 不是“又一次说同一句”，而是“再次开口”。",
+    "<code>his voice was level and straightforward… it was like a different, saner, person was speaking.</code> 中 <code>level</code> 指声调“平、不飘”，<code>straightforward</code> 指“直截了当”；<code>saner</code> 是 <code>sane</code>（清醒的）的比较级——不是清醒，而是“清醒一些”，说明这份清醒只是相对的。<code>eerie</code> 指诡异得令人不安，故译“发毛”。"
+   ],
+   "vocab": [
+    {
+     "w": "journal",
+     "p": "/ˈdʒɜːnl/",
+     "t": "n.",
+     "z": "日志，日记簿；本章指那本骨框人皮书"
+    },
+    {
+     "w": "frowned",
+     "p": "/fraʊnd/",
+     "t": "v.（frown 的过去式）",
+     "z": "皱眉"
+    },
+    {
+     "w": "squinted",
+     "p": "/ˈskwɪntɪd/",
+     "t": "v.（squint 的过去式）",
+     "z": "眯眼；squint one's eyes shut 眯紧眼睛闭上"
+    },
+    {
+     "w": "level",
+     "p": "/ˈlevl/",
+     "t": "adj.",
+     "z": "平的，平稳的；形容嗓音不颤不飘"
+    },
+    {
+     "w": "eerie",
+     "p": "/ˈɪəri/",
+     "t": "adj.",
+     "z": "怪诞得令人不安的，阴森诡异的"
+    }
+   ]
+  },
+  {
+   "i": 27,
+   "zh": "“丢的不止一本，你要找回来的也不止一本。你的每一部分都有一本，所以你非找回来不止一本不可。”他眨眨眼，摇了一会儿头，像是被自己吓了一跳，然后不安地笑了笑。我问他至少能告诉我其中一本在哪儿。他看上去正要拒绝，左手却突然自己抬起来，一巴掌扇在他自己的太阳穴上。他应声嚎叫起来，随即又猛地停住，眨着眼。",
+   "notes": [
+    "<code>More than one lost, more than one must you find.</code> 是倒装＋省略：前句省去 <code>is</code>，后句 <code>must you find</code> 把情态动词提到主语前，形成强调，等于 <code>you must find more than one</code>。这种庄严的倒装从他嘴里说出来，正是“清醒时刻”的标记。中文用“非……不可”来对应这股执拗语气。",
+    "<code>Each part of you had one</code> 是理解本章的关键线索：每一世／每一部分的“你”都留下一本日志，所以他注定要找回不止一本。<code>part of you</code> 不是身体部分，而是“你（灵魂）的某一世、某一个碎片”。",
+    "<code>He looked like he was about to object</code> 中 <code>be about to do sth</code> 表“正要、即将做某事”；<code>came up and smacked him in the temple</code> 是 <code>smack sb in/on + 身体部位</code> 的搭配，注意用 <code>in the temple</code> 而非 <code>his temple</code>。这一拳是他自己打的自己，把“身体不属于自己”的诡异写足了。<code>howled in response</code> 的 <code>in response</code> 指“作为回应”，其实是痛得叫出来。"
+   ],
+   "vocab": [
+    {
+     "w": "blinked",
+     "p": "/blɪŋkt/",
+     "t": "v.（blink 的过去式）",
+     "z": "眨眼；文中反复出现，写他神智一次次“断线重连”"
+    },
+    {
+     "w": "chuckled",
+     "p": "/ˈtʃʌkld/",
+     "t": "v.（chuckle 的过去式）",
+     "z": "低声轻笑；chuckle uneasily 不安地干笑"
+    },
+    {
+     "w": "object",
+     "p": "/əbˈdʒekt/",
+     "t": "v.",
+     "z": "反对，提出异议；be about to object 眼看要拒绝"
+    },
+    {
+     "w": "smacked",
+     "p": "/smækt/",
+     "t": "v.（smack 的过去式）",
+     "z": "（用手掌）猛击、掴；smack sb in the temple 掴在某人太阳穴上"
+    },
+    {
+     "w": "howled",
+     "p": "/haʊld/",
+     "t": "v.（howl 的过去式）",
+     "z": "嚎叫，号叫"
+    }
+   ]
+  },
+  {
+   "i": 28,
+   "zh": "“一本在你客房的柜子里，就在感知者之厅；另一本在城里深处一座封闭墓穴的墙上，那儿的石头会流泪。剩下的都在……”他还没说完，右拳又抬起来，狠狠砸在他脸上，让他再次嗷嗷大叫。他眨眨眼，摇了一会儿头，像是被自己吓了一跳，然后不安地笑了笑。",
+   "notes": [
+    "<code>the hall of the Sensates</code> 指印记城中“感知者”（Sensates）一派所在的厅堂；<code>Sensates</code> 得名于拉丁词根 <code>sens-</code>（感觉），这一派以追求一切感官体验为信条，故音义兼顾译作“感知者之厅”。",
+    "<code>a tomb sealed deep beneath the city where the stones weep</code> 中 <code>sealed</code> 是过去分词作后置定语，修饰 <code>tomb</code>；<code>deep beneath the city</code> 作地点状语；<code>where</code> 引导定语从句修饰 <code>tomb</code>，不是修饰 <code>city</code>——“会流泪的石头”是墓穴的特征。",
+    "<code>Before he could finish</code> 用 <code>could</code> 表“还没来得及”；<code>causing him to yowl again</code> 是现在分词短语作结果状语，等于 <code>and this caused him to yowl</code>。注意 <code>his right fist came up</code>：上一段是左拳打太阳穴，这里是右拳砸脸，左右开弓的对称写法暗示有某种力量在轮流封他的口。"
+   ],
+   "vocab": [
+    {
+     "w": "cupboard",
+     "p": "/ˈkʌbəd/",
+     "t": "n.",
+     "z": "橱柜，壁橱"
+    },
+    {
+     "w": "tomb",
+     "p": "/tuːm/",
+     "t": "n.",
+     "z": "坟墓，墓穴"
+    },
+    {
+     "w": "sealed",
+     "p": "/siːld/",
+     "t": "v./adj.（seal 的过去分词）",
+     "z": "封闭的，密封的；a tomb sealed deep beneath the city 深埋城下、封闭的墓"
+    },
+    {
+     "w": "weep",
+     "p": "/wiːp/",
+     "t": "v.",
+     "z": "流泪，渗水；the stones weep 石头会“哭泣”"
+    },
+    {
+     "w": "yowl",
+     "p": "/jaʊl/",
+     "t": "v.",
+     "z": "（痛苦地）嚎叫，哀号"
+    }
+   ]
+  },
+  {
+   "i": 29,
+   "zh": "那是他最后一段清醒的时候。无论我怎么追问，都再问不出答案。事实上，他好像连自己刚说过的、关于那几本日志的话都不记得了。",
+   "notes": [
+    "<code>That was his last moment of clarity.</code> 中 <code>clarity</code> 指“神智清明、思路清楚”，与前面“像换了个人”的清醒段落呼应；<code>moment</code> 强调这清醒只有一瞬。",
+    "<code>No matter how much I questioned him, I got no more answers.</code> 是 <code>no matter how + 形容词/副词</code> 引导的让步状语从句，等于 <code>however much I questioned him</code>。注意 <code>I got</code> 而非 <code>I received</code>，口语化，且 <code>no more</code> 指“再也没有更多的”，不是“没有”。",
+    "<code>he didn’t even seem to remember what he had already told me about the journals</code> 中 <code>even</code> 表递进强调“连……都不”；<code>what</code> 引导宾语从句，从句用过去完成时 <code>had told</code>，因为“告诉”发生在“不记得”之前。这句也点明他的记忆是碎片的，正如他自己所说“你的每一部分都有一本”。"
+   ],
+   "vocab": [
+    {
+     "w": "clarity",
+     "p": "/ˈklærəti/",
+     "t": "n.",
+     "z": "清晰，清醒；moment of clarity 神智清明的一刻"
+    },
+    {
+     "w": "questioned",
+     "p": "/ˈkwestʃənd/",
+     "t": "v.（question 的过去式）",
+     "z": "询问，盘问（作动词时语气比 ask 更重）"
+    },
+    {
+     "w": "answers",
+     "p": "/ˈɑːnsəz/",
+     "t": "n. 复数",
+     "z": "回答，答案"
+    },
+    {
+     "w": "remember",
+     "p": "/rɪˈmembə(r)/",
+     "t": "v.",
+     "z": "记得；remember doing sth 记得做过某事"
+    }
+   ]
+  },
+  {
+   "i": 30,
+   "zh": "与其把剩下半天耗在毫无意义的对话上，我转身走了。莫提对“狂吠的怀尔德”发表了一番评论。",
+   "notes": [
+    "<code>Rather than spend the rest of the day in pointless conversation, I turned away.</code> 中 <code>rather than</code> 放句首表“与其……（不如）”，后面跟动词原形 <code>spend</code>，与主句动作形成对照。中文用“与其……我转身走了”正合此结构，也点出无名氏一贯的干脆。",
+    "<code>Morte commented on Barking Wilder.</code> 里 <code>comment on sth</code> 是固定搭配“对……发表评论”；<code>Barking Wilder</code> 是老人绰号的完整说法，前文无名氏把它拆成两半来听，此处他已在心里替对方安好了名字。"
+   ],
+   "vocab": [
+    {
+     "w": "Rather than",
+     "p": "/ˈrɑːðə(r) ðæn/",
+     "t": "短语",
+     "z": "与其……（不如）；后接动词原形"
+    },
+    {
+     "w": "pointless",
+     "p": "/ˈpɔɪntləs/",
+     "t": "adj.",
+     "z": "无意义的，白费功夫的"
+    },
+    {
+     "w": "conversation",
+     "p": "/ˌkɒnvəˈseɪʃn/",
+     "t": "n.",
+     "z": "谈话，对话"
+    },
+    {
+     "w": "turned away",
+     "p": "/tɜːnd əˈweɪ/",
+     "t": "短语动词",
+     "z": "转身离开；也可表“转过脸去不理睬”"
+    },
+    {
+     "w": "commented on",
+     "p": "/ˈkɒmentɪd ɒn/",
+     "t": "短语动词",
+     "z": "对……发表评论"
+    }
+   ]
+  },
+  {
+   "i": 31,
+   "zh": "“得，又是一个树枝断太多的家伙。”莫提翻了个白眼。“跟混沌党闲聊纯属白费口舌，老大。那是一群疯癫货。”我让他展开讲讲混沌党。",
+   "notes": [
+    "<code>that’s one tree with a snapped branch too many</code> 是句俏皮话，字面“那棵树断的枝子多了一根”，暗指对方脑子里的弦断了一根、神智不全；莫提不直说 <code>he's crazy</code>，而是绕着弯挖苦，中文保留“树枝断多了”这个意象再加“又是一个”，讽意才在。",
+    "<code>No sense in chatting with Xaositects</code> 是 <code>There is no sense in doing sth</code> 的省略形式（口语常省 <code>There is</code>），意为“做某事没有意义”。<code>chat with sb</code> 比 <code>talk to</code> 更随意，正合莫提居高临下的口气。",
+    "<code>chief</code> 在此不是“首领”，而是市井口语中对人的称呼，相当于“老大、哥们儿”，是莫提对无名氏的一贯叫法。<code>They’re a barmy bunch</code> 中 <code>barmy</code> 是英国俚语“疯癫的”（本章术语统一译“疯癫”），<code>a bunch</code> 指“一伙人”。"
+   ],
+   "vocab": [
+    {
+     "w": "snapped",
+     "p": "/snæpt/",
+     "t": "v./adj.（snap 的过去分词）",
+     "z": "折断的；a snapped branch 折断的树枝"
+    },
+    {
+     "w": "rolled his eyes",
+     "p": "/rəʊld hɪz aɪz/",
+     "t": "短语",
+     "z": "翻白眼（表示不耐烦或鄙夷）"
+    },
+    {
+     "w": "No sense in",
+     "p": "/nəʊ sens ɪn/",
+     "t": "短语",
+     "z": "（做某事）没有意义、没有道理，口语中省去 There is"
+    },
+    {
+     "w": "chatting",
+     "p": "/ˈtʃætɪŋ/",
+     "t": "v.-ing",
+     "z": "闲谈，聊天；chat with sb 与某人闲聊"
+    },
+    {
+     "w": "barmy",
+     "p": "/ˈbɑːmi/",
+     "t": "adj.",
+     "z": "（英俚）疯癫的，脑子不正常的"
+    }
+   ]
+  },
+  {
+   "i": 32,
+   "zh": "“那是个‘派系’，可他们什么规矩都没有……只有一条：别让同一个念头在脑子里待太久。他们有时候被叫作‘混沌人’。为什么，不用解释。他们好像就是招人，跟苍蝇一样……嗯，招的当然都是够疯够乱的货色，我想。我看他们根本没有什么招募人……不过话说回来，关于他们的事你压根没法说准。”",
+   "notes": [
+    "<code>They’re a ‘faction’ who don’t have any rules… except don’t keep one thought in their head for too long.</code> 中 <code>faction</code> 加引号是莫提在打折扣——印记城的派系都有信条与规矩，混沌党却以“没有规矩”为规矩，所以引号里带着讽刺。<code>except</code> 后接动词原形 <code>don’t keep</code>，等于 <code>except that they don’t keep</code>。",
+    "<code>attract members like flies</code> 是明喻，<code>like flies</code>（像苍蝇一样）既说人数多、又暗含“逐臭而来”的贬义，中文“跟苍蝇一样”保留这层轻蔑。破折号后的 <code>well</code> 是说话时的自我修正词，表示他要补一句更准确的说法，译作“嗯”最能还原莫提边想边说的腔调。",
+    "<code>I don’t think they have any recruiters… though you really can’t say anything about them for sure.</code> 注意 <code>I don't think + 肯定从句</code> 是英语的否定前移，中文说“我看他们根本没有……”。<code>though</code> 放句末引导补充转折，<code>for sure</code> 意为“确切地、有把握地”；末句把莫提先断言、再自我推翻的滑头劲儿全带出来了。"
+   ],
+   "vocab": [
+    {
+     "w": "faction",
+     "p": "/ˈfækʃn/",
+     "t": "n.",
+     "z": "派系；印记城里以信念为组织的团体"
+    },
+    {
+     "w": "rules",
+     "p": "/ruːlz/",
+     "t": "n. 复数",
+     "z": "规则，规矩"
+    },
+    {
+     "w": "attract",
+     "p": "/əˈtrækt/",
+     "t": "v.",
+     "z": "吸引，招来"
+    },
+    {
+     "w": "recruiters",
+     "p": "/rɪˈkruːtəz/",
+     "t": "n. 复数",
+     "z": "招募者，招人的人"
+    },
+    {
+     "w": "for sure",
+     "p": "/fɔː(r) ʃʊə(r)/",
+     "t": "短语",
+     "z": "确切地，有把握地；口语中常作状语"
+    }
+   ]
+  }
+ ]
+}

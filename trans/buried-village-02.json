@@ -1,0 +1,656 @@
+{
+ "chapter": "Buried Village",
+ "chunk": "buried-village-02",
+ "items": [
+  {
+   "i": 23,
+   "zh": "“嗯嗯嗯——”接着她点了点头。“玛尔塔能做这个，是不是呀，玛尔塔？对，你能做。”莫提瞟了我一眼。",
+   "notes": [
+    "<code>Hmnnn.</code> 是玛尔塔那种从喉咙里挤出来的哼声，不算词，译文用“嗯嗯嗯——”配破折号，保留她神志不清、半自言自语的样子。",
+    "<code>Marta can do that, cancha Marta?</code> 是玛尔塔对着自己说话：<code>cancha</code>＝<code>can’t you</code> 的土话连读，句尾再补一句自答的 <code>Yes, you can.</code>，一问一答全由她一人完成，这是本章她最明显的精神状态标记。",
+    "<code>Morte eyed me.</code> 里 <code>eye</code> 作动词，意为“打量、瞟”；这一句不说莫提讲了什么，只用动作把它的态度省下来，留到下一段才发作。"
+   ],
+   "vocab": [
+    {
+     "w": "nodded",
+     "p": "/ˈnɒdɪd/",
+     "t": "v.",
+     "z": "点头（nod 的过去式）"
+    },
+    {
+     "w": "eyed",
+     "p": "/aɪd/",
+     "t": "v.",
+     "z": "打量，瞟（eye 的过去式，意为“用眼睛盯着看”）"
+    }
+   ]
+  },
+  {
+   "i": 24,
+   "zh": "“这场面我可不想看。”",
+   "notes": [
+    "<code>I am not going to watch this.</code> 用 <code>be going to</code> 表即将发生的事，语气介于预言和抗拒之间；莫提不说“我不看”，而说“我不会去看”，多了一层撇清干系的油滑。",
+    "前一段只写莫提瞟了“我”一眼，这里才落下台词，是英文小说常见的“先动作后对白”节奏，译文照原序保留。"
+   ],
+   "vocab": [
+    {
+     "w": "going to",
+     "p": "",
+     "t": "phrase",
+     "z": "将要，打算（be going to do sth. 表即将或打算做某事）"
+    },
+    {
+     "w": "watch",
+     "p": "/wɒtʃ/",
+     "t": "v.",
+     "z": "观看，观望（此处含“旁观”之意）"
+    }
+   ]
+  },
+  {
+   "i": 25,
+   "zh": "“哪儿呢？放哪儿呢……”玛尔塔打量着我，像是在挑一处下手最方便的地方把我剖开。我有种不祥的预感。",
+   "notes": [
+    "<code>Where? Where…</code> 重复加省略号，是玛尔塔边找边念叨的口吻，省略号表示她的声音拖了下去；中文用“哪儿呢？放哪儿呢……”补足她在盘算“下刀的位置”。",
+    "<code>as if looking for the best place to crack me open</code> 中 <code>as if</code> 引出虚拟的比拟（后接动名词短语），<code>crack sb. open</code>＝“把某人敲开、剖开”，本义用于坚果或盒子，用在人身上瞬间把外科手术的凶险感点出来。",
+    "<code>I had a premonition.</code> 是极短的一句叙述，<code>premonition</code> 指“对将要发生之事的预感”，无名氏的内心独白一贯短促，译文不加“我也说不清为什么”之类的补充。"
+   ],
+   "vocab": [
+    {
+     "w": "crack",
+     "p": "/kræk/",
+     "t": "v.",
+     "z": "敲开，撬开；crack sb. open 把某人剖开"
+    },
+    {
+     "w": "premonition",
+     "p": "/ˌpriːməˈnɪʃn/",
+     "t": "n.",
+     "z": "预感（尤指不祥的预感）"
+    },
+    {
+     "w": "studying",
+     "p": "/ˈstʌdiɪŋ/",
+     "t": "v.",
+     "z": "审视，打量（study 的现在分词，不指“学习”）"
+    }
+   ]
+  },
+  {
+   "i": 26,
+   "zh": "“查查肠子……什么东西都可能卡在里头。”",
+   "notes": [
+    "<code>Check the intestines…</code>：<code>check</code> 在口语里常作“查看、检查”用，后面接具体部位，比 <code>examine</code> 随意，正合莫提出馊主意时的口气。",
+    "<code>anything could be lodged in there</code> 是 <code>could</code> 表可能性的用法；<code>be lodged in</code>＝“卡在、嵌在（某处）”，<code>lodge</code> 本指子弹或碎片留在体内，这里用来形容吞下的东西卡在肠子里。",
+    "这句话仍没有标注说话人，但前后是玛尔塔在拿刀、莫提在看戏，读者凭语气便能听出是莫提在边上起哄。"
+   ],
+   "vocab": [
+    {
+     "w": "intestines",
+     "p": "/ɪnˈtestɪnz/",
+     "t": "n.",
+     "z": "肠，肠子（常用复数）"
+    },
+    {
+     "w": "lodged",
+     "p": "/lɒdʒd/",
+     "t": "v.",
+     "z": "卡住，嵌在（lodge 的过去分词，be lodged in 卡在……里）"
+    }
+   ]
+  },
+  {
+   "i": 27,
+   "zh": "我躺到桌上，玛尔塔站在我上方，手里提着一把生锈的刀。她切进我的腹部，一阵刀扎似的剧痛，接着她像拉锯一样狠狠往下割，把我的内脏翻露出来。疼痛之中，我却静静看着，带着一种病态的入迷，看她在我的脏器间翻掏，嘴里还哼着调子……",
+   "notes": [
+    "<code>a rusty knife at the ready</code> 是“名词 + at the ready”的独立结构，意为“持刀待发、随时可用”，描写她姿势已摆好，不必另写“举着”。",
+    "<code>cut brutally downwards in a saw-like motion</code>：<code>saw-like</code> 由名词 <code>saw</code>（锯子）加后缀 <code>-like</code> 构成复合形容词，“锯子般的”；<code>brutally</code> 修饰动作，强调粗野蛮横，不是“残忍地杀死”，而是“下刀毫不留情”。",
+    "<code>silent, morbid fascination</code> 是并列形容词作 <code>in</code> 的宾语，<code>morbid</code> 指“病态的、与死亡相关的”，<code>fascination</code> 是“着迷、被牢牢吸住的目光”；<code>humming to herself</code> 的 <code>to herself</code> 表“自顾自地”，不是“唱给自己听”。"
+   ],
+   "vocab": [
+    {
+     "w": "at the ready",
+     "p": "",
+     "t": "phrase",
+     "z": "准备就绪，随时可用（此处指刀已备好待下）"
+    },
+    {
+     "w": "abdomen",
+     "p": "/ˈæbdəmən/",
+     "t": "n.",
+     "z": "腹部，下腹"
+    },
+    {
+     "w": "innards",
+     "p": "/ˈɪnədz/",
+     "t": "n.",
+     "z": "内脏（口语用词，常用复数）"
+    },
+    {
+     "w": "morbid",
+     "p": "/ˈmɔːbɪd/",
+     "t": "adj.",
+     "z": "病态的；与死亡、疾病相关的"
+    },
+    {
+     "w": "fascination",
+     "p": "/ˌfæsɪˈneɪʃn/",
+     "t": "n.",
+     "z": "着迷，被牢牢吸引的状态"
+    }
+   ]
+  },
+  {
+   "i": 28,
+   "zh": "“啊！”玛尔塔把我那盘缠如绳的肠子提起来时，一阵撕裂般的剧痛袭来，血和其他体液从上面淌下来。“瞧这个，玛尔塔……瞧这个……我看见了，我看见了，那儿割一刀，那儿割一刀……”玛尔塔在一截肠子的侧壁上利落地开了一个小口，我听见“叮”的一声——有什么又小又带金属味的东西落在了地上。",
+   "notes": [
+    "<code>the ropy mass of my intestines</code>：<code>ropy</code> 由名词 <code>rope</code>（绳）派生，形容“黏稠得能拉丝、像绳索一样成股”的质感；<code>mass</code> 指“一大团”。",
+    "<code>blood and other fluids streaming from it</code> 是独立主格结构（名词 + 现在分词），作伴随状语，说明血和体液一边被提起一边往下流；译文用“淌下来”并进主句，符合中文叙事习惯。",
+    "<code>I heard a tnnng as something small and metallic struck the floor</code>：<code>tnnng</code> 是拟声词，模拟金属落地的颤响；<code>as</code> 在这里引导时间状语从句，等于 <code>when</code>。中文以“叮的一声——有什么……落在了地上”还原这种先闻声后明物的写法。"
+   ],
+   "vocab": [
+    {
+     "w": "wrenching",
+     "p": "/ˈrentʃɪŋ/",
+     "t": "adj.",
+     "z": "撕扯般的，令人剧痛的（wrench 撕裂）"
+    },
+    {
+     "w": "ropy",
+     "p": "/ˈrəʊpi/",
+     "t": "adj.",
+     "z": "黏稠拉丝的；绳索状的（由 rope 派生）"
+    },
+    {
+     "w": "fluids",
+     "p": "/ˈfluːɪdz/",
+     "t": "n.",
+     "z": "液体，体液（fluid 的复数）"
+    },
+    {
+     "w": "deft",
+     "p": "/deft/",
+     "t": "adj.",
+     "z": "灵巧的，手法利落的"
+    },
+    {
+     "w": "incision",
+     "p": "/ɪnˈsɪʒn/",
+     "t": "n.",
+     "z": "切口，切开（医学用词）"
+    }
+   ]
+  },
+  {
+   "i": 29,
+   "zh": "玛尔塔把那团汤水似的东西塞回我的胸腔，然后弯下腰，把那样东西捡了起来……看样子是枚戒指，她把它弹给了我。",
+   "notes": [
+    "<code>the soupy mass</code>：<code>soupy</code> 由 <code>soup</code>（汤）加 <code>-y</code> 构成，“稀烂如汤的”，与前段的 <code>ropy</code> 一脉相承，都是用食物作比来写血肉。",
+    "<code>it appeared</code> 是插入语，等于 <code>as it appeared</code>／<code>so it appeared</code>，“看上去、看样子”，表示叙述者此刻才看清是戒指，语气带迟疑。",
+    "<code>she flicked it to me</code>：<code>flick</code> 指“用指一弹、弹掷”，<code>flick sth to sb</code> 即“把……弹给某人”；一个弹指的动作就写出她对这枚戒指漫不经心。"
+   ],
+   "vocab": [
+    {
+     "w": "dumped",
+     "p": "/dʌmpt/",
+     "t": "v.",
+     "z": "倾倒，一股脑倒回（dump 的过去式）"
+    },
+    {
+     "w": "torso",
+     "p": "/ˈtɔːsəʊ/",
+     "t": "n.",
+     "z": "躯干，胸腔躯干部分"
+    },
+    {
+     "w": "soupy",
+     "p": "/ˈsuːpi/",
+     "t": "adj.",
+     "z": "稀烂如汤的，糊状的"
+    },
+    {
+     "w": "appeared",
+     "p": "/əˈpɪəd/",
+     "t": "v.",
+     "z": "看来，似乎（it appeared 为插入语，“看样子”）"
+    },
+    {
+     "w": "flicked",
+     "p": "/flɪkt/",
+     "t": "v.",
+     "z": "轻弹，弹掷（flick 的过去式）"
+    }
+   ]
+  },
+  {
+   "i": 30,
+   "zh": "“好看，真好看，嗯，玛尔塔？”她点了点头。“对，玛尔塔，这种东西可不该吞下去，不该，不该……”",
+   "notes": [
+    "<code>Pretty, pretty, eh, Marta?</code> 把形容词 <code>pretty</code> 重复两遍，再加句尾的 <code>eh</code> 求取附和，全是对着空气里那个“玛尔塔”说话的口气；中文用“好看，真好看，嗯”保留这种哄小孩似的重复。",
+    "<code>one shouldn’t swallow such a thing</code> 用 <code>one</code> 作泛指主语，等于“人（谁）都不该……”，语气比 <code>you shouldn’t</code> 更像自言自语地讲道理；<code>no, no</code> 是自我强调，未必真是回答。"
+   ],
+   "vocab": [
+    {
+     "w": "Pretty",
+     "p": "/ˈprɪti/",
+     "t": "adj.",
+     "z": "漂亮的，好看的（此处指戒指）"
+    },
+    {
+     "w": "swallow",
+     "p": "/ˈswɒləʊ/",
+     "t": "v.",
+     "z": "吞下，咽下"
+    }
+   ]
+  },
+  {
+   "i": 31,
+   "zh": "“谢——谢谢……还……还有……别的……吗……？”",
+   "notes": [
+    "破折号与省略号密集穿插，模拟无名氏刚从剧痛里缓过来、话说得断续吃力；英文用 <code>Th — thanks…</code> 表示被切断的首字母，中文用“谢——谢谢”对应。",
+    "<code>anything else</code> 是疑问句里用来代替 <code>something else</code> 的用法：肯定句中用 <code>something</code>，疑问和否定中用 <code>anything</code>，此处问“还有没有别的东西”。"
+   ],
+   "vocab": [
+    {
+     "w": "anything… else",
+     "p": "",
+     "t": "phrase",
+     "z": "别的什么东西（原文用省略号断开；疑问句中用 anything 代替 something）"
+    },
+    {
+     "w": "Th — thanks",
+     "p": "",
+     "t": "phrase",
+     "z": "谢——谢谢（破折号表示声音被疼痛打断，句中省音）"
+    }
+   ]
+  },
+  {
+   "i": 32,
+   "zh": "“没别的了，别的没有了，嗯，玛尔塔？要不要换个地方再找找，玛尔塔？”",
+   "notes": [
+    "<code>Nothing more, more nothing</code> 把否定和名词倒着重复一遍，是玛尔塔语无伦次的固定腔调——先正着说“没别的”，再倒过来说一遍，中文用“没别的了，别的没有了”对应这种绕圈子的重复。",
+    "<code>Should we try someplace else</code>：<code>should</code> 用于第一人称疑问句，表示征求意见“要不要……呢”；<code>someplace</code> 是美式口语的 <code>somewhere</code>。这句话说明在她眼里开膛翻找只是件平常活计，随时可以换个部位再来一次。"
+   ],
+   "vocab": [
+    {
+     "w": "someplace",
+     "p": "/ˈsʌmpleɪs/",
+     "t": "adv.",
+     "z": "（美式口语）某处，别的地方"
+    },
+    {
+     "w": "try",
+     "p": "/traɪ/",
+     "t": "v.",
+     "z": "试，尝试（此处指“换个地方再找找”）"
+    }
+   ]
+  },
+  {
+   "i": 33,
+   "zh": "“不——不——不，我还有别的问题……是谁叫你来取这些东西的？”",
+   "notes": [
+    "<code>Nuh — nuh — no</code> 是玛尔塔式结巴在无名氏嘴里的回声（他被折腾得说话也带上了停顿），中文用“不——不——不”保留这种卡顿。",
+    "<code>remove</code> 在此是“取出、移走”的意思，比 <code>take out</code> 正式；前面玛尔塔反复用 <code>remove</code>，无名氏沿用同一个词，说明他是顺着对方的说法往下追问。",
+    "无名氏的问句依旧直奔要害，这是他全章的说话方式：不谈感受，只要线索。"
+   ],
+   "vocab": [
+    {
+     "w": "remove",
+     "p": "/rɪˈmuːv/",
+     "t": "v.",
+     "z": "移走，取出（此处指取出体内异物）"
+    },
+    {
+     "w": "other questions",
+     "p": "",
+     "t": "phrase",
+     "z": "别的问题（other 后接复数名词，泛指“另外一些”）"
+    }
+   ]
+  },
+  {
+   "i": 34,
+   "zh": "“那张肥脸讨食猪昆特，还有另一个拄拐一瘸一拐的瘸拐法罗德，没错吧，玛尔塔？”她古怪地笑了笑，点了点头。“对，就是这样，玛尔塔……”",
+   "notes": [
+    "<code>Fat-faced gimme-pig Quint</code> 是一串临时造出来的粗话绰号：<code>fat-faced</code>（肥脸）、<code>gimme-pig</code> 由口语 <code>gimme</code>（＝give me）加 <code>pig</code> 拼成，指“张口就要、贪得无厌的家伙”，中文合成“肥脸讨食猪”以保住这份市井刻薄。",
+    "<code>the other crutch-hobble, hobble-crutch</code>：<code>crutch</code>（拐杖）和 <code>hobble</code>（一瘸一拐地走）两个词被颠倒着重复，既写出法罗德拄拐的形象，也模仿玛尔塔语无伦次的颠倒腔。<code>Fair-odd</code> 是把 <code>Pharod</code> 念歪的谐音（<code>fair</code>＝“正当的”，<code>odd</code>＝“古怪的”），中文以“瘸拐法罗德”寓其形貌。",
+    "<code>innit that right, Marta?</code>：<code>innit</code>＝<code>isn’t it</code> 的伦敦土话缩读，她自己问、自己答（<code>Aye</code>＝yes），一问一答之间并不需要旁人插嘴。"
+   ],
+   "vocab": [
+    {
+     "w": "gimme",
+     "p": "/ˈɡɪmi/",
+     "t": "v.",
+     "z": "（口语）＝give me，张口索要的意思"
+    },
+    {
+     "w": "crutch",
+     "p": "/krʌtʃ/",
+     "t": "n.",
+     "z": "拐杖，腋杖（法罗德拄拐的形象标记）"
+    },
+    {
+     "w": "hobble",
+     "p": "/ˈhɒbl/",
+     "t": "v.",
+     "z": "跛行，一瘸一拐地走"
+    },
+    {
+     "w": "innit",
+     "p": "/ˈɪnɪt/",
+     "t": "phrase",
+     "z": "（伦敦土话）＝isn’t it，用于句尾求取认同"
+    },
+    {
+     "w": "Aye",
+     "p": "/aɪ/",
+     "t": "adv.",
+     "z": "（方言/古体）是，对"
+    }
+   ]
+  },
+  {
+   "i": 35,
+   "zh": "“法罗德？他在哪儿？”玛尔塔耸了耸肩。",
+   "notes": [
+    "无名氏的问句省略到只剩人名加疑问词 <code>Where is he?</code>，是他惯有的逼问方式；玛尔塔却不答，只以 <code>shrugged</code> 一个动作回应，形成一冷一热的对照。",
+    "<code>shrug</code> 在英文对白里常被用来代替“不知道”，不必再加 <code>I don’t know</code>，中文保留动作而不补话。"
+   ],
+   "vocab": [
+    {
+     "w": "shrugged",
+     "p": "/ʃrʌɡd/",
+     "t": "v.",
+     "z": "耸肩（shrug 的过去式，常表“不知道/不在乎”）"
+    },
+    {
+     "w": "Where is he?",
+     "p": "",
+     "t": "句型",
+     "z": "他在哪儿？（省略到只剩人名加疑问词，是逼问式短句）"
+    }
+   ]
+  },
+  {
+   "i": 36,
+   "zh": "“法罗德在哪儿，这位问啦？他就在这儿呀，玛尔塔，是不是……？”她点点头。“对，法罗德就在这儿，玛尔塔。就在这儿的哪栋房子里，他……”",
+   "notes": [
+    "<code>Where’s Pharod, this one asks?</code> 用 <code>this one</code>（“这一位”）称当面的无名氏，是玛尔塔把人当物件看的口气，也带着神志不清的疏离；译文用“这位问啦”保留这份古怪。",
+    "<code>He’s heres</code>：<code>heres</code>＝<code>here</code> 加多余的 <code>s</code>，是玛尔塔口音与语病混在一起的标记；中文用“就在这儿呀”加重语气词，代替英文拼写上的错讹。",
+    "<code>One of the buildings here, he is…</code> 把 <code>he is</code> 后置重复，是口语中的追补式语序（先给信息再补主语），省略号表示她话没说完，中文用“就在这儿的哪栋房子里，他……”对应这种说到一半的收尾。"
+   ],
+   "vocab": [
+    {
+     "w": "this one",
+     "p": "",
+     "t": "phrase",
+     "z": "这一位（口语中指当面的人，带疏离感）"
+    },
+    {
+     "w": "buildings",
+     "p": "/ˈbɪldɪŋz/",
+     "t": "n.",
+     "z": "建筑物，房屋（building 的复数）"
+    }
+   ]
+  },
+  {
+   "i": 37,
+   "zh": "我丢下她继续摆弄那堆尸骨，走出了我落脚的这间屋子。我发现自己仍在地底，不过是在印记城之下的一片大体开阔的地方。四下里人不少，足以凑成一个小村子；而我很快就打听到，这地方的名字也差不多就是这么叫的——埋骨村。",
+   "notes": [
+    "<code>I left her to her charnel work</code> 是 <code>leave sb. to sth.</code> 结构，“让某人继续做某事、不去打扰”；<code>charnel</code> 指“尸骨存放处”，<code>charnel work</code> 即“摆弄尸骨的活计”，比直译“停尸房的工作”更贴她的营生。",
+    "<code>exiting the room I had found myself in</code> 用现在分词作伴随状语；<code>find oneself in</code>＝“（不知不觉）身处……”，强调他是被人搬动或迷蒙中醒来的，对自己所在之处并无把握。",
+    "<code>enough people about to constitute a small village</code>：<code>constitute</code>＝“构成、够得上称为”；<code>that was close to what it was called</code> 中 <code>what it was called</code> 是名词性从句作 <code>to</code> 的宾语，意思是“当地人对它的叫法”，破折号后以 <code>Buried Village.</code> 单独点出地名，译文照此收尾。"
+   ],
+   "vocab": [
+    {
+     "w": "charnel",
+     "p": "/ˈtʃɑːnl/",
+     "t": "n.",
+     "z": "尸骨存放处（charnel work 指摆弄尸骨的活计）"
+    },
+    {
+     "w": "underground",
+     "p": "/ˈʌndəɡraʊnd/",
+     "t": "adv.",
+     "z": "在地下，在地底"
+    },
+    {
+     "w": "constitute",
+     "p": "/ˈkɒnstɪtjuːt/",
+     "t": "v.",
+     "z": "构成，够得上称为"
+    },
+    {
+     "w": "beneath",
+     "p": "/bɪˈniːθ/",
+     "t": "prep.",
+     "z": "在……之下（比 under 更书面）"
+    }
+   ]
+  },
+  {
+   "i": 38,
+   "zh": "我在村里转了一圈，边走边留意着四周。当我看见只有一栋房子门前有守卫时，心里暗自点了点头。那一定就是法罗德的巢穴。",
+   "notes": [
+    "<code>noting things as I walked</code> 是 <code>as</code> 引导的时间状语从句，等于 <code>while I walked</code>；“留意、记下”的 <code>note</code> 说明他在收集情报，而非闲逛。",
+    "<code>I nodded to myself when…</code> 的 <code>to myself</code> 表示动作只发生在内心、无人看见；译文用“心里暗自点了点头”把这一层译出来。",
+    "<code>That must be Pharod’s lair.</code> 的 <code>must</code> 表推断（“一定、想必”），不是义务；<code>lair</code> 本指野兽巢穴，用在人身上含贬义，本项目统一译作“巢穴”。"
+   ],
+   "vocab": [
+    {
+     "w": "guards",
+     "p": "/ɡɑːdz/",
+     "t": "n.",
+     "z": "守卫，看守（guard 的复数）"
+    },
+    {
+     "w": "lair",
+     "p": "/leə(r)/",
+     "t": "n.",
+     "z": "巢穴，兽穴（用于人含贬义，指藏身窝点）"
+    },
+    {
+     "w": "noting",
+     "p": "/ˈnəʊtɪŋ/",
+     "t": "v.",
+     "z": "注意到，记下（note 的现在分词）"
+    }
+   ]
+  },
+  {
+   "i": 39,
+   "zh": "我大摇大摆地走了进去，没理会那些守卫。屋里比我在这一带见过的任何建筑都大得多，可垃圾堆得跟外头的村子一样杂乱。里面只有一个人。我面前是个老头，身子沉沉地压在一根拐杖上；他的左腿扭曲着，像是当年同时朝两个方向迈步，为此付了代价。他那种蛆色的皮肤在颅骨上堆出重重褶子，上面布满肝斑。他嘴里念念有词，咂着嘴唇，眼睛在屋里绕了一圈。",
+   "notes": [
+    "<code>I boldly walked in, ignoring the guards.</code> 用现在分词 <code>ignoring</code> 作伴随状语，写出他明知有守卫却不加理会；“boldly”与后面孤身面对法罗德的气势一致。",
+    "<code>as junk strewn as the village outside</code> 是 <code>as + 形容词 + as</code> 的比较结构，此处把 <code>junk-strewn</code>（垃圾遍地的）拆开使用；<code>strewn</code> 是 <code>strew</code>（撒、散落）的过去分词，作后置定语。",
+    "<code>as if he tried to walk two directions at once and paid the price</code> 中 <code>as if</code> 引导虚拟比拟，<code>paid the price</code>＝“付出了代价”；<code>maggoty-colored</code>（蛆色的）与 <code>liver spots</code>（肝斑、老年斑）同属一段密集的衰朽描写，译时按原序逐个落地。"
+   ],
+   "vocab": [
+    {
+     "w": "boldly",
+     "p": "/ˈbəʊldli/",
+     "t": "adv.",
+     "z": "大胆地，无所顾忌地"
+    },
+    {
+     "w": "junk",
+     "p": "/dʒʌŋk/",
+     "t": "n.",
+     "z": "垃圾，破烂杂物"
+    },
+    {
+     "w": "strewn",
+     "p": "/struːn/",
+     "t": "v.",
+     "z": "散落，撒满（strew 的过去分词，作后置定语）"
+    },
+    {
+     "w": "crutch",
+     "p": "/krʌtʃ/",
+     "t": "n.",
+     "z": "拐杖（此处指他倚靠的腋杖）"
+    },
+    {
+     "w": "flecked",
+     "p": "/flekt/",
+     "t": "v.",
+     "z": "使带有斑点（be flecked with 布满……斑点）"
+    }
+   ]
+  },
+  {
+   "i": 40,
+   "zh": "我朝他喊了一声。",
+   "notes": [
+    "短短五词的独立成段，在英文里起的是转场作用：上文是静态的观察，下文立刻进入对话；中文照旧压成一句，不添“于是”之类的连接词，以保住原文的突兀感。",
+    "<code>call out to sb.</code> 是固定搭配，“朝某人大声招呼/呼喊”，比 <code>speak to</code> 多了个扬声的意味。"
+   ],
+   "vocab": [
+    {
+     "w": "called out",
+     "p": "",
+     "t": "phrase",
+     "z": "大声招呼，喊出声（call out to sb.）"
+    },
+    {
+     "w": "I called out to him.",
+     "p": "",
+     "t": "句型",
+     "z": "我朝他喊了一声。（call out to sb. 固定搭配）"
+    }
+   ]
+  },
+  {
+   "i": 41,
+   "zh": "“啊哈！”那人听到我的声音，眼睛一下亮了。“莫不是我这固定进项又自个儿送进法罗德的怀里来了！你好啊，尸体。”他咧嘴笑得一脸邪气。“你是来找法罗德，再往停尸间那堵墙里跑一趟的吗？”",
+   "notes": [
+    "<code>Tisn’t my steady crop of jink come to Pharod’s waiting arms again!</code> 用 <code>Tisn’t</code>（＝It isn’t）开头的反问句式，是古体/方言的说法；<code>crop</code> 本指一季的收成，这里把无名氏当成“定期上门的一笔进项”，<code>jink</code> 是印记城俚语“钱币”，<code>waiting arms</code> 则是张开双臂等着收钱的姿态。中文用“固定进项”保留他把人当财路的口吻。",
+    "<code>Greetings, corpse.</code> 直接以“尸体”相称，是法罗德对无名氏的身份认定（也暗示他早知对方是死人堆里爬出来的）；译文不加缓和词，保留这份狎昵的轻蔑。",
+    "<code>a wicked grin</code> 的 <code>wicked</code> 兼有“邪恶”和“顽劣”两层；<code>jaunt into the Mortuary walls</code> 中 <code>jaunt</code> 指“短途游乐、跑一趟”，把一个凶险的活计说成闲逛，正显出他毫不在意别人的死活。"
+   ],
+   "vocab": [
+    {
+     "w": "jink",
+     "p": "/dʒɪŋk/",
+     "t": "n.",
+     "z": "（印记城俚语）钱币，钱"
+    },
+    {
+     "w": "crop",
+     "p": "/krɒp/",
+     "t": "n.",
+     "z": "收成，一季的收获（此处喻“定期送上门的进项”）"
+    },
+    {
+     "w": "jaunt",
+     "p": "/dʒɔːnt/",
+     "t": "n.",
+     "z": "短途出行，跑一趟（含轻松游玩之意）"
+    },
+    {
+     "w": "wicked",
+     "p": "/ˈwɪkɪd/",
+     "t": "adj.",
+     "z": "邪恶的，坏心眼的（wicked grin 一脸坏笑）"
+    },
+    {
+     "w": "corpse",
+     "p": "/kɔːps/",
+     "t": "n.",
+     "z": "尸体（此处是法罗德对无名氏的称呼）"
+    }
+   ]
+  },
+  {
+   "i": 42,
+   "zh": "“法罗德，我是来打听消息的。有人告诉我，你知道一些关于我的事。”",
+   "notes": [
+    "<code>I’ve come for information.</code> 用现在完成时表“我此番前来是为了……”，目的已定；<code>come for sth.</code>＝“为取得某物而来”。",
+    "<code>I’ve been told that…</code> 是现在完成时的被动语态，“有人告诉过我（因此我得知）”，省略施动者，正合无名氏不愿交出消息来源的谨慎。",
+    "这句是无名氏少有的稍长台词，但仍保持直陈、不寒暄的口气；对法罗德这样的地头蛇，他开口就把来意点明。"
+   ],
+   "vocab": [
+    {
+     "w": "information",
+     "p": "/ˌɪnfəˈmeɪʃn/",
+     "t": "n.",
+     "z": "消息，情报（不可数名词）"
+    },
+    {
+     "w": "I've come for",
+     "p": "",
+     "t": "phrase",
+     "z": "我是为……而来的（come for sth. 为取得某物而来；原文此段用的是直引号 '）"
+    }
+   ]
+  },
+  {
+   "i": 43,
+   "zh": "“知道……关于你的什么事……？”法罗德眼里的光暗了下去。他打量着我，嘴唇微微动着，目光在我身上上下扫来扫去。“尸体……？不是？是？”他的目光与我撞上。“啊！不是……”",
+   "notes": [
+    "<code>Know somethin’ ‘bout you…?</code> 用省音形式 <code>somethin’</code>、<code>‘bout</code> 写他那口含混的土话，句尾省略号表迟疑——他先顺着话头反问，其实心里没底。",
+    "<code>The light in Pharod’s eyes dimmed.</code> 与第 41 段“眼睛一下亮了”构成对照：他原以为来了笔生意，听出对方是来讨旧账的，神色便暗了下来。",
+    "<code>his eyes flickered up and down my frame</code>：<code>flicker</code> 本指火光闪动，此处形容目光游移不停；<code>frame</code> 指“身架、体格”，比 <code>body</code> 更强调外形轮廓。<code>Corpse…? No? Yes?</code> 三连短问是他边看边排除的自语，中文用问号串保留这份举棋不定。"
+   ],
+   "vocab": [
+    {
+     "w": "dimmed",
+     "p": "/dɪmd/",
+     "t": "v.",
+     "z": "变暗，黯淡下去（dim 的过去式）"
+    },
+    {
+     "w": "mumbling",
+     "p": "/ˈmʌmblɪŋ/",
+     "t": "v.",
+     "z": "含糊地咕哝（mumble 的现在分词）"
+    },
+    {
+     "w": "flickered",
+     "p": "/ˈflɪkəd/",
+     "t": "v.",
+     "z": "闪动，游移不定（flicker 的过去式）"
+    },
+    {
+     "w": "frame",
+     "p": "/freɪm/",
+     "t": "n.",
+     "z": "身架，体格（指人的身形）"
+    }
+   ]
+  },
+  {
+   "i": 44,
+   "zh": "“看仔细些……你知道我是谁吗？”法罗德用一双死沉沉的目光盯着我。",
+   "notes": [
+    "<code>Look closely…</code> 是祈使句，<code>closely</code> 指“仔细地、贴近地看”，与 <code>near</code>（靠近）不同，这里要的是看得认真；省略号表示他先给了对方一个机会。",
+    "<code>do you know who I am</code> 是 <code>who</code> 引导的名词性从句作 <code>know</code> 的宾语，语序不倒装（不用 <code>who am I</code>）。",
+    "<code>a dead-even gaze</code>：<code>dead</code> 在此是副词，起加强作用（“完全、十足”），<code>dead-even</code> 形容目光平直不闪，“死沉沉/纹丝不动地盯着”；这一句把法罗德从方才的絮叨一下收成冷酷的审视，为下一段他辨认无名氏作铺垫。"
+   ],
+   "vocab": [
+    {
+     "w": "closely",
+     "p": "/ˈkləʊsli/",
+     "t": "adv.",
+     "z": "仔细地，贴近地（look closely 仔细看）"
+    },
+    {
+     "w": "gaze",
+     "p": "/ɡeɪz/",
+     "t": "n.",
+     "z": "凝视，注视（dead-even gaze 平直不动的目光）"
+    },
+    {
+     "w": "dead-even",
+     "p": "",
+     "t": "adj.",
+     "z": "平直不闪的；dead 作副词加强语气（完全、十足）"
+    }
+   ]
+  }
+ ]
+}

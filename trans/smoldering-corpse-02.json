@@ -1,0 +1,811 @@
+{
+ "chapter": "Smoldering Corpse",
+ "chunk": "smoldering-corpse-02",
+ "items": [
+  {
+   "i": 23,
+   "zh": "我把手伸进眼窝，一把将眼珠抠出来，搁在掌心里。酒保好心替我切断了视神经，又把我的手引到吧台上那只盛满黏液的大罐子前。我把自己的眼珠泡进防腐液里，手指合拢抓住原来那只眼珠，塞回空荡荡的眼窝。整个手术疼得难以形容。可过了一会儿，我感觉到视神经正和新眼珠重新接上……突然，一道记忆的闪光劈面打来！",
+   "notes": [
+    "<code>popped my eye into the palm of my hand</code>：<code>pop</code> 在此是口语化的“一下掏出、啪地取出”，比 <code>take out</code> 更有干脆利落的动感；<code>the palm of my hand</code> 是固定说法，即“手心、掌心”。",
+    "<code>helpfully severed the optic nerve</code> 中 <code>helpfully</code> 是评价性副词，表面是“帮了忙”，实带叙述者一贯的冷幽默——酒保干这种事熟练得像日常服务。<code>severed</code> 与 <code>deposited</code>、<code>reattaching</code> 都是偏书面的医学式用词，和无名氏做这种血腥事时的平淡口气形成反差。",
+    "<code>I was hit by a flash of memory</code> 是被动结构，字面“被一道记忆的闪光击中”，中文换成主动的“劈面打来”更合小说腔。本章之后三次出现的 <code>Memory flash:</code> 是同一意象的名词化标签，统一译作“记忆闪回：”。"
+   ],
+   "vocab": [
+    {
+     "w": "socket",
+     "p": "/ˈsɒkɪt/",
+     "t": "n.",
+     "z": "眼窝，槽（eye socket 即“眼眶、眼窝”）"
+    },
+    {
+     "w": "severed",
+     "p": "/ˈsevəd/",
+     "t": "v.",
+     "z": "切断，割断（sever 的过去式，多用于肢体、神经、联系）"
+    },
+    {
+     "w": "optic nerve",
+     "p": "/ˈɒptɪk nɜːv/",
+     "t": "n.",
+     "z": "视神经（连接眼球与大脑的神经）"
+    },
+    {
+     "w": "preservative",
+     "p": "/prɪˈzɜːvətɪv/",
+     "t": "n.",
+     "z": "防腐剂，防腐液（此处指吧台上那罐泡眼珠的黏液）"
+    },
+    {
+     "w": "reattaching",
+     "p": "/ˌriːəˈtætʃɪŋ/",
+     "t": "v.",
+     "z": "重新接上，再附着（re- 表“再、重新”）"
+    }
+   ]
+  },
+  {
+   "i": 24,
+   "zh": "记忆闪回：一片混沌的荒野在我面前铺开，变个不停，望不到边；一群秃鹫般的人形生物朝我急坠而下，手中凶器蓄势欲击；我自己那把闪亮的利刃，正紧紧攥在拳中……",
+   "notes": [
+    "原句没有主语和谓语，全靠三个并列的名词短语（<code>A vast expanse…</code>、<code>a group of…</code>、<code>my own shining blade…</code>）叠出一闪而过的画面，是典型的“碎片式”闪回句法；中文用分号逐层铺开，保留这种一帧帧闪过的感觉。",
+    "<code>humanoid vultures plummeting toward me</code> 是 <code>感官动词/名词 + 现在分词</code>的复合结构，<code>plummet</code> 强调“直坠、猛落”；<code>cruel weapons ready to strike</code> 中 <code>ready to strike</code> 是形容词短语作后置定语，等于省略了 <code>which were</code>。",
+    "<code>my own</code> 特意加了 <code>own</code>，强调“我自己那把”，暗示他虽失忆却认得这兵器；<code>clutched tight in my fist</code> 是过去分词短语作后置定语（被攥在拳里），比从句更紧、更快。"
+   ],
+   "vocab": [
+    {
+     "w": "chaotic",
+     "p": "/keɪˈɒtɪk/",
+     "t": "adj.",
+     "z": "混乱的，无序的（此处指混沌海般的荒野）"
+    },
+    {
+     "w": "wasteland",
+     "p": "/ˈweɪstlænd/",
+     "t": "n.",
+     "z": "荒原，不毛之地"
+    },
+    {
+     "w": "vultures",
+     "p": "/ˈvʌltʃəz/",
+     "t": "n.",
+     "z": "秃鹫（vulture 的复数，食腐猛禽）"
+    },
+    {
+     "w": "plummeting",
+     "p": "/ˈplʌmɪtɪŋ/",
+     "t": "v.",
+     "z": "垂直急坠，猛然下落（plummet 的现在分词）"
+    },
+    {
+     "w": "clutched",
+     "p": "/klʌtʃt/",
+     "t": "v.",
+     "z": "紧紧抓住，攥住（clutch 的过去分词）"
+    }
+   ]
+  },
+  {
+   "i": 25,
+   "zh": "记忆闪回：三个恶棍把我围住，身上穿着某个敌人的颜色，我却想不起那是谁。他们手里长匕首泛着光，龇出的牙齿上冷光一闪。我瞥了一眼自己满是伤疤的双手，知道自己很快就要沾满鲜血……",
+   "notes": [
+    "<code>an enemy I couldn’t quite place</code> 是省略关系代词 <code>that</code> 的定语从句；<code>place sb/sth</code> 在这里不是“放置”，而是“认出、想起（是谁、在哪见过）”，<code>couldn’t quite place</code>＝“一时认不出来”。",
+    "<code>in the colors of…</code>：<code>colors</code> 复数在军事语境里指“旗帜、番号、制服标识”，<code>in the colors of an enemy</code> 即“穿着敌方颜色的衣甲”。",
+    "<code>knew that soon they would be covered in blood</code>：<code>be covered in</code> 表示“被……盖满”，此处是预感式的将来，中文用“很快就要沾满鲜血”保住这句不祥的自白。"
+   ],
+   "vocab": [
+    {
+     "w": "toughs",
+     "p": "/tʌfs/",
+     "t": "n.",
+     "z": "恶棍，地痞（tough 的复数，指街头混混）"
+    },
+    {
+     "w": "place",
+     "p": "/pleɪs/",
+     "t": "v.",
+     "z": "认出，想起（某人是谁、在哪见过）"
+    },
+    {
+     "w": "glistened",
+     "p": "/ˈɡlɪsənd/",
+     "t": "v.",
+     "z": "闪光，泛着光泽（glisten 的过去式，多指湿亮或金属反光）"
+    },
+    {
+     "w": "glinted",
+     "p": "/ˈɡlɪntɪd/",
+     "t": "v.",
+     "z": "闪烁，冷光一闪（glint 的过去式，多为金属、牙齿的短促反光）"
+    },
+    {
+     "w": "scarred",
+     "p": "/skɑːd/",
+     "t": "adj.",
+     "z": "满是伤疤的，留下疤痕的"
+    }
+   ]
+  },
+  {
+   "i": 26,
+   "zh": "记忆闪回：一个硕大无朋、青蛙似的生物蹦跳着从混沌之物上／中／下钻过来，张着满嘴尖牙朝我扑来。我把标枪掷进那团不断变形的东西里，一下子把那生物钉在不知从哪儿冒出的石柱上……",
+   "notes": [
+    "原文的 <code>over/through/under</code> 用斜杠串起三个介词，是刻意制造的“无法确定”效果：那片混沌之物连方位都不固定，译者照原样保留斜杠，让中文读者也面对这份含混。",
+    "<code>chaos-stuff</code> 是作者自造的复合名词，由 <code>chaos</code>（混沌）加 <code>stuff</code>（东西、玩意儿）构成，译作“混沌之物”以保留其口语化的臆造感。",
+    "<code>a mouth full of teeth</code> 是“名词 + full of + 名词”的描写性短语，不说 <code>toothy mouth</code>，而强调“满口都是牙”；<code>pinned the creature to a sudden stone plinth</code> 中 <code>pinned…to…</code>＝“把……钉在……上”，<code>sudden</code> 修饰石柱，写出那柱子是凭空骤然出现的。"
+   ],
+   "vocab": [
+    {
+     "w": "bounding",
+     "p": "/ˈbaʊndɪŋ/",
+     "t": "v.",
+     "z": "跳跃着前进（bound 的现在分词，指连蹦带跳）"
+    },
+    {
+     "w": "creature",
+     "p": "/ˈkriːtʃə(r)/",
+     "t": "n.",
+     "z": "生物，怪物（不指明种类的动物或异物）"
+    },
+    {
+     "w": "javelin",
+     "p": "/ˈdʒævlɪn/",
+     "t": "n.",
+     "z": "标枪（可投掷的短矛）"
+    },
+    {
+     "w": "shifting",
+     "p": "/ˈʃɪftɪŋ/",
+     "t": "adj.",
+     "z": "不断变动的，游移不定的（shift 的现在分词作定语）"
+    },
+    {
+     "w": "plinth",
+     "p": "/plɪnθ/",
+     "t": "n.",
+     "z": "柱基，基座（石柱底部的方形台座）"
+    }
+   ]
+  },
+  {
+   "i": 27,
+   "zh": "我意识到，自己已经找回了些许失落的战斗本领。",
+   "notes": [
+    "<code>I realized (that)…</code> 后接宾语从句，关系词 <code>that</code> 被省略；这是全书叙述者反复出现的“自省式”句式——一段回忆之后，紧跟一句清醒的认识。",
+    "<code>I had recalled</code> 是过去完成时，表示“在意识到之前就已经想起”，比一般过去时更准确地交代两层时间；<code>lost</code> 是过去分词作定语，修饰 <code>fighting skills</code>，即“那些丢失了的战斗本领”。"
+   ],
+   "vocab": [
+    {
+     "w": "realized",
+     "p": "/ˈriːəlaɪzd/",
+     "t": "v.",
+     "z": "意识到，认识到（realize 的过去式，后接宾语从句）"
+    },
+    {
+     "w": "recalled",
+     "p": "/rɪˈkɔːld/",
+     "t": "v.",
+     "z": "回想起，忆起（recall 的过去分词，比 remember 更书面）"
+    },
+    {
+     "w": "fighting skills",
+     "p": "",
+     "t": "n.",
+     "z": "战斗本领，武艺（fighting 作定语修饰 skills）"
+    }
+   ]
+  },
+  {
+   "i": 28,
+   "zh": "我又向酒保问了不少问题——他叫巴克斯。酒吧里客人不少，还夹着几个恶魔，我问他谁能帮上我的忙。他给我开了张短短的单子，上面是些也许能帮我的主顾，我便起身过去跟他们搭话。",
+   "notes": [
+    "<code>I asked more questions of the barkeep</code>：<code>ask sth of sb</code> 是比 <code>ask sb sth</code> 更书面的说法，意为“向某人提出（问题）”。",
+    "<code>who was named Barkis</code> 是非限制性定语从句，补充交代酒保的名字；中文用破折号插入“他叫巴克斯”，不打乱主句节奏。",
+    "<code>a short list of the patrons who might be able to help</code>：<code>a short list</code> 指“很短的名单”，暗示能帮上忙的人不多；<code>patrons</code> 在此指酒吧的“主顾、顾客”，<code>I moved out to talk to them</code> 里的 <code>move out</code> 是“挪步过去”，比 <code>walk</code> 更带目的性。"
+   ],
+   "vocab": [
+    {
+     "w": "barkeep",
+     "p": "/ˈbɑːkiːp/",
+     "t": "n.",
+     "z": "酒保，酒吧老板（barkeeper 的口语缩略）"
+    },
+    {
+     "w": "fiends",
+     "p": "/fiːndz/",
+     "t": "n.",
+     "z": "恶魔，邪魔（fiend 的复数；异域设定中泛指下层位面的邪物）"
+    },
+    {
+     "w": "patrons",
+     "p": "/ˈpeɪtrənz/",
+     "t": "n.",
+     "z": "主顾，顾客（此处指酒吧里的客人）"
+    },
+    {
+     "w": "numerous",
+     "p": "/ˈnjuːmərəs/",
+     "t": "adj.",
+     "z": "众多的，数量不少的（较正式，多修饰可数名词复数）"
+    },
+    {
+     "w": "moved out",
+     "p": "",
+     "t": "短语",
+     "z": "挪步过去，动身走过去（强调离开原位去别处）"
+    }
+   ]
+  },
+  {
+   "i": 29,
+   "zh": "我看见一个老头，背有点驼，灰胡子浓密，灰白头发像一圈狮鬃。他身上穿着几片肩甲权当护甲，头盔就搁在手边，嘴里叼着烟斗，腰上挂着一袋烟草。他瞧着相当结实，只是身上有些发福，似乎还带着点呼吸上的毛病。",
+   "notes": [
+    "全段用一串 <code>with</code> 引导的介词短语和并列谓语层层叠加人物外貌（<code>with a full grey beard</code>、<code>with a lion’s mane of grey hair</code>），是典型的“速写式”肖像句；中文拆成短句分号铺开，读起来更像小说。",
+    "<code>a lion’s mane of grey hair</code> 是“a + 比喻物 + of + 本体”结构，字面“一围狮鬃似的灰发”，<code>mane</code> 本指马、狮的鬃毛，用在这里写他头发又厚又炸。",
+    "<code>appeared to have some sort of breathing trouble</code>：<code>appear to do</code>＝“看样子、似乎”，加上 <code>some sort of</code>（某种、说不清的），两处都保留了叙述者只是观察、不能确定的口气，与后文他成为“埃布”这个哮喘老人相呼应。"
+   ],
+   "vocab": [
+    {
+     "w": "stooped",
+     "p": "/stuːpt/",
+     "t": "adj.",
+     "z": "驼背的，弓着身子的（stoop 的过去分词）"
+    },
+    {
+     "w": "mane",
+     "p": "/meɪn/",
+     "t": "n.",
+     "z": "鬃毛（马、狮的颈毛；此处喻浓密的长发）"
+    },
+    {
+     "w": "shoulder guards",
+     "p": "",
+     "t": "n.",
+     "z": "肩甲，护肩（shoulder guard 的复数）"
+    },
+    {
+     "w": "pouch",
+     "p": "/paʊtʃ/",
+     "t": "n.",
+     "z": "小袋，囊（a pouch of tobacco 即“一袋烟草”）"
+    },
+    {
+     "w": "plump",
+     "p": "/plʌmp/",
+     "t": "adj.",
+     "z": "丰满的，胖乎乎的（比 fat 委婉顺耳）"
+    }
+   ]
+  },
+  {
+   "i": 30,
+   "zh": "“哟，瞧瞧，这是哪来的小子！我活这么大，没见过谁身上盖这么多疤——跟披了件伤疤斗篷似的！你这是上哪儿去了——掉进打谷机里啦？！”他哈哈大笑。“哦，我就是逗你玩儿，小子，没冒犯的意思，也盼你别往心里去。我叫埃布。”他伸出手来。",
+   "notes": [
+    "埃布的口音和粗豪腔调集中在这一段：<code>ye</code>＝you，<code>ye’re</code>＝you are，<code>fella</code>＝fellow，<code>jesting</code>＝jesting/joking（<code>jest</code> 即“打趣、说笑”）。中文用“小子”“你这是上哪儿去了”“逗你玩儿”一类市井口气对应。",
+    "<code>aren’t you a sight</code> 是否定疑问句式的感叹用法，字面“你可真是道风景”，实为“瞧你这副模样！”；<code>Where you been</code> 省略了 <code>have</code>，也是口语省略。",
+    "<code>like a scar cloak ye’re wearing</code> 是比喻＋倒装：正常语序为 <code>like a scar cloak [that] ye’re wearing</code>，“像你正披着一件伤疤斗篷”；中文用“跟披了件伤疤斗篷似的”保住这个粗野又好笑的比方。"
+   ],
+   "vocab": [
+    {
+     "w": "lad",
+     "p": "/læd/",
+     "t": "n.",
+     "z": "小子，小伙子（长辈对年轻男子的称呼，含亲昵或轻慢）"
+    },
+    {
+     "w": "jesting",
+     "p": "/ˈdʒestɪŋ/",
+     "t": "v.",
+     "z": "打趣，说笑（jest 的现在分词，<code>I'm just jesting</code> 即“我逗你玩儿”）"
+    },
+    {
+     "w": "offense",
+     "p": "/əˈfens/",
+     "t": "n.",
+     "z": "冒犯，得罪（no offense meant 即“没有冒犯之意”）"
+    },
+    {
+     "w": "thresher",
+     "p": "/ˈθreʃə(r)/",
+     "t": "n.",
+     "z": "打谷机，脱粒机（grain thresher 即“谷物脱粒机”）"
+    },
+    {
+     "w": "scar",
+     "p": "/skɑː(r)/",
+     "t": "n.",
+     "z": "伤疤，疤痕（此处 <code>scar cloak</code> 指“伤疤做的斗篷”）"
+    }
+   ]
+  },
+  {
+   "i": 31,
+   "zh": "“幸会，埃布。”他握手很有力。",
+   "notes": [
+    "<code>Greetings</code> 是比 <code>Hello</code> 更正式、更书面（且略带奇幻味）的问候语，中文用“幸会”对得住这份正式；无名氏的话一贯简短、不拖泥带水。",
+    "<code>His handshake was firm</code> 中 <code>handshake</code> 是由动词短语 <code>shake hands</code> 合成的名词；一个 <code>firm</code> 字就替无名氏给这老头下了判断——身体还硬朗，为人也实在，与他后面哮喘、发福的外形形成补充。"
+   ],
+   "vocab": [
+    {
+     "w": "Greetings",
+     "p": "/ˈɡriːtɪŋz/",
+     "t": "int.",
+     "z": "问候语，“你好、幸会”（较正式，常用复数形式）"
+    },
+    {
+     "w": "handshake",
+     "p": "/ˈhændʃeɪk/",
+     "t": "n.",
+     "z": "握手（由 shake hands 合成的名词）"
+    },
+    {
+     "w": "firm",
+     "p": "/fɜːm/",
+     "t": "adj.",
+     "z": "坚定的，有力的（a firm handshake 即“握手很有力”）"
+    }
+   ]
+  },
+  {
+   "i": 32,
+   "zh": "“喏，方才那玩笑开得不厚道，我在这儿给你赔个不是，小子。盼你别记恨；容我请你喝上一两杯，把炸起来的毛理顺理顺？”我并没往心里去，便点头答应了。",
+   "notes": [
+    "<code>I hereby tender my apologies</code>：<code>hereby</code> 是公文体套语（“特此”），<code>tender</code> 意为“正式提出、奉上”，一个市井老头用这种官腔道歉，本身就是种滑稽的自嘲。",
+    "<code>smooth any ruffled feathers</code> 是习语，字面“把竖起来的羽毛抹平”，源自受惊的鸟，引申为“安抚被惹恼的人、消消气”；中文用“把炸起来的毛理顺”保住这个鸟羽比喻。",
+    "<code>Hope no hard feelings</code> 省略了主语 <code>I</code>，是口语里常见的省略；<code>hard feelings</code> 是固定搭配，指“怨气、记恨”。"
+   ],
+   "vocab": [
+    {
+     "w": "tender",
+     "p": "/ˈtendə(r)/",
+     "t": "v.",
+     "z": "正式提出，奉上（tender apologies 即“致以歉意”）"
+    },
+    {
+     "w": "hereby",
+     "p": "/ˌhɪəˈbaɪ/",
+     "t": "adv.",
+     "z": "特此，兹（公文、法律用语，用在句中表正式宣告）"
+    },
+    {
+     "w": "hard feelings",
+     "p": "",
+     "t": "短语",
+     "z": "怨气，记恨（no hard feelings 即“别介意、别记恨”）"
+    },
+    {
+     "w": "tankard",
+     "p": "/ˈtæŋkəd/",
+     "t": "n.",
+     "z": "大酒杯，带柄啤酒杯（一 tankard 约一大杯的量）"
+    },
+    {
+     "w": "ruffled",
+     "p": "/ˈrʌfld/",
+     "t": "adj.",
+     "z": "被弄乱的，竖起的（ruffle one’s feathers 喻“惹恼某人”）"
+    }
+   ]
+  },
+  {
+   "i": 33,
+   "zh": "“这才像话，小子！稍坐一会儿。”他站起身来，往吧台去了。片刻之后，他端着两只大杯子回到座位上。“给你，小子。干了！”他自己先灌了一大口，又抽了两口烟斗，说道：“今天这印记城的好日子，老埃布能帮你点什么？”",
+   "notes": [
+    "<code>That’s the spirit</code> 是固定说法，意为“这才对嘛、就该这样”，用来赞许对方的态度；中文用“这才像话”对应。",
+    "<code>Bide a moment</code>：<code>bide</code> 是古旧词，意为“等待、停留”（<code>bide one’s time</code> 亦由此而来），此处等于 <code>wait a moment</code>，中文用“稍坐一会儿”既合语境又保留老派腔。",
+    "<code>What can ol’ Ebb do for you…</code> 中 <code>ol’</code> 是 <code>old</code> 的口语缩略写法，他自称“老埃布”，是长者式的亲热口吻；<code>this fine Sigil day</code> 把地名当形容词用，字面“这个美好的印记城日子”，译作“今天这印记城的好日子”更顺。"
+   ],
+   "vocab": [
+    {
+     "w": "spirit",
+     "p": "/ˈspɪrɪt/",
+     "t": "n.",
+     "z": "精神，气性（That’s the spirit 即“这才对嘛”）"
+    },
+    {
+     "w": "tankards",
+     "p": "/ˈtæŋkədz/",
+     "t": "n.",
+     "z": "大酒杯（tankard 的复数，带柄的厚壁酒杯）"
+    },
+    {
+     "w": "Drink up",
+     "p": "",
+     "t": "短语",
+     "z": "喝干，干了（up 表“彻底、见底”）"
+    },
+    {
+     "w": "swallow",
+     "p": "/ˈswɒləʊ/",
+     "t": "n.",
+     "z": "一口（吞咽的量）（a massive swallow 即“一大口”）"
+    },
+    {
+     "w": "puffed",
+     "p": "/pʌft/",
+     "t": "v.",
+     "z": "抽（烟斗），一口口地喷烟（puff on a pipe）"
+    }
+   ]
+  },
+  {
+   "i": 34,
+   "zh": "“我有些关于这地方的问题。”",
+   "notes": [
+    "<code>I had some questions about this place</code>：<code>have questions about sth</code>＝“对某事有疑问、有问题要问”，是极常见的搭配；此处用过去时 <code>had</code> 而非 <code>have</code>，因为叙述者是在转述当时的开场白。",
+    "<code>this place</code> 只说“这地方”，不点名印记城，符合无名氏初来乍到、连自己在哪都不甚清楚的状态；本句与前后一样保持简短。"
+   ],
+   "vocab": [
+    {
+     "w": "questions",
+     "p": "/ˈkwestʃənz/",
+     "t": "n.",
+     "z": "问题，疑问（have questions about sth 即“对某事有疑问”）"
+    },
+    {
+     "w": "about",
+     "p": "/əˈbaʊt/",
+     "t": "prep.",
+     "z": "关于，有关（questions about sth 即“关于某事的问题”）"
+    }
+   ]
+  },
+  {
+   "i": 35,
+   "zh": "“哦，这我一看你就瞧出来了，就冲你这副样子。我是说，你不像本地人，小子……你这一身狼狈，可不像个混熟了的老地头儿！”埃布咯咯一笑，又喝了一口。“那我能帮你什么，小子？是不是想弄清楚这块地方的门道？”他眨了眨眼。",
+   "notes": [
+    "<code>I gathered that</code>：<code>gather</code> 在此不是“收集”，而是“推断出、料到”（＝I figured that out）；<code>jest to look at you</code> 即“光看你这模样就（知道）”，<code>jest</code> 是 <code>just</code> 的口音写法。",
+    "<code>out of sorts</code> 是固定短语，本指“身体不适、心情不佳”，此处引申为“状态不对劲、落魄”；<code>a seasoned native</code> 中 <code>seasoned</code>＝“老练的、见惯世面的”，<code>native</code>＝本地人。",
+    "<code>the lay of the land</code> 是习语，原指“地形、地势”，引申为“事情的门道、局面的底细”；<code>He winked</code> 用一般过去时独立成句，收住这段市井式的殷勤。"
+   ],
+   "vocab": [
+    {
+     "w": "gathered",
+     "p": "/ˈɡæðəd/",
+     "t": "v.",
+     "z": "推断出，料到（gather 的过去式，此处非“收集”）"
+    },
+    {
+     "w": "out of sorts",
+     "p": "",
+     "t": "短语",
+     "z": "状态不佳的，不得劲的（原指身体不适、心绪不佳）"
+    },
+    {
+     "w": "seasoned",
+     "p": "/ˈsiːznd/",
+     "t": "adj.",
+     "z": "老练的，经验丰富的（season 作动词有“使老练”之意）"
+    },
+    {
+     "w": "native",
+     "p": "/ˈneɪtɪv/",
+     "t": "n.",
+     "z": "本地人，土生土长的人"
+    },
+    {
+     "w": "winked",
+     "p": "/wɪŋkt/",
+     "t": "v.",
+     "z": "眨眼，挤眼（wink 的过去式，多含默契或打趣之意）"
+    }
+   ]
+  },
+  {
+   "i": 36,
+   "zh": "“你是谁？在做什么？”",
+   "notes": [
+    "并列的两个特殊疑问句 <code>Who are you, and what are you doing?</code> 直接砸出去，没有客套铺垫；无名氏的问话一贯如此，短、直、不修饰，译文保留这种近乎生硬的直白。",
+    "<code>what are you doing</code> 用现在进行时，问的是“眼下在干什么、干的是哪一行”，不只是问身份，所以后文埃布才要交代自己当向导的行当。"
+   ],
+   "vocab": [
+    {
+     "w": "Who are you",
+     "p": "",
+     "t": "短语",
+     "z": "你是谁（特殊疑问句，问身份）"
+    },
+    {
+     "w": "doing",
+     "p": "/ˈduːɪŋ/",
+     "t": "v.",
+     "z": "做，干（do 的现在分词；be doing 构成现在进行时）"
+    }
+   ]
+  },
+  {
+   "i": 37,
+   "zh": "“埃布·克里克尼斯，和谐会三等度量，如今退了休，靠这张嘴给人当向导，因为这两三十年来我这腿脚可没从前那么轻便喽！”他咯咯笑了起来。",
+   "notes": [
+    "<code>Third Measure of the Harmonium</code> 是作者自造的军阶头衔，<code>Measure</code> 取“度量”之意，与和谐会（<code>Harmonium</code>，印记城中奉行绝对秩序的派系）之名相配，故译作“三等度量”，全章一致。",
+    "<code>a tout with one’s voice</code>：<code>tout</code> 指在街头揽客的“拉客仔、向导”，<code>with one’s voice</code> 说明他如今只能靠嘴皮子吃饭（因为腿脚不灵）；<code>one’s</code> 在此是老头自指的口语用法。",
+    "<code>since I don’t step as lightly as I might</code>：<code>since</code> 引导原因从句，<code>as lightly as I might</code> 是“as…as”比较结构，意为“不像从前（能）迈得那么轻快”，<code>might</code> 后省略了 <code>step</code>。"
+   ],
+   "vocab": [
+    {
+     "w": "Measure",
+     "p": "/ˈmeʒə(r)/",
+     "t": "n.",
+     "z": "度量；（此处为和谐会的军阶头衔名，音义并取）"
+    },
+    {
+     "w": "retired",
+     "p": "/rɪˈtaɪəd/",
+     "t": "adj.",
+     "z": "退休的，退役的"
+    },
+    {
+     "w": "tout",
+     "p": "/taʊt/",
+     "t": "n.",
+     "z": "拉客的向导，揽客者（街头替人带路、招揽生意的人）"
+    },
+    {
+     "w": "lightly",
+     "p": "/ˈlaɪtli/",
+     "t": "adv.",
+     "z": "轻快地，脚步轻地（step lightly 即“走路轻捷”）"
+    },
+    {
+     "w": "decades",
+     "p": "/ˈdekeɪdz/",
+     "t": "n.",
+     "z": "数十年（decade 的复数，十年为一 decade）"
+    }
+   ]
+  },
+  {
+   "i": 38,
+   "zh": "“和谐会三等度量？”埃布微微挺了挺胸，脸上浮起几分得意，随即又摆出一副半严肃的神情。",
+   "notes": [
+    "叙述部分用 <code>puffed up slightly in pride</code> 与 <code>got a semi-stern look</code> 两个动作写他的虚荣：<code>puff up</code> 本指“鼓起、膨胀”，用于人即“得意地挺胸”；<code>semi-</code> 是构词前缀，表“半、部分地”。",
+    "<code>got a … look on his face</code>：<code>get + 名词</code>表示状态的出现，相当于 <code>took on</code>（“露出……的神情”）；此处叙述者只是旁观，不作评论，故中文也只白描“摆出一副半严肃的神情”。"
+   ],
+   "vocab": [
+    {
+     "w": "puffed up",
+     "p": "",
+     "t": "短语",
+     "z": "自鸣得意，挺胸鼓气（puff up 喻“因得意而神气”）"
+    },
+    {
+     "w": "slightly",
+     "p": "/ˈslaɪtli/",
+     "t": "adv.",
+     "z": "略微，稍稍（比 a little 更书面）"
+    },
+    {
+     "w": "pride",
+     "p": "/praɪd/",
+     "t": "n.",
+     "z": "自豪，得意（in pride 即“出于得意”）"
+    },
+    {
+     "w": "semi-stern",
+     "p": "",
+     "t": "adj.",
+     "z": "半严肃的（semi- 表“半”，stern 意为“严厉、严肃”）"
+    }
+   ]
+  },
+  {
+   "i": 39,
+   "zh": "“没错，和谐会三等度量……”他稍稍松弛下来。“不过我已经好几十年没服过勤了。我打过那么多仗、经过那么多小阵仗，舞文弄墨可不是我的路数，所以我索性就在这儿窝着，盯着蜂巢这一带的动静，能帮一把就帮一把。你瞧着倒像是正需要人搭把手……你是不是惹上什么麻烦了，小子？”",
+   "notes": [
+    "<code>served a tour of duty</code> 是固定说法，指“服役一期、轮值一段任职期”；<code>I haven’t served a tour of duty in many a decade</code> 中 <code>many a decade</code> 是“many a + 单数名词”的书面结构，意为“好几十年”。",
+    "<code>Pushing a quill wasn’t quite up my alley</code>：<code>push a quill</code>＝“舞文弄墨、做文书”，<code>quill</code> 是羽毛笔；<code>up my alley</code>（亦作 <code>up my street</code>）是习语，意为“合我的胃口、对我的路子”，否定式即“不是我的强项”。",
+    "<code>bide my time</code>＝“耐心等待时机、暂且安身”；<code>keeping tabs on things</code> 中 <code>keep tabs on</code> 是习语，意为“盯着、留意着（某人某事的动向）”；<code>where I can</code> 是省略式状语从句（＝where I can help out）。"
+   ],
+   "vocab": [
+    {
+     "w": "tour of duty",
+     "p": "",
+     "t": "短语",
+     "z": "服役期，任职的一轮（军警用语）"
+    },
+    {
+     "w": "quill",
+     "p": "/kwɪl/",
+     "t": "n.",
+     "z": "羽毛笔（push a quill 喻“做文书、舞文弄墨”）"
+    },
+    {
+     "w": "up my alley",
+     "p": "",
+     "t": "短语",
+     "z": "合我的路子，对我的胃口（否定式即“不是我的强项”）"
+    },
+    {
+     "w": "bide my time",
+     "p": "",
+     "t": "短语",
+     "z": "耐心等待时机，暂且安分待着"
+    },
+    {
+     "w": "keeping tabs on",
+     "p": "",
+     "t": "短语",
+     "z": "留意着，盯着（keep tabs on sb/sth）"
+    }
+   ]
+  },
+  {
+   "i": 40,
+   "zh": "“你打过哪些仗、经过哪些阵仗？”我问道，不肯让他把话头带开。",
+   "notes": [
+    "<code>What fights and skirmishes have you been in?</code> 用现在完成时问“至今经历过哪些”，<code>be in a fight</code>＝“参与一场打斗、卷入战事”；从句里省略了关系代词 <code>that</code>。",
+    "<code>refusing to be deflected</code> 是现在分词短语作伴随状语，主语仍是 <code>I</code>；<code>deflect</code> 本义“使偏转、使转向”，此处指“把话题引开、绕开问题”，中文说“不肯让他把话头带开”。"
+   ],
+   "vocab": [
+    {
+     "w": "skirmishes",
+     "p": "/ˈskɜːmɪʃɪz/",
+     "t": "n.",
+     "z": "小规模交战，遭遇战（skirmish 的复数）"
+    },
+    {
+     "w": "deflected",
+     "p": "/dɪˈflektɪd/",
+     "t": "v.",
+     "z": "使偏转，使转向（此处指把话题引开）"
+    },
+    {
+     "w": "refusing",
+     "p": "/rɪˈfjuːzɪŋ/",
+     "t": "v.",
+     "z": "拒绝，不肯（refuse 的现在分词，作伴随状语）"
+    }
+   ]
+  },
+  {
+   "i": 41,
+   "zh": "“多到我都记不清了，小子！”埃布翻了个白眼。“嗯……起码可以说是多到几乎记不清了。我在血战里服过一次役，长得没边儿，打的还是特拉斯上那场要命的糊涂仗——谎言之战；黑色世纪之战也耗了我太多太多年……”他掰着手指头一场场算，嘴里默默数着。“……呃，后来还有三界之战，别的好些仗，我甚至还参加过和谐会解放战争。哦，到末了那阵子，我还在印记城守夜人里干过……有人大概会说，那才是所有差事里最危险的一桩！”他放声大笑。血战这个词一出口，就像一把冰凉的匕首滑进我心口。我请他多讲讲血战。",
+   "notes": [
+    "<code>More than I can remember</code> 是省略句（＝It’s more than I can remember），紧接着 <code>almost more than I can remember, leastwhys</code> 又自我更正，<code>leastwhys</code> 是作者拼出的方言词（＝leastways，“至少、不管怎么说”），中文用“起码可以说”体现他改口的迟疑。",
+    "<code>an all too-long tour</code>：<code>all too + 形容词</code>＝“实在太……、未免太……”，加强不满语气；<code>that infernal muck-up War of Lies on Terras</code> 是同位语，<code>infernal</code>＝“地狱般的、该死的”，<code>muck-up</code> 是名词，意为“一团糟的烂摊子”；<code>Terras</code> 音译作“特拉斯”。",
+    "<code>began to tick off the wars on his finger</code>：<code>tick off</code> 意为“逐项点出、数落”，<code>on his finger</code> 是扳着手指数的动作；<code>some could argue</code>＝“有人可能会说”，是留余地的说法；末句 <code>The mention of the Blood War felt like a cold dagger slipping into my heart</code> 用 <code>feel like + 名词/动名词</code>打比方，把叙述视角从老头的吹嘘猛地拉回无名氏自己的恐惧。"
+   ],
+   "vocab": [
+    {
+     "w": "leastwhys",
+     "p": "",
+     "t": "adv.",
+     "z": "（方言拼写）至少，不管怎么说（＝leastways）"
+    },
+    {
+     "w": "muck-up",
+     "p": "/ˈmʌkʌp/",
+     "t": "n.",
+     "z": "（口语）一团糟，烂摊子，搞砸的事"
+    },
+    {
+     "w": "infernal",
+     "p": "/ɪnˈfɜːnl/",
+     "t": "adj.",
+     "z": "地狱般的；该死的（此处作咒骂式的强调）"
+    },
+    {
+     "w": "tick off",
+     "p": "",
+     "t": "短语",
+     "z": "逐项点出，扳着指头数（tick off the wars）"
+    },
+    {
+     "w": "Blood War",
+     "p": "",
+     "t": "n.",
+     "z": "血战（异域设定中恶魔与魔鬼之间永无止境的战争，术语）"
+    }
+   ]
+  },
+  {
+   "i": 42,
+   "zh": "“没错……血战：这世上的恩怨里，最凶险的一桩家族内斗，打从混沌初开那锅原始浓汤起就没停过。一边是一帮心肠歹毒的恶魔，另一边是一群好战的魔鬼。这场仗是创世之初点着的火，自那以后他们就在彼此身上刨个不停。”",
+   "notes": [
+    "<code>this side of the primordial soup</code>：<code>this side of sth</code> 意为“在……这一边、不超出……的范围”，是夸张的比较说法；“原始浓汤”（<code>primordial soup</code>，指生命起源的原始有机汤）在此代表“开天辟地以来”，<code>The most dangerous family feud this side of the primordial soup</code> 即“自混沌初开以来最凶险的家族内斗”。",
+    "<code>family feud</code> 指“家族世仇、宗族械斗”，用来形容血战，是酒客式的粗豪降格比方；<code>a mean-spirited mob of fiends</code> 与 <code>a batch of war-monger fiends</code> 是并列的两个名词短语，构成“一边……另一边……”的对举。",
+    "<code>It’s the war that creation sparked</code> 是强调句（It is…that…），<code>spark</code> 作动词意为“点燃、引发”；<code>they’ve been digging into each other ever since</code> 用现在完成进行时表示“从那以后一直持续不断”，<code>dig into</code> 字面“往……里刨挖”，此处指互相厮杀、死咬不放。"
+   ],
+   "vocab": [
+    {
+     "w": "feud",
+     "p": "/fjuːd/",
+     "t": "n.",
+     "z": "世仇，长期争斗（家族或集团间的宿怨）"
+    },
+    {
+     "w": "primordial",
+     "p": "/praɪˈmɔːdiəl/",
+     "t": "adj.",
+     "z": "原始的，太古的（primordial soup 即“原始浓汤”）"
+    },
+    {
+     "w": "mean-spirited",
+     "p": "",
+     "t": "adj.",
+     "z": "心地歹毒的，刻薄恶意的"
+    },
+    {
+     "w": "war-monger",
+     "p": "",
+     "t": "n.",
+     "z": "好战分子，战争贩子（monger 表“……贩子”）"
+    },
+    {
+     "w": "sparked",
+     "p": "/spɑːkt/",
+     "t": "v.",
+     "z": "点燃，引发（spark 的过去式，此处指创世之初点燃了这场战争）"
+    }
+   ]
+  },
+  {
+   "i": 43,
+   "zh": "“塔纳里，一群凶残的杀手，除了自己谁也不放在心上；另一边是巴特兹的战争机器，打着他们那套地狱规矩，要的是律法与秩序。这摊烂事时不时就漫到别的位面去，把整个多元宇宙搅得越来越不宜居。”我琢磨着，他说不定知道些我要找的那人的事。",
+   "notes": [
+    "两个阵营的对照是全段骨架：<code>all for law and order under their infernal rules</code> 中 <code>all for</code>＝“一心为了、全为了”，点出巴特兹（魔鬼）守序的属性，与塔纳里（恶魔）的混乱凶残相衬——这正是血战的本质对立。",
+    "<code>the whole mess spills out into other planes from time to time</code>：<code>spill out into</code> 字面“溢出、漫流到”，形象地写出战火外溢；<code>from time to time</code>＝“时不时、间或”；<code>a less-pleasant place to live</code> 中 <code>less-pleasant</code> 是带连字符的复合形容词，实为委婉的抱怨之词，译作“越来越不宜居”。",
+    "<code>I thought he might know something of the man I sought</code>：<code>might</code> 表不确定的推测，<code>something of</code>＝“关于……的一些情况”；<code>the man I sought</code> 是省略关系代词的定语从句，指法罗德，与全章一贯的“我要找的那个人”说法一致。"
+   ],
+   "vocab": [
+    {
+     "w": "tanar’ri",
+     "p": "",
+     "t": "n.",
+     "z": "塔纳里（异域设定中的恶魔一族，混乱邪恶，术语）"
+    },
+    {
+     "w": "baatezu",
+     "p": "",
+     "t": "n.",
+     "z": "巴特兹（异域设定中的魔鬼一族，守序邪恶，术语）"
+    },
+    {
+     "w": "vicious",
+     "p": "/ˈvɪʃəs/",
+     "t": "adj.",
+     "z": "凶残的，恶毒的（比 cruel 更强调本性凶暴）"
+    },
+    {
+     "w": "planes",
+     "p": "/pleɪnz/",
+     "t": "n.",
+     "z": "位面（plane 的复数，诸界）"
+    },
+    {
+     "w": "multiverse",
+     "p": "/ˈmʌltivɜːs/",
+     "t": "n.",
+     "z": "多元宇宙（异域设定中所有位面的总称）"
+    }
+   ]
+  },
+  {
+   "i": 44,
+   "zh": "“关于一个叫法罗德的收藏家，你知道些什么？”",
+   "notes": [
+    "<code>What do you know of…?</code> 中 <code>know of sb/sth</code> 意为“知道有……、听说过……的情况”，比 <code>know</code>（直接认识）语气轻，正好符合无名氏只是听来这个名字的状态。",
+    "<code>a collector named Pharod</code> 用 <code>named</code> 作后置定语（＝who is named），比定语从句简洁；<code>collector</code> 本义“收藏家、收集者”，在印记城语境里则指靠收尸、收债、收破烂发财的“收货人”，此处先照字面译作“收藏家”，留待后文展开。无名氏此问依旧简短、直指要害。"
+   ],
+   "vocab": [
+    {
+     "w": "collector",
+     "p": "/kəˈlektə(r)/",
+     "t": "n.",
+     "z": "收藏家，收集者（此处指靠收罗东西营生的人）"
+    },
+    {
+     "w": "named",
+     "p": "/neɪmd/",
+     "t": "adj.",
+     "z": "名叫……的（过去分词作后置定语，＝who is named）"
+    },
+    {
+     "w": "Pharod",
+     "p": "",
+     "t": "n.",
+     "z": "法罗德（人名，术语统一译名）"
+    }
+   ]
+  }
+ ]
+}

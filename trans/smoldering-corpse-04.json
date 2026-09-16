@@ -1,0 +1,146 @@
+{
+ "chapter": "Smoldering Corpse",
+ "chunk": "smoldering-corpse-04",
+ "items": [
+  {
+   "i": 67,
+   "zh": "“啊，卡瑟利，它那些有毒的丛林、酸沼、能毁人的水域，像一串烂珍珠似的彼此嵌套在一起……”他顿了顿，仔细打量我，那双眼睛又一次把我钉在原地。“记住这一点，求索者：卡瑟利是一座牢狱，是盖瑞雷斯的老家——那可是世上最危险的邪魔种类之一。牢狱的力量即是俘获者的力量，囚徒让它有多强，它便有多强。杀掉狱卒，肉体便能逃出那座红囚牢。除此之外几乎没有别的出路——当大门自行对你闭合，看着你旋进环绕诸球体的虚空里时，就更是如此。提防卡瑟利，旅人，因为它的枷锁可以比血肉更牢。”",
+   "notes": [
+    "“as strong as the prisoner lets it be”是 <code>as ... as</code> 同级比较的变体，宾语从句 <code>the prisoner lets it be</code> 里省略了比较对象，意为“囚徒允许它有多强，它就有多强”，暗示牢狱的强弱取决于囚徒自己的顺从。",
+    "“strung like a string of rotten pearls nestled within one another”把卡瑟利的各层比作串珠：<code>strung</code> 与 <code>nestled</code> 都是过去分词作后置修饰，注意叠用了 <code>string/strung</code> 的同源重复，音感上有种厌弃的口吻。",
+    "“fixing me in place with his eyes”是固定表达 <code>fix sb in place</code>（用目光/力量把某人定住），比单纯 <code>look at</code> 更具压迫感，译文保留“钉在原地”的画面。 “a body”是位面土话里代替 <code>a person</code> 的说法。"
+   ],
+   "vocab": [
+    {"w": "captor", "p": "/ˈkæptə(r)/", "t": "n.", "z": "俘获者、抓捕者；此处指囚禁者"},
+    {"w": "nestled", "p": "/ˈnesld/", "t": "v.", "z": "nestle 的过去分词：依偎、嵌藏；此处指层与层互相套叠"},
+    {"w": "gehreleths", "p": "/ɡəˈrɛlɛθs/", "t": "n.", "z": "盖瑞雷斯，卡瑟利的原生邪魔（音译）"},
+    {"w": "fiends", "p": "/fiːndz/", "t": "n.", "z": "邪魔，下层位面类生物的统称"},
+    {"w": "seeker", "p": "/ˈsiːkə(r)/", "t": "n.", "z": "求索者；这里是密米尔对无名氏的称呼"}
+   ]
+  },
+  {
+   "i": 68,
+   "zh": "守序的下层位面。“我虽然厌恶守序的上层位面那套装腔作势的秩序，可至少它们还显出一点善来。它们在下层位面的对应物嘛……阿刻戎是个满是弹跳方块的地方，那里的战斗永无终局，死者的魂灵——类人生物的魂灵——成群地涌动。巴托……”他不自觉地打了个寒噤。“巴托是个最好绕着走的地方。你在那边看到的那些邪魔，不过是那台无魂的秩序机器所体现的堕落腐化的最浅一层的表露。一切关于官僚和秩序的坏东西都源自巴托，它像污渍一样在凡人的心里蔓延开来。虽说在那里能寻到一些知识，可那个位面施加于人的灵魂上的强暴，很少值得拿知识去换。”",
+   "notes": [
+    "“Their lower planar counterparts, though…” 是省略句，<code>though</code> 置于句尾作转折语气词，等于中文的“不过嘛……”，后面是长长的破折号停顿。",
+    "<code>at least</code> 引出对比中的让步：先承认守序上层位面有一点善，为下文痛骂下层位面留出落差。",
+    "“it is rarely worth the spiritual rape the plane inflicts”是 <code>be worth + 名词</code> 结构，<code>the plane inflicts</code> 为省略了关系代词 <code>that</code> 的定语从句，修饰 <code>the spiritual rape</code>。"
+   ],
+   "vocab": [
+    {"w": "modicum", "p": "/ˈmɒdɪkəm/", "t": "n.", "z": "一点点，少量（常与 <code>a modicum of</code> 连用）"},
+    {"w": "ricocheting", "p": "/ˈrɪkəʃeɪɪŋ/", "t": "adj.", "z": "ricochet 的现在分词：跳弹般弹跳的"},
+    {"w": "deviant", "p": "/ˈdiːviənt/", "t": "adj.", "z": "异常的、扭曲的；此处指背离常理"},
+    {"w": "soulless", "p": "/ˈsəʊlləs/", "t": "adj.", "z": "没有灵魂的；形容秩序机器冰冷无人性"},
+    {"w": "bureaucracy", "p": "/bjʊəˈrɒkrəsi/", "t": "n.", "z": "官僚制度、官僚作风"}
+   ]
+  },
+  {
+   "i": 69,
+   "zh": "混乱的下层位面。“无底深渊不是个你该考虑去的地方。巴托什么都讲规矩；深渊则满是混乱与变动，而且没有一样是舒服的。当它变得勉强算是有常理的时候，那才是你最该提防它的时候。那是塔纳里的老家，主物质佬多半管它们叫‘恶魔’，它们得这名号是有缘故的。它们不可预测、嗜杀成性，你能信得过的寥寥无几。我见过的那少数几个我会相信的，我其实也不完全信——它们是混乱与邪恶的化身，它们要是摆出一副友善面孔，谁能说这不是某个更大图谋的一部分？”",
+   "notes": [
+    "“Where Baator’s all orderly, the Abyss is full of chaos”里 <code>where</code> 作对比连词，意为“巴托处处守序，而深渊……”，不是地点状语从句。",
+    "<code>few and far between</code> 是固定搭配，指“稀少、罕见”；前文已出现 <code>the few</code>，形成 <code>few</code> 的重复强调。<code>they've got that name for a reason</code> 直译“它们得到这个名字是有理由的”，是口语中的含蓄警告。",
+    "<code>what most primes call ‘demons'</code> 中 <code>primes</code> 是位面俚语，指来自主物质位面的人（主物质佬）。"
+   ],
+   "vocab": [
+    {"w": "approximates", "p": "/əˈprɒksɪmeɪts/", "t": "v.", "z": "approximate 三单：接近、近似"},
+    {"w": "normality", "p": "/nɔːˈmæləti/", "t": "n.", "z": "常态、正常状态"},
+    {"w": "murderous", "p": "/ˈmɜːdərəs/", "t": "adj.", "z": "嗜杀的、杀气腾腾的"},
+    {"w": "incarnate", "p": "/ɪnˈkɑːnət/", "t": "adj.", "z": "化身的、具体化的（置于名词后）"},
+    {"w": "agenda", "p": "/əˈdʒendə/", "t": "n.", "z": "议程；此处引申为图谋、算盘（a larger agenda 更大的图谋）"}
+   ]
+  },
+  {
+   "i": 70,
+   "zh": "交界位面。“依我看，交界位面有两个，而它们截然对立。其中一个叫机械境，是守序的精髓本身——信念在那里彼此拼合、咬合、旋转，构成一台整个位面大小的巨械。有人主张，机械境的齿轮就是驱动诸界的引擎。另一个位面是混沌海，一片翻涌的混沌泥沼，不遵循任何规则，一条也没有；正当一个人以为自己把它的行径归纳清楚了，它偏偏就变了——或者偏不变。你根本说不准。我不久前去过混沌海……”",
+   "notes": [
+    "原文 <code>Some folks'd have it that</code> 中 <code>have it that</code> 是固定表达，意为“主张、声称”，<code>'d</code> 是 <code>would</code> 的缩写，语气比 <code>say</code> 更带主观断定。",
+    "“the gears of Mechanus are the engine that drives the planes”是比喻句，把守序位面的齿轮说成驱动整个诸界运转的引擎。",
+    "“it goes and changes on him — or it doesn’t”中 <code>go and do sth</code> 是口语结构，表示“偏偏就（做出某事）”，带不满语气；破折号后的 <code>or it doesn’t</code> 用省略句式抖出反讽。"
+   ],
+   "vocab": [
+    {"w": "diametrically", "p": "/ˌdaɪəˈmetrɪkli/", "t": "adv.", "z": "完全相反地，常与 opposed 连用"},
+    {"w": "interlocking", "p": "/ˌɪntəˈlɒkɪŋ/", "t": "adj.", "z": "互相咬合的、连锁的"},
+    {"w": "morass", "p": "/məˈræs/", "t": "n.", "z": "泥沼；引申为难以脱身的乱局"},
+    {"w": "swirling", "p": "/ˈswɜːlɪŋ/", "t": "adj.", "z": "旋转翻涌的"},
+    {"w": "classified", "p": "/ˈklæsɪfaɪd/", "t": "v.", "z": "classify 的过去式：把……归类"}
+   ]
+  },
+  {
+   "i": 71,
+   "zh": "他闭上眼睛，回忆着：“我身边有位吉斯泽莱向导，是个无政府主义者，能把那位面不合逻辑的物质塑成他想要的形状。我们打退了史拉蟾的袭扰——那是以那位面为家的混沌生物。看起来它们比平时多，可话说回来，在混沌海里谁也说不清什么算‘平时’……不过我跑题了。就在这一团混乱当中，我们遇上一组巨大的、金属的、彼此咬合的立方体，像某种机关匣。那不是我们塑出来的，不管是有意还是无意；我们也找不到进去的法子。那就像……像无序的天地里一座守序的堡垒，一粒法则的种子。我只能这么解释了。”",
+   "notes": [
+    "这里 <code>the chaos-creatures who call that plane home</code> 是同位语，进一步解释 <code>the slaadi</code>，其中 <code>who</code> 引导的定语从句用 <code>call ... home</code> 表达“以……为家”。",
+    "<code>call ... home</code> 是固定搭配，“把……称作家园／以……为家”，比 <code>live in</code> 更书面。",
+    "“consciously or not”意为“有意也好无意也罢”，是插入的让步短语；<code>It wasn’t something we had shaped</code> 用过去完成时，强调在相遇之前就已存在。“but I digress”是固定套语“不过我扯远了”，说书人式的自我打断。"
+   ],
+   "vocab": [
+    {"w": "githzerai", "p": "/ɡɪθˈzeraɪ/", "t": "n.", "z": "吉斯泽莱人，混沌海中的守序倾向种族"},
+    {"w": "anarch", "p": "/ˈænɑːk/", "t": "n.", "z": "无政府主义者"},
+    {"w": "harrying", "p": "/ˈhæriɪŋ/", "t": "n.", "z": "harry 的动名词：反复袭扰、骚扰"},
+    {"w": "slaadi", "p": "/ˈslɑːdaɪ/", "t": "n.", "z": "史拉蟾，混沌海的混沌生物（复数）"},
+    {"w": "bastion", "p": "/ˈbæstiən/", "t": "n.", "z": "堡垒、据点（常喻某种信念的最后阵地）"}
+   ]
+  },
+  {
+   "i": 72,
+   "zh": "外域。“外域是绝对的中立。要是你不想让某个位面的道德准则硬塞进你心里，那除了印记城之外，外域大概就是外层位面里最值得一去的地方。在外域，一切都相互抵消、回归平衡——本就该如此，毕竟这是坐落于外层位面正中的位面。神灵的领域散布在此，还有几处‘门镇’，从那里可以通往外层位面的其余各处。门镇的样貌通常映照着它们那道门所通往的位面的信念——而一旦镇上信念的平衡撑不住，整座镇子就会滑进邻近的那个位面里去。这对谁都是桩坏事，因为镇上的人其实没几个真想要那种变化。”",
+   "notes": [
+    "“as it should be, for the plane that sits at the center…”中 <code>as it should be</code> 是固定说法“本该如此”，<code>for</code> 引出原因，解释为什么平衡理所应当。",
+    "“if you don’t want to have a plane’s morality forced into your heart”使用 <code>have sth done</code> 结构（使某事被施加于己），此处是被动的受害语气。",
+    "“The gate towns usually mirror the philosophy of the plane their gates open on to”中 <code>their gates open on to</code> 是省略关系词的定语从句，修饰 <code>the plane</code>；<code>open on to</code> 意为“朝向、通向”。"
+   ],
+   "vocab": [
+    {"w": "neutrality", "p": "/njuːˈtræləti/", "t": "n.", "z": "中立（外域的核心阵营属性）"},
+    {"w": "balances out", "p": "", "t": "phr.", "z": "相互抵消、归于平衡"},
+    {"w": "realms", "p": "/relmz/", "t": "n.", "z": "领域、国土；此处指神力存在的神域"},
+    {"w": "mirror", "p": "/ˈmɪrə(r)/", "t": "v.", "z": "反映、映照（此处作动词）"},
+    {"w": "slips", "p": "/slɪps/", "t": "v.", "z": "slip 三单：滑落、溜进"}
+   ]
+  },
+  {
+   "i": 73,
+   "zh": "他也刚从负能量位面回来。我向他问起那里时，他的眼神黯了下去。“我去内层位面，是要弄清自己的本质。我犯了个错——为了弄明白我这具身体为何总想腐烂、生命里为何有死亡的循环，我去了负能量位面。我以为有魔法护着，就不必受那位面坏处的侵扰，可我错了。无限虚无的黑压在灵魂上，我又被一群想要掐灭我灵魂的暗影围住。我有一阵子——有一整个永恒那么久——迷了路，几乎连存在本身都丢掉了。我能感到自己的本质在一点点离我而去，直到如今我仍是半截不在的人。我再也不会回去了。”",
+   "notes": [
+    "“I made the mistake of visiting…”是固定搭配 <code>make the mistake of doing sth</code>（犯了做某事的错），比 <code>I mistakenly visited</code> 更强调悔意。",
+    "“I thought myself protected against the ill effects of the plane with my magic”中 <code>think oneself + 过去分词</code> 表示主观以为的状态；<code>ill effects</code> 意为“不良影响、坏处”。",
+    "破折号里的 <code>for an eternity</code> 是对 <code>for a time</code> 的夸张修正（一阵子→一整个永恒）；<code>even now</code> 意为“直到现在仍然”，<code>half-gone</code> 是复合形容词“去了一半的、半消失的”。"
+   ],
+   "vocab": [
+    {"w": "Negative Material Plane", "p": "", "t": "n.", "z": "负能量位面（内层位面之一）"},
+    {"w": "essence", "p": "/ˈesns/", "t": "n.", "z": "本质、本体；此处指存在的根本；同段 <code>decay</code> 意为腐烂、衰败"},
+    {"w": "beset", "p": "/bɪˈset/", "t": "v.", "z": "（be beset by）被……围困、缠扰"},
+    {"w": "snuff out", "p": "", "t": "phr.", "z": "掐灭、熄灭（生命、灵魂）"},
+    {"w": "clouded over", "p": "", "t": "phr.", "z": "（眼神）黯下来、蒙上阴影"}
+   ]
+  },
+  {
+   "i": 74,
+   "zh": "“你是怎么活下来的？”",
+   "notes": [
+    "极简的疑问句：<code>How</code> 置于句首，助动词 <code>did</code> 移到主语 <code>you</code> 之前构成疑问倒装；译文只保留问句本身，不加任何描写，让下一段的反常回答形成冲击。",
+    "注意全章对白中人称与语气的统一：无名氏问话短促、直接，不做铺垫，与密米尔爱铺陈的长句恰成对照。"
+   ],
+   "vocab": [
+    {"w": "survive", "p": "/səˈvaɪv/", "t": "v.", "z": "存活、挺过来；本段为原文唯一的疑问句"},
+    {"w": "How did you survive", "p": "", "t": "phr.", "z": "整句问话：你是怎么活下来的？"}
+   ]
+  },
+  {
+   "i": 75,
+   "zh": "“我怎么活下来的？”他紧紧一笑。“靠一块什么都不是的东西，拦住了那片虚无。你要知道，虚无挡不住虚无，所以我在手里握着‘虚无’来护身。你自己也打算走一趟终极的虚无吗？你身上有股走投无路的味道，所以我送你这份礼。等暗影压过来的时候，把它握在手里，它多少能护住你和你的朋友——只要他们还靠你够近。嘿。”他递给我一枚小小的黑色信物，看上去根本没有一点体积。",
+   "notes": [
+    "“He smiled tightly”中 <code>tightly</code> 修饰笑，指笑容绷紧、不带暖意，译为“紧紧一笑”以保留那种绷着的表情。",
+    "“a piece of nothing that held back the nothing”及下句 <code>Nothing can stop nothing</code> 是一组悖论式文字游戏：<code>nothing</code> 既作“虚无”又作“无物”，译文统一处理为“虚无／什么都不是的东西”以求双关可读。",
+    "“I make you this gift”是双宾语句式（make sb sth），意为“我把这个当作礼物送给你”，仿古说法；<code>Heh.</code> 是极短的一声干笑，独立成句。末句 <code>should they remain close to you</code> 是 <code>if</code> 从句的倒装省略式（= if they should remain），属书面虚拟条件。"
+   ],
+   "vocab": [
+    {"w": "held back", "p": "", "t": "phr.", "z": "hold back：挡住、拦住"},
+    {"w": "desperation", "p": "/ˌdespəˈreɪʃn/", "t": "n.", "z": "绝望、走投无路"},
+    {"w": "negation", "p": "/nɪˈɡeɪʃn/", "t": "n.", "z": "否定、虚无（此处指负能量位面的终极虚无）"},
+    {"w": "token", "p": "/ˈtəʊkən/", "t": "n.", "z": "信物、象征物；此处指小物件"},
+    {"w": "dimensionality", "p": "/daɪˌmenʃəˈnæləti/", "t": "n.", "z": "维度性、体积感（指它薄得不像有实体）"}
+   ]
+  }
+ ]
+}

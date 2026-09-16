@@ -1,0 +1,319 @@
+{
+ "chapter": "Ragpickers' Square",
+ "chunk": "ragpickers-square-02",
+ "items": [
+  {
+   "i": 23,
+   "zh": "“来啊，把骷髅拿去。”说得好像他真拿得走似的。",
+   "notes": [
+    "<code>As if there was any chance he would be able to.</code> 是省略句，省去了主句（如 <code>He spoke as if…</code>），<code>as if</code> 引导虚拟语气，表示“根本不可能”。句末的 <code>be able to</code> 后面省掉了动词 <code>take it</code>。",
+    "<code>Go on</code> 在此不是“继续”，而是怂恿、激将的“来啊、你倒是啊”，莫提的语气是明知对方做不到还偏要挑他。"
+   ],
+   "vocab": [
+    {"w": "Go on", "p": "", "t": "短语", "z": "（口）来啊，你倒是啊（怂恿、激将）"},
+    {"w": "skull", "p": "/skʌl/", "t": "n.", "z": "骷髅，头骨（此处指莫提这个会说话的头骨）"},
+    {"w": "As if", "p": "", "t": "短语", "z": "就好像……似的（后接虚拟语气，表示绝无可能）"}
+   ]
+  },
+  {
+   "i": 24,
+   "zh": "他干笑一声，咧开了嘴。他伸手去抓莫提，只听“咔”的一声！那人的手猛地缩了回来。他开始尖叫：“啊呀呀呀！啊啊啊！！！我宰了你！宰了你！”莫提的牙缝里正叼着那人的一根手指，像叼着一支阴森可怖的雪茄。他就那么含着手指说话。",
+   "notes": [
+    "<code>there was a snap!</code> 是“there be”结构加拟声词，中文用“只听‘咔’的一声”来还原这声脆响。<code>whipped back</code> 的 <code>whip</code> 本义“抽打、猛抽”，此处作动词强调缩手之快。",
+    "<code>like some macabre cigar</code>：<code>some</code> 用在单数可数名词前，不表示“一些”，而是“某种、某个说不上来的”，带轻蔑或戏谑色彩；<code>macabre</code> 意为“阴森可怖、与死亡相关的”。",
+    "<code>He spoke around the finger.</code> 中 <code>around</code> 是“绕过、含着……说话”，即嘴里叼着东西仍能出声，一句话把莫提的得意写足了。"
+   ],
+   "vocab": [
+    {"w": "chuckled", "p": "/ˈtʃʌkld/", "t": "v.", "z": "低声轻笑，干笑（chuckle 的过去式）"},
+    {"w": "snap", "p": "/snæp/", "t": "n.", "z": "啪的一声，脆响；（动词）猛地咬合"},
+    {"w": "whipped", "p": "/wɪpt/", "t": "v.", "z": "猛地一抽、急速收回（whip 的过去式）"},
+    {"w": "macabre", "p": "/məˈkɑːbrə/", "t": "adj.", "z": "阴森可怖的，与死亡有关的"},
+    {"w": "cigar", "p": "/sɪˈɡɑː(r)/", "t": "n.", "z": "雪茄"}
+   ]
+  },
+  {
+   "i": 25,
+   "zh": "“再碰我一下，你的手就得跟你的手指头一块儿分家了，蠢货。”",
+   "notes": [
+    "<code>yer hand’s gonna join yer finger</code> 是威胁性的俏皮话：手指已经被咬下来一只，再伸手，整只手就“跟手指做伴去”，中文用“分家”保留这种阴阳怪气的狠劲。",
+    "<code>gonna</code> 是 <code>going to</code> 的口语缩合形式，<code>yer</code>＝<code>your</code>，都是莫提的市井下等腔；<code>berk</code> 是印记城俚语“蠢货”，本项目统一译作“蠢货”。",
+    "<code>Touch me again, and…</code> 使用“祈使句 + and + 陈述句”的结构，等于 <code>If you touch me again, …</code>，语气比 if 从句更直接、更具警告意味。"
+   ],
+   "vocab": [
+    {"w": "yer", "p": "/jə(r)/", "t": "pron.", "z": "（口音）＝your，你的"},
+    {"w": "gonna", "p": "/ˈɡənə/", "t": "缩合", "z": "（口）＝going to，将要"},
+    {"w": "join", "p": "/dʒɔɪn/", "t": "v.", "z": "连接，会合（此处指“与……作伴、一同完蛋”）"},
+    {"w": "berk", "p": "/bɜːk/", "t": "n.", "z": "（印记城俚语）蠢货，笨蛋"}
+   ]
+  },
+  {
+   "i": 26,
+   "zh": "“莫提！把手指还给人家。”莫提把那根手指啐向那人。手指打在他胸口上，弹落在地。此地不宜久留了。",
+   "notes": [
+    "<code>Give the man back his finger.</code> 是双宾结构，<code>give sb. back sth.</code>＝“把某物还给某人”，正常语序也可作 <code>give the man his finger back</code>。",
+    "<code>It bounced off his chest and fell to the ground.</code> 连用两个动词，节奏干脆利落，中文拆成两句短句保留这种画面感。",
+    "<code>No need to waste any more time here.</code> 是省略主语的判断句，实为无名氏的内心独白（<code>There is no need to…</code> 的省略），译作“此地不宜久留”以合中文小说腔。"
+   ],
+   "vocab": [
+    {"w": "spat", "p": "/spæt/", "t": "v.", "z": "啐，吐（spit 的过去式）"},
+    {"w": "bounced", "p": "/baʊnst/", "t": "v.", "z": "弹起，反弹（bounce 的过去式）"},
+    {"w": "chest", "p": "/tʃest/", "t": "n.", "z": "胸膛，胸口"},
+    {"w": "waste", "p": "/weɪst/", "t": "v.", "z": "浪费，白耗（时间、精力）"}
+   ]
+  },
+  {
+   "i": 27,
+   "zh": "“这一课不好受，记住了。告辞。”那人疼得咬住嘴唇，恶狠狠地瞪着我。忽然，他扑了上来！他根本不是我和莫提的对手，我往他肚子上捅了一刀，他几乎立刻就倒了。我这才注意到，一直在旁边默默看着的达肯也加入了替我招架的行列。",
+   "notes": [
+    "<code>That’s a hard lesson learned.</code> 中 <code>learned</code> 是过去分词作后置定语，即“一堂（被）学到的艰难功课”；<code>hard</code> 在此兼指“艰难的”和“代价惨重的”。这句话由无名氏平静说出，构成黑色幽默。",
+    "<code>He was no match for Morte and myself</code> 是固定搭配 <code>be no match for sb.</code>＝“完全不是某人的对手”；<code>myself</code> 用在 <code>and</code> 之后比 <code>me</code> 更正式。",
+    "<code>folded</code> 在此是口语“倒下、垮掉、认输”，本义“折叠”；<code>had joined in my defense</code> 用过去完成时，表示“在我注意到之前就已经加入了”，<code>join in</code>＝“加入（某项活动）”。"
+   ],
+   "vocab": [
+    {"w": "hard lesson", "p": "", "t": "短语", "z": "惨痛的教训，代价不小的功课"},
+    {"w": "Farewell", "p": "/ˌfeəˈwel/", "t": "interj.", "z": "告辞，再会（比 goodbye 郑重、书面）"},
+    {"w": "glared", "p": "/ɡleə(r)d/", "t": "v.", "z": "怒视，瞪着（glare 的过去式）"},
+    {"w": "no match for", "p": "", "t": "短语", "z": "不是……的对手，敌不过"},
+    {"w": "belly", "p": "/ˈbeli/", "t": "n.", "z": "腹部，肚子"}
+   ]
+  },
+  {
+   "i": 28,
+   "zh": "我本打算问问达肯对我这番举动怎么看，可我又……有些发怵，怕问出来的答案是他并不赞同。我记下一笔，留待日后细想：单是他站在那儿，似乎就已经在影响我了。",
+   "notes": [
+    "<code>I considered asking Dak’kon what he thought of my actions</code>：<code>consider doing sth.</code>＝“考虑做某事”，其后接动名词；<code>what he thought of…</code> 是宾语从句，<code>think of</code> 意为“对……的看法”。",
+    "<code>apprehensive that…</code> 表示“担心、害怕（某事会发生）”，<code>that</code> 后接同位语从句说明担心的内容；破折号前的停顿译作省略号，表现无名氏说话时的迟疑。",
+    "<code>I noted for later consideration that…</code> 中 <code>note</code> 是“记下、留意”，<code>that</code> 引导的从句是真正宾语，被 <code>for later consideration</code> 隔开形成后置；<code>his mere presence</code> 的 <code>mere</code>＝“仅仅、只是”，强调“光是他人在场”就够了。"
+   ],
+   "vocab": [
+    {"w": "considered", "p": "/kənˈsɪdəd/", "t": "v.", "z": "考虑，打算（consider 的过去式，后接动名词）"},
+    {"w": "apprehensive", "p": "/ˌæprɪˈhensɪv/", "t": "adj.", "z": "担忧的，惴惴不安的；对将要发生的事感到发怵"},
+    {"w": "approve", "p": "/əˈpruːv/", "t": "v.", "z": "赞同，认可（常与 of 连用）"},
+    {"w": "mere", "p": "/mɪə(r)/", "t": "adj.", "z": "仅仅的，只不过的（用于强调）"},
+    {"w": "presence", "p": "/ˈprezns/", "t": "n.", "z": "在场，存在；人的气场"}
+   ]
+  },
+  {
+   "i": 29,
+   "zh": "还有一个人也一直在看这场打斗。这会儿他吹着轻快的小调，手里把玩着一把保养得很好的格斗匕首。我走近他时，他停了口哨，好奇地打量我。",
+   "notes": [
+    "<code>He was now whistling a cheerful tune and playing with a well-kept fighting knife.</code> 用两个并列的进行时描写细节，暗示此人从容旁观、与刚才的血腥场面格格不入；<code>well-kept</code> 是复合形容词“保养良好的”。",
+    "<code>gave me a curious look</code> 是固定搭配 <code>give sb. a … look</code>＝“用……的目光看某人一眼”，比 <code>looked at me curiously</code> 更口语。",
+    "<code>Another man had been watching the fight.</code> 用过去完成进行时，说明“看”这个动作在“我走近”之前就已持续了一段时间。"
+   ],
+   "vocab": [
+    {"w": "whistling", "p": "/ˈwɪslɪŋ/", "t": "v.", "z": "吹口哨（whistle 的现在分词）"},
+    {"w": "cheerful", "p": "/ˈtʃɪəfl/", "t": "adj.", "z": "愉快的，轻快的"},
+    {"w": "tune", "p": "/tjuːn/", "t": "n.", "z": "曲调，小调"},
+    {"w": "well-kept", "p": "", "t": "adj.", "z": "保养良好的，收拾得齐整的"},
+    {"w": "curious", "p": "/ˈkjʊəriəs/", "t": "adj.", "z": "好奇的；奇怪的"}
+   ]
+  },
+  {
+   "i": 30,
+   "zh": "“嗯？你想要啥？”他接着说：“我叫鼠骨，刀客。我是夏格雷夫雇的贼——就是你在广场上瞧见的那些收集者的头儿。他给我钱，主要是让我把他手底下那帮小子教得手脚轻得像猫，再教他们万一撞上麻烦该怎么打。大概也就这些题目我肯替你解答了，刀客。”他吸了吸鼻子，耸了耸肩。",
+   "notes": [
+    "<code>thief-fer-hire</code> 是仿 <code>men for hire</code>（受雇的帮手）造的词，<code>fer</code>＝<code>for</code>，即“雇来的贼、拿钱办事的贼”；<code>in the employ o’</code>＝<code>in the employ of</code>，“受雇于……”。",
+    "<code>ta</code>＝<code>to</code>，<code>o’</code>＝<code>of</code>，<code>an’</code>＝<code>and</code>，<code>‘round</code>＝<code>around</code>，是本段市井口音的标记；“<code>quiet-like</code>”是口语后缀 <code>-like</code>，相当于“像……那样、……地”。",
+    "<code>if they runs inta a spot o’ trouble</code>：<code>run into</code>＝“偶然遇上、撞上”，<code>a spot of trouble</code> 是英式口语“一点小麻烦”；<code>they runs</code> 是刻意的口音化语法错误（复数主语却加 -s）。"
+   ],
+   "vocab": [
+    {"w": "cutter", "p": "/ˈkʌtə(r)/", "t": "n.", "z": "（印记城俚语）刀客，对“家伙、老兄、同行”的通称"},
+    {"w": "thief-fer-hire", "p": "", "t": "n.", "z": "受雇的贼，拿钱办事的贼（fer＝for 的口音写法）"},
+    {"w": "employ", "p": "/ɪmˈplɔɪ/", "t": "n.", "z": "雇用；in the employ of＝受雇于"},
+    {"w": "Collectors", "p": "/kəˈlektəz/", "t": "n.", "z": "收集者（尘人中专司收尸的角色），本项目固定译法"},
+    {"w": "sniffed", "p": "/snɪft/", "t": "v.", "z": "吸鼻子，抽鼻子（sniff 的过去式）"}
+   ]
+  },
+  {
+   "i": 31,
+   "zh": "“这位夏格雷夫在哪儿？”他朝自己身旁那栋破败的大房子点了点头。",
+   "notes": [
+    "<code>Where’s this Sharegrave fellow?</code> 中 <code>this + 人名 + fellow</code> 是口语说法，指“你刚说的那个叫夏格雷夫的家伙”，带一点随意的距离感，比 <code>Where is Sharegrave?</code> 更自然。",
+    "<code>towards</code> 是英式拼写（美式为 <code>toward</code>），<code>nod towards</code>＝“朝……方向点头／扬下巴示意”；<code>dilapidated</code> 是较正式的书面词“破败不堪的”。"
+   ],
+   "vocab": [
+    {"w": "fellow", "p": "/ˈfeləʊ/", "t": "n.", "z": "（口）家伙，人（此处指“你说的那个人”）"},
+    {"w": "nodded", "p": "/ˈnɒdɪd/", "t": "v.", "z": "点头（nod 的过去式）"},
+    {"w": "dilapidated", "p": "/dɪˈlæpɪdeɪtɪd/", "t": "adj.", "z": "破败的，塌败不堪的"}
+   ]
+  },
+  {
+   "i": 32,
+   "zh": "“不过你可得当心，刀客。他不喜欢有人上门。他看谁都起疑心。夏格雷夫还不是他的真名……只是我和另外几个人这么叫他。”",
+   "notes": [
+    "<code>He don’t like visitors.</code> 用 <code>don’t</code> 搭配第三人称单数主语，是明显的市井口音（应为 <code>doesn’t</code>），译成“他不喜欢”而不用书面语，以保留说话人的粗野感。",
+    "<code>He’s right suspicious o’ everyone.</code> 中 <code>right</code> 作副词，是英式口语的强调用法，等于 <code>very</code>、<code>really</code>；“<code>suspicious of</code>”＝“对……起疑”。",
+    "<code>just what me and some o’ the others calls him</code>：<code>me</code> 代替 <code>I</code> 作主语是口音用法；<code>calls</code> 加 -s 而主语为复数，同样是刻意的口音化错误。"
+   ],
+   "vocab": [
+    {"w": "Careful", "p": "/ˈkeəfl/", "t": "adj.", "z": "小心的，当心的（此处作警告语）"},
+    {"w": "suspicious", "p": "/səˈspɪʃəs/", "t": "adj.", "z": "多疑的，起疑心的；be suspicious of＝对……存疑"},
+    {"w": "right", "p": "/raɪt/", "t": "adv.", "z": "（英口）很，非常（＝very，用于强调）"},
+    {"w": "real name", "p": "", "t": "短语", "z": "真名，本名"}
+   ]
+  },
+  {
+   "i": 33,
+   "zh": "“我在找一个叫法罗德的人。你知道他在哪儿吗？”鼠骨摇了摇头。",
+   "notes": [
+    "<code>I’m looking for a man named Pharod.</code> 中 <code>named Pharod</code> 是过去分词短语作后置定语，即“一个名叫法罗德的人”。",
+    "<code>Do you know where he is?</code> 中 <code>where he is</code> 是宾语从句，语序为陈述语序，不能说 <code>where is he</code>。"
+   ],
+   "vocab": [
+    {"w": "named", "p": "/neɪmd/", "t": "v.", "z": "名叫……的（过去分词作后置定语）"},
+    {"w": "shook", "p": "/ʃʊk/", "t": "v.", "z": "摇（头）（shake 的过去式）"}
+   ]
+  },
+  {
+   "i": 34,
+   "zh": "“不，我不知道。不过我听说他就在附近。他那帮小子时不时会跑过来，往不知道哪个鬼地方的老窝里钻。我敢打赌，就在那些高台子那一片，不过这不关我的事。”他耸耸肩，往地上啐了一口。“各活各的，鼠骨说的。”",
+   "notes": [
+    "<code>Hear he’s nearby, though.</code> 句首省略了 <code>I</code>，是口语中常见的省略；<code>though</code> 置句末表示转折“不过、话虽如此”。",
+    "<code>makin’ fer some hidey-hole that’s who-knows-where</code>：<code>make for</code>＝“朝……而去”；<code>hidey-hole</code> 是儿语化的口语词“藏身处、老窝”；<code>who-knows-where</code> 是口语复合词“天知道在哪儿”。",
+    "<code>Live an’ let live, says Ratbone.</code> 化用英语谚语 <code>live and let live</code>（各过各的日子、互不干涉），并用 <code>says + 人名</code> 的倒装式引语，模仿人物的口头禅，中文以“各活各的，鼠骨说的”对应。"
+   ],
+   "vocab": [
+    {"w": "Nay", "p": "/neɪ/", "t": "adv.", "z": "（古／方）不，否（＝no）"},
+    {"w": "hidey-hole", "p": "/ˈhaɪdihəʊl/", "t": "n.", "z": "（口）藏身处，老窝"},
+    {"w": "elevated", "p": "/ˈelɪveɪtɪd/", "t": "adj.", "z": "高起的，架高的（elevated platforms＝高台）"},
+    {"w": "bet", "p": "/bet/", "t": "v.", "z": "打赌；I’ll bet＝我敢打赌"},
+    {"w": "shrugged", "p": "/ʃrʌɡd/", "t": "v.", "z": "耸肩（shrug 的过去式，表示不在乎）"}
+   ]
+  },
+  {
+   "i": 35,
+   "zh": "我等了一会儿，觉得他也许还有话要说，可他没再开口。我心想，不如干脆进去会会他的头儿，看看对方能说出些什么。",
+   "notes": [
+    "<code>since I thought he might have more to say</code> 中 <code>since</code> 不是“自从”，而是表原因的连词“既然、因为”；<code>might have more to say</code> 是“也许还有话要说”。",
+    "<code>might as well</code> 是固定说法“不妨、倒不如（反正没别的更好的办法）”，<code>I decided I might as well go in</code>＝“我决定干脆进去”。",
+    "<code>see what he had to say</code> 中 <code>have to say</code> 是“有什么话要说、能提供什么说法”，不是“必须说”。"
+   ],
+   "vocab": [
+    {"w": "remained", "p": "/rɪˈmeɪnd/", "t": "v.", "z": "保持，仍然是（remain silent＝始终不作声）"},
+    {"w": "might as well", "p": "", "t": "短语", "z": "不妨，倒不如（做某事）"},
+    {"w": "visit", "p": "/ˈvɪzɪt/", "t": "v.", "z": "拜访，去会（某人）"}
+   ]
+  },
+  {
+   "i": 36,
+   "zh": "我进去时，屋子的正厅里有三个人。两个一看就是下等的收集者，穿着脏兮兮的长袍。第三个则不同。这人又高又瘦，面色苍白，神情阴冷，虽然身架细长、举止有些笨拙，却透着一股威势。他左耳缺了一大块，剩下的那点也只是一团参差的疤痕——那耳朵像是被咬掉的，而不是被割掉的。他那双狭长的眼睛游移不定，几乎细成了两条缝，看上去既精明……又危险。这一定就是夏格雷夫。我向他问好，他啐出了几句回答。",
+   "notes": [
+    "<code>Tall and lanky, this pale, grim-looking man exuded authority despite his gangly and somewhat awkward frame.</code> 句首的形容词短语作状语描写主语；<code>despite</code> 引导让步，构成“明明瘦长笨拙，却透着威势”的反差，<code>exude</code> 意为“散发出（气质）”。",
+    "<code>what little that was left</code> 是名词性从句作主语，<code>what little</code>＝“那仅有的一点”，语气偏书面；<code>as if the ear was bitten off, rather than cut</code> 用 <code>rather than</code> 作对比，暗示伤口来自撕咬而非利器。",
+    "<code>almost mere slits</code> 中 <code>mere</code>＝“仅仅是”，<code>slit</code> 指“细缝”；破折号后的省略号停顿与 <code>… and dangerous</code> 并列，中文用“……又危险”还原那种先扬后抑的观感。"
+   ],
+   "vocab": [
+    {"w": "lanky", "p": "/ˈlæŋki/", "t": "adj.", "z": "瘦长得难看的，瘦高个儿的"},
+    {"w": "grim-looking", "p": "", "t": "adj.", "z": "神情阴冷的，样子严肃可怕的"},
+    {"w": "exuded", "p": "/ɪɡˈzjuːdɪd/", "t": "v.", "z": "散发出（气质、威严）（exude 的过去式）"},
+    {"w": "gangly", "p": "/ˈɡæŋɡli/", "t": "adj.", "z": "（四肢）细长而笨拙的"},
+    {"w": "slits", "p": "/slɪts/", "t": "n.", "z": "细缝，狭长的口子（此处指眯成缝的眼睛）"}
+   ]
+  },
+  {
+   "i": 37,
+   "zh": "“我不认识你，蠢货。”他瞪着我。“你想干什么？快说，不然我就叫几个人来把你利索地收拾掉。”我猜这人不好糊弄，而昨天我已经受够了扮傻充愣。于是我开门见山。",
+   "notes": [
+    "<code>before I call in some men to make quick work of you</code>：<code>call in</code>＝“叫（人）进来、召来”；<code>make quick work of sb.</code> 是固定搭配“迅速了结某人、三下五除二把某人处理掉”。",
+    "<code>I suspected he did not suffer fools easily</code> 化用谚语 <code>not suffer fools gladly</code>（没耐心忍受蠢人），<code>suffer</code> 在此是“容忍”；译作“不好糊弄”以合上文语境。",
+    "<code>I had had enough of appearing foolish yesterday</code> 用过去完成时 <code>had had enough of</code>＝“已经受够了……”，第一句中的 <code>I got right to the point</code> 是固定说法“直入正题、开门见山”。"
+   ],
+   "vocab": [
+    {"w": "berk", "p": "/bɜːk/", "t": "n.", "z": "（印记城俚语）蠢货，笨蛋"},
+    {"w": "glared", "p": "/ɡleə(r)d/", "t": "v.", "z": "怒视，恶狠狠地瞪（glare 的过去式）"},
+    {"w": "make quick work of", "p": "", "t": "短语", "z": "迅速了结，干脆利落地解决（某人）"},
+    {"w": "suffer fools", "p": "", "t": "短语", "z": "容忍蠢人（多用于否定：不轻易容忍蠢人）"},
+    {"w": "got right to the point", "p": "", "t": "短语", "z": "开门见山，直入正题"}
+   ]
+  },
+  {
+   "i": 38,
+   "zh": "“我在找一个叫法罗德的人。”屋里的气氛陡然紧了起来。",
+   "notes": [
+    "<code>The tension in the room suddenly rose.</code> 是简短的无灵主语句，<code>rise</code>（升高）在此指气氛陡然紧张；中文用“气氛陡然紧了起来”承接上文，保持叙事节奏。"
+   ],
+   "vocab": [
+    {"w": "tension", "p": "/ˈtenʃn/", "t": "n.", "z": "紧张（气氛），紧绷状态"},
+    {"w": "rose", "p": "/rəʊz/", "t": "v.", "z": "上升，升高（rise 的过去式）"}
+   ]
+  },
+  {
+   "i": 39,
+   "zh": "“哈，问这个可真有意思。你想打听老血法罗德的什么事？”我心里清楚，绝不能表现出跟法罗德有交情。",
+   "notes": [
+    "<code>what a funny thing to be asking about</code> 是感叹句 <code>what a + 名词</code> 结构，<code>funny</code> 在此是“古怪的、蹊跷的”，不是“好笑的”。",
+    "<code>old blood Pharod</code> 中 <code>old</code> 是口语里加在人名前的亲昵或轻蔑称呼（如 old man、old boy），<code>blood</code> 在此近于“老家伙、老东西”，译作“老血法罗德”保留这份怪味称呼。",
+    "<code>I knew better than to appear friendly with Pharod.</code> 是固定句型 <code>know better than to do sth.</code>＝“明白不该做某事、不会蠢到去做某事”，一句写出无名氏的心机。"
+   ],
+   "vocab": [
+    {"w": "funny", "p": "/ˈfʌni/", "t": "adj.", "z": "古怪的，蹊跷的（此处非“好笑的”）"},
+    {"w": "blood", "p": "/blʌd/", "t": "n.", "z": "血；此处加于人名前，含“老家伙”似的轻蔑称呼"},
+    {"w": "knew better than", "p": "", "t": "短语", "z": "明白不该（做某事），不至于蠢到去……"},
+    {"w": "friendly", "p": "/ˈfrendli/", "t": "adj.", "z": "友好的，亲近的（be friendly with＝与……交好）"}
+   ]
+  },
+  {
+   "i": 40,
+   "zh": "“他有我的一些东西，我要拿回来。”那人沉默了片刻，随即咧开嘴笑了。",
+   "notes": [
+    "<code>He has some things of mine</code> 用双重所有格 <code>some things of mine</code>＝“我的一些东西”，比 <code>my things</code> 更强调“属于我、但不在我手上”。",
+    "<code>cracked a smile</code> 是固定搭配“咧嘴一笑、露出笑意”，<code>crack</code> 本义“裂开”，此处指僵硬的面孔终于松动。"
+   ],
+   "vocab": [
+    {"w": "things of mine", "p": "", "t": "短语", "z": "我的（一些）东西（双重所有格，强调归属）"},
+    {"w": "silent", "p": "/ˈsaɪlənt/", "t": "adj.", "z": "沉默的，不作声的"},
+    {"w": "cracked a smile", "p": "", "t": "短语", "z": "咧嘴一笑，露出笑容"}
+   ]
+  },
+  {
+   "i": 41,
+   "zh": "“他偷我们所有人的东西，不管我们是活的还是死的，对吧？”他嘿嘿笑了。",
+   "notes": [
+    "<code>He steals from us all, doesn’t he…?</code>：<code>steal from sb.</code>＝“偷某人的东西”；反义疑问句 <code>doesn’t he</code> 在此不是真在提问，而是逼对方附和自己的判断。",
+    "<code>whether we’re living or dead</code> 是 <code>whether… or…</code> 结构，表示“无论……还是……”；此处照应的是收集者的营生——连死者也归他们经手，所以“偷”活人死人都说得通。"
+   ],
+   "vocab": [
+    {"w": "steals", "p": "/stiːlz/", "t": "v.", "z": "偷，窃取（steal 的第三人称单数；steal from sb.＝偷某人的东西）"},
+    {"w": "whether", "p": "/ˈweðə(r)/", "t": "conj.", "z": "是否；无论……还是……"},
+    {"w": "chuckled", "p": "/ˈtʃʌkld/", "t": "v.", "z": "低声轻笑（chuckle 的过去式）"}
+   ]
+  },
+  {
+   "i": 42,
+   "zh": "“你这话是什么意思？”",
+   "notes": [
+    "<code>What do you mean?</code> 是追问对方言外之意的固定说法，直译“你指的是什么”；无名氏一贯用这种短句把话头递回去，中文不加修饰，保持简短。"
+   ],
+   "vocab": [
+    {"w": "mean", "p": "/miːn/", "t": "v.", "z": "意思是，指的是（What do you mean?＝你什么意思？）"},
+    {"w": "What do you mean?", "p": "", "t": "句型", "z": "你这话是什么意思？（要求对方把话说明白的固定追问）"}
+   ]
+  },
+  {
+   "i": 43,
+   "zh": "“我们这一带……活路……主要靠死人。听明白了？”",
+   "notes": [
+    "<code>Our main source of… living… around here is the dead.</code> 中省略号表示说话人故意停顿、把话说得晦涩，<code>living</code> 是名词“生计、活路”，<code>the dead</code> 用定冠词加形容词指一类人“死人”。",
+    "<code>You follow?</code> 是口语反问“你听得懂吗、跟得上吗”，用来确认对方领会了自己的暗示；中文用“听明白了？”对应。"
+   ],
+   "vocab": [
+    {"w": "source", "p": "/sɔːs/", "t": "n.", "z": "来源，出处（source of living＝生计来源）"},
+    {"w": "living", "p": "/ˈlɪvɪŋ/", "t": "n.", "z": "生计，谋生的方式（此处与“活着”双关）"},
+    {"w": "the dead", "p": "", "t": "n.", "z": "死者（定冠词 + 形容词，指一类人）"},
+    {"w": "follow", "p": "/ˈfɒləʊ/", "t": "v.", "z": "跟得上（思路），听懂（You follow?＝听明白了吗？）"}
+   ]
+  },
+  {
+   "i": 44,
+   "zh": "“你是收集者。”",
+   "notes": [
+    "<code>You’re a Collector.</code> 是名词谓语句，无名氏不提问、直接下判断，用一个短句把对方的身份点破；<code>Collector</code> 首字母大写，指尘人中专司收尸的一类人，本项目统一译作“收集者”。"
+   ],
+   "vocab": [
+    {"w": "Collector", "p": "/kəˈlektə(r)/", "t": "n.", "z": "收集者（尘人里负责收尸的角色），本项目固定译法"},
+    {"w": "You’re a Collector.", "p": "", "t": "句型", "z": "你是收集者。（陈述句直接点破身份，而非提问）"}
+   ]
+  }
+ ]
+}

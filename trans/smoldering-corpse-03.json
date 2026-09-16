@@ -1,0 +1,793 @@
+{
+ "chapter": "Smoldering Corpse",
+ "chunk": "smoldering-corpse-03",
+ "items": [
+  {
+   "i": 45,
+   "zh": "“这个嘛，老法罗德的事我也不敢说全知道，可他周围那点黑幕，我倒是知道一些。你要是铁了心要揪出那只蜘蛛、把他钉到墙上，那我想我可以给你透点内情，好让你知道自己在跟什么东西较劲。”他停了停，把烟斗里的烟丝压实。“法罗德不久前才在拾荒者广场深处筑了窝，纠集了一帮收尸人和团伙，搞起了个差不多能算收尸帮的玩意儿……随它去吧……”",
+   "notes": [
+    "<code>ol’</code> 是 <code>old</code> 的口语缩略，省掉 d 后加撇号，埃布这类市井老人常这么说话；<code>not too long ago</code> 即“不久前”，语气随意，不精确到日子。",
+    "<code>the dark surrounding him</code>：<code>dark</code> 在印记城切口里不是“黑暗”，而是“内幕、见不得光的事”，所以 <code>know some of the dark surrounding him</code> 译作“知道他周围那点黑幕”。",
+    "<code>nail him to a wall</code> 是“把他钉在墙上”的夸张说法，等于“收拾掉他”；<code>spill the chant</code> 中 <code>spill</code> 本义“洒出”，引申为“把秘密倒出来”，<code>chant</code> 是切口词，指“内情”，合起来就是“透点底”。<code>be that as it may be</code> 是固定让步短语“即便如此、随它去吧”，埃布顺手一带，显出他并不打算深究。"
+   ],
+   "vocab": [
+    {
+     "w": "dark",
+     "p": "/dɑːk/",
+     "t": "n.",
+     "z": "（切口）内幕、见不得光的事；非“黑暗”"
+    },
+    {
+     "w": "spider",
+     "p": "/ˈspaɪdə/",
+     "t": "n.",
+     "z": "蜘蛛（此处是给法罗德起的外号，喻其阴险布网）"
+    },
+    {
+     "w": "nail",
+     "p": "/neɪl/",
+     "t": "v.",
+     "z": "钉住，钉牢（nail sb. to a wall 喻“把人钉死、彻底收拾”）"
+    },
+    {
+     "w": "spill",
+     "p": "/spɪl/",
+     "t": "v.",
+     "z": "倾倒，说漏（spill the chant＝把内情抖出来）"
+    },
+    {
+     "w": "tamp",
+     "p": "/tæmp/",
+     "t": "v.",
+     "z": "压实，捣实（tamp one’s pipe 指把烟斗里的烟丝压紧）"
+    }
+   ]
+  },
+  {
+   "i": 46,
+   "zh": "“我上哪儿能找到他？”",
+   "notes": [
+    "<code>Where can I find him?</code> 用情态动词 <code>can</code> 询问“到哪里才找得着”，比 <code>Where is he?</code> 更贴合“他藏在某处、我得去找”的语境。",
+    "无名氏的台词一贯短促直接、不加修饰——此处是问路的实用句，译文保持简短，不用“请问”之类的客套。"
+   ],
+   "vocab": [
+    {
+     "w": "find",
+     "p": "/faɪnd/",
+     "t": "v.",
+     "z": "找到，寻得（强调寻找的结果而非过程）"
+    },
+    {
+     "w": "Where",
+     "p": "/weə/",
+     "t": "adv.",
+     "z": "在哪里（疑问副词，此处引导问路句）"
+    }
+   ]
+  },
+  {
+   "i": 47,
+   "zh": "“这个嘛，小子，你要是想找法罗德——我得说这主意相当疯癫——那可就走岔道了。你要去的是拾荒者广场。内情是，法罗德把窝安在广场里的某处。可就连我这种在圈子里滚过几回的老家伙，也说不出具体在哪儿。我猜法罗德是想把自己的落脚点捂得死死的。你要真是铁了心非找着法罗德不可，就去拾荒者广场，试着从当地人口里把法罗德的位置挖出来。办这事小心点，广场上多的是看你一眼就能把你做成肠子竖琴的家伙。”接着我问了一个我一直想弄明白的、关于这座城市的问题。",
+   "notes": [
+    "<code>off the beaten path</code> 本义“离开常有人走的路”，引申为“走错了方向、偏离目标”，译文作“走岔道了”；破折号里的 <code>which I would say is pretty barmy of you</code> 是插入的评语，<code>be barmy of sb.</code> 即“某人这么做是疯了”。",
+    "<code>been around the ring a few times</code> 源自拳击（在拳台上挨过好几轮），俚语里指“见过世面、历练过”；<code>keep the dark on his location dark</code> 故意重复 <code>dark</code> 一词，前一个作名词“秘密”，后一个作形容词“隐秘”，译文用“自己的落脚点捂得死死的”对应这层双关。",
+    "<code>make a gut-harp outta you as soon as look atcha</code>：<code>outta</code>＝<code>out of</code>，<code>atcha</code>＝<code>at you</code>，都是吞音口语拼写；<code>gut-harp</code> 是拿肠子绷成琴的狠话，等于“把你开膛破肚”，<code>as soon as look at you</code> 意为“看都不必多看一眼就……”。末句 <code>I then asked</code> 用过去时叙述，是本章由第二人称口述转回第一人称叙事的标志句式。"
+   ],
+   "vocab": [
+    {
+     "w": "beaten path",
+     "p": "",
+     "t": "n.",
+     "z": "常走的路（off the beaten path 即“偏离正路、走岔了”）"
+    },
+    {
+     "w": "barmy",
+     "p": "/ˈbɑːmi/",
+     "t": "adj.",
+     "z": "疯癫的，傻得离谱的（英式俚语）"
+    },
+    {
+     "w": "kip",
+     "p": "/kɪp/",
+     "t": "n.",
+     "z": "（俚）住处、窝、床铺"
+    },
+    {
+     "w": "bound and determined",
+     "p": "",
+     "t": "phr.",
+     "z": "下定决心、铁了心的（all bound and determined 加强语气）"
+    },
+    {
+     "w": "gut-harp",
+     "p": "",
+     "t": "n.",
+     "z": "肠子竖琴（本作自造的凶器比喻，指把人开膛做成琴）"
+    }
+   ]
+  },
+  {
+   "i": 48,
+   "zh": "“给我讲讲印记城的格局。”",
+   "notes": [
+    "<code>Tell me of…</code> 是省略直接宾语、只留 <code>of</code> 短语的书面化祈使句，等于 <code>Tell me about…</code>，语气比后者正式，正好配无名氏这种不带客套的问法。",
+    "<code>layout</code> 指“布局、格局”，用于城市即“城区怎么划分、各处在哪”，译作“格局”比“布局”更合地名语境。"
+   ],
+   "vocab": [
+    {
+     "w": "layout",
+     "p": "/ˈleɪaʊt/",
+     "t": "n.",
+     "z": "布局，格局（此处指城市的区划与方位安排）"
+    },
+    {
+     "w": "Sigil",
+     "p": "/ˈsɪɡɪl/",
+     "t": "n.",
+     "z": "印记城（众门之城，本作故事发生地，固定译名）"
+    }
+   ]
+  },
+  {
+   "i": 49,
+   "zh": "“哎哟。让我先润润舌头。”他从大杯里灌了一口。“这座城悬在一根高不见顶的尖塔上——就是尖塔。它侧躺着，像一只被丢掉的马车轮子，可没有一根辐条把它连到尖塔上去。全城分作六个城区，每个城区各有各的用处。眼下你就在蜂巢。依我看，蜂巢的用处就是给城里其余地方的堂皇当陪衬，专门脏乱差！”他笑了。“派系——你可以说是些讲哲理的帮会，要不就叫团伙也行——把这座城的运转给瓜分了。”",
+   "notes": [
+    "<code>Whew. Let me wet my tongue.</code>：<code>whew</code> 是表示“好家伙、哎哟”的感叹词，<code>wet one’s tongue</code> 是“喝口酒润润嗓子”的诙谐说法，比 <code>drink</code> 多一层自我调侃。",
+    "<code>It lies on its side like a discarded wagon wheel</code>：<code>lie on its side</code> 指“侧卧、横躺”，<code>discarded</code> 是“被丢弃的”；<code>there’s no spokes that connect it</code> 口语里用 <code>there’s</code> 接复数名词，属不严谨但常见的说法，正式写作应为 <code>there are no spokes</code>。",
+    "<code>philosophical clubs, or gangs if you prefer</code>：<code>if you prefer</code> 是插入语“随你怎么叫”；<code>the Hive</code>、<code>wards</code> 均为专有术语，分别固定译作“蜂巢”“城区”。末句 <code>divide up the running of the city between ’em</code> 里 <code>’em</code>＝<code>them</code>，<code>running</code> 指“管理、运转”。"
+   ],
+   "vocab": [
+    {
+     "w": "spire",
+     "p": "/ˈspaɪə/",
+     "t": "n.",
+     "z": "尖塔（此处首字母大写的 the Spire 专指印记城所悬的那根无限高塔）"
+    },
+    {
+     "w": "discarded",
+     "p": "/dɪsˈkɑːdɪd/",
+     "t": "adj.",
+     "z": "被丢弃的，废弃的"
+    },
+    {
+     "w": "spokes",
+     "p": "/spəʊks/",
+     "t": "n.",
+     "z": "辐条，轮辐（连接轮辋与轮毂的杆；spoke 的复数）"
+    },
+    {
+     "w": "ward",
+     "p": "/wɔːd/",
+     "t": "n.",
+     "z": "城区（印记城划分的六个行政区）"
+    },
+    {
+     "w": "squalor",
+     "p": "/ˈskwɒlə/",
+     "t": "n.",
+     "z": "污秽，肮脏破败（此处指蜂巢的寒碜，与全城的堂皇对照）"
+    }
+   ]
+  },
+  {
+   "i": 50,
+   "zh": "“你入过派系吗？”埃布抬起手，像是要拦下我，轻轻笑了一声。",
+   "notes": [
+    "<code>Were you in a faction?</code> 用一般过去时问“你（当年）是不是某个派系的人”，暗示那段经历已经过去了；<code>faction</code> 在印记城是专有概念，指以某种哲学信念立身的团体，译作“派系”。",
+    "<code>raised his hand as if to stop me</code> 是 <code>as if to do</code> 结构，表示“做出仿佛要……的动作（其实并未真的做）”；紧跟的 <code>and laughed slightly</code> 与这个拦阻手势形成反差，为下一段的自报身份铺垫。"
+   ],
+   "vocab": [
+    {
+     "w": "faction",
+     "p": "/ˈfækʃn/",
+     "t": "n.",
+     "z": "派系（印记城中以哲学信念为纲领的团体）"
+    },
+    {
+     "w": "raised",
+     "p": "/reɪzd/",
+     "t": "v.",
+     "z": "举起，抬起（raise 的过去式）"
+    },
+    {
+     "w": "slightly",
+     "p": "/ˈslaɪtli/",
+     "t": "adv.",
+     "z": "轻微地，稍稍"
+    }
+   ]
+  },
+  {
+   "i": 51,
+   "zh": "“哦，慢着，小子——我可不算什么过气的派系成员……人家都说，而且说得没错：你一旦成了和谐会的人，就一辈子都是和谐会的人。我们就是那帮想让印记城别出乱子的家伙。不许撼动尖塔，不许有人兴头太旺去害别人，让这城里只留一片低低的嗡嗡声。我们尽力维持治安，小子，大多数时候，我们干得还不赖。”又一个问题从我心里冒了上来。",
+   "notes": [
+    "<code>has-been</code> 是名词化用法，“过气的人、风光不再的人”，此处作定语修饰 <code>faction member</code>；<code>once ye’re one of the Harmonium, ye’re a Harmonium for life</code> 用 <code>once…, …for life</code> 的句式讲“一入此门，终身不退”，是和谐会标榜的忠诚。",
+    "<code>bloods</code> 是印记城切口，泛指“人、家伙”，不是“血”；<code>rocking the spire</code> 字面“把尖塔摇动”，喻“惹是生非、搅乱秩序”。<code>keep the city down to a low roar</code> 是妙喻：把一座城比作可以调音量的东西，只留“低低的轰鸣”，即压住骚乱、别闹大。",
+    "<code>ye</code>、<code>ye’re</code> 是埃布的口音拼法（＝<code>you</code>、<code>you’re</code>），同段里 <code>lad</code> 反复出现，是他的口头称呼；<code>bubbled to the surface of my mind</code> 是暗喻，把念头写成从水里冒上来的气泡。"
+   ],
+   "vocab": [
+    {
+     "w": "has-been",
+     "p": "/ˈhæzbiːn/",
+     "t": "n./adj.",
+     "z": "过气的人；此处作定语“过了气的”"
+    },
+    {
+     "w": "bloods",
+     "p": "/blʌdz/",
+     "t": "n.",
+     "z": "（切口）人、家伙（blood 的复数，非“血”）"
+    },
+    {
+     "w": "Harmonium",
+     "p": "/hɑːˈməʊniəm/",
+     "t": "n.",
+     "z": "和谐会（印记城的派系之一，主张以强力维持秩序）"
+    },
+    {
+     "w": "rocking",
+     "p": "/ˈrɒkɪŋ/",
+     "t": "v.",
+     "z": "摇动，震动（rock the spire 喻“搅乱秩序”）"
+    },
+    {
+     "w": "over-enthusiastic",
+     "p": "",
+     "t": "adj.",
+     "z": "过分热心的，兴头过旺的"
+    }
+   ]
+  },
+  {
+   "i": 52,
+   "zh": "“给我讲讲那位女士。”",
+   "notes": [
+    "大写首字母的 <code>the Lady</code> 在印记城专指痛苦女士（the Lady of Pain），本地人不敢直呼其名，只用“那位女士”指代；无名氏此刻尚不知情，只是照搬别人的叫法。",
+    "译文与前文 <code>Tell me of Sigil’s layout</code> 保持一致，仍用“给我讲讲……”的祈使句式，形成无名氏问话的固定节奏。"
+   ],
+   "vocab": [
+    {
+     "w": "Lady",
+     "p": "/ˈleɪdi/",
+     "t": "n.",
+     "z": "女士（此处首字母大写，专指痛苦女士）"
+    },
+    {
+     "w": "Tell",
+     "p": "/tel/",
+     "t": "v.",
+     "z": "讲述，告诉（tell sb. of sth.＝向某人讲述某事）"
+    }
+   ]
+  },
+  {
+   "i": 53,
+   "zh": "“这个嘛，小子，关于她的事没几个人知道多少；我估摸着，就算那些比‘略知一二’多知道点的人，也多不出多少去。她就是个谜，真的，就算你哪天撞上她……但愿神祇保佑别这样……她也只是沉默而致命。照我看，她不算邪恶，可她把自己的底细和印记城都捂得极严。谁也没能撬开过，真撬开过的，都进了迷宫。”我又问了他关于“关进迷宫”的事，那滋味我自己已经尝过了。",
+   "notes": [
+    "<code>she’s a mystery, she is</code> 是英语口语里的“重复主语”强调结构（把主语再用代词说一遍），译文用“她就是个谜，真的”保留这股强调劲。",
+    "<code>Powers forbid</code> 是诅咒／祈愿式套语，由 <code>God forbid</code>（但愿别这样）替换而来，在异域设定里 <code>Powers</code> 即“神祇”，所以译作“但愿神祇保佑别这样”。",
+    "<code>far’s I can tell</code> 是 <code>as far as I can tell</code>（据我所知）的吞音缩写；<code>penetrate it</code> 承接上句的 <code>the dark</code>，指“探明、撬开秘密”；<code>they’ve been mazed</code> 是被动语态，<code>maze</code> 在此为动词“把……关进迷宫”。末句 <code>which I had already experienced for myself</code> 是过去完成时，指无名氏此前亲身经历过的事。"
+   ],
+   "vocab": [
+    {
+     "w": "mystery",
+     "p": "/ˈmɪstri/",
+     "t": "n.",
+     "z": "谜，神秘人物"
+    },
+    {
+     "w": "deadly",
+     "p": "/ˈdedli/",
+     "t": "adj.",
+     "z": "致命的，能致人死命的"
+    },
+    {
+     "w": "Powers",
+     "p": "/ˈpaʊəz/",
+     "t": "n.",
+     "z": "神祇（异域设定中对 god 的另一种说法，首字母常大写）"
+    },
+    {
+     "w": "penetrate",
+     "p": "/ˈpenɪtreɪt/",
+     "t": "v.",
+     "z": "穿透，看穿（此处指探明秘密）"
+    },
+    {
+     "w": "mazed",
+     "p": "/meɪzd/",
+     "t": "v.",
+     "z": "被关进迷宫（maze 作动词的过去分词）"
+    }
+   ]
+  },
+  {
+   "i": 54,
+   "zh": "“是啊。有时候，有些人会被打发送到一个害不了人的地方去。那位女士呢，她会取下一小块印记城，把它做成一个小小的高维口袋，一个迷宫。她把那些犯过她的人扔进去，任他们烂在那儿。”埃布抽了口烟斗。“听好了……一旦那位女士把目光落到你身上，被关进迷宫这事你就躲不掉，小子。不管你多拼命地躲，她早晚都会逮住你。你可能正走过一条巷子，正要跨进一扇传送门，或者拐进一条走过无数遍的街，突然之间，你就在一个完全不认得的地方了。不过话说回来，迷宫并非绝对逃不出去。每一个迷宫总有一条出路……那位女士在里面放的一扇传送门。你只要琢磨出它在哪儿、该怎么用就行。”",
+   "notes": [
+    "<code>packed off to</code> 是“把……打发走、撵到（某处）”，语气随意甚至带点轻蔑；<code>can’t do no harm</code> 是双重否定，口语里普遍用来表示单纯的否定（＝<code>can’t do any harm</code>），并非“不能害不了人”。",
+    "<code>make a little dimensional pocket out of it</code>：<code>make A out of B</code>＝“用 B 做成 A”；<code>dimensional pocket</code> 即“次元／维度口袋”，指从主位面切出来的一小块独立空间，译作“高维口袋”以保留“dimensional”的意味。<code>those that have crossed her</code> 中 <code>cross</code> 意为“违逆、得罪（某人）”，不是“横穿”。",
+    "<code>mazes aren’t escape-proof</code>：<code>-proof</code> 是构词后缀“防……的”，<code>escape-proof</code> 即“防逃脱的”，译文拆作“并非绝对逃不出去”更合中文；<code>gone manyfold times before</code> 中 <code>manyfold</code> 是埃布生造的“许多倍、无数回”；<code>you’re someplace you don’t recognize</code> 用现在时讲述，把读者拉进那个瞬间。"
+   ],
+   "vocab": [
+    {
+     "w": "packed off",
+     "p": "",
+     "t": "phr.",
+     "z": "被打发走，被撵走（pack sb. off to…）"
+    },
+    {
+     "w": "dimensional",
+     "p": "/daɪˈmenʃənl/",
+     "t": "adj.",
+     "z": "维度的，次元的（dimensional pocket 指切出来的独立小空间）"
+    },
+    {
+     "w": "maze",
+     "p": "/meɪz/",
+     "t": "n.",
+     "z": "迷宫（此处专指痛苦女士以城市碎片造成的囚笼）"
+    },
+    {
+     "w": "crossed",
+     "p": "/krɒst/",
+     "t": "v.",
+     "z": "违逆，得罪（cross sb. 的过去式，非“穿过”）"
+    },
+    {
+     "w": "escape-proof",
+     "p": "",
+     "t": "adj.",
+     "z": "防逃脱的，逃不出去的（-proof 表“防……的”）"
+    }
+   ]
+  },
+  {
+   "i": 55,
+   "zh": "“再说回那位女士：除非你干了什么真正的坏事，否则你多半见不着她……害死一大片人，杀掉一个达布斯，挑战她的统治，膜拜她……我们猜她最恨这个，还有干扰达布斯干活（那差不多就等于女士的活计）……运气好的话，来的只会是慈悲杀手，可要是她亲自来了，她的影子一落到你身上，你就死了。”",
+   "notes": [
+    "<code>chances are (that)…</code> 是固定句式“很可能……”，省略 that 直接接从句，常与 <code>unless</code> 从句连用表示条件。",
+    "括号里的 <code>which may as well be the Lady’s work</code> 用 <code>may as well</code>（“倒不如说、几乎等于”）作插入评注，说明埃布认定达布斯的差事就是女士的差事。",
+    "<code>the Mercykillers will come for you</code> 中 <code>come for sb.</code> 意为“来找某人（算账）”，是威胁性说法；<code>you’ll be dead as soon as her shadow falls on you</code> 用 <code>as soon as</code> 把死亡写成影子落下的瞬间，是本段的恐怖点。"
+   ],
+   "vocab": [
+    {
+     "w": "challenging",
+     "p": "/ˈtʃælɪndʒɪŋ/",
+     "t": "v.",
+     "z": "挑战，公然反抗（challenge 的现在分词）"
+    },
+    {
+     "w": "worshipping",
+     "p": "/ˈwɜːʃɪpɪŋ/",
+     "t": "v.",
+     "z": "膜拜，崇拜（worship 的现在分词，英式拼写双写 p）"
+    },
+    {
+     "w": "interfering",
+     "p": "/ˌɪntəˈfɪərɪŋ/",
+     "t": "v.",
+     "z": "干扰，插手（interfere with sth. 的现在分词）"
+    },
+    {
+     "w": "Mercykillers",
+     "p": "",
+     "t": "n.",
+     "z": "慈悲杀手（印记城的派系之一，专司追捕与惩罚罪人）"
+    },
+    {
+     "w": "shadow",
+     "p": "/ˈʃædəʊ/",
+     "t": "n.",
+     "z": "影子，阴影（此处喻她临头的死亡之兆）"
+    }
+   ]
+  },
+  {
+   "i": 56,
+   "zh": "“听着，小子，就我们能琢磨出来的说，那位女士在印记城里几乎无所不能。能让城变大变小，能造新的传送门，能封掉旧的，能保证血战不在街头打响，能叫谁都别想瞬移进城，还能把神祇挡在外头。”",
+   "notes": [
+    "<code>near as we can figure</code>＝<code>as near as we can figure</code>（就我们所能推想出的而言），是口语中的吞音省略，插在句中作保留语，说明这些都是猜测。",
+    "后面一串动词原形是并列的列举式（<code>make…, make…, seal off…, make sure…, keep…, keeping…</code>），译文用“能让……能……还能……”的排比保留这种逐项点数的节奏。",
+    "<code>make sure the Blood War don’t break out in the streets</code> 中 <code>don’t</code> 接单数主语 <code>the Blood War</code>，是口语中不讲究主谓一致的常见现象；<code>break out</code> 是“（战争、骚乱）爆发”，<code>keeping the Powers out</code> 中 <code>keep sb./sth. out</code> 即“把……挡在外面”。"
+   ],
+   "vocab": [
+    {
+     "w": "figure",
+     "p": "/ˈfɪɡə/",
+     "t": "v.",
+     "z": "推想，估计（as near as we can figure＝据我们推测）"
+    },
+    {
+     "w": "seal off",
+     "p": "",
+     "t": "phr.",
+     "z": "封锁，封闭（此处指封死旧的传送门）"
+    },
+    {
+     "w": "Blood War",
+     "p": "",
+     "t": "n.",
+     "z": "血战（塔纳里与巴特兹之间绵延不绝的恶魔—魔鬼大战）"
+    },
+    {
+     "w": "teleporting",
+     "p": "/ˈtelɪpɔːtɪŋ/",
+     "t": "v.",
+     "z": "瞬移，远距离传送（teleport 的现在分词）"
+    },
+    {
+     "w": "Powers",
+     "p": "/ˈpaʊəz/",
+     "t": "n.",
+     "z": "神祇（异域设定中对神的另一种叫法）"
+    }
+   ]
+  },
+  {
+   "i": 57,
+   "zh": "“神祇。这是对神的另一种叫法，小子。诸界之中，他们多得数不清。”埃布抽了一口烟斗。“可他们进不了印记城……那位女士有办法把他们挡在外头，具体门道她还没往外透过半句。随它去吧，反正就靠这一点，印记城才没被外面的势力占去。”",
+   "notes": [
+    "<code>It’s another way of saying Gods</code> 是 <code>a way of doing sth.</code>（做某事的说法／方式）的用法，<code>way of saying</code> 直译“说法”，译作“另一种叫法”最自然。",
+    "<code>a great horde of them</code>：<code>horde</code> 指“一大群、乌泱泱的一大帮”，比 <code>many</code> 更有“成群结队、难以计数”的画面感。",
+    "<code>she hasn’t spilled the chant to yet</code> 再次用到切口 <code>spill the chant</code>（透内情），此处指女士从没把方法说出去；<code>Be that as it may</code> 是 <code>be that as it may be</code> 的省略形式，固定译为“即便如此、随它去吧”。末句 <code>it’s kept Sigil from being seized by outside interests</code> 是 <code>keep sb./sth. from doing</code>（使……不至于……）的完成时用法，<code>outside interests</code> 指城外的势力、外来利益集团。"
+   ],
+   "vocab": [
+    {
+     "w": "Gods",
+     "p": "/ɡɒdz/",
+     "t": "n.",
+     "z": "诸神（god 的复数，首字母大写泛指神祇）"
+    },
+    {
+     "w": "horde",
+     "p": "/hɔːd/",
+     "t": "n.",
+     "z": "一大群，乌泱泱的一帮"
+    },
+    {
+     "w": "interests",
+     "p": "/ˈɪntrəsts/",
+     "t": "n.",
+     "z": "利益，势力（outside interests 指城外的势力集团）"
+    },
+    {
+     "w": "spilled",
+     "p": "/spɪld/",
+     "t": "v.",
+     "z": "说出，泄露（spill the chant＝把内情抖出来）"
+    },
+    {
+     "w": "seized",
+     "p": "/siːzd/",
+     "t": "v.",
+     "z": "夺取，占据（seize 的过去分词）"
+    }
+   ]
+  },
+  {
+   "i": 58,
+   "zh": "这时我转向另一个一直与埃布同桌、到现在都没出声的人。我看到一个面相柔弱的男子，一双眼温和而望向远方。他穿着柔软的皮衣，身上挂满了各色有用或能要人命的家什，比如绳索、铁钉、火绒盒，还有几只空空如也的空气瓶。他看上去像丢了一半——字面意义上的。他的存在带着一种虚浮感，仿佛他的本质被人抽走了一部分。他把那双眼睛对到我身上，我忽然发现，那目光紧抓住人不放，而且异常坚决。",
+   "notes": [
+    "<code>far-staring eyes</code> 中 <code>far</code> 与分词 <code>staring</code> 合成复合形容词，指“望着远方、眼神飘远的”，与紧接的 <code>He focused those eyes on me</code> 形成从“出神”到“聚焦”的转折。",
+    "<code>soft-looking</code> 是“分词＋looking”构成的复合形容词（＝“看起来……的”），<code>gentle</code> 与 <code>supple</code> 分别修饰眼睛与皮衣，译文分别落到“温和”“柔软”上。",
+    "<code>He looked half-gone — literally.</code> 的 <code>literally</code> 单独成句，是对前一句的字面确认（不是比喻，他真的像少了一半）；<code>insubstantiality to his existence</code> 为抽象名词结构，<code>as if his essence had been partially leeched away</code> 用虚拟语气过去完成时 <code>had been leeched away</code>，<code>leech</code> 作动词即“像水蛭一样吸走”。"
+   ],
+   "vocab": [
+    {
+     "w": "staring",
+     "p": "/ˈsteərɪŋ/",
+     "t": "v.",
+     "z": "凝视，紧盯（far-staring eyes 指目光望向远方的眼）"
+    },
+    {
+     "w": "supple",
+     "p": "/ˈsʌpl/",
+     "t": "adj.",
+     "z": "柔软的，柔韧的（形容皮革质感）"
+    },
+    {
+     "w": "tinderboxes",
+     "p": "/ˈtɪndəbɒksɪz/",
+     "t": "n.",
+     "z": "火绒盒，取火盒（火绒盒的复数）"
+    },
+    {
+     "w": "insubstantiality",
+     "p": "/ˌɪnsəbˌstænʃiˈæləti/",
+     "t": "n.",
+     "z": "虚幻不实，非实体性"
+    },
+    {
+     "w": "leeched",
+     "p": "/liːtʃt/",
+     "t": "v.",
+     "z": "被吸走，被榨取（leech 作动词，原指用水蛭吸血）"
+    }
+   ]
+  },
+  {
+   "i": 59,
+   "zh": "“向你致意，哦，探寻者。”他说。他小心地放下手中的大杯，把全部注意力都给了我。",
+   "notes": [
+    "<code>o seeker</code> 中的 <code>o</code> 是古雅的呼语叹词（＝“哦”），多见于诗歌与祷词，配合 <code>Greetings to you</code> 的正式问候，一开口就显出此人用语讲究、与酒馆里其他人不同。",
+    "<code>set down</code> 是“放下（手中之物）”，比 <code>put</code> 更书面的动作描写；<code>gave me all his attention</code> 中 <code>give sb. one’s attention</code> 即“把注意力给某人”，译作“把全部注意力都给了我”。"
+   ],
+   "vocab": [
+    {
+     "w": "Greetings",
+     "p": "/ˈɡriːtɪŋz/",
+     "t": "n.",
+     "z": "问候，致意（复数形式用作正式招呼语）"
+    },
+    {
+     "w": "seeker",
+     "p": "/ˈsiːkə/",
+     "t": "n.",
+     "z": "探寻者，寻求者（此处指四处追寻答案的无名氏）"
+    },
+    {
+     "w": "mug",
+     "p": "/mʌɡ/",
+     "t": "n.",
+     "z": "大杯，马克杯（常指啤酒杯）"
+    }
+   ]
+  },
+  {
+   "i": 60,
+   "zh": "“我曾见过多元宇宙最遥远的边际，又回来讲述这段经历。我曾行走在死神的尸身上，在星界里赶在一千名尖啸的吉斯洋基骑士前头纺过月光。我曾越过存在的边缘，看着自己的本质在眼前颤颤地消散。我能为你做些什么？”",
+   "notes": [
+    "四个 <code>I have…</code> 用现在完成时排比铺陈阅历，强调这些经历“至今仍在身上留痕”，译文一律用“我曾……”承接，保持句式的铺张与自负。",
+    "<code>the far reaches of the multiverse</code>：<code>reaches</code>（复数）指“遥远的地域、边远地带”，<code>multiverse</code> 即异域设定中的“多元宇宙”，囊括诸界。<code>returned to tell the tale</code> 是固定说法“活着回来把故事讲给人听”。",
+    "<code>walked upon the bodies of dead gods</code> 中的 <code>dead gods</code> 指陨落于星界的神尸（异域设定中确有神祇尸骸漂浮于星界）；<code>spun moonbeams</code> 与 <code>shrieking githyanki knights</code> 都是刻意夸张的意象；<code>githyanki</code> 固定音译作“吉斯洋基”。末句 <code>What is it I can do for you?</code> 是 <code>What is it (that) I can do…</code> 的强调句式，比 <code>What can I do for you?</code> 更文绉绉。"
+   ],
+   "vocab": [
+    {
+     "w": "multiverse",
+     "p": "/ˈmʌltivɜːs/",
+     "t": "n.",
+     "z": "多元宇宙（异域设定中诸界的总称）"
+    },
+    {
+     "w": "Astral",
+     "p": "/ˈæstrəl/",
+     "t": "n.",
+     "z": "星界（Astral Plane 的简称，连接各处的精神之海）"
+    },
+    {
+     "w": "shrieking",
+     "p": "/ˈʃriːkɪŋ/",
+     "t": "adj.",
+     "z": "尖声嘶叫的（shriek 的现在分词作定语）"
+    },
+    {
+     "w": "githyanki",
+     "p": "/ˌɡɪθiˈæŋki/",
+     "t": "n.",
+     "z": "吉斯洋基人（星界中以红龙为坐骑的凶悍种族）"
+    },
+    {
+     "w": "essence",
+     "p": "/ˈesns/",
+     "t": "n.",
+     "z": "本质，精髓（此处指灵魂的本体）"
+    }
+   ]
+  },
+  {
+   "i": 61,
+   "zh": "“你是谁？”",
+   "notes": [
+    "<code>Who are you?</code> 是最直接的问身份句，无名氏反复用同一句追问每个陌生人，译文保持原样的简短与不加铺垫。",
+    "与前面 <code>Tell me of…</code> 那类问句相比，此处改回直问，反映他对这个玄乎其玄的人已经不再客气客套，只想知道名字。"
+   ],
+   "vocab": [
+    {
+     "w": "Who",
+     "p": "/huː/",
+     "t": "pron.",
+     "z": "谁（疑问代词，作主语）"
+    },
+    {
+     "w": "you",
+     "p": "/juː/",
+     "t": "pron.",
+     "z": "你（第二人称代词，此处作表语指身份）"
+    }
+   ]
+  },
+  {
+   "i": 62,
+   "zh": "“我是坎德里安·伊尔伯恩，旅人、梦想者、讲故事的人，诸如此类。”",
+   "notes": [
+    "自我介绍连缀四个身份名词（<code>traveler, dreamer, talespinner, and so forth</code>），并以 <code>and so forth</code>（“诸如此类、等等”）收尾，既自负又故意含糊，译文保留这一串排列。",
+    "<code>talespinner</code> 是“编故事的人、讲故事的高手”，由 <code>tale</code>＋<code>spin</code>（纺线，喻编织故事）复合而成，比 <code>storyteller</code> 更有诗意；人名 <code>Candrian Illborne</code> 音译作“坎德里安·伊尔伯恩”。"
+   ],
+   "vocab": [
+    {
+     "w": "traveler",
+     "p": "/ˈtrævələ/",
+     "t": "n.",
+     "z": "旅人，旅行者（美式拼写，英式作 traveller）"
+    },
+    {
+     "w": "dreamer",
+     "p": "/ˈdriːmə/",
+     "t": "n.",
+     "z": "梦想者，爱做梦的人"
+    },
+    {
+     "w": "talespinner",
+     "p": "/ˈteɪlspɪnə/",
+     "t": "n.",
+     "z": "讲故事的人，编故事高手（tale＋spin，喻“纺织故事”）"
+    },
+    {
+     "w": "and so forth",
+     "p": "",
+     "t": "phr.",
+     "z": "诸如此类，等等"
+    }
+   ]
+  },
+  {
+   "i": 63,
+   "zh": "我和他聊了很久关于不同位面的事。内层位面，是物质、实体、真正有形之物所在的位面。以太位面，内层位面经由它滤过，凝聚成主物质界的各种元素，也就是凡人的世界。在主物质界，信仰诞生了，创造外层诸界的那些灵体也由信仰而生。凡人死去时，他们的灵魂会穿过星界。",
+   "notes": [
+    "这段是叙述者对知识的简述，句子短、判断句多，译文照原文保持陈述的平铺语气，不加雕饰。术语 <code>Inner Planes</code>／<code>Outer Planes</code> 分别固定作“内层位面”“外层诸界”，<code>the Prime Material</code> 作“主物质界”。",
+    "<code>matter, substance, true physicality</code> 是三个递进的名词并置（物质—实体—真正的有形性），译文用顿号并列保留这层层层加深；<code>through which the Inner Planes were filtered</code> 是“介词＋which”引导的定语从句，<code>filter</code> 用被动语态，喻“滤过、析出”。",
+    "<code>to form the elements of the Prime Material</code> 是不定式表结果（“从而形成……”）；<code>from which the spirits… were born</code> 同样是“介词＋which”从句，指灵体由信仰而生；末句 <code>their spirits passed through the Astral Plane</code> 用一般过去时，讲的是通例。"
+   ],
+   "vocab": [
+    {
+     "w": "planes",
+     "p": "/pleɪnz/",
+     "t": "n.",
+     "z": "位面（plane 的复数，指多重世界中的各个层面）"
+    },
+    {
+     "w": "physicality",
+     "p": "/ˌfɪzɪˈkæləti/",
+     "t": "n.",
+     "z": "有形性，实体性（由 physical 派生的抽象名词）"
+    },
+    {
+     "w": "Ethereal",
+     "p": "/iˈθɪəriəl/",
+     "t": "adj.",
+     "z": "以太的，缥缈的（the Ethereal Plane 即以太位面）"
+    },
+    {
+     "w": "filtered",
+     "p": "/ˈfɪltəd/",
+     "t": "v.",
+     "z": "被过滤，被滤析（filter 的过去分词，此处为比喻用法）"
+    },
+    {
+     "w": "spirits",
+     "p": "/ˈspɪrɪts/",
+     "t": "n.",
+     "z": "灵魂，魂灵（spirit 的复数）"
+    }
+   ]
+  },
+  {
+   "i": 64,
+   "zh": "外层诸界以及栖居其间的存在，都是由信仰、念头与虔诚所生，也由它们构成。旅人们把外层诸界划分成“大环”，印记城也是其中一环。这个大环立刻引起了我的兴趣，我便细细盘问坎德里安，问构成大环的那些位面。",
+   "notes": [
+    "<code>created by and of belief</code> 是 <code>by</code> 与 <code>of</code> 并列的介词搭配：“由……所造，且由……构成”，中文难以一词对应，译文用“都是由……所生，也由……构成”补足两层含义。",
+    "<code>the beings which inhabited them</code> 是 <code>which</code> 引导的限制性定语从句，<code>inhabit</code> 意为“栖居于”；<code>Great Ring</code> 首字母大写，是异域设定中外层诸界排成的环形格局，固定译作“大环”。",
+    "<code>of immediate interest to me</code>：<code>of + 抽象名词</code>＝形容词用法（＝<code>immediately interesting to me</code>）；<code>questioned Candrian closely on…</code> 中 <code>closely</code> 不指“靠近”，而是“仔细、追根究底地（追问）”。"
+   ],
+   "vocab": [
+    {
+     "w": "inhabited",
+     "p": "/ɪnˈhæbɪtɪd/",
+     "t": "v.",
+     "z": "居住于，栖居于（inhabit 的过去式）"
+    },
+    {
+     "w": "faith",
+     "p": "/feɪθ/",
+     "t": "n.",
+     "z": "信仰，信念"
+    },
+    {
+     "w": "Great Ring",
+     "p": "",
+     "t": "n.",
+     "z": "大环（外层诸界排成的环形体系，印记城亦属其一）"
+    },
+    {
+     "w": "questioned",
+     "p": "/ˈkwestʃənd/",
+     "t": "v.",
+     "z": "询问，盘问（question sb. closely on sth.＝就某事细问某人）"
+    }
+   ]
+  },
+  {
+   "i": 65,
+   "zh": "守序的上层诸界。坎德里安描述它们时微微打了个寒噤。“要讲守序的位面，我可不是合适的人选，”他说，“因为它们强加给人的那种内在本然的构造与终极的秩序格局，叫我害怕。我躲着它们走，因为我看重自己的个性，胜过看重它们能带给我的知识。它们包括森严划一的阿卡迪亚——善性位面中最接近机械境那套铁板秩序的一个——还有天界山，亚空神族的家园，银色海上的一座岛。”",
+   "notes": [
+    "<code>the planes of law</code> 中的 <code>law</code> 是奇幻哲学意义上的“守序”（与 chaos 相对），故译作“守序的位面”，不能译成“法律”；<code>gave a small shudder</code> 是“微微一颤”，<code>shudder</code> 多指因厌恶或恐惧而战栗。",
+    "<code>the innate structure and ultimate patterns they impose</code>：<code>they impose</code> 是省略关系代词的定语从句（＝<code>that they impose</code>），<code>impose</code> 意为“强加”；<code>structure</code> 与 <code>patterns</code> 分别译为“构造”与“秩序格局”。",
+    "<code>steer clear of</code> 是固定搭配“避开、绕开（某人某物）”；<code>I value my individuality more than I value…</code> 用 <code>more than</code> 比较两个 <code>value</code>，译文保留这一对照。专名一律音译或定译：<code>Arcadia</code>＝阿卡迪亚，<code>Mechanus</code>＝机械境，<code>Mount Celestia</code>＝天界山，<code>archons</code>＝亚空神族，<code>Silver Sea</code>＝银色海。"
+   ],
+   "vocab": [
+    {
+     "w": "lawful",
+     "p": "/ˈlɔːfl/",
+     "t": "adj.",
+     "z": "守序的（奇幻阵营概念，指尊奉秩序与法则）"
+    },
+    {
+     "w": "shudder",
+     "p": "/ˈʃʌdə/",
+     "t": "n.",
+     "z": "战栗，寒噤（give a shudder 即“打了个寒噤”）"
+    },
+    {
+     "w": "innate",
+     "p": "/ɪˈneɪt/",
+     "t": "adj.",
+     "z": "天生的，内在本然的"
+    },
+    {
+     "w": "steer clear of",
+     "p": "",
+     "t": "phr.",
+     "z": "避开，绕开（steer 原指掌舵）"
+    },
+    {
+     "w": "archons",
+     "p": "/ˈɑːkɒnz/",
+     "t": "n.",
+     "z": "亚空神族（上层位面的善性存在，archon 的复数）"
+    }
+   ]
+  },
+  {
+   "i": 66,
+   "zh": "中立的下层诸界。“中立的位面，嗯？那些地方又邪恶又几乎没法理解，而且它们自身的阴险超乎你所能想象。就拿焦炎地狱来说：四座处于不同休眠阶段的火山悬在无边的虚空里，每一座都在某种意义上活着，每一座都想用尽手段弄到你的灵魂。再让尤格罗斯填满那里——依我看，那是恶魔里最坏的一类——这地方就算齐活了。至于终极邪恶的位面——至少他们是这么叫的——是灰色荒原，一个会把你身上的颜色抽干、连你那点麻木不仁都一并偷走的地方，那里也是底下那场大战最惨烈的战场所在。别让我开这个头……然后混沌那一侧还有卡瑟利……”",
+   "notes": [
+    "<code>Take Gehenna, for example</code> 是 <code>take… for example</code>（以……为例）的祈使式用法，口语中用来引出例子；<code>in stages of dormancy</code> 意为“处于不同程度的休眠状态”。",
+    "<code>wanting your soul by whatever means they can get it</code> 中 <code>by whatever means</code>＝“用尽一切手段”，<code>means</code> 单复数同形；<code>Populate it with yugoloths… and you’ve got the place</code> 是“祈使句＋and＋结果句”结构，等于“只要……你就得到了……”，译文用“再让……填满……这地方就算齐活了”保留这种口语推演的语气。",
+    "<code>the worst of the fiends</code> 中 <code>fiend</code> 在异域设定里泛指恶魔类存在（塔纳里、巴特兹等），故译作“恶魔”；<code>drains color from your body and spirit</code> 与 <code>stealing away even your apathy</code> 是 <code>drain A from B</code>／<code>steal away</code> 的并列夸张，末句 <code>Don’t get me started…</code> 是“别让我打开话匣子”，表示一提就说不完；<code>on the chaotic side</code> 指“混沌阵营那一边”。"
+   ],
+   "vocab": [
+    {
+     "w": "vile",
+     "p": "/vaɪl/",
+     "t": "adj.",
+     "z": "邪恶的，卑劣的"
+    },
+    {
+     "w": "insidious",
+     "p": "/ɪnˈsɪdiəs/",
+     "t": "adj.",
+     "z": "阴险的，暗中为害的"
+    },
+    {
+     "w": "dormancy",
+     "p": "/ˈdɔːmənsi/",
+     "t": "n.",
+     "z": "休眠，蛰伏（in stages of dormancy 即“处于不同休眠阶段”）"
+    },
+    {
+     "w": "yugoloths",
+     "p": "/ˈjuːɡəlɒθs/",
+     "t": "n.",
+     "z": "尤格罗斯（下层位面的中立邪恶族类，yugoloth 的复数）"
+    },
+    {
+     "w": "apathy",
+     "p": "/ˈæpəθi/",
+     "t": "n.",
+     "z": "冷漠，无动于衷（此处连麻木都被灰色荒原夺走）"
+    }
+   ]
+  }
+ ]
+}

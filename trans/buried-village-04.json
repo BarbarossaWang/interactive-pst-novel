@@ -1,0 +1,344 @@
+{
+ "chapter": "Buried Village",
+ "chunk": "buried-village-04",
+ "items": [
+  {
+   "i": 67,
+   "zh": "“这故事有点古怪。说的是一个人，有身份，有钱财，什么都占全了，后来才发现自己其实一无所有。”法罗德脸上的笑僵住了，眼里泛起一层怪异的、火一样的光。",
+   "notes": [
+    "<code>a man of position and wealth</code> 是 <code>of + 抽象名词</code> 作后置定语的写法，等于“有地位、有财富的人”，比形容词更书面、也更像说书人的腔调。",
+    "<code>had everything, then discovered he had nothing</code> 用 <code>everything</code> 与 <code>nothing</code> 对照，是本段的核心反讽：所谓“拥有一切”只是错觉。",
+    "<code>his eyes took on a strange, fiery gleam</code> 中 <code>take on</code> 意为“呈现出（某种神情、面貌）”；<code>fiery</code> 兼有“如火般明亮”和“怒意腾腾”两义，此处一语双关。"
+   ],
+   "vocab": [
+    {"w": "position", "p": "/pəˈzɪʃn/", "t": "n.", "z": "地位，身份（a man of position 即“有身份的人”）"},
+    {"w": "wealth", "p": "/welθ/", "t": "n.", "z": "财富，钱财（不可数名词）"},
+    {"w": "grin", "p": "/ɡrɪn/", "t": "n.", "z": "咧嘴的笑，狞笑（常含得意或阴狠意味）"},
+    {"w": "froze", "p": "/frəʊz/", "t": "v.", "z": "僵住，凝住（freeze 的过去式，此处指笑容僵在脸上）"},
+    {"w": "fiery", "p": "/ˈfaɪəri/", "t": "adj.", "z": "火一般的，炽烈的；也可指怒气冲冲的"}
+   ]
+  },
+  {
+   "i": 68,
+   "zh": "“你确定你要讲这个故事吗，尸体？说不定你不会喜欢它的结局，呃？”我没有理会这句含着威胁的话。",
+   "notes": [
+    "<code>May be</code> 在此分写，等于口语的 <code>maybe</code>（也许）；古旧拼法常见于对话，不必按“可能是”理解。",
+    "<code>eh?</code> 是句末附加的追问语气词，法罗德用它把威胁裹上一层假客气，译作“呃？”保留这种阴恻恻的试探。",
+    "<code>the implied threat</code> 中 <code>implied</code> 为“暗示的、未明说的”，<code>implied threat</code> 即“话里带出的威胁”；无名氏不加反驳，只以“没有理会”表态，显出他一贯的短促与沉静。"
+   ],
+   "vocab": [
+    {"w": "certain", "p": "/ˈsɜːtn/", "t": "adj.", "z": "确定的，有把握的（be certain 即“确信”）"},
+    {"w": "corpse", "p": "/kɔːps/", "t": "n.", "z": "尸体（法罗德对无名氏的固定贬称，第九章一贯译“尸体”）"},
+    {"w": "implied", "p": "/ɪmˈplaɪd/", "t": "adj.", "z": "暗含的，暗示的（动词 imply 的过去分词）"},
+    {"w": "threat", "p": "/θret/", "t": "n.", "z": "威胁，恐吓"},
+    {"w": "ignored", "p": "/ɪɡˈnɔːd/", "t": "v.", "z": "不理会，无视（ignore 的过去式）"}
+   ]
+  },
+  {
+   "i": 69,
+   "zh": "“那人撒谎成性，行骗成癖，终于把自己逼进了死角。他发现等死亡来找他的时候，会把他带去一个可怕的地方。”",
+   "notes": [
+    "<code>such a liar, a cheat, that...</code> 是 <code>such...that...</code> 结果状语结构，<code>a liar, a cheat</code> 两个名词并列作同位补充，写他“撒谎、行骗”两副面目。",
+    "<code>twisted himself into a corner</code> 是比喻性搭配：<code>twist</code> 有“扭曲、绕”之义，<code>into a corner</code> 即“逼进角落”，合起来指他自设圈套、自陷绝境。",
+    "<code>when death would come for him</code> 中 <code>would</code> 表过去将来（站在过去的时点看未来）；<code>come for sb.</code> 意为“来带走某人、来找某人算账”，是死亡主题的常见说法。"
+   ],
+   "vocab": [
+    {"w": "liar", "p": "/ˈlaɪə/", "t": "n.", "z": "说谎的人，骗子"},
+    {"w": "cheat", "p": "/tʃiːt/", "t": "n.", "z": "骗子；作弊者"},
+    {"w": "twisted", "p": "/ˈtwɪstɪd/", "t": "v.", "z": "扭曲，缠绕（twist 的过去式；twist oneself into a corner 即“把自己逼进死角”）"},
+    {"w": "corner", "p": "/ˈkɔːnə/", "t": "n.", "z": "角落；困境（喻走投无路之地）"},
+    {"w": "terrible", "p": "/ˈterəbl/", "t": "adj.", "z": "可怕的，骇人的"}
+   ]
+  },
+  {
+   "i": 70,
+   "zh": "法罗德的笑容死了，他舔了舔嘴唇。我往下讲的时候，他看上去……害怕了。",
+   "notes": [
+    "<code>Pharod’s grin died</code> 把笑容写成会“死”的东西，与本章“尸体、死亡”的意象呼应，是全章反复出现的比喻手法。",
+    "<code>He looked… frightened as I continued</code> 中 <code>look</code> 作系动词，后接形容词 <code>frightened</code>；<code>as I continued</code> 是时间状语从句，意为“随着我继续讲”。",
+    "省略号插在 <code>looked</code> 与 <code>frightened</code> 之间，制造叙述者的迟疑——他也不敢相信自己看到的表情；中文以同样位置的点断保留这一顿。"
+   ],
+   "vocab": [
+    {"w": "died", "p": "/daɪd/", "t": "v.", "z": "死去，消失（die 的过去式，此处喻笑容骤然敛去）"},
+    {"w": "licked", "p": "/lɪkt/", "t": "v.", "z": "舔（lick 的过去式；lick one’s lips 即“舔嘴唇”，常表紧张或贪婪）"},
+    {"w": "lips", "p": "/lɪps/", "t": "n.", "z": "嘴唇（lip 的复数）"},
+    {"w": "frightened", "p": "/ˈfraɪtnd/", "t": "adj.", "z": "害怕的，受惊的"},
+    {"w": "continued", "p": "/kənˈtɪnjuːd/", "t": "v.", "z": "继续（continue 的过去式，此处指继续讲述）"}
+   ]
+  },
+  {
+   "i": 71,
+   "zh": "“他铁了心要躲开这样的下场，于是拼命去找一条出路。别人他骗过，如今连命数他也要骗。”",
+   "notes": [
+    "<code>was determined to do sth.</code> 是固定搭配，意为“下定决心做某事”，比 <code>decided</code> 更强调意志的坚决。",
+    "<code>avoid such a fate</code> 中 <code>fate</code> 指“命数、命运”，与上段“死亡把他带去可怕的地方”接续：他要躲的不是死，而是死后的去处。",
+    "<code>He would cheat fate as he had cheated others.</code> 中 <code>would</code> 表过去的意愿/习惯性行为，<code>as</code> 引导方式状语从句，且用过去完成时 <code>had cheated</code> 表示“在此之前早已骗过别人”，时态层次正是这句的狠处。"
+   ],
+   "vocab": [
+    {"w": "determined", "p": "/dɪˈtɜːmɪnd/", "t": "adj.", "z": "下决心的，坚决的（be determined to do 即“决意做某事”）"},
+    {"w": "avoid", "p": "/əˈvɔɪd/", "t": "v.", "z": "避免，躲开（后接名词或动名词）"},
+    {"w": "fate", "p": "/feɪt/", "t": "n.", "z": "命运，命数"},
+    {"w": "desperately", "p": "/ˈdespərətli/", "t": "adv.", "z": "拼命地，不顾一切地"},
+    {"w": "cheat", "p": "/tʃiːt/", "t": "v.", "z": "欺骗；作弊（cheat fate 即“欺骗命运”）"}
+   ]
+  },
+  {
+   "i": 72,
+   "zh": "法罗德的脸扭歪了，像是咽下了什么难吃的东西。",
+   "notes": [
+    "<code>Pharod’s face twisted</code> 中 <code>twisted</code> 是动词过去式，主语为 <code>face</code>，即“脸扭曲起来”；不要误读成被动语态。",
+    "<code>as if he had swallowed something unpleasant</code> 是 <code>as if</code> 引导的方式状语从句，用虚拟语气过去完成时 <code>had swallowed</code> 表示与事实不一定相符的揣测——“仿佛、好像”。",
+    "整句只有一个动作加一个比喻，短得像一次抽搐；译文不作扩充，保留这种一瞥即过的效果。"
+   ],
+   "vocab": [
+    {"w": "twisted", "p": "/ˈtwɪstɪd/", "t": "v.", "z": "扭曲，扭歪（twist 的过去式）"},
+    {"w": "swallowed", "p": "/ˈswɒləʊd/", "t": "v.", "z": "吞咽（swallow 的过去分词，用于虚拟语气 had swallowed）"},
+    {"w": "unpleasant", "p": "/ʌnˈpleznt/", "t": "adj.", "z": "令人不快的，难吃的（此处指难以下咽的东西）"}
+   ]
+  },
+  {
+   "i": 73,
+   "zh": "“他找到了一个答案……或者说，找到了一个能找答案的地方。有人告诉他，去印记城的垃圾堆里翻找，那样东西能让他逃脱自己的命数。那么，法罗德……也许你可以告诉我，这故事是怎么收场的。”法罗德的脸扭曲起来，龇出了牙。",
+   "notes": [
+    "<code>or he found a place to look for the answer</code> 中 <code>to look for the answer</code> 是不定式作后置定语修饰 <code>place</code>，即“供他寻找答案的地方”。",
+    "<code>He was told to search...</code> 是被动语态，施动者故意不提，正是整个故事的关节所在——那个“告诉他”的人身份不明。",
+    "<code>the trash of Sigil</code> 呼应前文里克温德所说“法罗德扔掉了身份，成了破布之王，要统治垃圾”；无名氏把这段旧事当面交还给他，故译“垃圾堆”。<code>broke into a snarl</code> 中 <code>break into</code> 是“突然发出（某种表情或声音）”，<code>snarl</code> 指龇牙低吼，是法罗德被戳中痛处的反应。"
+   ],
+   "vocab": [
+    {"w": "answer", "p": "/ˈɑːnsə/", "t": "n.", "z": "答案；解决办法"},
+    {"w": "search", "p": "/sɜːtʃ/", "t": "v.", "z": "搜寻，翻找（search sth. for sth. 即“在某处搜寻某物”）"},
+    {"w": "trash", "p": "/træʃ/", "t": "n.", "z": "垃圾，废物（此处指印记城的废弃物，与法罗德的“破布之王”身份相关）"},
+    {"w": "escape", "p": "/ɪˈskeɪp/", "t": "v.", "z": "逃脱，逃离"},
+    {"w": "snarl", "p": "/snɑːl/", "t": "n.", "z": "龇牙低吼，咆哮（broke into a snarl 即“龇出了牙”）"}
+   ]
+  },
+  {
+   "i": 74,
+   "zh": "“它没有结局！至少我没有！”我看着血涌上他的脸。“现在轮到我给你讲个故事了，尸体！”法罗德的手指朝我戳过来，弯得像根牧人的曲柄杖。",
+   "notes": [
+    "<code>It has NO ending!</code> 中 <code>NO</code> 大写用于强调否定的力度，等于在吼“根本没有”；中文以“没有”加重读感来对应。",
+    "<code>Not for I!</code> 是口语中的语法失常：介词后本应用宾格 <code>me</code>，此处用主格 <code>I</code>，正显法罗德情绪失控、话语粗野。译作“至少我没有”保留那股蛮横。",
+    "<code>a tale do I have for YOU</code> 是倒装句（宾语提前 + 助动词 do），把 <code>YOU</code> 大写顶到句末，等于当面把矛头指向无名氏。<code>bent like a herder’s crook</code> 中 <code>crook</code> 指牧羊人的弯柄杖，写他指人的手指弯曲变形，形象可怖。"
+   ],
+   "vocab": [
+    {"w": "ending", "p": "/ˈendɪŋ/", "t": "n.", "z": "结局，结尾"},
+    {"w": "blood", "p": "/blʌd/", "t": "n.", "z": "血；血色（blood filled his features 即“血涌上他的脸”，指涨红）"},
+    {"w": "features", "p": "/ˈfiːtʃəz/", "t": "n.", "z": "面容，五官（常用复数指脸部）"},
+    {"w": "lashed out", "p": "/læʃt aʊt/", "t": "phr.", "z": "猛地伸出，挥出（lash out 的过去式）"},
+    {"w": "crook", "p": "/krʊk/", "t": "n.", "z": "弯柄杖，曲柄杖（牧人用来钩羊的杖）"}
+   ]
+  },
+  {
+   "i": 75,
+   "zh": "“一具尸体来到法罗德的院子，满身臭气，满嘴许诺，说他会替法罗德找到那件东西。可他真会守信用吗？许诺这种东西，太容易撕破了，尸体！你敢不认？你要敢说个不字，那就是你骗了我，我就得因为你这句谎话送命！”",
+   "notes": [
+    "<code>ripe with stench and promises</code> 中 <code>ripe with</code> 本义“充满、成熟到快要溢出”，此处把“臭气”和“许诺”并列，暗讽他的承诺跟腐臭一样靠不住。",
+    "<code>Pharod’s Court</code> 首字母大写，是法罗德那处地下巢穴的专称，译作“法罗德的院子”，与本章“埋骨村”村落意象相接。",
+    "<code>Promises too easily broken</code> 是省略句，完整为 <code>Promises are too easily broken</code>；省略系动词是口语抢白的常见形态。<code>you've lied to me</code> 用现在完成时，强调欺骗已成事实、后果已经落下。"
+   ],
+   "vocab": [
+    {"w": "ripe", "p": "/raɪp/", "t": "adj.", "z": "成熟的；充满……的（ripe with 即“饱含、满是”）"},
+    {"w": "stench", "p": "/stentʃ/", "t": "n.", "z": "恶臭，臭气"},
+    {"w": "promises", "p": "/ˈprɒmɪsɪz/", "t": "n.", "z": "承诺，诺言（promise 的复数）"},
+    {"w": "deny", "p": "/dɪˈnaɪ/", "t": "v.", "z": "否认，不承认（Do you deny it? 即“你敢不认？”）"},
+    {"w": "lied", "p": "/laɪd/", "t": "v.", "z": "撒谎（lie 的过去分词，用于现在完成时 you’ve lied）"}
+   ]
+  },
+  {
+   "i": 76,
+   "zh": "“我会去找它，法罗德。找到了，我就带回来。没有人撕破过任何承诺。”",
+   "notes": [
+    "<code>I will search for it</code> 用 <code>will</code> 表意愿与承诺，与上段法罗德质问“他真会守信用吗”正面对接。",
+    "<code>When I find it, I will bring it.</code> 是“主将从现”结构：时间状语从句用一般现在时 <code>find</code>，主句用将来时 <code>will bring</code>。",
+    "<code>No promises have been broken.</code> 用被动语态现在完成时，把焦点放在“承诺”而非“谁”身上，是很克制的一句辩解；无名氏的台词一贯简短、不辩解细节。"
+   ],
+   "vocab": [
+    {"w": "search", "p": "/sɜːtʃ/", "t": "v.", "z": "寻找，搜寻（search for sth. 即“搜寻某物”）"},
+    {"w": "bring", "p": "/brɪŋ/", "t": "v.", "z": "带来，带回（bring sth. to sb. 即“把某物带给某人”）"},
+    {"w": "broken", "p": "/ˈbrəʊkən/", "t": "v.", "z": "打破，违背（break 的过去分词；break a promise 即“违背诺言”）"},
+    {"w": "promises", "p": "/ˈprɒmɪsɪz/", "t": "n.", "z": "承诺（promise 的复数，此处用被动语态作主语）"}
+   ]
+  },
+  {
+   "i": 77,
+   "zh": "“害得别人丢命的谎，是最黑的东西……”法罗德敲了敲拐杖，微微喘着气。“你最好守住你的话，尸体，不然诸界会像磨坊的轮子一样把你碾碎。”",
+   "notes": [
+    "<code>Lies that lead to the death of another</code> 中 <code>that</code> 引导定语从句修饰 <code>Lies</code>，<code>lead to</code> 意为“导致”；<code>the blackest thing</code> 用最高级把“谎”判成最重的罪。",
+    "<code>You'd best keep your word</code> 中 <code>You’d best</code>＝<code>You had best</code>，是“最好……”的固定说法，语气比 <code>should</code> 更强、带警告；<code>keep one’s word</code> 即“守信”。",
+    "<code>the Planes will grind you like a miller’s wheel</code> 把诸界比作磨坊石轮，<code>grind</code> 意为“碾磨”；这句与法罗德“磨坊主”式的贪婪形象相扣，也暗示碾碎他的将是他所依仗的整个世界。<code>wheezing</code> 是现在分词作伴随状语，写他年老气喘。"
+   ],
+   "vocab": [
+    {"w": "Lies", "p": "/laɪz/", "t": "n.", "z": "谎言（lie 的复数，此处位于句首故首字母大写）"},
+    {"w": "blackest", "p": "/ˈblækɪst/", "t": "adj.", "z": "最黑暗的，最邪恶的（black 的最高级）"},
+    {"w": "crutch", "p": "/krʌtʃ/", "t": "n.", "z": "拐杖，腋杖（法罗德的随身之物，多次敲击石板）"},
+    {"w": "wheezing", "p": "/ˈwiːzɪŋ/", "t": "v.", "z": "喘鸣，呼哧喘气（wheeze 的现在分词）"},
+    {"w": "grind", "p": "/ɡraɪnd/", "t": "v.", "z": "碾磨，磨碎（过去式 ground）"}
+   ]
+  },
+  {
+   "i": 78,
+   "zh": "走之前，我还有一个问题要法罗德回答，尽管我猜得到他会说什么。",
+   "notes": [
+    "<code>I had another question I wanted answered by Pharod</code> 中 <code>I wanted answered</code> 是省略关系词的定语从句，且 <code>answered</code> 为过去分词作宾补，结构相当于 <code>a question (that) I wanted (to be) answered</code>——“我想让它被回答的问题”。",
+    "<code>before I left</code> 是时间状语从句，前置到句首，把“离开”作为一个即将到来的节点，暗示这场对峙已近尾声。",
+    "<code>although I suspected I already knew what he would say</code> 用 <code>although</code> 让步，<code>suspected</code> 后接宾语从句，从句里再套 <code>what he would say</code>；译作“尽管我猜得到”，保留他明知答案仍要问的固执。"
+   ],
+   "vocab": [
+    {"w": "answered", "p": "/ˈɑːnsəd/", "t": "v.", "z": "回答，解答（answer 的过去分词，此处作宾补）"},
+    {"w": "suspected", "p": "/səˈspektɪd/", "t": "v.", "z": "猜想，怀疑（suspect 的过去式，此处指心里有数）"},
+    {"w": "although", "p": "/ɔːlˈðəʊ/", "t": "conj.", "z": "虽然，尽管（引导让步状语从句）"}
+   ]
+  },
+  {
+   "i": 79,
+   "zh": "“我听说你弄到了大批的尸体，法罗德。它们都是从哪儿来的？”",
+   "notes": [
+    "<code>I heard you have found...</code> 中 <code>heard</code> 后的宾语从句不用 <code>that</code>；<code>have found</code> 用现在完成时，强调“已经弄到手”这一既成结果。",
+    "<code>a wealth of bodies</code> 里 <code>a wealth of</code> 是固定搭配，意为“大量的、丰富的”，本义与“财富”相关，用在这里对法罗德格外贴切；<code>bodies</code> 复数指成批的尸体。",
+    "<code>Where do they come from?</code> 用一般现在时问来源，问的是持续性的来路，不是某一具的来历。"
+   ],
+   "vocab": [
+    {"w": "heard", "p": "/hɜːd/", "t": "v.", "z": "听说（hear 的过去式；I heard (that)... 即“我听说……”）"},
+    {"w": "wealth", "p": "/welθ/", "t": "n.", "z": "大量，丰富（a wealth of 即“大量的”，非“财富”义）"},
+    {"w": "bodies", "p": "/ˈbɒdiz/", "t": "n.", "z": "尸体（body 的复数，此处指成批的死者）"}
+   ]
+  },
+  {
+   "i": 80,
+   "zh": "“法师会把自己的手艺讲给人听吗？收集者也是这个道理……”法罗德皱起眉，打量着我。“也许我会告诉你……可你得发誓，这话只进你一个人的耳朵。”",
+   "notes": [
+    "<code>Does a mage tell the secrets of his craft?</code> 是修辞性疑问句，不需要回答，作用等于“当然不会”；<code>craft</code> 在此指“行当、手艺”。",
+    "<code>So it is with the Collector…</code> 是完全倒装：<code>So + 系动词 + 主语</code>，意为“收集者也是这样”，用一句顶回对方的追问。",
+    "<code>it is for your ears only</code> 与 <code>for your ears only</code> 是英语中“只许你听、不得外传”的固定说法（今常见于 <code>for your eyes only</code>）；<code>must promise</code> 加强条件意味，是他交底前的交换条件。"
+   ],
+   "vocab": [
+    {"w": "mage", "p": "/meɪdʒ/", "t": "n.", "z": "法师，术士（奇幻语境中指施法者）"},
+    {"w": "secrets", "p": "/ˈsiːkrəts/", "t": "n.", "z": "秘密，诀窍（secret 的复数）"},
+    {"w": "craft", "p": "/krɑːft/", "t": "n.", "z": "手艺，行当；（此处的）法术之道"},
+    {"w": "Collector", "p": "/kəˈlektə/", "t": "n.", "z": "收集者（首字母大写，印记城中对专职收尸者的称呼，术语统一译“收集者”）"},
+    {"w": "studying", "p": "/ˈstʌdiɪŋ/", "t": "v.", "z": "端详，打量（study 的现在分词，此处指仔细审视对方）"}
+   ]
+  },
+  {
+   "i": 81,
+   "zh": "“我听到的话只进我一个人的耳朵。”我发了誓，心里却暗自附了一条：这誓言只在法罗德还活着的时候作数——看他那把年纪，这日子怕是不会太久了。",
+   "notes": [
+    "<code>I vowed, with the silent proviso that...</code> 中 <code>proviso</code> 意为“附带条件、但书”，<code>silent</code> 指这条件只在他心里，没说出口，全句的讽刺正在于此。",
+    "<code>it would only be while Pharod yet lived</code> 用 <code>would</code>（过去将来）与 <code>yet</code>（尚且、还）配合，<code>while</code> 引导时间状语从句，即“只在他还活着的期间有效”。",
+    "<code>which by his age did not look to be much longer</code> 是非限定性定语从句，<code>which</code> 指“他还活着的这段时间”；<code>by his age</code> 意为“照他的年纪看”，<code>look to be</code> 即“看样子是”。"
+   ],
+   "vocab": [
+    {"w": "vowed", "p": "/vaʊd/", "t": "v.", "z": "发誓，立誓（vow 的过去式）"},
+    {"w": "silent", "p": "/ˈsaɪlənt/", "t": "adj.", "z": "无声的，未说出口的（silent proviso 即“心里的附带条件”）"},
+    {"w": "proviso", "p": "/prəˈvaɪzəʊ/", "t": "n.", "z": "附带条件，但书（with the proviso that... 即“以……为条件”）"},
+    {"w": "age", "p": "/eɪdʒ/", "t": "n.", "z": "年纪，年龄（by his age 即“照他的年纪看”）"}
+   ]
+  },
+  {
+   "i": 82,
+   "zh": "“很好……”法罗德用拐杖敲了敲石板，冷笑一声。“这村子并不是埋在拾荒者广场底下的全部东西。”",
+   "notes": [
+    "这句 <code>This village is not all that lies buried beneath Ragpicker’s Square.</code> 与第三章第 51 段几乎一字不差，是全章关键台词的回环：当时的法罗德用它吊胃口，此刻他仍在用同一句，说明他一直想把话头攥在手里。",
+    "<code>not all that lies buried beneath...</code> 中 <code>all that</code> 相当于 <code>everything that</code>，<code>that</code> 引导定语从句修饰 <code>all</code>；字面为“不是埋在……下面的全部东西”，即“底下还藏着别的”。",
+    "<code>tapped the flagstones with his crutch and sneered</code> 两个动作连用；<code>flagstones</code> 指铺地的石板，<code>sneer</code> 是“冷笑、讥笑”，动作与神情同时点出他的倨傲。"
+   ],
+   "vocab": [
+    {"w": "tapped", "p": "/tæpt/", "t": "v.", "z": "轻敲，叩击（tap 的过去式）"},
+    {"w": "flagstones", "p": "/ˈflæɡstəʊnz/", "t": "n.", "z": "铺路石板（flagstone 的复数，指地下村落里的石板地面）"},
+    {"w": "sneered", "p": "/snɪəd/", "t": "v.", "z": "冷笑，讥笑（sneer 的过去式）"},
+    {"w": "buried", "p": "/ˈberid/", "t": "adj.", "z": "埋着的，埋于地下的（bury 的过去分词）"}
+   ]
+  },
+  {
+   "i": 83,
+   "zh": "“墓室、地窖、走廊……”法罗德露出极淡的一丝笑，眼睛像金子一样发亮。“那些地方黑得像沥青，满是哭泣的石头和珍贵的死人，全都睡在各自的棺材里。睡着……”",
+   "notes": [
+    "<code>Chambers, vaults, corridors…</code> 是三个并列名词的省略句，没有动词，像在清点自己的家产；<code>vaults</code> 指地窖、拱顶墓室。",
+    "<code>the faintest of smiles</code> 用 <code>the + 最高级 + of + 名词</code> 结构，等于“最淡的一丝笑”，比 <code>a faint smile</code> 更精确地量化那份得意。",
+    "<code>black as pitch</code> 是固定比喻，<code>pitch</code> 指沥青，意为“漆黑一片”；<code>all a-sleep</code> 中的 <code>a-</code> 是古旧的前缀（如 asleep、afloat），加在动词前构成表状态的形容词，带歌谣腔。<code>Sleeping…</code> 单独成句并以省略号收尾，是法罗德自我陶醉的重复，也暗示他盘算着把死者弄醒变现。"
+   ],
+   "vocab": [
+    {"w": "Chambers", "p": "/ˈtʃeɪmbəz/", "t": "n.", "z": "墓室，房间（chamber 的复数）"},
+    {"w": "vaults", "p": "/vɔːlts/", "t": "n.", "z": "地窖，拱顶墓室（vault 的复数）"},
+    {"w": "corridors", "p": "/ˈkɒrɪdɔːz/", "t": "n.", "z": "走廊，通道（corridor 的复数）"},
+    {"w": "pitch", "p": "/pɪtʃ/", "t": "n.", "z": "沥青（black as pitch 即“漆黑”）"},
+    {"w": "coffins", "p": "/ˈkɒfɪnz/", "t": "n.", "z": "棺材（coffin 的复数）"}
+   ]
+  },
+  {
+   "i": 84,
+   "zh": "“这些死人都是从哪儿来的？”",
+   "notes": [
+    "这是无名氏第二次问同一个问题：第 79 段问 <code>Where do they come from?</code>，此处改成 <code>Where do all these dead come from?</code>，加上 <code>all these</code> 把追问收紧，显出他不肯被含糊话带过去。",
+    "<code>all these dead</code> 中 <code>dead</code> 是 <code>the dead</code> 的变体用法，形容词名物化表示“死者”，作复数处理；<code>come from</code> 问的是来源、来路。",
+    "全句极短，无称呼、无修饰，与法罗德上一段铺陈华丽的排比形成节奏反差。"
+   ],
+   "vocab": [
+    {"w": "dead", "p": "/ded/", "t": "n.", "z": "死者（形容词名物化，作复数用，如 the dead）"},
+    {"w": "come from", "p": "/kʌm frɒm/", "t": "phr.", "z": "来自，出自（问来源的常用搭配）"}
+   ]
+  },
+  {
+   "i": 85,
+   "zh": "法罗德歪着头，斜斜地盯着我。",
+   "notes": [
+    "<code>affixed me with a lopsided stare</code> 是颇为书面的写法：<code>affix</code> 本义“把某物固定到……上”。此处指他把目光牢牢钉在对方身上，近乎一种施压的动作。",
+    "<code>lopsided</code> 意为“歪斜的、一边高一边低的”，既写他歪头审视的姿态，也暗合他这条瘸腿、拄拐的残躯，一词双写。",
+    "整段只有一句，没有对白，是对话之间的一次沉默停顿；译文同样不作扩充，让这一眼自己说话。"
+   ],
+   "vocab": [
+    {"w": "affixed", "p": "/əˈfɪkst/", "t": "v.", "z": "把（目光）定在……上；固定（affix 的过去式）"},
+    {"w": "lopsided", "p": "/ˌlɒpˈsaɪdɪd/", "t": "adj.", "z": "歪斜的，一边高一边低的（此处形容他歪着头斜视）"},
+    {"w": "stare", "p": "/steə/", "t": "n.", "z": "凝视，盯视（此处指审视的目光）"}
+   ]
+  },
+  {
+   "i": 86,
+   "zh": "“尸体啊，尸体……万物都会死。活着这么短，死却要死上很久很久。这么多的人，这么多的死……”他的目光越过我，飘向远处。“让这些死白落在尘人怀里，一点用处也没有，多可惜呀，呃？”法罗德笑了，笑得贪。",
+   "notes": [
+    "<code>everything dies</code> 用一般现在时陈述普遍真理，与后半句的 <code>Life is so short</code> 同属格言腔；法罗德以“万物皆死”的口气掩饰自己的私欲。",
+    "<code>so very, very long</code> 连用两个 <code>very</code> 加强语气，是口语中刻意的重复，中文用“很久很久”对应。",
+    "<code>Such a waste for their deaths to be useless...</code> 是 <code>It is a waste for sb./sth. to do</code> 结构的感叹化省略，省略了形式主语 <code>It</code>；<code>to be useless in a Dustie’s arms</code> 指尸体归尘人处置却毫无收益。<code>greedily</code> 一词单独立于句末，把“笑”的性质钉死为贪婪。"
+   ],
+   "vocab": [
+    {"w": "dies", "p": "/daɪz/", "t": "v.", "z": "死（die 的单三形式，此处陈述普遍事实）"},
+    {"w": "lasts", "p": "/lɑːsts/", "t": "v.", "z": "持续，延续（last 的单三形式）"},
+    {"w": "waste", "p": "/weɪst/", "t": "n.", "z": "浪费，可惜的事（Such a waste 即“多可惜”）"},
+    {"w": "useless", "p": "/ˈjuːsləs/", "t": "adj.", "z": "无用的，白费的"},
+    {"w": "greedily", "p": "/ˈɡriːdɪli/", "t": "adv.", "z": "贪婪地（此处形容他笑得贪）"}
+   ]
+  },
+  {
+   "i": 87,
+   "zh": "“送去停尸间门口的死人，并不是全都喂了炉子，尸体。有些死者，尘人把他们埋在城里的肚腹底下。就在这村子下面……这么近，这么近……就有这么一处地方。我要是看不见这里头的机会，那才是蠢货……”",
+   "notes": [
+    "<code>Not all the dead that goes to the Mortuary gate is fed to the furnace</code> 中 <code>Not all...is...</code> 是部分否定，意为“并非全部都……”，不能理解为“全部都不”；注意 <code>the dead...goes</code> 用单数动词，是把 <code>the dead</code> 当成一个整体。",
+    "<code>the city’s bowels</code> 中 <code>bowels</code> 本义“肠腑”，此处喻城市最深处、最肮脏的核心地带，译作“肚腹底下”，与“埋骨村”的地下意象一致。",
+    "<code>so near, so close…</code> 两个近义词重复并伴省略号，是法罗德越想越亢奋的自我催促。<code>I would have been a fool not to see opportunities</code> 是虚拟条件句（暗含 <code>if I had not seen them</code>），意为“我要是不去捞这机会才是傻”。"
+   ],
+   "vocab": [
+    {"w": "Mortuary", "p": "/ˈmɔːtʃuəri/", "t": "n.", "z": "停尸间（印记城中尘人管理死者的大型建筑，此处指其大门）"},
+    {"w": "furnace", "p": "/ˈfɜːnɪs/", "t": "n.", "z": "炉子，焚尸炉"},
+    {"w": "bowels", "p": "/ˈbaʊəlz/", "t": "n.", "z": "脏腑，深处（喻城市最底层、最深处的地带）"},
+    {"w": "bury", "p": "/ˈberi/", "t": "v.", "z": "埋葬，掩埋（过去式 buried）"},
+    {"w": "opportunities", "p": "/ˌɒpəˈtjuːnətiz/", "t": "n.", "z": "机会，财路（opportunity 的复数）"}
+   ]
+  },
+  {
+   "i": 88,
+   "zh": "“这么说，你去盗那些尘人安置死者的墓穴，把尸体卖回给尘人，他们再埋一遍？”法罗德点了点头，跟着轻轻一笑——那声音像沙子在挪动。",
+   "notes": [
+    "<code>So you rob the catacombs of the dead the Dustmen placed there</code> 中 <code>the Dustmen placed there</code> 是省略关系词的定语从句，修饰 <code>the dead</code>（=the dead whom the Dustmen placed there）；<code>rob A of B</code> 意为“从 A 抢走 B”。",
+    "<code>sell them back to the Dustmen</code> 中 <code>back</code> 表“回、还”，指把尸体倒卖回原主手里，一个 <code>back</code> 就点出这桩生意的荒唐循环。",
+    "<code>the sound was like shifting sand</code> 把笑声比作流沙摩擦——沙既指地下墓穴的泥土，也呼应法罗德前世“化作一阵气、一阵臭”的下场；译作“沙子在挪动”，保留这层不祥。<code>chuckled lightly</code> 中 <code>lightly</code> 指声音轻、笑意浅。"
+   ],
+   "vocab": [
+    {"w": "rob", "p": "/rɒb/", "t": "v.", "z": "盗取，抢劫（rob sb./sth. of sth. 即“从某处抢走某物”）"},
+    {"w": "catacombs", "p": "/ˈkætəkuːmz/", "t": "n.", "z": "地下墓穴（catacomb 的复数，指成片的地下墓道）"},
+    {"w": "Dustmen", "p": "/ˈdʌstmen/", "t": "n.", "z": "尘人（灰烬党成员，术语统一译“尘人”）"},
+    {"w": "bury", "p": "/ˈberi/", "t": "v.", "z": "埋葬（此处指再次掩埋）"},
+    {"w": "chuckled", "p": "/ˈtʃʌkld/", "t": "v.", "z": "轻声笑，暗笑（chuckle 的过去式）"}
+   ]
+  }
+ ]
+}

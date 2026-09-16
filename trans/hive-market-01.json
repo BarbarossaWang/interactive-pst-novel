@@ -1,0 +1,724 @@
+{
+ "chapter": "Hive Market",
+ "chunk": "hive-market-01",
+ "items": [
+  {
+   "i": 1,
+   "zh": "我意识到自己已经走进了蜂巢里的一处集市。我经过一个老妇人身旁，她一言不发地靠墙站着，目光空落落地投向远处。她似乎对身边往来的人流毫不在意，手里紧攥着一根木杆，上头挂着几十条小鱼。我走到她面前，引她注意。",
+   "notes": [
+    "<code>come into a market area</code> 表示“走进一片……”；<code>come into</code> 常用在进入某个空间、区域时。",
+    "“靠墙站着……目光投向远处”对应 <code>standing silently by the wall, staring off into the distance</code>：现在分词 <code>standing</code>、<code>staring</code> 作伴随状语，补充说明她的状态，不必另起句子。",
+    "<code>a wooden pole from which dozens of small fish were dangling</code> 是“介词 + which”引导的定语从句，<code>from which</code> 意为“从那上面”。"
+   ],
+   "vocab": [
+    {
+     "w": "flow of traffic",
+     "p": "/fləʊ əv ˈtræfɪk/",
+     "t": "n.",
+     "z": "往来的人流／交通流；此处指集市上川流不息的人群"
+    },
+    {
+     "w": "unconcerned",
+     "p": "/ˌʌnkənˈsɜːnd/",
+     "t": "adj.",
+     "z": "不在意的、漠不关心的；常用 be unconcerned with sth"
+    },
+    {
+     "w": "clutched",
+     "p": "/klʌtʃt/",
+     "t": "v.",
+     "z": "紧攥、抓紧（clutch 的过去式）；比 hold 更有“死死抓住”的意味"
+    },
+    {
+     "w": "dangling",
+     "p": "/ˈdæŋɡlɪŋ/",
+     "t": "v.",
+     "z": "悬垂、晃荡（dangle 的现在分词）"
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "zh": "“您好哇，先生，要不要买点……”她眯起眼打量了我一会儿，想弄清我是谁。“哎哟！我还当您是我哪个老主顾呢。嗯……”她的嘴抿成一条紧绷的缝，眼神越过我的肩头望向远处。",
+   "notes": [
+    "老妇一口市井土腔：<code>'Lo</code> 是 <code>Hello</code> 的头音脱落，<code>'Ere</code> 是 <code>Here</code>，<code>thinkin'</code>、<code>ye</code>＝<code>you</code>、<code>me</code> 代替 <code>my</code>。译者用口语化的“您好哇／我还当您”保留这种市井味。",
+    "<code>care to purchase</code> 是 <code>Would you care to...?</code> 的省略，属客气邀约的固定说法，意为“可愿／想不想买……”。",
+    "<code>Her mouth pressed down into a tight-lipped frown</code> 写神情：<code>tight-lipped</code> 本义“嘴唇紧闭的”，引申为“不肯多说的、绷着脸的”。"
+   ],
+   "vocab": [
+    {
+     "w": "squinted",
+     "p": "/ˈskwɪntɪd/",
+     "t": "v.",
+     "z": "眯眼看（squint 的过去式）；常与 at 连用"
+    },
+    {
+     "w": "discern",
+     "p": "/dɪˈsɜːn/",
+     "t": "v.",
+     "z": "辨明、看清；书面词，此处指辨认出她的身份"
+    },
+    {
+     "w": "regular customers",
+     "p": "/ˈreɡjələ ˈkʌstəməz/",
+     "t": "n.",
+     "z": "老主顾、常客"
+    },
+    {
+     "w": "tight-lipped",
+     "p": "/ˌtaɪt ˈlɪpt/",
+     "t": "adj.",
+     "z": "双唇紧闭的，引申为绷着脸、讳莫如深的"
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "zh": "我回头看了看，想知道她在盯着什么。我身后什么值得留意的东西也没有。等我转回身，正好撞见她在看我……她立刻把视线移开，又恢复成那副遥望远方的样子。",
+   "notes": [
+    "<code>catch sb doing sth</code> 意为“撞见／瞥见某人正在做某事”，这里用的是过去式 <code>caught her looking at me</code>。",
+    "<code>nothing of interest</code> 是“没有什么有意思／值得注意的”；<code>of + 抽象名词</code> 常用来表示性质，如 <code>of value</code>（有价值的）。",
+    "<code>resuming her staring off into the distance once more</code> 中 <code>resume</code> 后接动名词，表示“重新开始做某事”。"
+   ],
+   "vocab": [
+    {
+     "w": "of interest",
+     "p": "/əv ˈɪntrəst/",
+     "t": "prep. phr.",
+     "z": "值得注意的、有意思的"
+    },
+    {
+     "w": "resuming",
+     "p": "/rɪˈzjuːmɪŋ/",
+     "t": "v.",
+     "z": "重新开始（resume 的现在分词）；后接动名词"
+    },
+    {
+     "w": "caught her looking",
+     "p": "/kɔːt hə ˈlʊkɪŋ/",
+     "t": "v. phr.",
+     "z": "撞见她正在看；catch sb doing sth 结构"
+    },
+    {
+     "w": "quickly",
+     "p": "/ˈkwɪkli/",
+     "t": "adv.",
+     "z": "迅速地、赶快地"
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "zh": "“怎么？我看起来眼熟吗？”",
+   "notes": [
+    "<code>familiar to you</code> 用介词 <code>to</code> 而非 <code>for</code>：<code>sth looks familiar to sb</code>＝某物在某人看来眼熟。",
+    "无名氏问话极短，只有一个疑问句 <code>Do I look familiar to you?</code>，句式与口气都保留他困惑、直接、不爱多说的特点。"
+   ],
+   "vocab": [
+    {
+     "w": "familiar",
+     "p": "/fəˈmɪliə/",
+     "t": "adj.",
+     "z": "熟悉的；look familiar to sb 意为“对某人来说眼熟”"
+    },
+    {
+     "w": "look",
+     "p": "/lʊk/",
+     "t": "v.",
+     "z": "看起来、显得；look + 形容词作系动词"
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "zh": "“天哪，不！”她顿了一下。“不，还真像。我想……是您，先生，或者是个跟您长得一模一样的男人。那是很久以前的事了。”",
+   "notes": [
+    "<code>Goodness, no!</code> 是表示惊讶、否认的感叹，语气温和，相当于“天哪，不是的！”。",
+    "<code>Aye</code> 是古语／方言的“是、对”，她先答 <code>no</code>、随即又 <code>Aye</code>，正显出她语无伦次、拿不准。",
+    "<code>a man with yer very likeness</code> 中 <code>very</code> 不作“非常”，而是“正是那一个／丝毫不差的”；<code>likeness</code> 指相貌、模样。"
+   ],
+   "vocab": [
+    {
+     "w": "Goodness",
+     "p": "/ˈɡʊdnəs/",
+     "t": "interj.",
+     "z": "（感叹）天哪、哎呀；表示惊讶"
+    },
+    {
+     "w": "Aye",
+     "p": "/aɪ/",
+     "t": "adv.",
+     "z": "（古／方言）是、对；等于 yes"
+    },
+    {
+     "w": "likeness",
+     "p": "/ˈlaɪknəs/",
+     "t": "n.",
+     "z": "相似；相貌、模样，very likeness 指“分毫不差的样子”"
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "zh": "“告诉我……”",
+   "notes": [
+    "<code>Tell me…</code> 是祈使句形式的追问，省略号表示话未说完、留有余地，语气比 <code>Tell me.</code> 柔和也更迫切。",
+    "无名氏一贯用这种半句式的短话 <code>Tell me…</code> 催人往下说，译作“告诉我……”最贴合。"
+   ],
+   "vocab": [
+    {
+     "w": "Tell",
+     "p": "/tel/",
+     "t": "v.",
+     "z": "告诉、讲；此处为祈使句，命令对方说下去"
+    },
+    {
+     "w": "me",
+     "p": "/miː/",
+     "t": "pron.",
+     "z": "我（宾格）；tell sb sth 中作间接宾语"
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "zh": "“唔，先生，您看……我这眼睛如今不大好使了，那会儿也不怎么样。可我觉着我瞧见您打这儿走过，身后头跟着一小拨人。那是很久以前的事了，您走得又快。不过我现在想起来了，您当时头抬得高高的……有个女人跟在您后头，想拦住您，让您回过头去跟她说句话……可您把她推开了。”",
+   "notes": [
+    "<code>me sight</code> 中用 <code>me</code> 代替 <code>my</code>，是伦敦土话一类的方言特征；<code>trailin’</code>、<code>walkin’</code>、<code>followin’</code> 词尾 <code>-g</code> 脱落，同样标记她的市井口音。",
+    "<code>t’wasn’t back then, neither</code>：<code>neither</code> 放在否定句末尾表示“也不”，相当于 <code>either</code> 的否定呼应用法。",
+    "<code>to get ye to turn around</code> 是 <code>get sb to do sth</code>（使／让某人做某事）结构，与前面的 <code>trying to stop ye</code> 并列，都是那女人想达到的目的。"
+   ],
+   "vocab": [
+    {
+     "w": "sight",
+     "p": "/saɪt/",
+     "t": "n.",
+     "z": "视力、眼力；me sight’s not so good 即“我的眼力不太好”"
+    },
+    {
+     "w": "trailin’",
+     "p": "/ˈtreɪlɪn/",
+     "t": "v.",
+     "z": "拖在后面、尾随（trailing 的口语拼写）"
+    },
+    {
+     "w": "quick-like",
+     "p": "/ˈkwɪk laɪk/",
+     "t": "adv.",
+     "z": "（口语）很快地；-like 是口语后缀，表“……似的”"
+    },
+    {
+     "w": "turn around",
+     "p": "/tɜːn əˈraʊnd/",
+     "t": "v. phr.",
+     "z": "转过身来、回头"
+    },
+    {
+     "w": "pushed her away",
+     "p": "/pʊʃt hə əˈweɪ/",
+     "t": "v. phr.",
+     "z": "把她推开"
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "zh": "“那是个美人哪，她……看着又伤心又生气，两样混在一块儿。她在原地站了一会儿，随后还是照样跟在您后头，急急忙忙地赶。您身边至少还有两位先生，先生……我唯独记得太清楚的，是那个又高又瘦的。他身上一股布勃酒臭味儿；隔着半条街我都闻见了。瞧着也是好久没洗过澡。他紧紧跟着您，一句话也没说。哪怕那女人撞在他身上、想拦住您，他也当没这人似的。我就记得这些了，先生。”",
+   "notes": [
+    "<code>Beautiful woman, she was…</code> 把表语 <code>Beautiful woman</code> 提到主语之前，是口语里强调的倒装（前置），相当于 <code>She was a beautiful woman</code>，译作“那是个美人哪，她……”正好保留这种语气。",
+    "<code>all at once</code> 在这里不是“突然”，而是“同时、一齐”，即又伤心又生气两种情绪同时出现。",
+    "<code>Reeked of bub, he did</code> 是 <code>reek of</code>（散发……的臭味）加 <code>he did</code> 的强调追加；<code>hadn’t bathed in ages</code> 中 <code>in ages</code>＝“很久以来”。"
+   ],
+   "vocab": [
+    {
+     "w": "Reeked",
+     "p": "/riːkt/",
+     "t": "v.",
+     "z": "散发（臭味）（reek 的过去式）；reek of sth"
+    },
+    {
+     "w": "bub",
+     "p": "/bʌb/",
+     "t": "n.",
+     "z": "布勃酒；印记城土话，一种廉价烈酒，饮者身上常带此味"
+    },
+    {
+     "w": "hustlin’",
+     "p": "/ˈhʌslɪn/",
+     "t": "v.",
+     "z": "急赶、匆匆走（hustling 的口语拼写）"
+    },
+    {
+     "w": "in ages",
+     "p": "/ɪn ˈeɪdʒɪz/",
+     "t": "adv. phr.",
+     "z": "很久以来；常用于否定句"
+    },
+    {
+     "w": "bumped against",
+     "p": "/bʌmpt əˈɡenst/",
+     "t": "v. phr.",
+     "z": "撞上、碰上（bump against sb/sth）"
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "zh": "又是我过去的一段事。我给了那老妇人几枚铜币，继续往前走，徒劳地想从记忆里翻出点跟这段事有关联的东西。",
+   "notes": [
+    "<code>Another incident from my past.</code> 是无主语的省略句，直译“又一件我过去的往事”，用于承接上文、作内心独白。",
+    "<code>walking on and straining vainly for any memory...</code> 两个现在分词短语作伴随状语，描写他一边走一边徒劳地搜刮记忆。",
+    "<code>strain for</code> 意为“竭力寻求、使劲想（抓住）”；<code>connect with</code> 意为“与……相关联”。"
+   ],
+   "vocab": [
+    {
+     "w": "incident",
+     "p": "/ˈɪnsɪdənt/",
+     "t": "n.",
+     "z": "事件、插曲；指以往发生过的一段事"
+    },
+    {
+     "w": "vainly",
+     "p": "/ˈveɪnli/",
+     "t": "adv.",
+     "z": "徒劳地、白费力气地"
+    },
+    {
+     "w": "straining",
+     "p": "/ˈstreɪnɪŋ/",
+     "t": "v.",
+     "z": "竭力、使劲（strain 的现在分词）；strain for sth 努力寻求"
+    },
+    {
+     "w": "connect with",
+     "p": "/kəˈnekt wɪð/",
+     "t": "v. phr.",
+     "z": "与……有关联、衔接得上"
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "zh": "前方集市的一片地方堆满了碎石烂木。一个宽肩膀的女人正在街上横七竖八的大梁之间拖沓地走来走去。她用包铁掌的靴子踢那些梁木；隔一会儿便弯下腰，赤手从木板上拧下一根钉子。她每拔一根都举起来端详一番，再丢进一个皮制的挎袋里。听见我走近，她直起身来。她客气地笑了笑，但从她站立的架势和那只凑在武器握柄边的手来看，我明白她随时准备动手。我注意到她的一只眼睛上蒙着一层乳白色的翳。",
+   "notes": [
+    "<code>iron-shod boots</code> 是“镶／包铁掌的靴子”，<code>shod</code> 是 <code>shoe</code> 的过去分词，意为“给……钉蹄铁／掌”。",
+    "<code>every once in a while</code> 是固定短语，意为“隔一阵子、时不时”。",
+    "<code>the way her hand rested close to the hilt of her weapon</code> 中 <code>the way + 从句</code> 意为“……的样子／方式”；<code>rested close to</code> 指手搭在离握柄很近的地方，写出她外松内紧。"
+   ],
+   "vocab": [
+    {
+     "w": "debris",
+     "p": "/ˈdebriː/",
+     "t": "n.",
+     "z": "残骸、碎石烂木；不可数名词"
+    },
+    {
+     "w": "shuffling",
+     "p": "/ˈʃʌflɪŋ/",
+     "t": "v.",
+     "z": "拖着脚走（shuffle 的现在分词）；也指来回翻动"
+    },
+    {
+     "w": "iron- shod",
+     "p": "/ˈaɪən ʃɒd/",
+     "t": "adj.",
+     "z": "包铁掌的；shod 为 shoe 的过去分词（原文此处有排版空格）"
+    },
+    {
+     "w": "appraising",
+     "p": "/əˈpreɪzɪŋ/",
+     "t": "v.",
+     "z": "估价、端详品评（appraise 的现在分词）"
+    },
+    {
+     "w": "milky film",
+     "p": "/ˈmɪlki fɪlm/",
+     "t": "n.",
+     "z": "乳白色的薄膜；写眼上的白翳"
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "zh": "“就站那儿吧，够近了，刀客……你找我有什么事？”",
+   "notes": [
+    "<code>That’s close enough there</code> 是口语里划下界线的话，意为“站住，别再靠近了”。",
+    "<code>cutter</code> 是印记城俚语，泛指“家伙、人物”，带江湖气，本项目的固定译法是“刀客”。",
+    "<code>what do ye need from me?</code> 用 <code>need sth from sb</code>（向某人要某物），语气直硬，显出她的戒备。"
+   ],
+   "vocab": [
+    {
+     "w": "cutter",
+     "p": "/ˈkʌtə/",
+     "t": "n.",
+     "z": "（印记城俚语）家伙、人物、刀客"
+    },
+    {
+     "w": "close enough",
+     "p": "/kləʊs ɪˈnʌf/",
+     "t": "phr.",
+     "z": "够近了；口语中常用来叫对方停步"
+    },
+    {
+     "w": "need from",
+     "p": "/niːd frəm/",
+     "t": "v. phr.",
+     "z": "向（某人）要（某物）"
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "zh": "“你是谁？”她从挎袋里掏出三根钉子，往空中一抛，任它们旋转着，再一把收进掌心。",
+   "notes": [
+    "<code>tossing them spinning into the air</code>：<code>spinning</code> 是现在分词作宾语补足语，描写钉子被抛出去时旋转的状态。",
+    "<code>catching them in her palm</code> 用 <code>in her palm</code>（落在掌心）而非 <code>with her palm</code>，突出接住的位置。",
+    "无名氏又是那句招牌式的短问 <code>Who are you?</code>，与前文问老妇人的句式一致。"
+   ],
+   "vocab": [
+    {
+     "w": "tossing",
+     "p": "/ˈtɒsɪŋ/",
+     "t": "v.",
+     "z": "抛、掷（toss 的现在分词）"
+    },
+    {
+     "w": "spinning",
+     "p": "/ˈspɪnɪŋ/",
+     "t": "v.",
+     "z": "旋转（spin 的现在分词）；此处作补语写钉子旋转"
+    },
+    {
+     "w": "palm",
+     "p": "/pɑːm/",
+     "t": "n.",
+     "z": "手掌、掌心"
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "zh": "“人家叫我铁钉奈尔斯。”她把钉子丢回袋里，发出一声闷响。“我把它们卖给下城区一个叫哈姆里斯的人。做棺材的。”",
+   "notes": [
+    "<code>Iron Nalls</code> 是她的诨名，<code>Nalls</code> 是 <code>nails</code>（钉子）的口语变读；译作“铁钉奈尔斯”，既保留“钉”的意象又音译人名。",
+    "<code>I sell ’em to a man, name a’ Hamrys</code>：<code>’em</code>＝<code>them</code>，<code>name a’</code>＝<code>name of</code>，都是口语缩略，用于补充说明那人的名字。",
+    "<code>Maker of coffins, he is.</code> 与上文 <code>Beautiful woman, she was…</code> 同型，把表语前置作强调，可译成“做棺材的”独立成句。"
+   ],
+   "vocab": [
+    {
+     "w": "dropped",
+     "p": "/drɒpt/",
+     "t": "v.",
+     "z": "丢下、放下（drop 的过去式）"
+    },
+    {
+     "w": "muffled clink",
+     "p": "/ˈmʌfld klɪŋk/",
+     "t": "n. phr.",
+     "z": "沉闷的叮当声；muffled 指声音被闷住的"
+    },
+    {
+     "w": "coffins",
+     "p": "/ˈkɒfɪnz/",
+     "t": "n.",
+     "z": "棺材（coffin 的复数）"
+    },
+    {
+     "w": "Lower Ward",
+     "p": "/ˈləʊə wɔːd/",
+     "t": "n.",
+     "z": "下城区；印记城的城区之一（Ward 指城区）"
+    }
+   ]
+  },
+  {
+   "i": 14,
+   "zh": "“下城区在哪儿？”",
+   "notes": [
+    "<code>Where’s the Lower Ward?</code> 是 <code>Where is...</code> 的缩略形式，口语中极常用。",
+    "<code>Ward</code> 在印记城语境里指“城区”，是专有地名的一部分，须整体译作“下城区”，不译“病房”。"
+   ],
+   "vocab": [
+    {
+     "w": "Where’s",
+     "p": "/weəz/",
+     "t": "contraction",
+     "z": "Where is 的缩写"
+    },
+    {
+     "w": "Ward",
+     "p": "/wɔːd/",
+     "t": "n.",
+     "z": "（城市）区、城区；此处为地名 Lower Ward 的一部分"
+    }
+   ]
+  },
+  {
+   "i": 15,
+   "zh": "“呃……我原先认得路，真的，可达布斯又把周围的街巷改过了。如今我不知该怎么过去——得重新摸出一条路来——不过我估摸着，达布斯早晚会把这一切理顺的。”这话我从前听过，心里不免犯疑。",
+   "notes": [
+    "<code>used to know the way</code> 表示“过去认得路（现在不认得了）”；<code>used to do</code> 专表过去经常／曾经的状态，与 <code>be used to doing</code>（习惯于）不同。",
+    "<code>I used to know the way, I did</code> 中末尾的 <code>I did</code> 是口语强调追加，重复主语与助动词以加重语气。",
+    "<code>straighten things out</code> 是固定短语，意为“把事情理顺、收拾妥当”；<code>chart a new path</code> 字面是“画出新路线”，<code>chart</code> 作动词指绘制／勘定路线。"
+   ],
+   "vocab": [
+    {
+     "w": "used to",
+     "p": "/ˈjuːst tuː/",
+     "t": "phr.",
+     "z": "过去曾经（做某事）；后接动词原形"
+    },
+    {
+     "w": "chart",
+     "p": "/tʃɑːt/",
+     "t": "v.",
+     "z": "绘制（地图）、勘定（路线）"
+    },
+    {
+     "w": "figure",
+     "p": "/ˈfɪɡə/",
+     "t": "v.",
+     "z": "（口语）估计、想；I figure (that)... 我认为……"
+    },
+    {
+     "w": "straighten things out",
+     "p": "/ˈstreɪtn θɪŋz aʊt/",
+     "t": "v. phr.",
+     "z": "把事情理顺、收拾妥当；straighten out 的常见搭配"
+    }
+   ]
+  },
+  {
+   "i": 16,
+   "zh": "“达布斯？”",
+   "notes": [
+    "无名氏以重复关键词的方式追问，即 <code>“Dabus?”</code>，这是全书刻画他寡言、困惑的固定手法，译时用引号内单一词加问号即可。",
+    "<code>dabus</code> 为印记城特有的生物名，本项目统一音译为“达布斯”。"
+   ],
+   "vocab": [
+    {
+     "w": "Dabus",
+     "p": "/ˈdɑːbəs/",
+     "t": "n.",
+     "z": "达布斯；痛苦女士的仆从，在城中修缮街道、不开口说话（后文亦作小写 dabus）"
+    }
+   ]
+  },
+  {
+   "i": 17,
+   "zh": "“对，达布斯——女士的仆从。”她困惑地瞧着我。“你准是初到印记城。他们满城干活，执行女士的意旨。总在盖了又拆、拆了又盖，把塌了的、拆下来的东西拿去造新的。”",
+   "notes": [
+    "<code>the Lady’s servants</code> 即“痛苦女士的仆从”；在印记城口语里 <code>the Lady</code> 特指 the Lady of Pain，所以译作“女士”而非泛指的“那位夫人”。",
+    "<code>Ye must be new to Sigil</code>：<code>be new to + 地点</code> 意为“初来某地”，是固定搭配。",
+    "<code>Always buildin’ an’ rebuildin’, they are</code> 把表语前置、句尾再补 <code>they are</code>，是口语强调句式，等于 <code>They are always building and rebuilding</code>。"
+   ],
+   "vocab": [
+    {
+     "w": "Aye",
+     "p": "/aɪ/",
+     "t": "adv.",
+     "z": "（古／方言）是、对"
+    },
+    {
+     "w": "Sigil",
+     "p": "/ˈsɪɡɪl/",
+     "t": "n.",
+     "z": "印记城；万门之城，本故事发生地"
+    },
+    {
+     "w": "rebuildin'",
+     "p": "/ˌriːˈbɪldɪn/",
+     "t": "v.",
+     "z": "重建（rebuilding 的口语拼写；原文此处用直引号）"
+    },
+    {
+     "w": "torn down",
+     "p": "/tɔːn daʊn/",
+     "t": "v. phr.",
+     "z": "被拆毁；tear down 的过去分词"
+    }
+   ]
+  },
+  {
+   "i": 18,
+   "zh": "“这些木头从各处来。有时达布斯把料卸下，我就先翻一遍，等下一拨来把东西取走。大概是他们盖的或拆的房屋、墙头落下来的碎料。”",
+   "notes": [
+    "<code>The wood come from here an’ there</code> 里 <code>come</code> 用原形而非 <code>comes</code>，是市井口语中主谓不一致的常见现象，不是笔误。",
+    "<code>drop the stuff off</code> 是短语动词，意为“把东西卸下、放下”；<code>go through it</code> 指“翻检、过一遍”。",
+    "<code>another pack</code> 中 <code>pack</code> 本指兽群，引申为“一伙、一帮（人）”；<code>puttin’ up or tearin’ down</code> 即“盖起来或拆掉”。"
+   ],
+   "vocab": [
+    {
+     "w": "here an’ there",
+     "p": "/hɪə ən ðeə/",
+     "t": "adv. phr.",
+     "z": "到处、各处；here and there 的口语拼写"
+    },
+    {
+     "w": "drop",
+     "p": "/drɒp/",
+     "t": "v.",
+     "z": "放下、卸下；drop sth off 为短语动词，指卸货"
+    },
+    {
+     "w": "pack",
+     "p": "/pæk/",
+     "t": "n.",
+     "z": "一群、一伙；本义兽群"
+    },
+    {
+     "w": "rubble",
+     "p": "/ˈrʌbl/",
+     "t": "n.",
+     "z": "碎石、瓦砾；不可数名词"
+    },
+    {
+     "w": "tearin’ down",
+     "p": "/ˈteərɪn daʊn/",
+     "t": "v.",
+     "z": "拆毁（tearing down 的口语拼写）"
+    }
+   ]
+  },
+  {
+   "i": 19,
+   "zh": "达布斯——我意识到，那些我在城里见过的、神秘地飘浮着干活的生物，如今有名字了。这时我闻到一股恶臭。随着我往前走，那股下水道般的臭味越来越重，盖过了我先前已跟蜂巢联系在一起、并正学着不去理会的那股浊气。",
+   "notes": [
+    "<code>I now had a name for the mysterious floating creatures</code>：<code>have a name for sth</code> 意为“给某物找到了／有了称呼”。",
+    "<code>performing work about the city</code> 中 <code>about</code> 表“在……各处”，等于 <code>around</code>。",
+    "<code>rising above the usual miasma</code> 是现在分词短语，逻辑主语是前面的 <code>The smell</code>；<code>which I was learning to ignore</code> 是非限制性定语从句，补充说明那股浊气正被他学着忽略。"
+   ],
+   "vocab": [
+    {
+     "w": "floating",
+     "p": "/ˈfləʊtɪŋ/",
+     "t": "adj.",
+     "z": "飘浮的；floating creature 指悬浮的达布斯"
+    },
+    {
+     "w": "stench",
+     "p": "/stentʃ/",
+     "t": "n.",
+     "z": "恶臭、臭气"
+    },
+    {
+     "w": "sewer",
+     "p": "/ˈsuːə/",
+     "t": "n.",
+     "z": "下水道、阴沟"
+    },
+    {
+     "w": "miasma",
+     "p": "/miˈæzmə/",
+     "t": "n.",
+     "z": "瘴气、秽气；指弥漫的污浊空气"
+    },
+    {
+     "w": "ignore",
+     "p": "/ɪɡˈnɔː/",
+     "t": "v.",
+     "z": "忽视、不去理会"
+    }
+   ]
+  },
+  {
+   "i": 20,
+   "zh": "一个男人正用一种古怪的、金鱼眼似的目光盯着我。他的眼睛好大……大得像是随时会从眼眶里弹出来，滚过鹅卵石路面。我走近时他急切地点头，脑袋像鸟一样一点一点……等我靠近他，我突然闻到一股尿臊和粪便的气味围着他打转。那人吸了吸鼻子，用袖子抹了把鼻子，然后张开嘴，露出一口发黑腐烂的牙床。",
+   "notes": [
+    "<code>bug-eyed stare</code> 中 <code>bug-eyed</code> 指“眼球暴突的、瞪得像甲虫眼的”，<code>stare</code> 是“凝视、死盯”。",
+    "<code>so huge they looked ready to pop out of his sockets</code> 是 <code>so... (that)...</code> 结果句式的省略写法；<code>be ready to do</code> 表“眼看就要……”。",
+    "<code>bobbing his head like a bird</code> 是现在分词作伴随状语，<code>bob</code> 指（头）上下轻点；<code>the smell of urine and feces surrounded him</code> 用 <code>surround</code>（包围）写气味浓得把他裹住。"
+   ],
+   "vocab": [
+    {
+     "w": "bug-eyed",
+     "p": "/ˈbʌɡ aɪd/",
+     "t": "adj.",
+     "z": "眼球暴突的、瞪大眼睛的"
+    },
+    {
+     "w": "sockets",
+     "p": "/ˈsɒkɪts/",
+     "t": "n.",
+     "z": "眼窝、眼眶（socket 的复数）"
+    },
+    {
+     "w": "cobblestones",
+     "p": "/ˈkɒblstəʊnz/",
+     "t": "n.",
+     "z": "鹅卵石、圆石路面"
+    },
+    {
+     "w": "eagerly",
+     "p": "/ˈiːɡəli/",
+     "t": "adv.",
+     "z": "急切地、热切地"
+    }
+   ]
+  },
+  {
+   "i": 21,
+   "zh": "“故事换钱，先生？”他呼出的气臭得厉害；闻起来就像这人嘴里一直存着腐肉。“故事换钱？”",
+   "notes": [
+    "<code>Stories-for-coin</code> 是用连字符临时拼出的复合词，作吆喝语，意为“用故事换钱／拿钱换故事”；翻译时按吆喝口吻处理成“故事换钱”。",
+    "<code>sirrah</code> 是古语中对男子的称呼，带轻慢或上下之别，相当于“小子、先生”，比 <code>sir</code> 更贱慢。",
+    "<code>had been keeping rotten meat stored inside his mouth</code> 是 <code>keep + 宾语 + 过去分词</code> 结构，表示“让某物一直处于（被储存的）状态”。"
+   ],
+   "vocab": [
+    {
+     "w": "sirrah",
+     "p": "/ˈsɪrə/",
+     "t": "n.",
+     "z": "（古语）先生、小子；对男子的轻慢称呼"
+    },
+    {
+     "w": "reeked",
+     "p": "/riːkt/",
+     "t": "v.",
+     "z": "散发臭味（reek 的过去式）"
+    },
+    {
+     "w": "rotten",
+     "p": "/ˈrɒtn/",
+     "t": "adj.",
+     "z": "腐烂的、腐坏的"
+    },
+    {
+     "w": "stored",
+     "p": "/stɔːd/",
+     "t": "v.",
+     "z": "储存（store 的过去分词）"
+    }
+   ]
+  },
+  {
+   "i": 22,
+   "zh": "“你是谁？”那人从鼻子里哼了一声，痰音很重。",
+   "notes": [
+    "<code>thick with phlegm</code> 中 <code>thick with</code> 意为“充满、浓重地带着”，此处形容他的声音被痰堵着。",
+    "<code>snorted</code> 指从鼻中喷气出声，多表轻蔑或不屑，也常因鼻塞而为。",
+    "这是无名氏第三次开口问 <code>Who are you?</code>，句式重复是有意为之，显出他醒来后对每个陌生人都只有同一个问题。"
+   ],
+   "vocab": [
+    {
+     "w": "snorted",
+     "p": "/snɔːtɪd/",
+     "t": "v.",
+     "z": "哼了一声、喷鼻息（snort 的过去式）"
+    },
+    {
+     "w": "phlegm",
+     "p": "/flem/",
+     "t": "n.",
+     "z": "痰；phlegm 中 g 不发音，此处形容说话痰音浓重"
+    },
+    {
+     "w": "thick with",
+     "p": "/θɪk wɪð/",
+     "t": "adj. phr.",
+     "z": "充满……的、浓重地带着……的"
+    }
+   ]
+  }
+ ]
+}

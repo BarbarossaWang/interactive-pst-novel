@@ -1,0 +1,771 @@
+{
+ "chapter": "Ragpickers' Square",
+ "chunk": "ragpickers-square-05",
+ "items": [
+  {
+   "i": 89,
+   "zh": "梅贝丝沉默了片刻，然后慢慢走到我面前，伸手碰了碰我的脸颊。“唉，孩子……”她叹了口气。“总有一天你会成为法师中的大师，真的会。你心里明白这一点，可你……还是来找老梅贝丝帮忙了，是不是。一个接生婆，能教得了你这样的人什么呢？”",
+   "notes": [
+    "梅贝丝满口土腔：<code>Ye</code>＝<code>you</code>，<code>ye've</code>＝<code>you've</code>，<code>knowin’</code>＝<code>knowing</code>，<code>Ol’</code>＝<code>Old</code>；译文用“老梅贝丝”等口吻还她这份乡野气。",
+    "“Ye will be a master sorcerer one day, <code>ye will</code>.”句末重复助动词，是英语口语里加强肯定语气的用法，相当于“你一定会”，不必再译出一句“你会”。",
+    "<code>What could a midwife teach such a one?</code> 是修辞性反问，<code>such a one</code>＝“这样的人（指你）”，语气里带着自嘲与感慨。"
+   ],
+   "vocab": [
+    {
+     "w": "midwife",
+     "p": "/ˈmɪdwaɪf/",
+     "t": "n.",
+     "z": "接生婆，助产士；此处点出梅贝丝的身份"
+    },
+    {
+     "w": "sorcerer",
+     "p": "/ˈsɔːsərə(r)/",
+     "t": "n.",
+     "z": "巫师，施法者；<code>master sorcerer</code> 即“法师中的大师”"
+    },
+    {
+     "w": "knowin’",
+     "p": "/ˈnəʊɪn/",
+     "t": "n.",
+     "z": "＝<code>knowing</code>，知道、明白；这里的撇号表示 g 音脱落，是乡土口音写法"
+    },
+    {
+     "w": "touched me on the cheek",
+     "p": "",
+     "t": "phr.",
+     "z": "碰了碰我的脸颊；<code>touch sb on the + 身体部位</code> 是固定搭配，不用物主代词"
+    }
+   ]
+  },
+  {
+   "i": 90,
+   "zh": "“很多，梅贝丝。凡是你肯教的，我都想学。”",
+   "notes": [
+    "<code>all you have to teach</code> 是 <code>all (that) you have to teach</code> 省略关系代词 that 的定语从句，直译“所有你必须教的”，此处译作“凡是你肯教的”更合中文口吻。",
+    "<code>Much</code> 用来回答 <code>What could…teach?</code> 这类问“多少”的问句，也可说 <code>A great deal.</code>；回答“可数”的东西才用 <code>Many</code>。"
+   ],
+   "vocab": [
+    {
+     "w": "Much",
+     "p": "/mʌtʃ/",
+     "t": "pron.",
+     "z": "许多（不可数）；此处单独成句，表示“能教的太多了”"
+    },
+    {
+     "w": "learn",
+     "p": "/lɜːn/",
+     "t": "v.",
+     "z": "学习，学会；<code>learn sth from sb</code> 即“向某人学某事”"
+    },
+    {
+     "w": "have to teach",
+     "p": "",
+     "t": "phr.",
+     "z": "能够教、可以教；<code>have to</code> 此处表“有……可做”，非“必须”"
+    }
+   ]
+  },
+  {
+   "i": 91,
+   "zh": "“那你就是要走这条路了……”梅贝丝顿了一下。“好吧，头一件事最要紧：光有那份技艺的天分还不够。你得有个法子把它聚起来——那法子通常叫‘法术’。法术一般写在书里。所以，在你学会施法之前，技艺先要你有一本法术书。你认得字吗？”",
+   "notes": [
+    "梅贝丝用 <code>the Art</code> 指“法术这门技艺”，是奇幻作品里对魔法技艺的传统称呼，首字母大写表示专指。",
+    "<code>first things firstly</code> 是 <code>first things first</code>（要紧的事先办）的土腔变体，译作“头一件事最要紧”。",
+    "<code>a-fore ye ken</code> 中 <code>a-fore</code> 带古旧的 <code>a-</code> 前缀（＝<code>before</code>），<code>ken</code> 是苏格兰、爱尔兰方言的“知道、懂”，这里 <code>ken cast spells</code> 即“懂得施法”。"
+   ],
+   "vocab": [
+    {
+     "w": "the Art",
+     "p": "/ɑːt/",
+     "t": "n.",
+     "z": "（大写）法术这门技艺；奇幻语境里对 magic 的传统雅称"
+    },
+    {
+     "w": "knack",
+     "p": "/næk/",
+     "t": "n.",
+     "z": "窍门，天分；<code>have a knack for sth</code>＝对某事有天生的上手本事"
+    },
+    {
+     "w": "spell book",
+     "p": "/ˈspel bʊk/",
+     "t": "n.",
+     "z": "法术书，咒语书；法师用来抄录、记忆法术的本子"
+    },
+    {
+     "w": "ken",
+     "p": "/ken/",
+     "t": "v.",
+     "z": "（方言）知道，懂；<code>Ken ye read?</code>＝“你认得字吗？”"
+    },
+    {
+     "w": "givin’ it focus",
+     "p": "",
+     "t": "phr.",
+     "z": "给它一个聚焦的法子；<code>give sth focus</code> 即“把某物收束、集中起来”"
+    }
+   ]
+  },
+  {
+   "i": 92,
+   "zh": "“认得。”我在停尸间里读那些铭文时，一点也没觉得吃力。",
+   "notes": [
+    "<code>I had no trouble (in) doing sth</code> 是固定说法，意为“做某事毫不费力”，比 <code>I could easily read</code> 更强调过程顺利。",
+    "<code>when I was in the Mortuary</code> 是时间状语从句，交代这段自信的来源，译文用“我在停尸间里……时”前置，更符合中文叙述习惯。"
+   ],
+   "vocab": [
+    {
+     "w": "inscriptions",
+     "p": "/ɪnˈskrɪpʃnz/",
+     "t": "n.",
+     "z": "铭文，刻写的文字（inscription 的复数）"
+    },
+    {
+     "w": "Mortuary",
+     "p": "/ˈmɔːtʃuəri/",
+     "t": "n.",
+     "z": "停尸间（专指本章前文那座建筑）；也作形容词“丧葬的”"
+    },
+    {
+     "w": "no trouble",
+     "p": "",
+     "t": "phr.",
+     "z": "毫不费力；<code>have no trouble doing sth</code> 为固定搭配"
+    }
+   ]
+  },
+  {
+   "i": 93,
+   "zh": "“那就试试，这张你念得出来吗？”梅贝丝掏出一张破破烂烂的小卡片……看着像一张食谱。",
+   "notes": [
+    "<code>let’s test it</code> 中 <code>it</code> 指“你识字这件事”，译作“那就试试”即可，不必硬译出宾语。",
+    "<code>drew forth</code> 是 <code>draw forth</code> 的过去式，书面味较浓，意为“掏出、取出”；比 <code>took out</code> 更有戏剧感。",
+    "破折号后的 <code>it looked like a recipe</code> 是叙述者对卡片的第一印象，与下文第 94 段“确实是一道占卜法术”形成误导性对照。"
+   ],
+   "vocab": [
+    {
+     "w": "tattered",
+     "p": "/ˈtætəd/",
+     "t": "adj.",
+     "z": "破破烂烂的，褴褛的；常形容纸张、衣物"
+    },
+    {
+     "w": "drew forth",
+     "p": "",
+     "t": "phr.",
+     "z": "掏出，取出（draw forth 的过去式）；<code>forth</code> 表“向前、出来”"
+    },
+    {
+     "w": "recipe",
+     "p": "/ˈresəpi/",
+     "t": "n.",
+     "z": "食谱，配方；此处是叙述者的误判——其实是法术配方"
+    }
+   ]
+  },
+  {
+   "i": 94,
+   "zh": "我仔细看了看。纸上的字迹在我眼前游动，每当我试着去读，那些符号就一个个扭出焦点之外。几乎是出于本能，我把目光放松下来，让整页字一次性落进眼里……符号忽然彼此化开、融成一片：这张配方上列着分量、材料……看来是一道小小的占卜法术。",
+   "notes": [
+    "<code>The writing … swam before my eyes</code> 中 <code>swim</code> 用来形容字迹、景象在眼前晃动模糊，是固定表达，如 <code>the room swam</code>＝“眼前天旋地转”。",
+    "<code>allowing them to take in the page all at once</code> 是现在分词短语作伴随状语；<code>take in</code>＝“把……收入眼底、看进眼里”，<code>all at once</code>＝“一下子、同时”。",
+    "冒号后 <code>the recipe listed measurements, ingredients…</code> 用冒号引出对 <code>bled together</code>（符号融化成一团）的具体说明，中文照用冒号即可。"
+   ],
+   "vocab": [
+    {
+     "w": "swam",
+     "p": "/swæm/",
+     "t": "v.",
+     "z": "（swim 的过去式）晃动、发晕；<code>swim before one’s eyes</code>＝在眼前游动模糊"
+    },
+    {
+     "w": "out of focus",
+     "p": "",
+     "t": "phr.",
+     "z": "失去焦点，模糊不清；反义为 <code>in focus</code>"
+    },
+    {
+     "w": "bled together",
+     "p": "",
+     "t": "phr.",
+     "z": "（颜色、形状）彼此渗开、混成一片；源自 bleed 的“渗色”义"
+    },
+    {
+     "w": "divination",
+     "p": "/ˌdɪvɪˈneɪʃn/",
+     "t": "n.",
+     "z": "占卜；此处指一类探测、预知的法术"
+    },
+    {
+     "w": "measurements",
+     "p": "/ˈmeʒəmənts/",
+     "t": "n.",
+     "z": "分量，量度（measurement 的复数）；配方里的用量"
+    }
+   ]
+  },
+  {
+   "i": 95,
+   "zh": "“这是一道小占卜法术，对吧？看起来是能让施法者看出物件的‘本性’……看出它有没有被附上魔法。”梅贝丝的眼睛睁大了。",
+   "notes": [
+    "<code>isn’t it?</code> 是反意疑问句，用于向对方求证；这里无名氏其实是明知故问，语气带着笃定。",
+    "<code>allows the user to see…</code> 是 <code>allow sb to do sth</code> 结构；<code>the user</code> 在此指施法者、使用者。",
+    "引号里的 <code>‘nature’</code> 用单引号表示强调兼有保留意味，中文用单引号“本性”同样能带出这层意味。"
+   ],
+   "vocab": [
+    {
+     "w": "allows",
+     "p": "/əˈlaʊz/",
+     "t": "v.",
+     "z": "允许，使能够（allow 的第三人称单数）；<code>allow sb to do sth</code>"
+    },
+    {
+     "w": "enchanted",
+     "p": "/ɪnˈtʃɑːntɪd/",
+     "t": "adj.",
+     "z": "被施了魔法的，附魔的；动词原形 enchant"
+    },
+    {
+     "w": "widened",
+     "p": "/ˈwaɪdnd/",
+     "t": "v.",
+     "z": "睁大，变宽（widen 的过去式）；<code>her eyes widened</code> 写惊讶"
+    },
+    {
+     "w": "the user",
+     "p": "",
+     "t": "n.",
+     "z": "使用者；在此语境中即施法者"
+    }
+   ]
+  },
+  {
+   "i": 96,
+   "zh": "“你是什么人，竟敢来考老梅贝丝？！你是哪路邪魔不成？”",
+   "notes": [
+    "<code>Who are ye to do sth?</code> 是带责备语气的反问句式，意为“你算什么人，竟敢……？”，不是真的问身份。",
+    "<code>so</code> 在此＝<code>in that way</code>，回指“考她”这件事：<code>test Ol’ Mebbeth so</code>＝“这样考老梅贝丝”。",
+    "<code>fiend</code> 在《异域》语境里指下界邪魔；梅贝丝用它既是骂人，也暗示她真的怀疑来路。"
+   ],
+   "vocab": [
+    {
+     "w": "test",
+     "p": "/test/",
+     "t": "v.",
+     "z": "考验，考核；此处指无名氏反过来考她"
+    },
+    {
+     "w": "fiend",
+     "p": "/fiːnd/",
+     "t": "n.",
+     "z": "邪魔，恶魔；也用作骂人的“恶棍”"
+    },
+    {
+     "w": "so",
+     "p": "/səʊ/",
+     "t": "adv.",
+     "z": "这样，如此；回指前面提到的做法"
+    }
+   ]
+  },
+  {
+   "i": 97,
+   "zh": "“不……至少据我所知不是。怎么了？”",
+   "notes": [
+    "<code>not to my knowledge</code> 是固定短语，意为“据我所知并非如此”，常用于留有余地的否认。",
+    "<code>Well</code> 在此只是迟疑的填充词，中文用省略号加“不”来还这个停顿；译文没有直译“嗯”，以免累赘。"
+   ],
+   "vocab": [
+    {
+     "w": "to my knowledge",
+     "p": "",
+     "t": "phr.",
+     "z": "据我所知；常与 not 连用表示“就我所知并非如此”"
+    },
+    {
+     "w": "What’s wrong?",
+     "p": "",
+     "t": "phr.",
+     "z": "怎么了？出什么事了？用于询问对方为何神色有异"
+    }
+   ]
+  },
+  {
+   "i": 98,
+   "zh": "“呃……是俺没料到啊……”她朝那张配方点了点头，随即从我手里一把抽走。“你看见的那些，是用技艺的语言写成的。你要还不是个学徒，它在你眼里就该是一团乱麻，糊成一锅粥。”她打了个响指。“可你呢，清清楚楚，一眼就把意思拎了出来。要不你告诉老梅贝丝，这是怎么回事？”",
+   "notes": [
+    "倒装与省略是梅贝丝的招牌句式：<code>not expectin’ it, was I</code> 正常语序为 <code>I was not expecting it</code>；<code>Mayhap ye tell Ol’ Mebbeth why that is?</code> 省略了 <code>Can</code>／<code>Will</code>。译文用“是俺没料到啊”“要不你告诉……”还其口吻。",
+    "<code>all- a-swirl-jumble of mish-mash</code> 连缀三个近义口语词，极力渲染“乱七八糟”；<code>mish-mash</code> 即 <code>mishmash</code>（大杂烩），<code>jumble</code> 是“杂乱一堆”。",
+    "<code>pluck the sense of it right up</code> 中 <code>pluck</code> 本义“摘取”，与 <code>snapped her finger</code> 的清脆动作相配，译作“一眼就把意思拎了出来”。"
+   ],
+   "vocab": [
+    {
+     "w": "mageling",
+     "p": "/ˈmeɪdʒlɪŋ/",
+     "t": "n.",
+     "z": "学徒法师，小法师；<code>-ling</code> 后缀常表“年幼、地位低者”"
+    },
+    {
+     "w": "mish-mash",
+     "p": "/ˈmɪʃmæʃ/",
+     "t": "n.",
+     "z": "大杂烩，乱七八糟的一堆；亦写作 mishmash"
+    },
+    {
+     "w": "swirl",
+     "p": "/swɜːl/",
+     "t": "n.",
+     "z": "旋转、翻滚的一团；<code>a-swirl</code> 是带 a- 前缀的方言用法"
+    },
+    {
+     "w": "plucked",
+     "p": "/plʌkt/",
+     "t": "v.",
+     "z": "摘下，拔取（pluck 的过去式）；此处引申为“一眼读出”"
+    },
+    {
+     "w": "snapped her finger",
+     "p": "",
+     "t": "phr.",
+     "z": "打了个响指；常用来示意“就是这么说”或引出结论"
+    }
+   ]
+  },
+  {
+   "i": 99,
+   "zh": "“我想我从前也许是知道的，只是忘了……一看见那些符号，记忆就被撞开了。”",
+   "notes": [
+    "<code>may have known once</code> 用 <code>may have + 过去分词</code> 表对过去情况的推测，语气比 <code>might</code> 稍肯定，译作“也许是从前知道的”。",
+    "<code>jarred my memory</code> 中 <code>jar</code> 本义“震动、撞击”，<code>jar one’s memory</code> 指“猛地唤起某人的记忆”，比 <code>reminded me</code> 更有冲击感。",
+    "<code>forgot</code> 后省略了宾语（known them／that），中文补出“忘了”即可，无须加宾语。"
+   ],
+   "vocab": [
+    {
+     "w": "may have known",
+     "p": "",
+     "t": "phr.",
+     "z": "也许曾经知道；<code>may have + 过去分词</code> 表对过去的推测"
+    },
+    {
+     "w": "forgot",
+     "p": "/fəˈɡɒt/",
+     "t": "v.",
+     "z": "忘记（forget 的过去式）"
+    },
+    {
+     "w": "jarred",
+     "p": "/dʒɑːd/",
+     "t": "v.",
+     "z": "震动，撞了一下（jar 的过去式）；<code>jar one’s memory</code>＝猛然唤起记忆"
+    }
+   ]
+  },
+  {
+   "i": 100,
+   "zh": "“要不就是天生的本事，你说不准也有……不打紧，不打紧，你这一下子就替自己省下了好几季的工夫。”梅贝丝哼了一声。“俺本来还寻思着找个人来干这儿的杂活呢，真寻思过……”",
+   "notes": [
+    "<code>Or else a natural gift, ye may have</code> 是省略句加倒装：完整意思是 <code>Or else ye may have a natural gift</code>，<code>or else</code>＝“要不然就是……”。",
+    "<code>ye’ve just shaved seasons off of yer learning</code>：<code>shave time off sth</code>＝“从……上削掉一段时间”，<code>seasons</code> 在此指“季、年”这样的大段时间，译作“省下了好几季的工夫”。",
+    "<code>An I’d been lookin’ fer someone…</code> 里 <code>An</code>＝<code>And</code>（也写作 <code>an’</code>），<code>fer</code>＝<code>for</code>，<code>harumphed</code> 是模仿清嗓子、哼哼的拟声动词。"
+   ],
+   "vocab": [
+    {
+     "w": "natural gift",
+     "p": "",
+     "t": "n.",
+     "z": "天赋，天生的才能；<code>gift for sth</code>＝某方面的天分"
+    },
+    {
+     "w": "no matter",
+     "p": "",
+     "t": "phr.",
+     "z": "不要紧，无所谓；重复使用表示“算了算了”"
+    },
+    {
+     "w": "shaved seasons off",
+     "p": "",
+     "t": "phr.",
+     "z": "省下好几季的时间；<code>shave sth off</code>＝削去、减少（时间、金额）"
+    },
+    {
+     "w": "harumphed",
+     "p": "/həˈrʌmft/",
+     "t": "v.",
+     "z": "哼了一声，清嗓子以示不满或不以为然（harumph 的过去式）"
+    },
+    {
+     "w": "chores",
+     "p": "/tʃɔːz/",
+     "t": "n.",
+     "z": "杂活，家务（chore 的复数）；<code>handle the chores</code>＝干这些杂活"
+    }
+   ]
+  },
+  {
+   "i": 101,
+   "zh": "“这儿要是有什么要帮忙的，你尽可以开口……你教我东西，我至少也该做这些。”我心里骂自己这张嘴跑得太快。我仍旧说不清自己为什么对梅贝丝这样亲近，可我在这里耗不起太多时间。幸好，她的回答让我放下了心。",
+   "notes": [
+    "<code>it’s the least I can do in exchange for…</code>＝“这是我起码能做的，用来换……”，<code>the least</code> 是谦辞式表达，中文用“至少也该做这些”。",
+    "<code>I cursed my run away mouth</code> 是口语化的自责说法，<code>run away mouth</code> 指“管不住的嘴”；译文用“这张嘴跑得太快”保留这层生动。",
+    "<code>afford to waste too much time</code> 中 <code>can’t afford to do sth</code>＝“经不起做某事、负担不起”，此处指时间上的成本；<code>allayed my concern</code>＝“减轻了我的担忧”。"
+   ],
+   "vocab": [
+    {
+     "w": "in exchange for",
+     "p": "",
+     "t": "phr.",
+     "z": "作为……的交换，用来换……；<code>in exchange for your teaching</code>"
+    },
+    {
+     "w": "cursed",
+     "p": "/kɜːst/",
+     "t": "v.",
+     "z": "咒骂（curse 的过去式）；<code>curse oneself</code>＝暗骂自己"
+    },
+    {
+     "w": "afford",
+     "p": "/əˈfɔːd/",
+     "t": "v.",
+     "z": "负担得起；<code>can’t afford to do sth</code>＝经不起／不能做某事"
+    },
+    {
+     "w": "allayed",
+     "p": "/əˈleɪd/",
+     "t": "v.",
+     "z": "减轻、平息（恐惧、担忧等）（allay 的过去式）"
+    },
+    {
+     "w": "favorably",
+     "p": "/ˈfeɪvərəbli/",
+     "t": "adv.",
+     "z": "抱有好感地，赞许地；<code>react favorably to sb</code>＝对某人反应亲近"
+    }
+   ]
+  },
+  {
+   "i": 102,
+   "zh": "“不，不，这事你不用挂在心上……”她皱起眉头。“唔，法术你是读得够顺了，可没有一本书把它们装进去，法术对你就派不上用场……”",
+   "notes": [
+    "<code>don’t worry yerself about that</code> 中 <code>yerself</code>＝<code>yourself</code>，是梅贝丝口音写法；<code>worry oneself about sth</code>＝为某事操心。",
+    "<code>spells are no good to ye without…</code>：<code>be no good to sb</code>＝“对某人没用”，后用 <code>without</code> 短语给出条件，译作“没有……就派不上用场”。",
+    "<code>without a book to put them in</code> 是不定式作后置定语修饰 <code>book</code>，<code>put them in</code> 的宾语 them 指法术。"
+   ],
+   "vocab": [
+    {
+     "w": "yerself",
+     "p": "/jəˈself/",
+     "t": "pron.",
+     "z": "＝<code>yourself</code>；土腔写法，g 音脱落"
+    },
+    {
+     "w": "frowned",
+     "p": "/fraʊnd/",
+     "t": "v.",
+     "z": "皱眉（frown 的过去式）；表不悦或思索"
+    },
+    {
+     "w": "no good to",
+     "p": "",
+     "t": "phr.",
+     "z": "对……没有用；<code>be no good to sb</code>＝对某人没用处"
+    },
+    {
+     "w": "put them in",
+     "p": "",
+     "t": "phr.",
+     "z": "把它们（法术）收进（书里）；不定式短语作 book 的定语"
+    }
+   ]
+  },
+  {
+   "i": 103,
+   "zh": "“你有吗？”",
+   "notes": [
+    "承接上文的省略问句：<code>Do you have one?</code> 中的 <code>one</code> 指代前句的 <code>a book</code>，中文只用“有吗”即可，不必重复“书”。",
+    "<code>Do you have…?</code> 是询问“拥有”的标准句式；英式口语中也常说 <code>Have you got one?</code>。"
+   ],
+   "vocab": [
+    {
+     "w": "Do you have",
+     "p": "",
+     "t": "phr.",
+     "z": "你有……吗；询问拥有的常用句式"
+    },
+    {
+     "w": "one",
+     "p": "/wʌn/",
+     "t": "pron.",
+     "z": "一个；此处作代词回指前面的 a book"
+    }
+   ]
+  },
+  {
+   "i": 104,
+   "zh": "梅贝丝环顾小屋，随后目光落在我做的那只黑色倒钩相框上。她小心地把它拿起来端详。“这个能行。”",
+   "notes": [
+    "<code>caught sight of</code> 是固定短语，意为“看见了、瞥见”，比 <code>saw</code> 更有“目光忽然捕捉到”的意味。",
+    "<code>the black-barbed picture frame I made</code> 中 <code>I made</code> 是省略了关系代词 that／which 的定语从句，修饰前面那个无名氏亲手做的相框。",
+    "<code>This’ll do.</code>＝“这个就行、这个可以”，<code>do</code> 在此是不及物动词，表“够用、合适”。"
+   ],
+   "vocab": [
+    {
+     "w": "glanced around",
+     "p": "",
+     "t": "phr.",
+     "z": "环顾四周；<code>glance around/round</code>＝扫视一圈"
+    },
+    {
+     "w": "caught sight of",
+     "p": "",
+     "t": "phr.",
+     "z": "看见，瞥见；强调目光忽然捉到某物"
+    },
+    {
+     "w": "black-barbed",
+     "p": "",
+     "t": "adj.",
+     "z": "带黑色倒钩的；<code>barb</code> 指倒钩、尖刺"
+    },
+    {
+     "w": "studied",
+     "p": "/ˈstʌdid/",
+     "t": "v.",
+     "z": "端详，仔细打量（study 的过去式）"
+    },
+    {
+     "w": "This'll do",
+     "p": "",
+     "t": "phr.",
+     "z": "这个能行，这个够用了；<code>do</code>＝合适、可以"
+    }
+   ]
+  },
+  {
+   "i": 105,
+   "zh": "“那东西？那不过是个相框。”",
+   "notes": [
+    "<code>That thing?</code> 用指示代词 <code>that</code> 带出轻蔑、不解的语气，中文用“那东西？”保留这份不解。",
+    "<code>It’s just a frame.</code> 中 <code>just</code> 起弱化作用，等于“不过是、只是”；无名氏口气简短，正合他困惑时的说话方式。"
+   ],
+   "vocab": [
+    {
+     "w": "That thing",
+     "p": "",
+     "t": "phr.",
+     "z": "那东西；带轻蔑或不解语气的指代"
+    },
+    {
+     "w": "just",
+     "p": "/dʒʌst/",
+     "t": "adv.",
+     "z": "只不过，仅仅；用于把事情说小"
+    },
+    {
+     "w": "frame",
+     "p": "/freɪm/",
+     "t": "n.",
+     "z": "框架，相框；此处指无名氏做的倒钩相框"
+    }
+   ]
+  },
+  {
+   "i": 106,
+   "zh": "“啊，可你也是个相框呀，孩子……”她依旧握着相框，另一只手拿起一块我从吉斯科尔那儿得来的浆硬破布。她猛地一扯，把布上那层发绿的浆硬面皮撕了下来；那层皮在空气里飘荡，像一缕薄薄的布片。“吉斯科尔洗东西时用的玩意儿，比寻常破布又要鞣、又要抻、又要上浆强多了。羊皮纸俺可用不起，用不起啊……”",
+   "notes": [
+    "<code>Ah, but so are ye, child…</code> 是 <code>so + be + 主语</code> 的倒装，表示“你也是（相框）”；<code>so are ye</code> 回指前句的 <code>just a frame</code>，是梅贝丝式的机锋。",
+    "<code>starched</code> 作定语修饰 <code>rags</code>，指“上过浆、变硬的”；后文 <code>the greenish starched-surface film</code> 中 <code>film</code> 指薄薄一层膜。",
+    "<code>curing, stretchin’ and stonin’</code> 是制革的三道工序：<code>cure</code> 鞣制／防腐、<code>stretch</code> 抻展、<code>stone</code> 用石头打磨上光；此处梅贝丝拿正规制革工序和吉斯科尔的洗涤剂作比较。"
+   ],
+   "vocab": [
+    {
+     "w": "starched",
+     "p": "/stɑːtʃt/",
+     "t": "adj.",
+     "z": "上过浆的，浆硬的；<code>starch</code> 作动词即“给衣物上浆”"
+    },
+    {
+     "w": "yank",
+     "p": "/jæŋk/",
+     "t": "n.",
+     "z": "猛的一拉，使劲一扯；<code>with a yank</code>＝猛地一拽"
+    },
+    {
+     "w": "starched-surface film",
+     "p": "",
+     "t": "n.",
+     "z": "浆硬的表层薄膜；<code>film</code> 指薄薄的一层膜"
+    },
+    {
+     "w": "fluttered",
+     "p": "/ˈflʌtəd/",
+     "t": "v.",
+     "z": "飘动，拍打（flutter 的过去式）；形容布片轻飘"
+    },
+    {
+     "w": "curing",
+     "p": "/ˈkjʊərɪŋ/",
+     "t": "v.",
+     "z": "（制革）鞣制、防腐处理（cure 的动名词）；此处与后面两道工序并列"
+    }
+   ]
+  },
+  {
+   "i": 107,
+   "zh": "她拿起那层浆硬的薄膜，把它蒙到黑色倒钩相框上，把破布的边缘一一扣在相框四周的钩子上，看上去就像一幅发绿发黑的油画布。“还差点什么……”",
+   "notes": [
+    "<code>pulled it over the frame</code> 中的 <code>over</code> 表“覆盖在上面”，译作“蒙到……上”。",
+    "<code>latching the rag’s edges onto the hooks</code> 是现在分词短语表伴随动作；<code>latch A onto B</code>＝把 A 扣、挂到 B 上。",
+    "<code>until it looked like…</code> 引导结果状语从句，说明她这一番动作最终让破布成了画布的样子。"
+   ],
+   "vocab": [
+    {
+     "w": "latching",
+     "p": "/ˈlætʃɪŋ/",
+     "t": "v.",
+     "z": "扣住，闩上（latch 的现在分词）；<code>latch A onto B</code>＝把 A 扣在 B 上"
+    },
+    {
+     "w": "hooks",
+     "p": "/hʊks/",
+     "t": "n.",
+     "z": "钩子（hook 的复数）；此处指相框四周的倒钩"
+    },
+    {
+     "w": "canvas",
+     "p": "/ˈkænvəs/",
+     "t": "n.",
+     "z": "画布；画家作画用的绷布"
+    },
+    {
+     "w": "It’s missin’ something",
+     "p": "",
+     "t": "phr.",
+     "z": "还缺了点什么；<code>missin’</code>＝<code>missing</code>，口语中 g 音脱落"
+    }
+   ]
+  },
+  {
+   "i": 108,
+   "zh": "“得在上面写点什么……”她拿起我先前给她的那罐墨水，搁在自己身边。她把一根指甲浸进墨里，又抽出来，嘴里念念有词。她开始在相框上一笔一笔地划刻符号，嘴里仍旧不停念叨。过了好一阵子，梅贝丝才抬起头看我。",
+   "notes": [
+    "注意叙述视角：无名氏说“得在上面写点什么”是转述或心里的判断，原文用引号直接引出，中文照用引号，读来像是他替梅贝丝说出了下半句。",
+    "<code>dipped one of her fingernails into the tankard</code>：<code>dip A into B</code>＝把 A 蘸进 B；<code>tankard</code> 本指大酒杯，此处是装墨的罐子。",
+    "<code>mumbling to herself</code> 用现在分词作伴随状语，连用两次加上 <code>Some time passed, before…</code>，把时间流逝和她的专注一起写出来。"
+   ],
+   "vocab": [
+    {
+     "w": "tankard",
+     "p": "/ˈtæŋkəd/",
+     "t": "n.",
+     "z": "大酒杯；此处指装墨水的罐子"
+    },
+    {
+     "w": "dipped",
+     "p": "/dɪpt/",
+     "t": "v.",
+     "z": "蘸，浸（dip 的过去式）；<code>dip sth into sth</code>"
+    },
+    {
+     "w": "fingernails",
+     "p": "/ˈfɪŋɡəneɪlz/",
+     "t": "n.",
+     "z": "手指甲（fingernail 的复数）"
+    },
+    {
+     "w": "mumbling",
+     "p": "/ˈmʌmblɪŋ/",
+     "t": "v.",
+     "z": "含糊地嘀咕（mumble 的现在分词）；<code>mumble to oneself</code>＝自言自语"
+    },
+    {
+     "w": "scratch symbols",
+     "p": "",
+     "t": "phr.",
+     "z": "划刻符号；<code>scratch</code> 强调用尖物刻、划"
+    }
+   ]
+  },
+  {
+   "i": 109,
+   "zh": "“都弄好了。”她站起身，在袍子上把沾墨的指甲擦干。她偏过头，端详面前那页镶在框里的怪东西。“给你那本法术书用的一页。”她示意我拿起来。",
+   "notes": [
+    "<code>All’s done.</code>＝<code>All is done.</code>，口语中把 is 缩成 ’s；梅贝丝说话爱省音，译作“都弄好了”。",
+    "<code>drying her ink-stained fingernail on her robe</code> 是现在分词短语表伴随动作，一边起身一边擦手。",
+    "<code>A page fer yer spell book, it is.</code> 把表语提前、句末再补 <code>it is</code>，是方言中常见的强调句式；<code>She indicated I should pick it up</code> 中的 <code>indicated</code> 后可视为省略了 that 的宾语从句。"
+   ],
+   "vocab": [
+    {
+     "w": "All’s done",
+     "p": "",
+     "t": "phr.",
+     "z": "都弄好了，全办妥了；＝<code>All is done</code>"
+    },
+    {
+     "w": "ink-stained",
+     "p": "",
+     "t": "adj.",
+     "z": "沾了墨渍的；<code>stained</code> 表“被弄脏、染上污迹”"
+    },
+    {
+     "w": "regarding",
+     "p": "/rɪˈɡɑːdɪŋ/",
+     "t": "v.",
+     "z": "注视，端详（regard 的现在分词）；表专注地看"
+    },
+    {
+     "w": "framed",
+     "p": "/freɪmd/",
+     "t": "adj.",
+     "z": "装在框里的；由名词 frame 加 -ed 构成"
+    },
+    {
+     "w": "indicated",
+     "p": "/ˈɪndɪkeɪtɪd/",
+     "t": "v.",
+     "z": "示意，表明（indicate 的过去式）；<code>indicate (that) sb should do sth</code>"
+    }
+   ]
+  },
+  {
+   "i": 110,
+   "zh": "我意识到自己对法术书的用途并不陌生。我可以把路上遇到的卷轴上的法术抄进去，然后凭自己对魔法力量的掌控把它们记住、施放出来。我能感觉到自己对这种力量的把握正在增强，也明白别人要花上数年苦学才能掌握的东西，我几天就能学会。我看得出，梅贝丝已经知道我不再需要她的帮助了。",
+   "notes": [
+    "<code>I realized (that)…</code> 后接一长串省略 that 的宾语从句，全段由 <code>I realized</code>、<code>I could…</code>、<code>I could feel</code>、<code>I could see</code> 层层推进，中文保留排比以写出无名氏“能力觉醒”的感受。",
+    "<code>copy spells into it in from scrolls</code> 里 <code>in from</code> 是原文略显累赘的写法，意为“从卷轴上抄进来”；<code>scroll</code> 指写有法术的卷轴。",
+    "<code>drawing on my own control of magical forces</code> 是现在分词短语作方式状语，<code>draw on</code>＝“凭借、动用（资源、能力）”；<code>what would take others years of study to master</code> 是 <code>learn</code> 的宾语从句，内含 <code>take sb + 时间 + to do</code> 结构。"
+   ],
+   "vocab": [
+    {
+     "w": "scrolls",
+     "p": "/skrəʊlz/",
+     "t": "n.",
+     "z": "卷轴（scroll 的复数）；法师记录法术的常见载体"
+    },
+    {
+     "w": "memorize",
+     "p": "/ˈmeməraɪz/",
+     "t": "v.",
+     "z": "记诵，记住；法师须背下法术才能施放"
+    },
+    {
+     "w": "drawing on",
+     "p": "",
+     "t": "phr.",
+     "z": "凭借，动用（draw on 的现在分词）；<code>draw on one’s strength</code>＝借助自身力量"
+    },
+    {
+     "w": "strengthening",
+     "p": "/ˈstreŋθnɪŋ/",
+     "t": "v.",
+     "z": "增强，变强（strengthen 的现在分词）"
+    },
+    {
+     "w": "master",
+     "p": "/ˈmɑːstə(r)/",
+     "t": "v.",
+     "z": "掌握，精通；<code>take years to master</code>＝要花数年才能学会"
+    }
+   ]
+  }
+ ]
+}
