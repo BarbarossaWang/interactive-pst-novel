@@ -21,6 +21,8 @@
 | 十三 | Dead Nations 亡者国度 | 64 | 86–91 | 92–97 |
 | 十四 | The Fate Of Soego 索戈的命运 | 12 | 92 | 98 |
 | 十五 | The Silent King 沉默之王 | 64 | 93–97 | 99–103 |
+| 十六 | Drowned Nations 溺沉国度 | 10 | 98–99 | 104–105 |
+| 十七 | The Tomb 墓室 | 50 | 100–103 | 106–109 |
 
 ## 打开方式
 
@@ -35,7 +37,7 @@ python -m http.server 8000   # 然后访问 http://127.0.0.1:8000/
 | 文件 | 内容 |
 | --- | --- |
 | `index.html` | 章节目录页：各章卡片 + 阅读进度 + 全站统计 |
-| `the-mortuary.html` / `deionarra.html` / `the-hive.html` / `morte-part-i.html` / `hive-market.html` / `mazed.html` / `smoldering-corpse.html` / `dak-kon-part-i.html` / `ragpickers-square.html` / `buried-village.html` / `unbroken-circle-of-zerthimon-part-i.html` / `weeping-stone-catacombs.html` / `dead-nations.html` / `the-fate-of-soego.html` / `the-silent-king.html` | 各章精读页 |
+| `the-mortuary.html` / `deionarra.html` / `the-hive.html` / `morte-part-i.html` / `hive-market.html` / `mazed.html` / `smoldering-corpse.html` / `dak-kon-part-i.html` / `ragpickers-square.html` / `buried-village.html` / `unbroken-circle-of-zerthimon-part-i.html` / `weeping-stone-catacombs.html` / `dead-nations.html` / `the-fate-of-soego.html` / `the-silent-king.html` / `drowned-nations.html` / `the-tomb.html` | 各章精读页 |
 | `assets/style.css` | 全站样式（含深色模式、打印样式） |
 | `assets/app.js` | 交互逻辑：点词查义、朗读、进度、目录跟随、搜索、CSV 导出 |
 | `data/*.js` | 各章内容数据（段落、译文、注释、词表） |
@@ -77,5 +79,7 @@ PDF 版式特殊：每个字形单独绘制、行内被切成多段、换行处�
 | Dead Nations | 86–91 | 92–97 |
 | The Fate Of Soego | 92 | 98 |
 | The Silent King | 93–97 | 99–103 |
+| Drowned Nations | 98–99 | 104–105 |
+| The Tomb | 100–103 | 106–109 |
 
 仅供个人英语学习使用。

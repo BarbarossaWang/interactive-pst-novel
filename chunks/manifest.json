@@ -1,34 +1,34 @@
 [
  {
-  "name": "the-fate-of-soego-01",
-  "chapter": "The Fate Of Soego",
-  "slug": "the-fate-of-soego",
+  "name": "drowned-nations-01",
+  "chapter": "Drowned Nations",
+  "slug": "drowned-nations",
   "first": 1,
-  "last": 12,
-  "count": 12
+  "last": 10,
+  "count": 10
  },
  {
-  "name": "the-silent-king-01",
-  "chapter": "The Silent King",
-  "slug": "the-silent-king",
+  "name": "the-tomb-01",
+  "chapter": "The Tomb",
+  "slug": "the-tomb",
   "first": 1,
   "last": 22,
   "count": 22
  },
  {
-  "name": "the-silent-king-02",
-  "chapter": "The Silent King",
-  "slug": "the-silent-king",
+  "name": "the-tomb-02",
+  "chapter": "The Tomb",
+  "slug": "the-tomb",
   "first": 23,
   "last": 44,
   "count": 22
  },
  {
-  "name": "the-silent-king-03",
-  "chapter": "The Silent King",
-  "slug": "the-silent-king",
+  "name": "the-tomb-03",
+  "chapter": "The Tomb",
+  "slug": "the-tomb",
   "first": 45,
-  "last": 64,
-  "count": 20
+  "last": 50,
+  "count": 6
  }
 ]
