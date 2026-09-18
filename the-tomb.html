@@ -2,11 +2,13 @@
 <html lang="zh-CN" data-theme="light">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" id="theme-color" content="#f4f6f8">
 <title>The Tomb 墓室 · 逐段精读</title>
 <link rel="stylesheet" href="assets/style.css">
 </head>
 <body data-chapter="the-tomb">
+<div class="scrim" id="scrim" role="presentation"></div>
 <div class="wrap">
 
   <p class="crumb"><a href="index.html">← 章节目录</a></p>
@@ -18,13 +20,13 @@
   </header>
 
   <div class="toolbar">
-    <button class="btn toc-toggle" id="toc-toggle" aria-pressed="false">☰ 目录</button>
+    <button class="btn toc-toggle" id="toc-toggle" aria-expanded="false" aria-controls="toc">☰ 目录</button>
     <button class="btn" id="t-zh" aria-pressed="true">中文译文</button>
     <button class="btn" id="t-notes" aria-pressed="true">语法注释</button>
     <button class="btn" id="t-hl" aria-pressed="true">词汇高亮</button>
-    <button class="btn mini" id="fs-down" title="缩小字号">A−</button>
-    <button class="btn mini" id="fs-up" title="放大字号">A+</button>
-    <button class="btn mini" id="t-theme" title="切换深色模式">◐</button>
+    <button class="btn mini" id="fs-down" title="缩小字号" aria-label="缩小字号">A−</button>
+    <button class="btn mini" id="fs-up" title="放大字号" aria-label="放大字号">A+</button>
+    <button class="btn mini" id="t-theme" title="切换深色模式" aria-label="切换深色模式">◐</button>
     <span class="spacer"></span>
     <span class="progress-wrap">
       <span id="p-text">已掌握 0 / 50</span>
@@ -34,8 +36,11 @@
   </div>
 
   <div class="layout">
-    <nav class="toc" id="toc">
-      <h3>段落目录</h3>
+    <nav class="toc" id="toc" aria-label="段落目录">
+      <div class="toc-head">
+        <h3>段落目录</h3>
+        <button class="btn mini drawer-close" id="toc-close">✕ 关闭</button>
+      </div>
       <input type="search" id="toc-search" placeholder="搜索段落…">
       <div id="toc-list"></div>
     </nav>
@@ -48,13 +53,15 @@
         <p class="hint">点正文里的<b>蓝色词</b>或<b>黄色短语</b>可就地查看释义；下表共 183 条，可搜索。</p>
         <p><button class="btn" id="vexport">⤓ 导出本章生词 CSV（可导入 Anki）</button></p>
         <input type="search" id="vsearch" placeholder="搜索单词 / 中文释义…">
-        <table id="vtable">
-          <thead><tr>
-            <th style="width:24%">词条</th><th style="width:13%">音标</th>
-            <th style="width:8%">词性</th><th>释义与说明</th><th style="width:8%">出处</th>
-          </tr></thead>
-          <tbody></tbody>
-        </table>
+        <div class="table-wrap">
+          <table id="vtable" class="responsive">
+            <thead><tr>
+              <th style="width:24%">词条</th><th style="width:13%">音标</th>
+              <th style="width:8%">词性</th><th>释义与说明</th><th style="width:8%">出处</th>
+            </tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
       </section>
 
       <section id="grammar-sec">

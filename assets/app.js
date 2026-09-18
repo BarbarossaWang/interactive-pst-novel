@@ -26,15 +26,31 @@
   }
 
   /* ---------------- 主题 / 显示偏好 ---------------- */
+  var THEME_BG = { light: '#f4f6f8', dark: '#12161c' };
+  function syncThemeColor(t) {
+    var m = document.getElementById('theme-color');
+    if (m) { m.setAttribute('content', THEME_BG[t] || THEME_BG.light); }
+  }
+  function setTheme(t) {
+    document.documentElement.dataset.theme = t;
+    syncThemeColor(t);
+    store('pst:theme', t);
+  }
   function initTheme() {
     var t = store('pst:theme');
     if (!t) { t = window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'; }
-    document.documentElement.dataset.theme = t;
+    setTheme(t);
+    if (window.matchMedia) {
+      var mq = matchMedia('(prefers-color-scheme: dark)');
+      var onChange = function (e) {
+        if (!store('pst:theme')) { setTheme(e.matches ? 'dark' : 'light'); }
+      };
+      if (mq.addEventListener) { mq.addEventListener('change', onChange); }
+      else if (mq.addListener) { mq.addListener(onChange); }
+    }
   }
   function toggleTheme() {
-    var t = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
-    document.documentElement.dataset.theme = t;
-    store('pst:theme', t);
+    setTheme(document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark');
   }
   function initPrefs() {
     ['hide-zh', 'hide-notes', 'hide-hl'].forEach(function (cls) {
@@ -265,11 +281,11 @@
       (ch.vocab || []).forEach(function (v) {
         var tr = document.createElement('tr');
         tr.innerHTML =
-          '<td class="w">' + (/\s/.test(v.w) ? '<span class="tag">短语</span>' : '') + esc(v.w) + '</td>' +
-          '<td class="p">' + esc(v.p || '') + '</td>' +
-          '<td class="t">' + esc(v.t || '') + '</td>' +
-          '<td>' + esc(v.z) + '</td>' +
-          '<td class="src">' + (v.n ? '<a href="#p' + v.n + '">段 ' + v.n + '</a>' : '') + '</td>';
+          '<td class="w" data-label="词条">' + (/\s/.test(v.w) ? '<span class="tag">短语</span>' : '') + esc(v.w) + '</td>' +
+          '<td class="p" data-label="音标">' + esc(v.p || '') + '</td>' +
+          '<td class="t" data-label="词性">' + esc(v.t || '') + '</td>' +
+          '<td data-label="释义">' + esc(v.z) + '</td>' +
+          '<td class="src" data-label="出处">' + (v.n ? '<a href="#p' + v.n + '">段 ' + v.n + '</a>' : '') + '</td>';
         vbody.appendChild(tr);
       });
     }
@@ -383,13 +399,25 @@
     if (th) { th.addEventListener('click', toggleTheme); }
 
     var tt = $('#toc-toggle');
-    if (tt) {
-      tt.addEventListener('click', function () {
-        document.body.classList.toggle('toc-open');
-        tt.setAttribute('aria-pressed', document.body.classList.contains('toc-open') ? 'true' : 'false');
+    function setDrawer(open) {
+      document.body.classList.toggle('toc-open', open);
+      if (tt) { tt.setAttribute('aria-expanded', open ? 'true' : 'false'); }
+    }
+    if (tt) { tt.addEventListener('click', function () { setDrawer(!document.body.classList.contains('toc-open')); }); }
+    var close = $('#toc-close'), scrim = $('#scrim');
+    if (close) { close.addEventListener('click', function () { setDrawer(false); }); }
+    if (scrim) { scrim.addEventListener('click', function () { setDrawer(false); }); }
+    /* 移动端：点目录项后自动收起抽屉 */
+    var tocList = $('#toc-list');
+    if (tocList) {
+      tocList.addEventListener('click', function (e) {
+        if (e.target.closest && e.target.closest('a') && window.matchMedia('(max-width:900px)').matches) {
+          setDrawer(false);
+        }
       });
     }
     document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape' && document.body.classList.contains('toc-open')) { setDrawer(false); }
       if (/^(INPUT|TEXTAREA|SELECT)$/.test(e.target.tagName) || e.metaKey || e.ctrlKey || e.altKey) { return; }
       var k = e.key.toLowerCase();
       if (k === 't') { var a = $('#t-zh'); if (a) { a.click(); } }
@@ -399,11 +427,52 @@
     });
   }
 
+  /* ---------------- 手机端辅助：工具条高度、短标签、回到顶部 ---------------- */
+  var SHORT_LABELS = { 'toc-toggle': '☰ 目录', 't-zh': '译文', 't-notes': '注释', 't-hl': '高亮' };
+  function applyShortLabels() {
+    var small = window.matchMedia && window.matchMedia('(max-width:640px)').matches;
+    Object.keys(SHORT_LABELS).forEach(function (id) {
+      var el = document.getElementById(id);
+      if (!el) { return; }
+      if (el.dataset.long === undefined) { el.dataset.long = el.textContent; }
+      var want = small ? SHORT_LABELS[id] : el.dataset.long;
+      if (el.textContent !== want) { el.textContent = want; }
+    });
+  }
+
+  function wireMobile() {
+    var bar = $('.toolbar'), root = document.documentElement;
+    function measure() {
+      if (bar) { root.style.setProperty('--toolbar-h', Math.round(bar.getBoundingClientRect().height) + 'px'); }
+      applyShortLabels();
+    }
+    measure();
+    window.addEventListener('resize', measure);
+    window.addEventListener('orientationchange', measure);
+    if (window.ResizeObserver && bar) { new ResizeObserver(measure).observe(bar); }
+
+    if (!document.body.dataset.chapter || document.body.dataset.chapter === 'index') { return; }
+    var btn = document.createElement('button');
+    btn.className = 'to-top';
+    btn.type = 'button';
+    btn.title = '回到顶部';
+    btn.setAttribute('aria-label', '回到顶部');
+    btn.textContent = '↑';
+    btn.addEventListener('click', function () {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+    document.body.appendChild(btn);
+    var onScroll = function () { btn.classList.toggle('show', window.scrollY > 600); };
+    window.addEventListener('scroll', onScroll, { passive: true });
+    onScroll();
+  }
+
   /* ---------------- 启动 ---------------- */
   function boot() {
     initTheme();
     initPrefs();
     wireToolbar();
+    wireMobile();
     var page = document.body.dataset.chapter;
     if (page && page !== 'index') { renderChapter(page); } else { renderIndex(); }
   }
