@@ -1,0 +1,729 @@
+{
+ "chapter": "Weeping Stone Catacombs",
+ "chunk": "weeping-stone-catacombs-01",
+ "items": [
+  {
+   "i": 1,
+   "zh": "第二天，我们进了地下墓穴。墙上嵌着一张张石雕面孔，从那些面孔的眼眶下垂下水痕，于是它们看上去当真是在流泪。",
+   "notes": [
+    "<code>were inset into</code> 是被动语态，<code>inset</code> 意为“嵌入、镶入”，常用于描述石块、宝石嵌进墙面或基座；<code>inset</code> 的过去分词与过去式同为 <code>inset</code>。",
+    "<code>Flowing water had left tracks</code> 是过去完成时，表示“在讲故事那一刻之前，流水已经留下了痕迹”；<code>tracks</code> 这里不是“脚印”，而是水流冲刷出的水痕。",
+    "<code>so it did indeed appear that...</code> 中的 <code>did</code> 是强调用法，用来加强 <code>indeed</code> 的语气：“看上去当真是……”。"
+   ],
+   "vocab": [
+    {
+     "w": "catacombs",
+     "p": "/ˈkætəkuːmz/",
+     "t": "n.",
+     "z": "地下墓穴（catacomb 的复数）"
+    },
+    {
+     "w": "inset",
+     "p": "/ˈɪnset/",
+     "t": "v.",
+     "z": "嵌入、镶入（常与 into 连用）"
+    },
+    {
+     "w": "Flowing water",
+     "p": "",
+     "t": "n.",
+     "z": "流水；墓穴石壁渗下的活水"
+    },
+    {
+     "w": "weeping",
+     "p": "/ˈwiːpɪŋ/",
+     "t": "v.",
+     "z": "哭泣（weep 的现在分词）；本章篇名由此而来"
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "zh": "我们先从入口左边的墓室查起。头一批撞上的是食尸鬼——专吃死人血肉的恶物。接着又碰见了颅骨鼠：只要它们在一处聚得够多，当真是能施法的。我们还遇上了瓦古伊，那东西差不多就只有一对翅膀挂在一颗类人的脑袋上。",
+   "notes": [
+    "<code>start by doing sth.</code> 意为“以做某事开头、先做某事”；此处 <code>We started by examining...</code> 直译即“我们以查看……开始”。",
+    "<code>run into</code> 是“偶然撞见”的固定搭配，与后文 <code>come across</code>（偶然碰到）意思相近，作者此处刻意换词避免重复。",
+    "<code>It really is true that...</code> 用 <code>really</code> 加 <code>is</code> 双重强调，是在强调一桩别人未必肯信的传闻；<code>little more than</code> 意为“不过是、简直就等于”，含贬低意味。"
+   ],
+   "vocab": [
+    {
+     "w": "ghouls",
+     "p": "/ɡuːlz/",
+     "t": "n.",
+     "z": "食尸鬼；专吃死者血肉的恶鬼（ghoul 的复数）"
+    },
+    {
+     "w": "cranium rats",
+     "p": "",
+     "t": "n.",
+     "z": "颅骨鼠；成群时能施法的鼠类怪物（cranium 本义“颅骨”）"
+    },
+    {
+     "w": "cast spells",
+     "p": "",
+     "t": "phr.",
+     "z": "施法、念咒；<code>cast</code> 与法术搭配时用原形"
+    },
+    {
+     "w": "vargouilles",
+     "p": "/vɑːrˈɡwiːlz/",
+     "t": "n.",
+     "z": "瓦古伊；一对翅膀接在类人首级上的飞行魔物"
+    },
+    {
+     "w": "came across",
+     "p": "",
+     "t": "phr.",
+     "z": "偶然遇到、碰上（come across 的过去式）"
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "zh": "我们在墓室里找到些财宝，不过没什么真正值得上心的东西。到正午时分，入口左侧几乎已被我们翻遍了，我便决定去另一边碰碰运气。",
+   "notes": [
+    "<code>nothing of any real interest</code> 意为“没有任何真正有意思／有价值的东西”，是 <code>of + 抽象名词</code> 结构作后置定语，等于 <code>nothing that was really interesting</code>。",
+    "<code>By mid-day</code> 表示“到正午时为止”，<code>by</code> 强调动作在该时间点之前完成；后文有 <code>by + 时间</code> 时，主句多用过去完成时 <code>had seen</code>。",
+    "<code>try my luck</code> 是固定说法“碰碰运气、试试手气”，口语色彩比 <code>try</code> 单用更生动。"
+   ],
+   "vocab": [
+    {
+     "w": "treasure",
+     "p": "/ˈtreʒər/",
+     "t": "n.",
+     "z": "财宝，宝物；（此处作不可数名词）"
+    },
+    {
+     "w": "of any real interest",
+     "p": "",
+     "t": "phr.",
+     "z": "真正有价值的、值得一提的"
+    },
+    {
+     "w": "By mid-day",
+     "p": "",
+     "t": "phr.",
+     "z": "到正午时分（by 强调“到……为止”）"
+    },
+    {
+     "w": "try my luck",
+     "p": "",
+     "t": "phr.",
+     "z": "碰碰运气，试试手气"
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "zh": "我们正沿着又一条潮湿的石廊往前走，墙上那些扭曲的石脸中忽然有一张朝我开口说话，声音像石块开裂，又像巨石在缓缓挪动。",
+   "notes": [
+    "<code>were walking</code> 用过去进行时铺开背景动作，为主句里突然发生的 <code>called out</code> 提供“正在进行”的时间背景，这是叙事里最典型的“背景＋突发”搭配。",
+    "<code>one of the twisted stone faces</code> 是 <code>one of + 复数名词</code> 结构，谓语随主语中心词 <code>one</code> 用单数，故为 <code>called out</code>。",
+    "<code>a creaking stone voice that sounded like the shifting of boulders</code> 中 <code>that</code> 引导定语从句修饰 <code>voice</code>，<code>sound like</code> 后接名词，把嗓音比作巨石的移动——注意比拟的是“声音”而非“石头”。"
+   ],
+   "vocab": [
+    {
+     "w": "damp",
+     "p": "/dæmp/",
+     "t": "adj.",
+     "z": "潮湿的，阴湿的（比 wet 多一层阴冷意味）"
+    },
+    {
+     "w": "corridors",
+     "p": "/ˈkɒrɪdɔːrz/",
+     "t": "n.",
+     "z": "走廊，甬道（corridor 的复数）"
+    },
+    {
+     "w": "creaking",
+     "p": "/ˈkriːkɪŋ/",
+     "t": "adj.",
+     "z": "嘎吱作响的；形容石头摩擦般干涩的声音"
+    },
+    {
+     "w": "shifting",
+     "p": "/ˈʃɪftɪŋ/",
+     "t": "n.",
+     "z": "移动，挪动（shift 的动名词）"
+    },
+    {
+     "w": "boulders",
+     "p": "/ˈbəʊldərz/",
+     "t": "n.",
+     "z": "巨石，巨砾（boulder 的复数）"
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "zh": "“不朽者……看着我。我是……格莱夫。我想与你……谈谈。”被石头搭话已经够骇人了，可它显出的那份见识更叫我吃惊。",
+   "notes": [
+    "<code>I would have words with you</code> 是古旧而庄重的说法，等于 <code>I would like to speak with you</code>；<code>have words with sb.</code> 意为“与某人交谈”，注意它和表示“跟某人吵架”的 <code>have a word with sb.</code> 语气完全不同。",
+    "<code>Immortal... regard me.</code> 里 <code>regard</code> 是祈使句的动词，意为“注视、打量”，属文言色彩较重的用法，不是现代口语里的“关于”。",
+    "<code>As shocking as being addressed by stone was, I was even more shocked at...</code> 是 <code>as + 形容词 + as</code> 引导的让步倒装：“尽管被石头搭话已够骇人，我更吃惊的却是……”。此处 <code>shocking</code>（令人震惊的）与 <code>shocked</code>（感到震惊的）须分清：-ing 修饰令人如此的事物，-ed 修饰有此感受的人。"
+   ],
+   "vocab": [
+    {
+     "w": "Immortal",
+     "p": "/ɪˈmɔːrtl/",
+     "t": "n.",
+     "z": "不朽者，不死之人；此处作称呼语"
+    },
+    {
+     "w": "regard",
+     "p": "/rɪˈɡɑːrd/",
+     "t": "v.",
+     "z": "注视，打量（此处为祈使语气，文气较重）"
+    },
+    {
+     "w": "have… words with",
+     "p": "",
+     "t": "phr.",
+     "z": "与……谈话；<code>have words with sb.</code> 即“和某人说几句”"
+    },
+    {
+     "w": "addressed",
+     "p": "/əˈdrest/",
+     "t": "v.",
+     "z": "被搭话、被称呼（address 的过去分词）"
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "zh": "“你怎么知道我不朽？”",
+   "notes": [
+    "原句用缩略形式 <code>I'm</code>，是口语里的正常写法，译成中文不必刻意加“我是”之类的完整形式，保持问句的干脆即可。",
+    "<code>How did you know...?</code> 用一般过去时，问的是“你（刚才是）怎么知道的”，焦点在对方得知此事的方式上。"
+   ],
+   "vocab": [
+    {
+     "w": "How did you know",
+     "p": "",
+     "t": "phr.",
+     "z": "你怎么知道（一般过去时疑问句）"
+    },
+    {
+     "w": "immortal",
+     "p": "/ɪˈmɔːrtl/",
+     "t": "adj.",
+     "z": "不朽的，不会死的"
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "zh": "“我看见……你躯壳里燃着……一个灼人的目的。在这几条甬道里……飘落的尘土中，我看得见……许多东西。你缺了……某样要紧的东西……正是它让你……得不到死亡那甜美的拥抱。”",
+   "notes": [
+    "<code>see... within your shell</code> 中的 <code>shell</code> 指“躯壳、外壳”，与后文所说的“不朽者”相呼应；<code>burning purpose</code> 直译“燃烧的目的”，指驱使人前行的执念。",
+    "<code>keeps you from death’s sweet embrace</code> 用 <code>keep sb. from sth./doing sth.</code>（使某人不能做某事、使某人得不到某物）；<code>death’s sweet embrace</code> 把死亡拟人化，是诗歌式表达，也透出本章对死亡的沉思。",
+    "格莱夫的台词被大量省略号切碎，句法上是不完整的电报式短句；译文用“……”照原样断开，以保留它那非人的、断续的语感。"
+   ],
+   "vocab": [
+    {
+     "w": "burning purpose",
+     "p": "",
+     "t": "n.",
+     "z": "燃烧般的目的、灼人的执念"
+    },
+    {
+     "w": "shell",
+     "p": "/ʃel/",
+     "t": "n.",
+     "z": "壳，躯壳；此处指无名氏的肉身"
+    },
+    {
+     "w": "essential",
+     "p": "/ɪˈsenʃl/",
+     "t": "adj.",
+     "z": "本质的，必不可少的"
+    },
+    {
+     "w": "sweet embrace",
+     "p": "",
+     "t": "n.",
+     "z": "甜美的拥抱；此处喻死亡"
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "zh": "“你刚才想对我说什么？”",
+   "notes": [
+    "<code>What did you want to say to me?</code> 用一般过去时，指对方先前开口时打算说的话，因此中文用“刚才想”来对应。",
+    "<code>want to say to sb.</code> 是“对某人说”，介词固定用 <code>to</code>，不用 <code>with</code>。"
+   ],
+   "vocab": [
+    {
+     "w": "want to say",
+     "p": "",
+     "t": "phr.",
+     "z": "想说（<code>want to do sth.</code> 表意愿）"
+    },
+    {
+     "w": "to me",
+     "p": "",
+     "t": "phr.",
+     "z": "对我说；say to sb. 为固定搭配"
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "zh": "“听着：这地方对你……藏着许多凶险。地面上……有背叛等着你……你的路……又长又绕。到最后……你会找到……你一直在找的东西……可到那时候，你也许……就不想要它了。”我纳闷它怎么会知道这些。",
+   "notes": [
+    "<code>This place holds much danger for you</code> 中 <code>hold</code> 意为“contain（含有）”，<code>much danger</code> 因 danger 在此不可数而用 <code>much</code>，不用 <code>many</code>。",
+    "<code>Treachery awaits you on the surface</code> 把抽象名词 <code>treachery</code>（背叛、背信）作主语，是带预言腔的书面表达；<code>surface</code> 指地面世界，即相对地下墓穴而言的印记城。",
+    "<code>but you may not want it then</code> 里 <code>may not</code> 表推测“也许不”，与表禁止的 <code>may not</code>（不得）不同，须靠语境判断；末句 <code>I wondered how it could know this.</code> 用 <code>could</code> 而非 <code>can</code>，与主句过去时呼应，同时暗含“它究竟凭什么能知道”的疑惑。"
+   ],
+   "vocab": [
+    {
+     "w": "Treachery",
+     "p": "/ˈtretʃəri/",
+     "t": "n.",
+     "z": "背叛，背信弃义"
+    },
+    {
+     "w": "awaits",
+     "p": "/əˈweɪts/",
+     "t": "v.",
+     "z": "等待，等候（await sb./sth.，较 wait for 更书面）"
+    },
+    {
+     "w": "long and winding",
+     "p": "",
+     "t": "phr.",
+     "z": "又长又曲折的"
+    },
+    {
+     "w": "sought",
+     "p": "/sɔːt/",
+     "t": "v.",
+     "z": "寻找（seek 的过去式与过去分词）"
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "zh": "“你是某种预言者吗？”",
+   "notes": [
+    "<code>some sort of</code> 意为“某种、某种类型的”，说话人对该身份拿不准时才这样用；<code>oracle</code> 指传达神谕的先知或神谕所，是神庙语境里的词。",
+    "疑问句把 <code>Are you...</code> 放在句首，问的是身份类别，故中文用“是……吗”最贴切。"
+   ],
+   "vocab": [
+    {
+     "w": "some sort of",
+     "p": "",
+     "t": "phr.",
+     "z": "某种，某类（表不确定）"
+    },
+    {
+     "w": "oracle",
+     "p": "/ˈɒrəkl/",
+     "t": "n.",
+     "z": "神谕；传达神谕的先知、预言者"
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "zh": "“预言者？不……我只是观察。仅此而已。”",
+   "notes": [
+    "<code>That is all.</code> 是“仅此而已”的常用短句，语气干脆，用来截断对方的猜想；译文承接前面的反问，保留这种断然。",
+    "格莱夫先重复对方的关键词 <code>Oracle?</code> 再否定，是英语对话中常见的“回声问句＋否认”结构，中文用“预言者？”照应即可。"
+   ],
+   "vocab": [
+    {
+     "w": "observe",
+     "p": "/əbˈzɜːrv/",
+     "t": "v.",
+     "z": "观察，静观"
+    },
+    {
+     "w": "That is all",
+     "p": "",
+     "t": "phr.",
+     "z": "仅此而已，就这些"
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "zh": "“既然如此，也许你能解答我心里的一些疑问……”",
+   "notes": [
+    "<code>In that case</code> 意为“既然那样、那么”，承接对方上一句话作推理的起点。",
+    "<code>I had</code> 是修饰 <code>questions</code> 的定语从句，省略了关系代词 <code>that</code>，即 <code>questions [that] I had</code>；译作“我心里的一些疑问”。"
+   ],
+   "vocab": [
+    {
+     "w": "In that case",
+     "p": "",
+     "t": "phr.",
+     "z": "既然那样，那么"
+    },
+    {
+     "w": "perhaps",
+     "p": "/pərˈhæps/",
+     "t": "adv.",
+     "z": "也许，或许"
+    },
+    {
+     "w": "answer",
+     "p": "/ˈɑːnsər/",
+     "t": "v.",
+     "z": "回答，解答（此处作动词）"
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "zh": "“你……想知道……什么？”",
+   "notes": [
+    "<code>What did you want to know?</code> 用 <code>did... want</code> 指对方此刻提出问题的意图，中文无须译出时态差别，重在把那断续的节奏留住。",
+    "格莱夫的话总被省略号切成碎片，甚至连一个完整的 <code>What... did you want... to know?</code> 都要断开两次，这是作者刻画它非人语感的固定手法。"
+   ],
+   "vocab": [
+    {
+     "w": "want",
+     "p": "/wɒnt/",
+     "t": "v.",
+     "z": "想要，打算"
+    },
+    {
+     "w": "know",
+     "p": "/nəʊ/",
+     "t": "v.",
+     "z": "知道，了解"
+    }
+   ]
+  },
+  {
+   "i": 14,
+   "zh": "“说说你自己吧。你是怎么落到这步田地的？”",
+   "notes": [
+    "<code>Tell me of yourself</code> 等于 <code>Tell me about yourself</code>，<code>of</code> 在这里与 <code>about</code> 同义，但更书面、更有旧体叙事的味道。",
+    "<code>How did you come to be in this situation?</code> 中 <code>come to be</code> 意为“结果变成、落到（某种境地）”，<code>come to do sth.</code> 常用来叙述事情的最终结果；<code>this situation</code> 指它被封入石脸的处境。"
+   ],
+   "vocab": [
+    {
+     "w": "Tell me of yourself",
+     "p": "",
+     "t": "phr.",
+     "z": "说说你自己吧（= Tell me about yourself）"
+    },
+    {
+     "w": "come to be",
+     "p": "",
+     "t": "phr.",
+     "z": "最终变成，落到（某种境地）"
+    },
+    {
+     "w": "situation",
+     "p": "/ˌsɪtʃuˈeɪʃn/",
+     "t": "n.",
+     "z": "处境，情况"
+    }
+   ]
+  },
+  {
+   "i": 15,
+   "zh": "“我从前……是下城区我那一族人……敬重的首领。有个小领主……想拿我的人……我的朋友……我的亲人……做垫脚石，扩张他的势力……我和朋友们便站出来……反对他。”",
+   "notes": [
+    "<code>at the expense of</code> 意为“以……为代价、靠牺牲……”，此处指那个小领主是靠损害格莱夫的族人往上爬的。",
+    "<code>my people... my friends... my relatives...</code> 是三项并列的层进，格莱夫说到“我的人、我的朋友、我的亲人”时逐一停顿，情感也层层加重；译文保留每一处停顿。",
+    "<code>a respected leader of my community</code> 是“同位语＋后置定语”结构，<code>respected</code> 为过去分词作定语，表被动“受人敬重的”。"
+   ],
+   "vocab": [
+    {
+     "w": "respected",
+     "p": "/rɪˈspektɪd/",
+     "t": "adj.",
+     "z": "受人敬重的（过去分词作定语）"
+    },
+    {
+     "w": "Lower Ward",
+     "p": "",
+     "t": "n.",
+     "z": "下城区；印记城的城区之一（Ward 指城区）"
+    },
+    {
+     "w": "petty lord",
+     "p": "",
+     "t": "n.",
+     "z": "小领主，小贵族（petty 表“微不足道的”）"
+    },
+    {
+     "w": "at the expense of",
+     "p": "",
+     "t": "phr.",
+     "z": "以……为代价，靠牺牲……"
+    },
+    {
+     "w": "relatives",
+     "p": "/ˈrelətɪvz/",
+     "t": "n.",
+     "z": "亲属，亲戚（relative 的复数）"
+    }
+   ]
+  },
+  {
+   "i": 16,
+   "zh": "“后来……他把我们一个一个……抓了去……把我们的魂魄和知觉……封进这些尖叫的面孔里……就在深沟底下……印记城所有的污秽……最后都流到那里。再后来……他让上面那些脏水……灌进我们的嘴……我们的鼻子……我们的眼睛。”我替格莱夫难过。被遗忘，孤零零一个，注定要永无止境地活着。我的提议脱口而出。",
+   "notes": [
+    "<code>he let the polluted waters above flow</code> 用 <code>let + 宾语 + 动词原形</code>（不加 to）表“任由／让……流动”，是使役动词的典型用法。",
+    "<code>one by one</code> 意为“一个接一个地”，强调逐一、无处可逃；<code>under the Ditch</code> 的 <code>Ditch</code> 指印记城地下的污秽深沟，此处按地名处理。",
+    "<code>Forgotten, alone, doomed to unending existence</code> 是三个过去分词／形容词短语并列作补语，无主语无谓语，模仿的是叙述者心里闪过的断片式判断，末句 <code>My offer came readily.</code> 中 <code>readily</code> 意为“毫不迟疑地、自然而然”。"
+   ],
+   "vocab": [
+    {
+     "w": "captured",
+     "p": "/ˈkæptʃərd/",
+     "t": "v.",
+     "z": "俘获，抓住（capture 的过去式）"
+    },
+    {
+     "w": "bound",
+     "p": "/baʊnd/",
+     "t": "v.",
+     "z": "把……束缚住（bind 的过去式与过去分词）"
+    },
+    {
+     "w": "filth",
+     "p": "/fɪlθ/",
+     "t": "n.",
+     "z": "污秽，污物"
+    },
+    {
+     "w": "doomed",
+     "p": "/duːmd/",
+     "t": "adj.",
+     "z": "注定（遭殃）的；<code>be doomed to sth.</code> 即“注定……”"
+    },
+    {
+     "w": "unending",
+     "p": "/ʌnˈendɪŋ/",
+     "t": "adj.",
+     "z": "无休止的，永不完结的"
+    }
+   ]
+  },
+  {
+   "i": 17,
+   "zh": "“我能帮上什么忙吗？”",
+   "notes": [
+    "<code>Is there anything I can do to help?</code> 用 <code>there be</code> 句型加定语从句 <code>I can do</code> 提出主动帮忙，是英语里最常用的礼貌问法；<code>to help</code> 为目的状语。"
+   ],
+   "vocab": [
+    {
+     "w": "Is there anything",
+     "p": "",
+     "t": "phr.",
+     "z": "有没有什么……（<code>there be</code> 疑问句）"
+    },
+    {
+     "w": "can do",
+     "p": "",
+     "t": "phr.",
+     "z": "能做；情态动词 can 表能力"
+    },
+    {
+     "w": "help",
+     "p": "/help/",
+     "t": "v.",
+     "z": "帮助"
+    }
+   ]
+  },
+  {
+   "i": 18,
+   "zh": "“我受了诅咒……要留在这里，直到……清水流过我的嘴唇……溺沉国度里……有一只……装着水的魔法瓶子。把它带来给我……让我尝上一口……我就告诉你……有个人……能帮你解开……它全部的潜力……而你就再也……不会缺水了。”",
+   "notes": [
+    "<code>until fresh water passes my lips</code> 中 <code>pass</code> 意为“流过、经过”，<code>until</code> 引导时间状语从句，说明诅咒解除的条件。",
+    "<code>I shall tell you of someone who can help you unlock its full potential</code> 用 <code>shall</code> 而非 <code>will</code>，带承诺与预言色彩；<code>unlock the full potential of sth.</code> 是固定说法，意为“发挥／解开某物的全部潜力”。",
+    "<code>you shall never lack for water again</code> 中 <code>lack for</code> 意为“缺少、匮乏”，比单用 <code>lack</code> 更强调“缺到不足”的处境；注意弗莱尔此处说“Drowned Nations（溺沉国度）”，与后文提到的亡者国度（Dead Nations）所指的亡者之地很可能是同一处的另一种叫法，译名暂作区分以存其疑。"
+   ],
+   "vocab": [
+    {
+     "w": "cursed",
+     "p": "/kɜːrst/",
+     "t": "adj.",
+     "z": "受诅咒的（cursed to do sth. 注定要做某事）"
+    },
+    {
+     "w": "flask",
+     "p": "/flɑːsk/",
+     "t": "n.",
+     "z": "小瓶，细颈瓶（常指装水或酒用的随身瓶）"
+    },
+    {
+     "w": "Drowned Nations",
+     "p": "",
+     "t": "n.",
+     "z": "溺沉国度；格莱夫所说藏有魔法水瓶的亡者之地"
+    },
+    {
+     "w": "unlock",
+     "p": "/ʌnˈlɒk/",
+     "t": "v.",
+     "z": "开启，解开（锁、潜力等）"
+    },
+    {
+     "w": "lack for",
+     "p": "",
+     "t": "phr.",
+     "z": "缺少，匮乏（lack for sth.）"
+    }
+   ]
+  },
+  {
+   "i": 19,
+   "zh": "“要么穿过亡者国度……那里亡者在行走……还统治着一切……要么穿过思维之窟……那里由众体如一说了算……哪一条路都少不了……风险。”我明白他指的是亡者统治的一片地方，就像我们先前撞见的那些食尸鬼，或者是我以为由颅骨鼠盘踞的一片区域。",
+   "notes": [
+    "<code>where the dead walk... and rule</code> 与 <code>where Many-as-One holds sway</code> 都是 <code>where</code> 引导的定语从句，分别修饰两个地名；<code>hold sway</code> 是固定搭配，意为“占统治地位、说了算”。",
+    "<code>Neither is without its risks.</code> 是双重否定的雅致说法，等于 <code>Both are risky.</code>“哪一条都免不了风险”，比直说更有分寸。",
+    "末句 <code>I understood him to be referring to...</code> 用的是 <code>understand sb. to be doing sth.</code>（认为某人所指的是……）；<code>a region I took to be dominated by cranium rats</code> 中 <code>I took to be...</code> 是省略了关系代词的定语从句，<code>take sb./sth. to be</code> 意为“以为、认定……是”。"
+   ],
+   "vocab": [
+    {
+     "w": "holds sway",
+     "p": "",
+     "t": "phr.",
+     "z": "占统治地位，说了算（hold sway over...）"
+    },
+    {
+     "w": "Warrens",
+     "p": "/ˈwɒrənz/",
+     "t": "n.",
+     "z": "窟，迷宫般的巷道群（本义指养兔场、拥挤的里巷）"
+    },
+    {
+     "w": "Neither",
+     "p": "/ˈniːðər/",
+     "t": "pron.",
+     "z": "两者都不（与单数动词连用）"
+    },
+    {
+     "w": "risks",
+     "p": "/rɪsks/",
+     "t": "n.",
+     "z": "风险，危险（risk 的复数）"
+    },
+    {
+     "w": "dominated",
+     "p": "/ˈdɒmɪneɪtɪd/",
+     "t": "v.",
+     "z": "支配，占据主导（dominate 的过去分词）"
+    }
+   ]
+  },
+  {
+   "i": 20,
+   "zh": "“关于我们四周这片地下墓穴，你能告诉我些什么？”",
+   "notes": [
+    "<code>What can you tell me of...?</code> 与 <code>tell me about...</code> 同义，<code>of</code> 更书面；<code>the catacombs around us</code> 指他们此刻所在的这一片墓道。"
+   ],
+   "vocab": [
+    {
+     "w": "What can you tell me of",
+     "p": "",
+     "t": "phr.",
+     "z": "关于……你能告诉我什么"
+    },
+    {
+     "w": "around us",
+     "p": "",
+     "t": "phr.",
+     "z": "我们四周的，附近的"
+    },
+    {
+     "w": "catacombs",
+     "p": "/ˈkætəkuːmz/",
+     "t": "n.",
+     "z": "地下墓穴（catacomb 的复数）"
+    }
+   ]
+  },
+  {
+   "i": 21,
+   "zh": "“这地下墓穴是……万古之前凿出来的……用来安置城中那些死者……他们不愿领受尘人……那套温柔的照管。后来这里就成了……城里的弃物场……住着一些几乎见不到的怪物……人类则像……食腐者中的食腐者一样在此游荡。众体如一在这些甬道里巡行……把许多东西都扭得……违背了它们的天性。亡者国度……同样在巡行……防备着……那些混进他们当中的……人类的劫掠。”",
+   "notes": [
+    "<code>The catacombs were carved... to house the dead</code> 用被动语态加不定式 <code>to house</code> 表目的，即“凿出来是为了安置……”；<code>house</code> 此处作动词，意为“容纳、供……居住”。",
+    "<code>who did not wish the tender ministrations of the Dustmen</code> 中 <code>wish</code> 直接带名词宾语，意为“想要、希求”，比 <code>want</code> 更文气；<code>ministrations</code> 本指照料、服侍，用 <code>tender</code> 修饰，与尘人收尸的行当形成讥讽的反差。",
+    "<code>where dwell monsters barely seen</code> 是地点状语前置引起的完全倒装，正常语序为 <code>monsters barely seen dwell where</code>；<code>barely seen</code> 为过去分词短语作后置定语，“几乎不被人看见的”。"
+   ],
+   "vocab": [
+    {
+     "w": "carved",
+     "p": "/kɑːrvd/",
+     "t": "v.",
+     "z": "开凿，雕凿（carve 的过去分词）"
+    },
+    {
+     "w": "eons",
+     "p": "/ˈiːənz/",
+     "t": "n.",
+     "z": "万古，极漫长的年代（eon 的复数）"
+    },
+    {
+     "w": "refuse ground",
+     "p": "",
+     "t": "n.",
+     "z": "弃物场，垃圾堆；<code>refuse</code> 读 /ˈrefjuːs/ 时意为“废物”"
+    },
+    {
+     "w": "prowl",
+     "p": "/praʊl/",
+     "t": "v.",
+     "z": "潜行，游荡觅食"
+    },
+    {
+     "w": "depredations",
+     "p": "/ˌdeprəˈdeɪʃnz/",
+     "t": "n.",
+     "z": "劫掠，破坏（depredation 的复数，多作书面语）"
+    }
+   ]
+  },
+  {
+   "i": 22,
+   "zh": "我们把那张石脸抛在身后，继续往前。这条甬道尽头的墓室里除了陷阱没别的什么，于是我们原路退回，另找了一条路。又一座满是陷阱的墓室，但在一具法罗德的拾荒者尸体上，有件意料之外的东西正等着我。",
+   "notes": [
+    "<code>contained little other than traps</code> 中 <code>other than</code> 意为“除……之外”，<code>little other than</code> 即“除了陷阱几乎没有别的”，是含蓄的说法。",
+    "<code>a surprise was awaiting me on the body of...</code> 用过去进行时 <code>was awaiting</code> 造成悬念，把“惊喜”悬在半空不点明；<code>on the body of</code> 意为“在某人的尸体上”。",
+    "<code>Pharod’s scavengers</code> 中的 <code>Pharod’s</code> 原文用弯撇号（U+2019），表示“法罗德的”；<code>scavenger</code> 指靠翻捡死人遗物为生的拾荒者。"
+   ],
+   "vocab": [
+    {
+     "w": "backtracked",
+     "p": "/ˈbæktrækt/",
+     "t": "v.",
+     "z": "原路返回（backtrack 的过去式）"
+    },
+    {
+     "w": "traps",
+     "p": "/træps/",
+     "t": "n.",
+     "z": "陷阱（trap 的复数）"
+    },
+    {
+     "w": "scavengers",
+     "p": "/ˈskævɪndʒərz/",
+     "t": "n.",
+     "z": "拾荒者，食腐者（scavenger 的复数）"
+    },
+    {
+     "w": "Pharod’s",
+     "p": "",
+     "t": "n.",
+     "z": "法罗德的（所有格，原文用弯撇号 ’）"
+    },
+    {
+     "w": "awaiting",
+     "p": "/əˈweɪtɪŋ/",
+     "t": "v.",
+     "z": "等待着（await 的现在分词）"
+    }
+   ]
+  }
+ ]
+}

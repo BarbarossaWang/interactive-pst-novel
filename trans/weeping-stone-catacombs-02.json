@@ -1,0 +1,777 @@
+{
+ "chapter": "Weeping Stone Catacombs",
+ "chunk": "weeping-stone-catacombs-02",
+ "items": [
+  {
+   "i": 23,
+   "zh": "是一条手臂……一条被斩断的手臂……硬得像根木棒。它看起来是在肩头被齐齐切断的（多半是镰刀一类的东西砍的），而且尽管看上去已有几十年之久，它却与其说是腐烂，不如说是石化了。它的肤色是一种不健康的灰败，上面布满了伤疤。表面还刺着繁复的纹身，从手腕一路盘旋而上，直到残存的肩头。",
+   "notes": [
+    "<code>more petrified than rotted</code> 是 <code>more A than B</code> 结构，意为“与其说是 B，不如说是 A”，后文还有 <code>more … than</code> 的同型比较值得留意。",
+    "<code>It was an arm…a severed arm…</code> 连续用破折号式的停顿把句子切碎，模仿无名氏认出手臂时那种迟疑、断续的语感；译文保留省略号，不合并成一句。",
+    "<code>spiraling up from the wrist all the way to …</code> 中 <code>all the way to</code> 强调“一路到底、径直延伸到”，把纹身盘绕而上的动势写了出来。"
+   ],
+   "vocab": [
+    {
+     "w": "severed",
+     "p": "/ˈsevəd/",
+     "t": "adj.",
+     "z": "被切断的（sever 的过去分词作形容词）"
+    },
+    {
+     "w": "cleanly",
+     "p": "/ˈkliːnli/",
+     "t": "adv.",
+     "z": "利落地，齐整地（切口平整、不拖泥带水）"
+    },
+    {
+     "w": "petrified",
+     "p": "/ˈpetrɪfaɪd/",
+     "t": "adj.",
+     "z": "石化的，变成石头的"
+    },
+    {
+     "w": "pallor",
+     "p": "/ˈpælə/",
+     "t": "n.",
+     "z": "（面色、肤色的）苍白，灰白"
+    },
+    {
+     "w": "spiraling",
+     "p": "/ˈspaɪərəlɪŋ/",
+     "t": "v.",
+     "z": "盘旋而上（spiral 的现在分词，写纹身的走向）"
+    }
+   ]
+  },
+  {
+   "i": 24,
+   "zh": "再凑近细看，我确凿无疑地知道：这条手臂是我的。它躺在这里等了我多久，谁也说不清。",
+   "notes": [
+    "<code>I knew for a fact that …</code> 中 <code>for a fact</code> 是固定搭配，表示“确凿地、千真万确地”，不是“为了事实”，译作“确凿无疑”最稳。",
+    "<code>How long it had been lying around waiting for me was anyone’s guess.</code> 是主语从句作主语，<code>anyone’s guess</code> 意为“谁也猜不准”；<code>lying around</code> 指“闲置地丢在那儿、一直搁着”。"
+   ],
+   "vocab": [
+    {
+     "w": "for a fact",
+     "p": "",
+     "t": "phr.",
+     "z": "确凿地，千真万确（know sth. for a fact＝确知某事）"
+    },
+    {
+     "w": "lying around",
+     "p": "",
+     "t": "phr.",
+     "z": "闲置地搁着，丢在一边"
+    },
+    {
+     "w": "anyone’s guess",
+     "p": "",
+     "t": "phr.",
+     "z": "谁也说不准的事（口语固定说法）"
+    }
+   ]
+  },
+  {
+   "i": 25,
+   "zh": "我想起巴克斯——冒烟的尸体那家酒馆的酒保——提过酒吧附近有家纹身铺子。他说那店主专做特殊的纹身。他也许知道这条手臂上的纹身是怎么回事，甚至这纹身就是出自他手。我觉得这事重要得足以把法罗德的搜寻打断一阵子。",
+   "notes": [
+    "<code>Barkis, barkeep at the Smoldering Corpse</code> 是同位语，用来说明巴克斯的身份；中文改用破折号夹注，避免主句被定语从句拖长。",
+    "<code>dealt in special tattoos</code> 中 <code>deal in</code> 是“经营、做……的买卖”，专指做某类货物生意；<code>special</code> 在此不是“特别的好”，而是“非同寻常、有门道的”。",
+    "<code>I thought it was important enough to interrupt …</code> 用 <code>adj. + enough to do</code> 表示“重要到足以做某事”，语气上是无名氏简短、务实的判断。"
+   ],
+   "vocab": [
+    {
+     "w": "barkeep",
+     "p": "/ˈbɑːkiːp/",
+     "t": "n.",
+     "z": "酒保，酒吧老板（口语，barkeeper 的缩略）"
+    },
+    {
+     "w": "tattoo parlor",
+     "p": "",
+     "t": "n.",
+     "z": "纹身店（parlor 指做某种手艺或服务的小店面）"
+    },
+    {
+     "w": "proprietor",
+     "p": "/prəˈpraɪətə/",
+     "t": "n.",
+     "z": "店主，老板（比 owner 更书面）"
+    },
+    {
+     "w": "dealt in",
+     "p": "",
+     "t": "phr.",
+     "z": "经营，做……生意（deal in sth.）"
+    },
+    {
+     "w": "interrupt",
+     "p": "/ˌɪntəˈrʌpt/",
+     "t": "v.",
+     "z": "打断，中断（此处指暂时搁下法罗德的搜寻）"
+    }
+   ]
+  },
+  {
+   "i": 26,
+   "zh": "那家纹身铺并不难找，几乎就在酒吧隔壁。我一个人走了进去。记忆统共只有几天那么长，我已经学会了提防。我说不准自己是否信得过莫提；而且如果我要弄清更多关于自己过去的事，我想先决定哪些该告诉同伴。",
+   "notes": [
+    "<code>practically next to the bar</code> 中 <code>practically</code> 不作“实际上”，而是口语里的“几乎、差不多”。",
+    "<code>Memories stretching over only a few days, and already I had learned caution.</code> 前半是独立主格式的短语，后半用 <code>and already</code> 突然转接，构成“才……就已经……”的反差；译文用“统共只有……已经……”保留这种简洁的自嘲。",
+    "<code>I wasn’t sure I trusted Morte</code> 用否定前移的委婉说法，等于 <code>I wasn’t sure that I trusted him</code>，语气比直说“我不信他”软，译为“说不准是否信得过”正合适。"
+   ],
+   "vocab": [
+    {
+     "w": "practically",
+     "p": "/ˈpræktɪkli/",
+     "t": "adv.",
+     "z": "几乎，差不多（口语用法）"
+    },
+    {
+     "w": "caution",
+     "p": "/ˈkɔːʃn/",
+     "t": "n.",
+     "z": "谨慎，提防"
+    },
+    {
+     "w": "companions",
+     "p": "/kəmˈpænjənz/",
+     "t": "n.",
+     "z": "同伴，同行者（companion 的复数，此处指莫提等旅伴）"
+    },
+    {
+     "w": "trusted",
+     "p": "/ˈtrʌstɪd/",
+     "t": "v.",
+     "z": "信任（trust 的过去式）"
+    }
+   ]
+  },
+  {
+   "i": 27,
+   "zh": "我一进去，就看见一个高大的生物，顶着一头蓬乱的白发。它的皮肤泛着绿意，额头前突出一对山羊角，身上裹着飘垂的长袍。我意识到自己看到的是一只达布斯——尽管这是头一回见到不飘浮着的达布斯。",
+   "notes": [
+    "<code>a shock of white hair</code> 是固定搭配，<code>a shock of hair</code> 指“一头蓬乱浓密的头发”，不能照字面译成“一震惊的头发”。",
+    "<code>a greenish cast</code> 中 <code>cast</code> 指“色调、色调的偏向”，即皮肤带一层绿。",
+    "<code>although this was the first one I had seen which wasn’t floating</code> 是定语从句套在 <code>the first one</code> 之后；达布斯在城中向来飘浮而行，所以“不飘浮”才是异常之处。"
+   ],
+   "vocab": [
+    {
+     "w": "creature",
+     "p": "/ˈkriːtʃə/",
+     "t": "n.",
+     "z": "生物，家伙（此处指非人的异界种族）"
+    },
+    {
+     "w": "a shock of",
+     "p": "",
+     "t": "phr.",
+     "z": "一头（蓬乱浓密的毛发）"
+    },
+    {
+     "w": "cast",
+     "p": "/kɑːst/",
+     "t": "n.",
+     "z": "色调，色泽的偏向（a greenish cast＝泛着一层绿）"
+    },
+    {
+     "w": "protruded",
+     "p": "/prəˈtruːdɪd/",
+     "t": "v.",
+     "z": "突出，伸出（protrude 的过去式）"
+    },
+    {
+     "w": "flowing robes",
+     "p": "",
+     "t": "n.",
+     "z": "飘垂的长袍（flowing 形容布料宽松飘动）"
+    }
+   ]
+  },
+  {
+   "i": 28,
+   "zh": "我向他打了个招呼。那只达布斯耐心地等着，双手拢在袖子里。一串符号在它头顶成形，随即消散，接着冒出一个问号。我明白了：它是在用象征性的图画说话，用的是画谜。",
+   "notes": [
+    "<code>its hands tucked into its sleeves</code> 是独立主格结构（名词＋过去分词），表示伴随状态，“双手拢在袖中”是静态的等待姿态。",
+    "<code>A series of symbols materialized …, then dissipated and a question mark appeared.</code> 用三个并列动词串起符号的生灭过程；<code>and</code> 前后其实是两个独立分句，原文用逗号硬接，是口语式的松散写法。",
+    "<code>rebuses</code> 是 <code>rebus</code> 的复数，指“以图画、符号组合表意的画谜”；达布斯的语言就是这种由符号构成的图画文字。"
+   ],
+   "vocab": [
+    {
+     "w": "greeted",
+     "p": "/ˈɡriːtɪd/",
+     "t": "v.",
+     "z": "问候，打招呼（greet 的过去式）"
+    },
+    {
+     "w": "patiently",
+     "p": "/ˈpeɪʃntli/",
+     "t": "adv.",
+     "z": "耐心地"
+    },
+    {
+     "w": "tucked",
+     "p": "/tʌkt/",
+     "t": "v.",
+     "z": "塞进，拢进（tuck 的过去分词）"
+    },
+    {
+     "w": "materialized",
+     "p": "/məˈtɪəriəlaɪzd/",
+     "t": "v.",
+     "z": "显现，成形（materialize 的过去式；此指符号凭空出现）"
+    },
+    {
+     "w": "rebuses",
+     "p": "/ˈriːbəsɪz/",
+     "t": "n.",
+     "z": "画谜，符号谜语（rebus 的复数；以图形组合表意）"
+    }
+   ]
+  },
+  {
+   "i": 29,
+   "zh": "我问了那只达布斯几个问题，想摸清它头顶那些画谜的路数。在我这场“交谈”里，它始终极有耐心，专挑简单的句子让我翻。几分钟后，我渐渐上了手……那感觉像是以前做过这件事。",
+   "notes": [
+    "<code>trying to get a feel for …</code> 是固定搭配，<code>get a feel for sth.</code> 意为“逐渐摸清、熟悉某事物的门道”，不是“去感受一下”。",
+    "<code>It was extremely patient throughout my ‘discussion,’</code> 把 discussion 加上引号，暗示这根本算不上交谈——无名氏只是对着符号自问自答。",
+    "<code>I started to get the hang of it</code> 中 <code>get the hang of sth.</code> 是口语固定短语“掌握窍门、上手”；句末省略号后接 <code>it felt like I had done this before</code>，为下文“我早已认识费尔”埋下伏笔。"
+   ],
+   "vocab": [
+    {
+     "w": "get a feel for",
+     "p": "",
+     "t": "phr.",
+     "z": "摸清门道，逐渐熟悉"
+    },
+    {
+     "w": "patient",
+     "p": "/ˈpeɪʃnt/",
+     "t": "adj.",
+     "z": "耐心的"
+    },
+    {
+     "w": "translate",
+     "p": "/trænzˈleɪt/",
+     "t": "v.",
+     "z": "翻译；（此处指把符号解读成意思）"
+    },
+    {
+     "w": "get the hang of",
+     "p": "",
+     "t": "phr.",
+     "z": "掌握窍门，上手（口语）"
+    }
+   ]
+  },
+  {
+   "i": 30,
+   "zh": "我正要问他的名字，却猛然发觉自己已经知道这只达布斯叫什么了——他叫“费尔”。仿佛是在回应我，那只达布斯微微偏了偏头，头顶浮出一个孤零零的符号。它起初还是模糊的，随后凝定下来，化作一个白椭圆，中间穿过一道黑色的闪电。",
+   "notes": [
+    "<code>I was about to ask …, but I suddenly realized …</code> 用 <code>be about to do</code>（正要做某事）加转折 <code>but</code>，把话到嘴边又咽回去的瞬间写得很紧。",
+    "<code>As if in response</code> 是省略式省略句，完整为 <code>As if [he were doing so] in response</code>，表示“仿佛在回应我”，译时补出“回应我”即可。",
+    "<code>resolved into a white oval</code> 中 <code>resolve into</code> 意为“（由模糊）渐渐变为、化成”；<code>a black lightning bolt through it</code> 是后置修饰，指闪电横贯椭圆。"
+   ],
+   "vocab": [
+    {
+     "w": "inclined",
+     "p": "/ɪnˈklaɪnd/",
+     "t": "v.",
+     "z": "（微微）低下，倾斜（incline 的过去式；incline one’s head＝点头）"
+    },
+    {
+     "w": "lone",
+     "p": "/ləʊn/",
+     "t": "adj.",
+     "z": "孤零零的，单独的（书面语，比 single 更有孤寂感）"
+    },
+    {
+     "w": "blurry",
+     "p": "/ˈblɜːri/",
+     "t": "adj.",
+     "z": "模糊的，看不清楚的"
+    },
+    {
+     "w": "resolved into",
+     "p": "",
+     "t": "phr.",
+     "z": "渐渐化为，凝定成（由模糊转为清晰）"
+    },
+    {
+     "w": "lightning bolt",
+     "p": "",
+     "t": "n.",
+     "z": "闪电，一道闪电"
+    }
+   ]
+  },
+  {
+   "i": 31,
+   "zh": "“我觉得我认识你，费尔。”费尔恭敬地鞠了一躬，一串符号在他头顶打转，先顺时针转，又逆时针转。我花了一会儿工夫才翻出来。",
+   "notes": [
+    "<code>Fell bowed reverently</code> 中 <code>reverently</code> 意为“恭敬地、带着敬意地”，写达布斯对无名氏的反常恭敬，值得留意。",
+    "<code>a stream of symbols swirled about his head, rotating clockwise, then counterclockwise</code> 用两个分词短语补充说明符号的运动方式；<code>clockwise / counterclockwise</code> 是成对的副词“顺时针／逆时针”。",
+    "<code>It took me a moment to translate.</code> 是 <code>It takes sb. + 时间 + to do</code> 句型，<code>a moment</code> 表示“一小会儿”，语气轻描淡写。"
+   ],
+   "vocab": [
+    {
+     "w": "reverently",
+     "p": "/ˈrevərəntli/",
+     "t": "adv.",
+     "z": "恭敬地，虔诚地"
+    },
+    {
+     "w": "bowed",
+     "p": "/baʊd/",
+     "t": "v.",
+     "z": "鞠躬（bow 的过去式）"
+    },
+    {
+     "w": "swirled",
+     "p": "/swɜːld/",
+     "t": "v.",
+     "z": "打旋，回旋（swirl 的过去式）"
+    },
+    {
+     "w": "clockwise",
+     "p": "/ˈklɒkwaɪz/",
+     "t": "adv.",
+     "z": "顺时针方向地"
+    },
+    {
+     "w": "counterclockwise",
+     "p": "/ˌkaʊntəˈklɒkwaɪz/",
+     "t": "adv.",
+     "z": "逆时针方向地"
+    }
+   ]
+  },
+  {
+   "i": 32,
+   "zh": "（这是你第一次来到此地，也不是第一次。）",
+   "notes": [
+    "括号内的句子是达布斯的符号被“翻”出来的内容，本章一律用圆括号标示，与无名氏开口说的话（引号）区分开。",
+    "<code>the first time and not the first time</code> 用并列结构制造悖论：既是初次，又非初次，呼应无名氏一次次死去又重生的宿命；译文保持“第一次……也不是第一次”的对举，不加解释。"
+   ],
+   "vocab": [
+    {
+     "w": "the first time",
+     "p": "",
+     "t": "phr.",
+     "z": "第一次（此处与 not 并用，构成矛盾说法）"
+    },
+    {
+     "w": "come to this place",
+     "p": "",
+     "t": "phr.",
+     "z": "来到此地（come to a place＝到某处来）"
+    }
+   ]
+  },
+  {
+   "i": 33,
+   "zh": "我问它是否知道我是谁。又一串符号迅速在费尔头顶成形，骤然清晰起来。译文也来得同样迅速、同样清晰，就像那些符号一样……仿佛这同一串话我早已翻过许多遍。",
+   "notes": [
+    "<code>materialized quickly and sharply into focus</code> 把 <code>sharply</code>（锐利地）与 <code>into focus</code>（进入清晰的对焦状态）连用，写符号由虚变实的瞬间。",
+    "<code>The translation came to me just as quickly and sharply as the symbols themselves</code> 是 <code>as + adv. + as</code> 的同级比较，比较对象是符号本身，即“译文来得跟符号一样快、一样锐利”。",
+    "<code>as if I had translated the exact same string many times before</code> 用过去完成时加 <code>before</code>，指向更早的、反复发生的经历；<code>string</code> 在此指“（符号）串”。"
+   ],
+   "vocab": [
+    {
+     "w": "sharply",
+     "p": "/ˈʃɑːpli/",
+     "t": "adv.",
+     "z": "锐利地，鲜明地（此处指符号轮廓突然清晰）"
+    },
+    {
+     "w": "into focus",
+     "p": "",
+     "t": "phr.",
+     "z": "进入清晰状态，对上焦（come into focus＝变清晰）"
+    },
+    {
+     "w": "translation",
+     "p": "/trænzˈleɪʃn/",
+     "t": "n.",
+     "z": "译文，翻译；此处指无名氏脑中译出的意思"
+    },
+    {
+     "w": "string",
+     "p": "/strɪŋ/",
+     "t": "n.",
+     "z": "一串，一连串（a string of＝一连串的）"
+    }
+   ]
+  },
+  {
+   "i": 34,
+   "zh": "（知道。但我不能讲述你的故事。）",
+   "notes": [
+    "达布斯答话极简，先一个 <code>Yes</code> 单独成句，再用 <code>But</code> 转折，读起来断续、生硬，正合它非人的表达方式；译文照此保留短句切分。",
+    "<code>I am not permitted to tell your story</code> 用被动语态 <code>be permitted to do</code>（获准做某事），刻意不提是谁不许可，暗示背后另有更高的约束。"
+   ],
+   "vocab": [
+    {
+     "w": "permitted",
+     "p": "/pəˈmɪtɪd/",
+     "t": "v.",
+     "z": "被允许（permit 的过去分词；be permitted to do＝获准做某事）"
+    },
+    {
+     "w": "tell your story",
+     "p": "",
+     "t": "phr.",
+     "z": "讲述你的故事（tell a story＝讲故事、叙述经过）"
+    }
+   ]
+  },
+  {
+   "i": 35,
+   "zh": "好极了。我问为什么不行。费尔有一瞬没有回应，随后一串画谜浮现出来，仿佛是费尔脑子里一点一点渗出来的。",
+   "notes": [
+    "<code>Great.</code> 单独成句，是反语式的敷衍，等于中文的“好极了”“真行”——无名氏并不觉得好；译文用句号断开以保留这股闷闷的讽刺。",
+    "<code>as if trickling out of Fell’s mind</code> 中 <code>trickle out of</code> 本指液体“一滴一滴渗出”，此处比喻符号缓慢、零散地冒出来，呼应它不情愿作答。",
+    "<code>For a moment, there was no response from Fell</code> 是 there be 句型的否定式，用 <code>For a moment</code> 限定沉默的时长，节奏上先静后动。"
+   ],
+   "vocab": [
+    {
+     "w": "Great",
+     "p": "/ɡreɪt/",
+     "t": "int.",
+     "z": "（反语）好极了，真棒（表示无奈、讽刺）"
+    },
+    {
+     "w": "why not",
+     "p": "",
+     "t": "phr.",
+     "z": "为什么不（此处是问“为什么不行”）"
+    },
+    {
+     "w": "trickling",
+     "p": "/ˈtrɪklɪŋ/",
+     "t": "v.",
+     "z": "滴流，细细渗出（trickle 的现在分词）"
+    },
+    {
+     "w": "stream",
+     "p": "/striːm/",
+     "t": "n.",
+     "z": "一串，一股（a stream of＝一连串的；也指水流）"
+    }
+   ]
+  },
+  {
+   "i": 36,
+   "zh": "（我道歉，我不能。我不能改变一个人的本性。）我说不清为什么，可最后那句话让我头皮一阵发麻。",
+   "notes": [
+    "<code>I cannot change the nature of a man.</code> 中 <code>the nature of a man</code> 指“一个人的本性、天性”；这句正是游戏主线反复回响的关键台词，译文保持朴素直译。",
+    "<code>the last sentence sent a crawling sensation through my skull</code> 用 <code>send sth. through sth.</code>（把某物送过、传遍某处）搭配 <code>crawling sensation</code>（爬行的感觉），写出那种若有虫子爬过头骨的生理性战栗。",
+    "<code>I couldn’t explain why</code> 是省略 why 内容的宾语从句，等于“说不出原因”，语气短促，符合无名氏困惑的叙述口吻。"
+   ],
+   "vocab": [
+    {
+     "w": "apologies",
+     "p": "/əˈpɒlədʒiz/",
+     "t": "n.",
+     "z": "道歉（apology 的复数；My apologies.＝我道歉／恕我失礼）"
+    },
+    {
+     "w": "nature",
+     "p": "/ˈneɪtʃə/",
+     "t": "n.",
+     "z": "本性，天性（the nature of a man＝一个人的本性）"
+    },
+    {
+     "w": "crawling",
+     "p": "/ˈkrɔːlɪŋ/",
+     "t": "adj.",
+     "z": "爬行的，令人发麻的（a crawling sensation＝像有虫在爬的感觉）"
+    },
+    {
+     "w": "sensation",
+     "p": "/senˈseɪʃn/",
+     "t": "n.",
+     "z": "感觉，知觉"
+    },
+    {
+     "w": "skull",
+     "p": "/skʌl/",
+     "t": "n.",
+     "z": "头骨，脑袋"
+    }
+   ]
+  },
+  {
+   "i": 37,
+   "zh": "“‘一个人的本性？’那是什么意思？”费尔头顶浮现的符号几乎是把前一段照搬了一遍。",
+   "notes": [
+    "引号内套引号时，原文用单引号标出被引的短语 <code>‘Nature of a man?’</code>；中文改用双引号包整体、内层引号标引文，层级仍然清楚。",
+    "<code>almost mirrored the previous stream</code> 中 <code>mirror</code> 作动词指“照镜子般地对应、如出一辙”；<code>previous stream</code> 指 i=36 那段符号流，所以这里其实是费尔又答了一遍同样的话。"
+   ],
+   "vocab": [
+    {
+     "w": "mirrored",
+     "p": "/ˈmɪrəd/",
+     "t": "v.",
+     "z": "映照，如出一辙地重复（mirror 的过去式）"
+    },
+    {
+     "w": "previous",
+     "p": "/ˈpriːviəs/",
+     "t": "adj.",
+     "z": "前一个的，先前的"
+    },
+    {
+     "w": "symbols",
+     "p": "/ˈsɪmblz/",
+     "t": "n.",
+     "z": "符号（symbol 的复数；达布斯的语言单位）"
+    }
+   ]
+  },
+  {
+   "i": 38,
+   "zh": "（我道歉。我不能说。）——这事就这么算了。",
+   "notes": [
+    "括号内是达布斯的回答，破折号后转到无名氏的内心评语，译文用“——”分开，避免把两者混成一句。",
+    "<code>So much for that.</code> 是口语固定说法，意为“这事就到此为止了／白问了”，带无奈的收场感，不可直译为“关于那个有这么多”。"
+   ],
+   "vocab": [
+    {
+     "w": "cannot",
+     "p": "/ˈkænɒt/",
+     "t": "v.",
+     "z": "不能（can 的否定式，此处语气比 can’t 更硬）"
+    },
+    {
+     "w": "So much for that",
+     "p": "",
+     "t": "phr.",
+     "z": "（口语）那就到此为止吧，白搭了"
+    },
+    {
+     "w": "apologies",
+     "p": "/əˈpɒlədʒiz/",
+     "t": "n.",
+     "z": "道歉（My apologies.＝我道歉）"
+    }
+   ]
+  },
+  {
+   "i": 39,
+   "zh": "“这是什么地方？”一列符号缓缓在费尔头边成形……符号花了好一会儿才凝定，先只是些简单的线条，然后渐渐丰满起来，显出令人屏息的色彩。",
+   "notes": [
+    "<code>A slow train of symbols</code> 中 <code>train</code> 意为“一列、一连串”，比 <code>stream</code> 更强调排成队列、依次推进，故译“一列”。",
+    "<code>starting with simple lines, then fleshing themselves out into breath-taking colors</code> 是分词短语作补充说明；<code>flesh out</code> 是固定短语“使丰满、充实起来”，此处用其本义与比喻义的交叠——线条真的长出血肉与颜色。",
+    "<code>breath-taking</code> 意为“令人屏息的、美得惊人的”，这里是连字符复合形容词作定语。"
+   ],
+   "vocab": [
+    {
+     "w": "train",
+     "p": "/treɪn/",
+     "t": "n.",
+     "z": "一列，一连串（a train of＝一连串的）"
+    },
+    {
+     "w": "several",
+     "p": "/ˈsevrəl/",
+     "t": "adj.",
+     "z": "几个，好几个"
+    },
+    {
+     "w": "fleshing themselves out",
+     "p": "",
+     "t": "v.",
+     "z": "渐渐丰满充实起来（flesh out 的现在分词短语；此处兼指线条真的长出血肉）"
+    },
+    {
+     "w": "breath-taking",
+     "p": "/ˈbreθteɪkɪŋ/",
+     "t": "adj.",
+     "z": "令人屏息的，美得惊人的"
+    }
+   ]
+  },
+  {
+   "i": 40,
+   "zh": "（这里是我把颜色与生命刺上血肉和骨头的地方。）",
+   "notes": [
+    "<code>tattoo … upon …</code> 用 <code>upon</code> 而非 <code>on</code>，语感更庄重、更古老，与达布斯的身份相称，译文用“刺上”呼应这种仪式感。",
+    "<code>flesh and bone</code> 是英语里常见的对举短语，意为“血肉与骨骼”，即“活人的身体”；此处也暗指费尔的工作对象既包括活人，也包括无名氏这样的不死之躯。",
+    "<code>color and life upon flesh and bone</code> 把抽象的 <code>color and life</code> 与具体的材质并置，译文保留“颜色与生命”的顺序。"
+   ],
+   "vocab": [
+    {
+     "w": "tattoo",
+     "p": "/tæˈtuː/",
+     "t": "v.",
+     "z": "刺青，纹（在身上刺图案）"
+    },
+    {
+     "w": "flesh",
+     "p": "/fleʃ/",
+     "t": "n.",
+     "z": "血肉，肉体"
+    },
+    {
+     "w": "bone",
+     "p": "/bəʊn/",
+     "t": "n.",
+     "z": "骨头，骨骼"
+    },
+    {
+     "w": "upon",
+     "p": "/əˈpɒn/",
+     "t": "prep.",
+     "z": "在……之上（比 on 更书面、更庄重）"
+    }
+   ]
+  },
+  {
+   "i": 41,
+   "zh": "“我身上这些纹身，你能告诉我点什么吗？”费尔端详了我一阵，绕着我走动。它每审视一处，就把对应的符号映照一遍，然后回到我面前站定。",
+   "notes": [
+    "<code>Fell studied my body for a moment, walking around me.</code> 分词短语 <code>walking around me</code> 表伴随动作，先“打量”后“绕行”，动作层次不能颠倒。",
+    "<code>He mirrored each symbol as he examined it</code> 中 <code>as</code> 引导时间状语从句，表示“每……就……”。这里的 <code>mirror</code> 指它把每一处纹身的符号照原样复现出来。",
+    "<code>returned to face me</code> 意为“回到原处面对我”，<code>face</code> 在此是动词“面向”。"
+   ],
+   "vocab": [
+    {
+     "w": "studied",
+     "p": "/ˈstʌdid/",
+     "t": "v.",
+     "z": "端详，仔细察看（study 的过去式）"
+    },
+    {
+     "w": "examined",
+     "p": "/ɪɡˈzæmɪnd/",
+     "t": "v.",
+     "z": "检查，审视（examine 的过去式）"
+    },
+    {
+     "w": "mirrored",
+     "p": "/ˈmɪrəd/",
+     "t": "v.",
+     "z": "原样映出，复现（mirror 的过去式）"
+    },
+    {
+     "w": "face",
+     "p": "/feɪs/",
+     "t": "v.",
+     "z": "面向，朝着"
+    }
+   ]
+  },
+  {
+   "i": 42,
+   "zh": "（我认得它们。但没有一处出自我手。）我还是问他，能不能随便讲讲其中哪一处。费尔点了点头，符号像萤火虫一样在他四周浮现。",
+   "notes": [
+    "<code>None are by my hand.</code> 中 <code>by my hand</code> 是书面表达“出自我的手／由我所作”，<code>None</code> 作主语时后接复数动词 <code>are</code>，是较旧的用法，译作“没有一处出自我手”最贴。",
+    "<code>I asked if he could tell me about any of them anyway.</code> 中 <code>anyway</code> 意为“尽管如此、无论如何”，表示无名氏明知对方不便仍要追问。",
+    "<code>symbols appearing around him like fireflies</code> 是独立主格结构（名词＋现在分词），作伴随状语，画面感来自 <code>like fireflies</code> 这个明喻。"
+   ],
+   "vocab": [
+    {
+     "w": "by my hand",
+     "p": "",
+     "t": "phr.",
+     "z": "出自我的手，由我所作（书面固定表达）"
+    },
+    {
+     "w": "anyway",
+     "p": "/ˈeniweɪ/",
+     "t": "adv.",
+     "z": "尽管如此，无论如何（此处表退一步的追问）"
+    },
+    {
+     "w": "nodded",
+     "p": "/ˈnɒdɪd/",
+     "t": "v.",
+     "z": "点头（nod 的过去式）"
+    },
+    {
+     "w": "fireflies",
+     "p": "/ˈfaɪəflaɪz/",
+     "t": "n.",
+     "z": "萤火虫（firefly 的复数）"
+    }
+   ]
+  },
+  {
+   "i": 43,
+   "zh": "（你背上的那些，是那只谨慎的手刺下的，是给一颗会遗忘自己的心指路的说明。而你左肩上那个符号，是苦痛的印记。）",
+   "notes": [
+    "<code>scribed with a careful hand</code> 中 <code>scribe</code> 作动词是“书写、刻写”，比 write 更古雅；<code>with a careful hand</code> 意为“以谨慎的手笔”。",
+    "<code>directions for a mind that forgets itself</code> 中 <code>directions</code> 指“指引、路线说明”，不定式式的 <code>for</code> 短语表用途；<code>a mind that forgets itself</code>（会忘记自己的心智）正是无名氏失忆的写照，也是全章核心意象。",
+    "<code>the symbol that lies upon your left shoulder</code> 用 <code>lie upon</code>（位于……之上）而非 <code>is on</code>，语感更庄重；<code>the mark of torment</code> 是全章最重要的术语之一，译文作“苦痛的印记”。"
+   ],
+   "vocab": [
+    {
+     "w": "scribed",
+     "p": "/skraɪbd/",
+     "t": "v.",
+     "z": "书写，刻写（scribe 的过去分词，书面语）"
+    },
+    {
+     "w": "directions",
+     "p": "/dəˈrekʃnz/",
+     "t": "n.",
+     "z": "指路说明，指引（direction 的复数）"
+    },
+    {
+     "w": "forgets itself",
+     "p": "",
+     "t": "phr.",
+     "z": "忘记了自己（指失忆、遗忘了自身的心智）"
+    },
+    {
+     "w": "shoulder",
+     "p": "/ˈʃəʊldə/",
+     "t": "n.",
+     "z": "肩膀"
+    },
+    {
+     "w": "torment",
+     "p": "/ˈtɔːment/",
+     "t": "n.",
+     "z": "苦痛，折磨（此处为纹身之名，全章关键术语）"
+    }
+   ]
+  },
+  {
+   "i": 44,
+   "zh": "“苦痛？”那个符号变得锐利起来，生出边缘，刺得我眼睛发疼。",
+   "notes": [
+    "<code>The symbol sharpened, gaining edges …</code> 中 <code>gaining edges</code> 是现在分词短语作伴随状语，说明符号不只是变清晰，还长出了轮廓锋利的边。",
+    "<code>almost painful to my eyes</code> 是 <code>adj. + to + 名词</code> 结构，表示“对……来说几乎难以忍受”；<code>almost</code> 留住了那种将痛未痛的临界感，译文用“刺得我眼睛发疼”补出动作性。",
+    "原文用问号单独重述 <code>Torment?</code>，是简短的追问/确认；译文只把它译成一个词加问号，保留无名氏困惑、话少的口气。"
+   ],
+   "vocab": [
+    {
+     "w": "Torment",
+     "p": "/ˈtɔːment/",
+     "t": "n.",
+     "z": "苦痛，折磨（此处被单独重复，作追问）"
+    },
+    {
+     "w": "sharpened",
+     "p": "/ˈʃɑːpənd/",
+     "t": "v.",
+     "z": "变得锐利，变锋利（sharpen 的过去式）"
+    },
+    {
+     "w": "edges",
+     "p": "/edʒɪz/",
+     "t": "n.",
+     "z": "边缘，棱角（edge 的复数；此处指符号轮廓的锋边）"
+    },
+    {
+     "w": "painful",
+     "p": "/ˈpeɪnfl/",
+     "t": "adj.",
+     "z": "疼痛的，令人难受的"
+    }
+   ]
+  }
+ ]
+}

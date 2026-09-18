@@ -1,0 +1,326 @@
+{
+ "chapter": "Dead Nations",
+ "chunk": "dead-nations-01",
+ "items": [
+  {
+   "i": 1,
+   "zh": "又在客栈过了一夜，我们便折回埋骨村，下到地下墓穴。一边探路，我们一边开始撞上僵尸武士，还有骷髅武士的残骸——所谓骷髅武士，就是先干成了骨头、之后才当上武士的骷髅。我猜我们大概快走到那张石脸所说的‘亡者国度’了，于是继续往前推，心里清楚我们正踏进法罗德从没能插进去的地方。",
+   "notes": [
+    "<code>run into</code> 是“撞上、碰见”，比 <code>meet</code> 多一层“迎面碰上”的意外感；<code>bodies of skeletal warriors</code> 里的 <code>bodies</code> 在此不是“身体”而是“尸骸、残骸”。",
+    "<code>that is, skeletons who had become warriors only after they were dried bone</code>：<code>that is</code>（即、也就是说）引出同位语式的解释，把前面的 <code>skeletal warriors</code> 换成更好懂的说法；<code>they</code> 指那些骷髅，<code>dried bone</code> 是“干透的骨头”，用不可数名词直接作表语。",
+    "<code>the ‘Dead Nations’ the stone face had told us about</code> 是省略了关系代词 <code>which</code> 的定语从句，<code>tell sb about sth</code> 即“向某人讲起某事”；<code>hadn’t penetrated</code> 用过去完成时，强调在无名氏来之前法罗德的势力从未深入此处。"
+   ],
+   "vocab": [
+    {"w": "catacombs", "p": "/ˈkætəkuːmz/", "t": "n.", "z": "地下墓穴（catacomb 的复数）；本章故事的主要舞台"},
+    {"w": "zombie", "p": "/ˈzɒmbi/", "t": "n.", "z": "僵尸；此处指墓穴中游荡的僵尸武士"},
+    {"w": "skeletal", "p": "/ˈskelətl/", "t": "adj.", "z": "骷髅的，骨骼的；skeleton 的形容词"},
+    {"w": "skeletons", "p": "/ˈskelətnz/", "t": "n.", "z": "骷髅（skeleton 的复数）"},
+    {"w": "penetrated", "p": "/ˈpenətreɪtɪd/", "t": "v.", "z": "深入，打入（penetrate 的过去分词）；此处指法罗德势力未曾抵达"}
+   ]
+  },
+  {
+   "i": 2,
+   "zh": "我们推开一扇门，随即停住脚步，吃了一惊。一大群不死者正等着我们。其中一个开口了：那是个披着长袍的骷髅，手里握着一根考究的法杖。",
+   "notes": [
+    "<code>pushed open one door</code> 是“把门推开”，<code>push</code>＋形容词 <code>open</code> 表示动作的结果状态。",
+    "<code>and stopped, surprised</code> 里 <code>surprised</code> 是过去分词作状语，说明停下时的状态，相当于 <code>and were surprised</code>。",
+    "<code>One, a skeleton in robes with a fancy staff, spoke.</code>：主语 <code>One</code> 与同位语之间插入了长长的修饰成分，读时先跳过同位语抓住主干“其中一个开口了”，再回头看它是什么模样；<code>in robes</code> 是“穿着长袍”，<code>with a fancy staff</code> 是“手里拿着讲究的法杖”。"
+   ],
+   "vocab": [
+    {"w": "undead", "p": "/ˌʌnˈded/", "t": "n.", "z": "不死者（集合用法，单复数同形）；本作术语"},
+    {"w": "robes", "p": "/rəʊbz/", "t": "n.", "z": "长袍（robe 的复数）；此处标示其祭司身份"},
+    {"w": "fancy", "p": "/ˈfænsi/", "t": "adj.", "z": "讲究的，花哨的；此处指法杖做工华丽"},
+    {"w": "staff", "p": "/stɑːf/", "t": "n.", "z": "法杖，权杖；与后文 <code>stave</code> 同指一物"}
+   ]
+  },
+  {
+   "i": 3,
+   "zh": "“站住！你这旅人走得太远了，已经闯入亡者国度——沉默之王的疆域！你可愿平平和和地臣服？”",
+   "notes": [
+    "<code>Thou have come too far</code>：<code>thou</code> 是古体第二人称单数主格（＝you），配的却是现代的 <code>have</code>，属于有意做旧的“伪古语”；说话的不死者正是借这种老派腔调摆出官威。",
+    "<code>trespassed into</code> 是“擅自闯入、越界进入”，比 <code>entered</code> 多一层违法、冒犯的意味；前面的 <code>come too far</code> 是现在完成时，强调“已经走到这一步”的结果。",
+    "<code>Will thou submit peacefully?</code>：<code>will</code> 在古体里可作第二人称的意愿助动词（≈ do you will to），<code>peacefully</code> 是方式状语；整句既是问话也是最后通牒。"
+   ],
+   "vocab": [
+    {"w": "Thou", "p": "/ðaʊ/", "t": "pron.", "z": "你（古体第二人称单数主格；宾格 thee，所有格 thy/thine）"},
+    {"w": "traveler", "p": "/ˈtrævələ(r)/", "t": "n.", "z": "旅人，旅行者"},
+    {"w": "trespassed", "p": "/ˈtrespəst/", "t": "v.", "z": "擅自闯入（trespass 的过去分词）；trespass into＝非法进入"},
+    {"w": "realm", "p": "/relm/", "t": "n.", "z": "疆域，王国；此处指沉默之王统治的地界"},
+    {"w": "submit", "p": "/səbˈmɪt/", "t": "v.", "z": "臣服，服从；此处是要求无名氏束手就范"}
+   ]
+  },
+  {
+   "i": 4,
+   "zh": "“臣服于什么？”",
+   "notes": [
+    "极短的一问，无名氏没有接对方那套仪式化的辞令，而是直愣愣地追问要害，困惑又简短的口气正与他失忆的状态相合。",
+    "<code>Submit to what?</code> 中介词 <code>to</code> 的宾语是疑问词 <code>what</code>，所以 <code>to</code> 不能省；省略句里主语和助动词 <code>do I</code> 一并省去，只留动词原形＋介词短语。"
+   ],
+   "vocab": [
+    {"w": "Submit", "p": "/səbˈmɪt/", "t": "v.", "z": "臣服，顺从；<code>submit to sth</code>＝向某事屈服"},
+    {"w": "what", "p": "/wɒt/", "t": "pron.", "z": "什么；此处作介词 to 的宾语，构成追问的省略问句"}
+   ]
+  },
+  {
+   "i": 5,
+   "zh": "“所有越过这道门进入我国度的人，都要成为他土地上的囚徒——这是沉默之王的意旨。你可愿臣服？”",
+   "notes": [
+    "<code>’Tis</code> 是 <code>it is</code> 的古体缩合形式，句首那个空格是原文排版留下的；整句用 <code>It is the will of ... that ...</code> 句式，把“王的意志”抬到句首作主语，腔调正式到近乎公文。",
+    "<code>that all who pass the gates into our Nation become prisoners of his lands</code> 是 <code>will</code> 的同位语从句：<code>all who...</code>＝“所有……的人”，<code>who pass the gates into our Nation</code> 是修饰 <code>all</code> 的定语从句，主句谓语仍是 <code>become</code>。",
+    "注意 <code>Nation</code> 这里大写，指的就是他们的“国度”本身，与后文被守护的沉默之王构成一套自封的国体说法。"
+   ],
+   "vocab": [
+    {"w": "’Tis", "p": "/tɪz/", "t": "缩写", "z": "＝it is，古体/诗体形式；带有庄重做旧的语气"},
+    {"w": "gates", "p": "/ɡeɪts/", "t": "n.", "z": "大门（gate 的复数）；此处指国度的入口"},
+    {"w": "prisoners", "p": "/ˈprɪznəz/", "t": "n.", "z": "囚徒（prisoner 的复数）"},
+    {"w": "lands", "p": "/lændz/", "t": "n.", "z": "土地，领土（land 的复数）"}
+   ]
+  },
+  {
+   "i": 6,
+   "zh": "对着面前这么多敌人，我一点也拿不准我们有多少胜算。再说，只要这些不死者肯开口，我就有可能打听到些有用的东西。于是我答应臣服。",
+   "notes": [
+    "<code>wasn’t at all sure of our chances</code>：<code>at all</code> 用于否定句加强语气，等于“一点也不”；<code>chances against sb</code> 指“面对某人时的胜算”。",
+    "<code>Besides</code> 在此是副词，表示“再说、何况”，用来补充一条更重要的理由；<code>as long as</code> 引导条件状语从句，意为“只要”。",
+    "<code>it was possible I might learn something useful</code>：<code>it</code> 是形式主语，真正的主语是省略了 <code>that</code> 的从句 <code>I might learn...</code>；<code>might</code> 比 <code>may</code> 更虚，表示“说不定能”。"
+   ],
+   "vocab": [
+    {"w": "chances", "p": "/ˈtʃɑːnsɪz/", "t": "n.", "z": "机会，胜算（chance 的复数）；<code>chances against</code>＝对某方的胜算"},
+    {"w": "numbers", "p": "/ˈnʌmbəz/", "t": "n.", "z": "数量，人数（number 的复数）；此处指对方人多势众"},
+    {"w": "Besides", "p": "/bɪˈsaɪdz/", "t": "adv.", "z": "再说，何况；用于追加理由"},
+    {"w": "submit", "p": "/səbˈmɪt/", "t": "v.", "z": "臣服，服从；本段末的 <code>agreed to submit</code> 即“答应臣服”"}
+   ]
+  },
+  {
+   "i": 7,
+   "zh": "“那就来吧……我们带你上礼拜堂去。你可听好了：这些厅堂任你走动，但不得离开地下墓穴。你在此地便是囚徒，直到你死去；若你日后也像我们一样起身复活，那你就自由了。赞美沉默之王；愿他的意旨成就。”",
+   "notes": [
+    "<code>we shall show thee to the Chapel</code>：<code>thee</code> 是古体第二人称宾格（＝you），<code>show sb to sth</code> 意为“带某人去某处”；<code>shall</code> 在第一、三人称里表单纯的将来，这里却带着不容商量的宣判味。",
+    "<code>thou shall be free ... but not to leave the catacombs</code>：<code>but not</code> 后省略了与前句相同的主谓，完整为 <code>but thou shall not be free to leave</code>，译文用“任你……但不得……”还原这种对举。",
+    "<code>should thou later arise as we have</code> 是虚拟条件的倒装式，等于 <code>if thou should later arise</code>；<code>as we have</code> 后省略了 <code>arisen</code>。末句 <code>his will be done</code> 是祷文式的被动祈愿句，译为“愿他的意旨成就”。"
+   ],
+   "vocab": [
+    {"w": "Chapel", "p": "/ˈtʃæpl/", "t": "n.", "z": "礼拜堂；此处是亡者国度里举行仪式的厅堂"},
+    {"w": "wander", "p": "/ˈwɒndə(r)/", "t": "v.", "z": "游荡，随意走动"},
+    {"w": "halls", "p": "/hɔːlz/", "t": "n.", "z": "厅堂，走廊（hall 的复数）"},
+    {"w": "arise", "p": "/əˈraɪz/", "t": "v.", "z": "起身；此处指死后重新站起来，成为不死者"},
+    {"w": "thy", "p": "/ðaɪ/", "t": "pron.", "z": "你的（古体第二人称单数所有格）；<code>until thy death</code>＝直到你死去"}
+   ]
+  },
+  {
+   "i": 8,
+   "zh": "他们领着我们穿过好几条甬道，又经过一座古老的礼拜堂。从那里再走一条甬道，就到了一个房间。让我意外的是，他们把我们留下的那个房间里，竟然还有另一个活人。而且是我认识的人，他一见我便向我打了招呼。",
+   "notes": [
+    "<code>the room they left us in</code> 是省略了关系代词 <code>which</code> 的定语从句，介词 <code>in</code> 留在句尾，<code>leave sb in a room</code> 即“把某人留在房间里”。",
+    "<code>To my surprise</code> 是“令我意外的是”，用 <code>to one’s + 情感名词</code> 结构表示引起某人某种情绪；<code>contained</code> 用 <code>contain</code> 而非 <code>had</code>，强调“房间里装着”。",
+    "<code>Someone I knew, who greeted me.</code> 是两个不完整的片段：<code>Someone I knew</code> 补充说明“另一个活人”是谁，<code>who greeted me</code> 是非限制性定语从句修饰 <code>someone</code>；短句断开，制造“认出熟人”的惊愕节奏。"
+   ],
+   "vocab": [
+    {"w": "passages", "p": "/ˈpæsɪdʒɪz/", "t": "n.", "z": "甬道，通道（passage 的复数）"},
+    {"w": "ancient", "p": "/ˈeɪnʃənt/", "t": "adj.", "z": "古老的，年代久远的"},
+    {"w": "chapel", "p": "/ˈtʃæpl/", "t": "n.", "z": "礼拜堂；与前文 <code>the Chapel</code> 同一处"},
+    {"w": "contained", "p": "/kənˈteɪnd/", "t": "v.", "z": "容纳，装有（contain 的过去式）"},
+    {"w": "greeted", "p": "/ˈɡriːtɪd/", "t": "v.", "z": "问候，打招呼（greet 的过去式）"}
+   ]
+  },
+  {
+   "i": 9,
+   "zh": "“啊，又一个活人。到了墓穴这么深的地方，多数人都被食尸鬼杀了；你算走运的。”",
+   "notes": [
+    "<code>Most are slain by the ghouls, this far into the catacombs</code> 中 <code>are slain</code> 是被动语态（＝are killed），用 <code>slay</code> 这个偏古旧、偏传奇的词，与不死者说话的腔调相配。",
+    "<code>this far into the catacombs</code> 是省略了介词短语中心的名词性说法，意为“深入到墓穴这么远的地方”；<code>this</code> 修饰 <code>far</code>，表示“这么”。",
+    "<code>you are fortunate</code> 是正式的书面判断句，比 <code>you’re lucky</code> 冷硬，符合索戈把生死当公事来谈的口吻。"
+   ],
+   "vocab": [
+    {"w": "slain", "p": "/sleɪn/", "t": "v.", "z": "被杀死（slay 的过去分词，多用于被动式）"},
+    {"w": "ghouls", "p": "/ɡuːlz/", "t": "n.", "z": "食尸鬼（ghoul 的复数）；墓穴中啃食死尸的怪物"},
+    {"w": "fortunate", "p": "/ˈfɔːtʃənət/", "t": "adj.", "z": "幸运的，走运的"}
+   ]
+  },
+  {
+   "i": 10,
+   "zh": "“你是索戈，停尸间那个索戈。你在这儿干什么？”",
+   "notes": [
+    "<code>You’re Soego, from the Mortuary.</code>：<code>from</code> 在此不是“来自某地”，而是标明身份所属的机构，等于“停尸间的那位”；中文用“停尸间那个索戈”最能还原这种当场认人相认的口气。",
+    "<code>What are you doing here?</code> 是现在进行时表眼下正在做的事，也可理解为带质问意味的“你在这儿到底做什么”，无名氏问得直促。"
+   ],
+   "vocab": [
+    {"w": "Mortuary", "p": "/ˈmɔːtʃuəri/", "t": "n.", "z": "停尸间（专名，大写）；尘人的据点"},
+    {"w": "doing", "p": "/ˈduːɪŋ/", "t": "v.", "z": "做（do 的现在分词）；<code>What are you doing here?</code>＝你在这儿做什么"}
+   ]
+  },
+  {
+   "i": 11,
+   "zh": "“你的记性不错。我已经不再驻守停尸间了……如今我成了这一带的传教士。”",
+   "notes": [
+    "<code>Your memory serves you well</code> 是固定说法，<code>serve sb well</code> 意为“对某人很有用、很靠得住”，整句即“你记得没错”。",
+    "<code>I am no longer stationed in the Mortuary</code>：<code>no longer</code>＝“不再”；<code>be stationed in/at</code> 是“被派驻在……”，<code>stationed</code> 为过去分词作表语，说明职务安排而非自愿停留。",
+    "破折号后 <code>instead</code> 起自我更正、转折的作用：先说“不再如何”，再补上“如今如何”，译文用“如今”接住这个转折。"
+   ],
+   "vocab": [
+    {"w": "serves", "p": "/sɜːvz/", "t": "v.", "z": "对……有用，管用（serve 的第三人称单数）；<code>serve sb well</code>＝对某人很管用"},
+    {"w": "stationed", "p": "/ˈsteɪʃnd/", "t": "v.", "z": "被派驻，驻扎（station 的过去分词）"},
+    {"w": "missionary", "p": "/ˈmɪʃənri/", "t": "n.", "z": "传教士；索戈以向不死者传道自居"},
+    {"w": "these parts", "p": "", "t": "phr.", "z": "这一带，这一地区；<code>in these parts</code>＝在这地方"}
+   ]
+  },
+  {
+   "i": 12,
+   "zh": "“传教士？”",
+   "notes": [
+    "无名氏只重复对方话里的一个词，用升调反问，既是不解也是要对方解释；这种“回声式一问”在本书对白里反复出现，译文保留引号内的孤零零一个词即可。",
+    "中文里把问号放在引号内，形式上与英文 <code>“Missionary?”</code> 一致；不必补成“你是传教士？”那样的完整句，免得丢掉那半信半疑的停顿。"
+   ],
+   "vocab": [
+    {"w": "Missionary", "p": "/ˈmɪʃənri/", "t": "n.", "z": "传教士；此处无名氏把这个词原样抛回去发问"},
+    {"w": "?", "p": "", "t": "标点", "z": "问号；本段英文只有一个词加问号，升调的疑问全落在这个符号上"}
+   ]
+  },
+  {
+   "i": 13,
+   "zh": "“是的。我听到传言说这一带有有知觉的不死者，便来了这些地下墓穴。我希望能拯救他们。是激情把他们拴在这虚假的生命上。我希望能教他们舍弃这些激情，抛下这虚假的生命，抵达真死。”",
+   "notes": [
+    "<code>after hearing rumors of undead that were aware</code>：<code>after + 动名词</code> 表时间；<code>aware</code> 后省略了 <code>of themselves</code> 之类，意为“有自我意识的、神志清醒的”。",
+    "<code>Passion ties them to this false life</code>：<code>tie sb to sth</code> 是“把某人拴在某物上”，此处 <code>passion</code> 用单数泛指“激情、执念”这一整体，是尘人教义的核心词。",
+    "<code>forsake these passions and leave this false life behind</code>：<code>forsake</code> 是“背弃、舍下”，语感比 <code>give up</code> 更重、更带宗教味；<code>leave sth behind</code> 是“把……抛在身后”。<code>the True Death</code> 是尘人的核心术语，统一译作“真死”。"
+   ],
+   "vocab": [
+    {"w": "aware", "p": "/əˈweə(r)/", "t": "adj.", "z": "有知觉的，有意识的；此处指不死者仍保有自我意识"},
+    {"w": "rumors", "p": "/ˈruːməz/", "t": "n.", "z": "传言（rumor 的复数）"},
+    {"w": "forsake", "p": "/fəˈseɪk/", "t": "v.", "z": "背弃，舍弃；比 give up 更庄重、更带宗教色彩"},
+    {"w": "passions", "p": "/ˈpæʃnz/", "t": "n.", "z": "激情，执念（passion 的复数）；尘人认为它是滞留此世的根由"},
+    {"w": "True Death", "p": "", "t": "专有名词", "z": "真死；尘人信仰中彻底消亡、不再复生的终点"}
+   ]
+  },
+  {
+   "i": 14,
+   "zh": "“你想让他们死？”",
+   "notes": [
+    "<code>want them to die</code> 是 <code>want sb to do sth</code> 结构，直译就是“想要他们死”，中文用“让”字更顺，但那股当面掐住对方话柄的锐气不能丢。",
+    "无名氏把索戈那套“拯救”“抵达真死”的高调，一句剥成“死”，是全书里他惯用的短刀式追问。"
+   ],
+   "vocab": [
+    {"w": "die", "p": "/daɪ/", "t": "v.", "z": "死；此处被无名氏用来点破“真死”的实质"},
+    {"w": "them", "p": "/ðem/", "t": "pron.", "z": "他们（they 的宾格）；<code>want them to die</code> 中作 want 的宾语"}
+   ]
+  },
+  {
+   "i": 15,
+   "zh": "“我希望他们超越这个存在的位面，与激情割断关系。这样能救他们。”我转身想在房里找个地方歇息，他却叫住了我。",
+   "notes": [
+    "<code>transcend this plane of existence</code>：<code>transcend</code> 是“超越、超脱”，比 <code>go beyond</code> 更具哲学味；<code>plane of existence</code> 即“存在的位面”，诸界设定里的基本空间单位。",
+    "<code>divorce themselves from passion</code> 是 <code>divorce oneself from sth</code> 的搭配，本义“与……离婚”，引申为“与……彻底断绝关系”，译文用“割断关系”保留其决绝感。",
+    "<code>As I turned to find somewhere to rest in the room, he stopped me.</code>：<code>as</code> 引出与主句同时发生的动作；<code>somewhere to rest</code> 是不定式作后置定语，等于“可以歇息的地方”。"
+   ],
+   "vocab": [
+    {"w": "transcend", "p": "/trænˈsend/", "t": "v.", "z": "超越，超脱；此处指跳出此世的存在层次"},
+    {"w": "plane", "p": "/pleɪn/", "t": "n.", "z": "位面（术语；复数 the Planes＝诸界）"},
+    {"w": "divorce", "p": "/dɪˈvɔːs/", "t": "v.", "z": "使分离，割断（本义“离婚”）；<code>divorce oneself from</code>＝与……断绝关系"},
+    {"w": "rest", "p": "/rest/", "t": "v.", "z": "歇息，休息；<code>somewhere to rest</code>＝可以歇脚的地方"}
+   ]
+  },
+  {
+   "i": 16,
+   "zh": "“走之前，占用你一点时间。别攻击这里、墓穴里的任何不死者；只要你不动手，他们就不会伤你。可你要是露出敌意，他们会自卫的——而且他们……为数不少。”",
+   "notes": [
+    "<code>A moment of your time before you go.</code> 是极客气的省略句，完整意为“在你走之前，请给我一点时间”；<code>before you go</code> 是时间状语从句。",
+    "<code>so long as you remain peaceful</code>：<code>so long as</code>＝<code>as long as</code>，“只要”；<code>remain</code> 是系动词，后接形容词 <code>peaceful</code> 表持续状态。",
+    "<code>Should you prove hostile</code> 是省略 <code>if</code> 的虚拟条件倒装（＝If you should prove hostile）；<code>prove</code> 在此是系动词“表明是、结果是”。句中省略号把 <code>many of them</code> 迟疑地拖出来，是极轻的威胁。"
+   ],
+   "vocab": [
+    {"w": "attack", "p": "/əˈtæk/", "t": "v.", "z": "攻击，袭击"},
+    {"w": "harm", "p": "/hɑːm/", "t": "v.", "z": "伤害；<code>will not harm you</code>＝不会伤你"},
+    {"w": "hostile", "p": "/ˈhɒstaɪl/", "t": "adj.", "z": "有敌意的；<code>prove hostile</code>＝表现出敌意"},
+    {"w": "defend", "p": "/dɪˈfend/", "t": "v.", "z": "自卫，防御；<code>defend themselves</code>＝自卫"}
+   ]
+  },
+  {
+   "i": 17,
+   "zh": "房里几乎没什么家具，只有一张金属桌子，我便坐到上面。我意识到，这一定就是索戈睡觉的地方。我低头看自己双脚悬着的那一侧桌沿，发现侧面有块板子微微敞着。我猜想索戈会不会用它存放东西，打定主意等他不在时查一查。我想起他在停尸间那些可疑举动，也怀疑他告诉我的那些来这里的理由，是否就是他待在此地的全部真相。",
+   "notes": [
+    "<code>There was little in the way of furniture</code>：<code>little</code> 表否定，“几乎没有”；<code>in the way of sth</code> 是固定说法，意为“在……方面、就……而言”，整句即“家具方面几乎什么都没有”。",
+    "<code>this must be were Soego slept</code> 用的是表推测的 <code>must be</code>，后面本该是 <code>where</code> 引导的表语从句，原文写成 <code>were</code>、<code>check in to it</code> 也应为 <code>check into it</code>，都是本书文本里常见的笔误，翻译按正确语义处理即可。",
+    "<code>questioned if what he had told me ... were the full truth</code>：<code>question</code> 作动词是“质疑、存疑”；<code>if</code> 引导宾语从句；从句主语是名词性从句 <code>what he had told me of his reasons for being here</code>，谓语用 <code>were</code>，译文用“是否就是他……的全部真相”把这层怀疑摊开。"
+   ],
+   "vocab": [
+    {"w": "furniture", "p": "/ˈfɜːnɪtʃə(r)/", "t": "n.", "z": "家具（不可数名词，无复数）"},
+    {"w": "panel", "p": "/ˈpænl/", "t": "n.", "z": "镶板，面板；此处指桌侧的活动木板"},
+    {"w": "ajar", "p": "/əˈdʒɑː(r)/", "t": "adj.", "z": "（门、板）半开着的；<code>slightly ajar</code>＝微微敞开"},
+    {"w": "dangled", "p": "/ˈdæŋɡld/", "t": "v.", "z": "悬荡，晃荡（dangle 的过去式）；此处写双脚悬在桌边"},
+    {"w": "suspicious", "p": "/səˈspɪʃəs/", "t": "adj.", "z": "可疑的，令人起疑的"}
+   ]
+  },
+  {
+   "i": 18,
+   "zh": "不过索戈的事先到此为止。我离开房间，去找我们进来时跟我们说话的那个骷髅。",
+   "notes": [
+    "<code>But enough of Soego for now.</code> 是省略句，<code>enough of sb/sth</code> 意为“关于某人/某事就到此为止”，常用作话题的收束语。",
+    "<code>looking for the skeleton who had talked to us when we entered</code> 是现在分词短语作伴随状语；<code>who</code> 引导定语从句修饰 <code>skeleton</code>，<code>when we entered</code> 在其内部再作时间状语，中文按“我们进来时跟我们说话的”顺译即可。"
+   ],
+   "vocab": [
+    {"w": "skeleton", "p": "/ˈskelɪtn/", "t": "n.", "z": "骷髅；此处指礼拜堂中那位披袍持杖的不死者"},
+    {"w": "entered", "p": "/ˈentəd/", "t": "v.", "z": "进入（enter 的过去式）"}
+   ]
+  },
+  {
+   "i": 19,
+   "zh": "我在先前经过的那座礼拜堂里找到了那个骷髅。它身上穿的像是古代祭司的长袍，厚重而华美。它握着一根硕大的手杖，气派十足：杖头装饰着精雕的犄角、垂挂的坠饰，还有一颗镀金的骷髅头。",
+   "notes": [
+    "<code>what appeared to be ancient priest’s robes</code> 是名词性从句作 <code>wore</code> 的宾语，<code>what appeared to be</code>＝“看起来像是……的东西”，说明无名氏只凭外观判断，不敢确定。",
+    "<code>heavy and ornate</code> 是并列形容词作 <code>robes</code> 的后置补充说明；<code>ornate</code> 指装饰繁复华丽，与下句的 <code>intricately carved</code> 一脉相承。",
+    "<code>which was capped with ...</code> 是非限制性定语从句修饰 <code>stave</code>；<code>cap</code> 作动词是“给……加上顶饰”，后面并列三个名词 <code>horns</code>、<code>pendants</code>、<code>skull</code>，中文用冒号加并列短语把这份清单摊开。"
+   ],
+   "vocab": [
+    {"w": "priest", "p": "/priːst/", "t": "n.", "z": "祭司，神职人员；<code>priest’s robes</code>＝祭司长袍"},
+    {"w": "ornate", "p": "/ɔːˈneɪt/", "t": "adj.", "z": "装饰华丽的，繁复的"},
+    {"w": "stave", "p": "/steɪv/", "t": "n.", "z": "手杖，法杖；与第 2 段的 <code>staff</code> 同指此杖"},
+    {"w": "intricately", "p": "/ˈɪntrɪkətli/", "t": "adv.", "z": "精巧复杂地；<code>intricately carved</code>＝雕工精细的"},
+    {"w": "gilded", "p": "/ˈɡɪldɪd/", "t": "adj.", "z": "镀金的，贴金的"}
+   ]
+  },
+  {
+   "i": 20,
+   "zh": "我走到它面前，想引它注意。那骷髅双眼像两团燃着的余烬般发着光，把我上下打量了一番……却没有答话。我问它，我们是不是以这位沉默之王的名义被囚禁的。",
+   "notes": [
+    "<code>to get its attention</code> 是目的状语，<code>get sb’s attention</code>＝“引起某人的注意”；此处用 <code>it</code> 称骷髅，是因为它已不再是人。",
+    "<code>its eyes aglow like two burning embers</code> 是独立主格结构（名词＋形容词短语），<code>aglow</code> 是表语形容词，意为“发着光”，比从句 <code>its eyes were aglow</code> 更紧凑，适合插进动作描写。",
+    "<code>I asked if it was this Silent King in whose name we had been imprisoned.</code>：<code>if</code> 引导宾语从句表“是否”；<code>in whose name</code> 是“以……的名义”，<code>whose</code> 指 <code>this Silent King</code>。"
+   ],
+   "vocab": [
+    {"w": "attention", "p": "/əˈtenʃn/", "t": "n.", "z": "注意；<code>get its attention</code>＝引起它的注意"},
+    {"w": "aglow", "p": "/əˈɡləʊ/", "t": "adj.", "z": "发光的，通亮的；多作表语"},
+    {"w": "embers", "p": "/ˈembəz/", "t": "n.", "z": "余烬（ember 的复数）；此处比喻眼中幽火"},
+    {"w": "reply", "p": "/rɪˈplaɪ/", "t": "n.", "z": "回答，答复；<code>made no reply</code>＝不作回答"},
+    {"w": "imprisoned", "p": "/ɪmˈprɪznd/", "t": "v.", "z": "被囚禁（imprison 的过去分词）"}
+   ]
+  },
+  {
+   "i": 21,
+   "zh": "它摇了摇头，转身的动作带着一种诡异的优雅，朝东边指了指。随后它又转回来面对我。",
+   "notes": [
+    "<code>turning with an eerie grace and pointing eastwards</code> 是两个并列的现在分词短语，作 <code>shook its head</code> 的伴随状语，把“摇头—转身—指点”连成一串连续画面。",
+    "<code>eerie</code> 带“怪诞得令人发毛”的意味，<code>grace</code> 却是“优雅”，两个词并置正是本章不死者的基调：动作优美，却叫人背脊发凉。",
+    "<code>eastwards</code> 是方向副词（＝toward the east），<code>-wards</code> 后缀表朝向；<code>once more</code> 意为“再一次”，比 <code>again</code> 更书面。"
+   ],
+   "vocab": [
+    {"w": "shook", "p": "/ʃʊk/", "t": "v.", "z": "摇（shake 的过去式）；<code>shook its head</code>＝摇头"},
+    {"w": "eerie", "p": "/ˈɪəri/", "t": "adj.", "z": "怪诞的，令人发毛的"},
+    {"w": "grace", "p": "/ɡreɪs/", "t": "n.", "z": "优雅，优雅的姿态"},
+    {"w": "eastwards", "p": "/ˈiːstwədz/", "t": "adv.", "z": "朝东，向东；<code>-wards</code> 表方向"},
+    {"w": "once more", "p": "", "t": "phr.", "z": "再一次，又一次（比 again 略书面）"}
+   ]
+  },
+  {
+   "i": 22,
+   "zh": "我问它，我能不能和沉默之王谈谈。",
+   "notes": [
+    "<code>I asked if I could speak to the Silent King.</code>：<code>if</code> 引导宾语从句表“是否”，与 <code>whether</code> 相当；<code>could</code> 是 <code>can</code> 的过去式，在此兼表委婉的请求，而非纯粹的过去时。",
+    "<code>speak to sb</code> 是“与某人交谈”，比 <code>talk with</code> 稍正式；这句是本段落的收束，无名氏把线索直接指向那个始终沉默的统治者。"
+   ],
+   "vocab": [
+    {"w": "asked", "p": "/ɑːskt/", "t": "v.", "z": "问，询问（ask 的过去式）"},
+    {"w": "speak", "p": "/spiːk/", "t": "v.", "z": "说话，交谈；<code>speak to sb</code>＝与某人交谈"}
+   ]
+  }
+ ]
+}

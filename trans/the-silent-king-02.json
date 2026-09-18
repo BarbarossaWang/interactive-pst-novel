@@ -1,0 +1,318 @@
+{
+ "chapter": "The Silent King",
+ "chunk": "the-silent-king-02",
+ "items": [
+  {
+   "i": 23,
+   "zh": "骷髅把指节捏得咔咔响。“我从未存在过，却永远都在；没有人见过我，也永远不会有人见。然而众生所信靠的，正是我——让我在这圣堂之中活下去、喘口气。”这一条更难。什么样的鬼魂？不对，走错了路。",
+   "notes": [
+    "谜面四句两两押韵：<code>be</code>／<code>see</code>、<code>all</code>／<code>hall</code>，答“明天”（<code>Tomorrow</code>）时又正好扣住“从未存在、永远都在”这层悖论；中文没法复制尾韵，就靠“从未……却永远……”“没有人……也永远不会……”的对举来补足谜语的咏唱感。",
+    "<code>And yet I am the confidence of all, to live and breath in this hallowed hall</code> 中，<code>confidence of all</code>＝众人所信靠之物，<code>to live and breath</code> 是表目的的动词不定式（＝为了活下去、喘口气）；<code>confidence</code> 在这里是“信赖、依托”，不是“自信”。",
+    "末两句是自由间接引语，直接钻进无名氏脑子里：<code>What kind of specter?</code> 是自问，<code>No, wrong path.</code> 是自我否定。译文用两个短句连缀，保持他那种又困惑又急着往前试的思路；<code>wrong path</code> 指猜谜猜错了方向。"
+   ],
+   "vocab": [
+    {"w": "cracked its knuckles", "p": "", "t": "phr.", "z": "把手指关节捏得咔咔响（crack one's knuckles）；骷髅照做，更显诡吊"},
+    {"w": "am always to be", "p": "", "t": "phr.", "z": "永远都在，注定一直存在；<code>be to do</code> 表注定、必将"},
+    {"w": "confidence", "p": "/ˈkɒnfɪdəns/", "t": "n.", "z": "信赖，依托；<code>the confidence of all</code>＝众生所信靠的"},
+    {"w": "hallowed", "p": "/ˈhæləʊd/", "t": "adj.", "z": "神圣的，圣洁的；<code>hallowed hall</code>＝圣堂"},
+    {"w": "specter", "p": "/ˈspektə(r)/", "t": "n.", "z": "幽灵，鬼魂；此处指无名氏脑中闪过的猜测"}
+   ]
+  },
+  {
+   "i": 24,
+   "zh": "“谜底是……是……啊！‘明天’。”",
+   "notes": [
+    "<code>The answer is… is… ah!</code> 是结巴与突然开窍并置的口语节奏，译文用一串省略号加一个感叹的“啊”，把那种卡壳又猛地想通的神气保留下来。",
+    "注意答语只是一个带引号的单词 <code>‘Tomorrow.’</code>：谜语问答里，答案通常单独成句、独立引号，中文照此处理；<code>tomorrow</code> 作名词指“明天、来日”，正与上一条谜面中“永远都在”的“明日”对应。"
+   ],
+   "vocab": [
+    {"w": "The answer", "p": "", "t": "n.", "z": "答案，谜底（the answer to a riddle＝某谜语的答案）"},
+    {"w": "Tomorrow", "p": "/təˈmɒrəʊ/", "t": "n.", "z": "明天，来日；此谜的谜底"}
+   ]
+  },
+  {
+   "i": 25,
+   "zh": "“哇——！对，明天，正是明天。去吧，去吧。”",
+   "notes": [
+    "<code>Waaah!</code> 是失望又不甘的怪叫，译文用“哇——”加破折号拖长，比“哇哇”更贴近这一声哀嚎。",
+    "<code>Yes, tomorrow, indeed.</code> 里 <code>indeed</code> 用于确认对方所答（＝确实如此、正是），骷髅输得心服口服，语气里却还端着审问者的架子；<code>Go, then.</code> 中 <code>then</code> 是承接性的“那么、那就”，译文作“去吧，去吧”，把他松口放行说得轻描淡写。"
+   ],
+   "vocab": [
+    {"w": "indeed", "p": "/ɪnˈdiːd/", "t": "adv.", "z": "确实，的确；用于确认对方的话"},
+    {"w": "Go, then", "p": "", "t": "phr.", "z": "那就去吧；<code>then</code> 表据此作出的决定"}
+   ]
+  },
+  {
+   "i": 26,
+   "zh": "“我这就去。什么东西是永恒的起点、时间与空间的终点，是一切终结的开端，又是一切地点的尽头？”骷髅起初讥笑地咯咯直响，却忽然停住了。",
+   "notes": [
+    "这条谜的谜底同样是字母 <code>‘E’</code>：<code>eternity</code>（永恒）以 E 起首，<code>time</code>、<code>space</code>（时间、空间）以 E 收尾，<code>every end</code>（一切终结）以 E 起首，<code>every place</code>（一切地点）以 E 收尾——四个 <code>E</code> 藏得极巧，译文只能逐一对应，读的时候不妨把四个英文单词请回脑中。",
+    "<code>the beginning of eternity, the end of time and space</code> 是典型的谜语并列句：四个分句结构相同（<code>the beginning/end of ...</code>），靠“起点／终点”的反复堆出神秘感，译文也保持这种四段并列、不加连接词。",
+    "<code>giggle derisively</code>＝带着嘲弄地咯咯笑；<code>derisively</code> 是“轻蔑地、嘲笑地”，而 <code>but suddenly stopped</code> 一顿，正说明它自己也被这条谜难住了——笑到一半僵住，是本章最传神的一处黑色幽默。"
+   ],
+   "vocab": [
+    {"w": "eternity", "p": "/ɪˈtɜːnəti/", "t": "n.", "z": "永恒，永生；<code>the beginning of eternity</code>＝永恒的开端"},
+    {"w": "derisively", "p": "/dɪˈraɪsɪvli/", "t": "adv.", "z": "嘲弄地，轻蔑地"},
+    {"w": "giggle", "p": "/ˈɡɪɡl/", "t": "v.", "z": "咯咯地笑，傻笑"},
+    {"w": "the end of every place", "p": "", "t": "phr.", "z": "一切地点的尽头；与前面三个分句构成并列谜面"}
+   ]
+  },
+  {
+   "i": 27,
+   "zh": "“啊……呃。哎呀，糟了。”骷髅垂下了头。“我……不知道。”",
+   "notes": [
+    "<code>Oh, dear.</code> 不是“哦，亲爱的”，而是口语中表示糟了、坏了、哎呀的感叹语，多用于发现自己出了岔子之时，译文据此作“哎呀，糟了”。",
+    "<code>hung its head</code>＝垂下头、低下头，是羞愧或认输的姿态；<code>hung</code> 是 <code>hang</code> 的过去式。整句由零碎的语气词、破折号与省略号缀成，骷髅从讥笑到认输的落差不加一句说明，全靠这三段碎语撑出来。"
+   ],
+   "vocab": [
+    {"w": "Oh, dear", "p": "", "t": "int.", "z": "（口语）哎呀，糟了；发现出错时的感叹"},
+    {"w": "hung its head", "p": "", "t": "phr.", "z": "垂下头（hang one's head）；表羞愧、认输"}
+   ]
+  },
+  {
+   "i": 28,
+   "zh": "我笑了。我编的这条谜，跟它拿去为难别的骷髅的那条几乎一模一样。我问它想不想要谜底。它点了点头。",
+   "notes": [
+    "<code>since the riddle I had come up with was so similar to its own riddle it was troubling the other skeletons with</code> 是一个绕圈的长句：主干是 <code>the riddle ... was so similar to its own riddle</code>，<code>I had come up with</code> 是修饰前一个 <code>riddle</code> 的定语从句，<code>it was troubling the other skeletons with</code> 则修饰后一个 <code>riddle</code>（＝它正拿这条谜去为难别的骷髅的那条）。",
+    "<code>come up with</code>＝想出、编出（主意、谜语、名字等），是极常用的短语动词；<code>so similar to ... (that) ...</code> 的 <code>that</code> 在口语里被省略了。",
+    "<code>troubling</code> 在这里不是“打扰”，而是“使苦恼、使伤脑筋”——谜语难住别人，正是骷髅的乐子，所以无名氏这一笑带点以其人之道还治其人之身的得意。"
+   ],
+   "vocab": [
+    {"w": "come up with", "p": "", "t": "phr.", "z": "想出，编出（主意、谜语、借口等）"},
+    {"w": "similar to", "p": "", "t": "phr.", "z": "与……相似；<code>be similar to sth</code>"},
+    {"w": "troubling", "p": "/ˈtrʌblɪŋ/", "t": "v.", "z": "使苦恼，难住（trouble 的现在分词）；此处指谜语把人卡住"},
+    {"w": "nodded", "p": "/ˈnɒdɪd/", "t": "v.", "z": "点头（nod 的过去式）"}
+   ]
+  },
+  {
+   "i": 29,
+   "zh": "“好吧。是字母‘E’。”我转身走了。",
+   "notes": [
+    "<code>Very well.</code> 是允诺或收束话题时的“好吧、那好”，语气比 <code>OK</code> 正式一点，用在宣布谜底之前，显得无名氏不慌不忙。",
+    "<code>I walked away.</code> 只有三个词，却是本章的一句妙笔：答完就走，不解释、不等反应——无名氏一贯的简短与冷淡，也把上一段骷髅垂头认输的窘态留在身后。译文用“我转身走了”补出“转身”这个动作，读起来更像中文小说的收束。"
+   ],
+   "vocab": [
+    {"w": "Very well", "p": "", "t": "phr.", "z": "（口头）好吧，那好；允诺或转入下文时用"},
+    {"w": "walked away", "p": "", "t": "phr.", "z": "走开，转身离开"}
+   ]
+  },
+  {
+   "i": 30,
+   "zh": "我走到一条走廊里，发现四周只有僵尸。我向一个僵尸打听朽玛丽。它的回答我听不懂，但它朝走廊那头指了指。前面的走廊被碎石堵死了。堵塞处聚着一群僵尸，看它们的站姿，就知道谁是朽玛丽了。那个散发着霉味的雌性僵尸老得非同寻常，几乎成了干尸。她的皮肤像是正在朽烂的灰绿色皮革，一只眼珠已经掉了，只在脸上留下一个黑洞。她的声音又慢又浊。",
+   "notes": [
+    "<code>from their stance, it was clear who Stale Mary must be</code>：<code>stance</code>＝站姿、站立的架势，<code>must be</code> 表推测（＝想必就是），译文“看它们的站姿，就知道谁是朽玛丽了”正对应这种由细节推断身份的写法。",
+    "<code>Her skin had the appearance of moldering, gray-green leather</code> 中 <code>appearance</code> 后接 <code>of</code> 短语，<code>moldering</code>（正在朽烂的）与 <code>gray-green</code>（灰绿色的）两个定语叠在 <code>leather</code> 上，译文也把“朽烂的灰绿色皮革”按同样顺序叠放，保留层层堆叠的恐怖感。",
+    "<code>one of her eyes had fallen out, leaving a dark pit in her face</code>：<code>leaving</code> 是现在分词作结果状语（＝结果在脸上留下一个黑洞）；<code>pit</code> 本指坑、深洞，用来写空眼窝十分狠劲。"
+   ],
+   "vocab": [
+    {"w": "rubble", "p": "/ˈrʌbl/", "t": "n.", "z": "碎石，瓦砾（不可数）；此处指堵住走廊的塌落物"},
+    {"w": "blockage", "p": "/ˈblɒkɪdʒ/", "t": "n.", "z": "堵塞处，障碍物"},
+    {"w": "stance", "p": "/stæns/", "t": "n.", "z": "站姿，姿态；也指立场"},
+    {"w": "musty-smelling", "p": "", "t": "adj.", "z": "散发霉味的；<code>musty</code>＝有霉味的、陈腐的"},
+    {"w": "fallen out", "p": "", "t": "phr.", "z": "脱落，掉出来（fall out 的过去分词）"}
+   ]
+  },
+  {
+   "i": 31,
+   "zh": "“咕、咕、咕——您好……”她指了指自己，又开口了。“朽……朽……朽玛丽。”听上去像是她的声带在喉咙深处某摊黏糊糊的烂泥里一点点溃烂掉。我纳闷她是怎么给其他僵尸下令的。",
+   "notes": [
+    "朽玛丽的话写成拖长的重复音节（<code>Guh-guh-guhreeetingz</code>、<code>Suh-suh-stuhl Muhhhry</code>），是她腐烂喉咙里挤出的声音，必须比骷髅的伪古语更难懂。译文用“咕、咕、咕”加上被拉长的“您——好”和“朽……朽……朽玛丽”，让读者先在语音上卡一下，再凭上下文认出那是 <code>greetings</code> 和自己的名字。",
+    "<code>It sounded as if her vocal cords were festering away in some soupy mess at the base of her throat</code>：<code>fester away</code>＝渐渐化脓溃烂下去（<code>away</code> 表持续消散），<code>soupy mess</code>＝稀烂的一摊，<code>at the base of her throat</code>＝在喉咙根部；<code>vocal cords</code> 是“声带”。",
+    "<code>I wondered how she gave the other zombies orders</code>：<code>wonder</code> 后接 <code>how</code> 引导的宾语从句（＝纳闷她是怎么……的）；<code>give orders</code>＝下命令、发号施令，译文作“下令”。"
+   ],
+   "vocab": [
+    {"w": "vocal cords", "p": "", "t": "n.", "z": "声带（恒用复数）"},
+    {"w": "festering away", "p": "", "t": "phr.", "z": "不断化脓溃烂（fester away）；<code>fester</code>＝溃烂、恶化"},
+    {"w": "soupy", "p": "/ˈsuːpi/", "t": "adj.", "z": "稀糊糊的，像汤一样的"},
+    {"w": "throat", "p": "/θrəʊt/", "t": "n.", "z": "喉咙，咽喉"},
+    {"w": "orders", "p": "/ˈɔːdəz/", "t": "n.", "z": "命令（order 的复数）；<code>give orders</code>＝下令"}
+   ]
+  },
+  {
+   "i": 32,
+   "zh": "“你是怎么跟这些僵尸说话的？它们说的我听不懂，可你说的话我却听得懂……”",
+   "notes": [
+    "<code>How is it that you speak to these other zombies?</code> 是 <code>How is it that ...?</code> 的强调问法（＝怎么会有这种事／你是怎么做到的），比直接说 <code>How do you speak ...?</code> 更带不解的意味，正合无名氏的困惑口气。",
+    "后半句 <code>I cannot understand them as I can you</code> 用了 <code>as</code> 引导的比较从句，句末的 <code>you</code> 后省略了 <code>can understand</code>（＝<code>as I can understand you</code>）；<code>them</code> 指僵尸们，<code>you</code> 指朽玛丽。译文改用“它们说的我听不懂，可你说的话我却听得懂”的对举，读起来更清楚。"
+   ],
+   "vocab": [
+    {"w": "How is it that", "p": "", "t": "phr.", "z": "怎么会……，究竟是怎么……的；带不解语气的强调问法"},
+    {"w": "as I can you", "p": "", "t": "phr.", "z": "像我能听懂你那样；<code>as</code> 引导比较从句，末尾省略了重复的动词"}
+   ]
+  },
+  {
+   "i": 33,
+   "zh": "那具尸首向我迈了一步，伸出手臂要来碰我。我往后挪了挪。",
+   "notes": [
+    "<code>The corpse took a step towards me</code> 中 <code>take a step</code>＝迈一步，是“动词＋a＋名词”的常用表达（如 <code>take a look</code>、<code>have a rest</code>）；<code>towards</code> 是英式拼法（美式 <code>toward</code>）。",
+    "<code>reaching her arm out to touch me</code> 是现在分词短语作伴随状语，写她一边迈步一边伸手；<code>reach out</code>＝伸出手去。译文用“伸出手臂要来碰我”把目的 <code>to touch</code> 也一并带出。",
+    "<code>I moved a little back</code> 是极简的动作句，无名氏不喊、不问，只往后退一点；译文保留这种近乎本能的、不加评论的反应。"
+   ],
+   "vocab": [
+    {"w": "corpse", "p": "/kɔːps/", "t": "n.", "z": "尸体，尸首；此处指朽玛丽"},
+    {"w": "took a step", "p": "", "t": "phr.", "z": "迈了一步（take a step towards sb＝向某人走近一步）"},
+    {"w": "reaching", "p": "/ˈriːtʃɪŋ/", "t": "v.", "z": "伸手，伸出（reach 的现在分词）；<code>reach out</code>＝伸出手"}
+   ]
+  },
+  {
+   "i": 34,
+   "zh": "“你在做什么？”她只轻轻呻吟了一声算是回答，又伸手来碰我的手臂。尽管岁月侵蚀，她的目光里仍残留着几分人性。我看得出她并不想伤害我。",
+   "notes": [
+    "<code>She only moaned softly in reply</code>：<code>in reply</code>＝作为回答，与前面的 <code>only</code> 连用，说明她已答不出话，只能用声音回应；<code>moan</code> 是“呻吟、哀鸣”。",
+    "<code>Despite the ravages of time, there was still some vestige of humanity left in her gaze</code>：<code>despite</code> 是介词（＝尽管），<code>the ravages of time</code> 是固定说法“岁月的摧残／侵蚀”，<code>vestige</code>＝残余、遗迹，<code>left</code> 作后置定语修饰 <code>vestige</code>。",
+    "<code>I could see she meant me no harm</code>：<code>mean sb harm</code>＝存心伤害某人，否定式 <code>mean sb no harm</code> 是“无意加害”；<code>could see</code> 在此表示“看得出来、判断得出”，不是单纯“能看见”。"
+   ],
+   "vocab": [
+    {"w": "moaned", "p": "/məʊnd/", "t": "v.", "z": "呻吟，发出低沉的哀声（moan 的过去式）"},
+    {"w": "in reply", "p": "", "t": "phr.", "z": "作为回答；＝<code>in answer</code>"},
+    {"w": "ravages", "p": "/ˈrævɪdʒɪz/", "t": "n.", "z": "破坏，摧残（ravage 的复数）；<code>the ravages of time</code>＝岁月侵蚀"},
+    {"w": "vestige", "p": "/ˈvestɪdʒ/", "t": "n.", "z": "残余，痕迹，一丝遗留"},
+    {"w": "meant me no harm", "p": "", "t": "phr.", "z": "无意伤害我；<code>mean sb harm</code>＝存心害某人"}
+   ]
+  },
+  {
+   "i": 35,
+   "zh": "我任由她碰我。她那只几乎没剩下肉的手轻轻擦过我的小臂，然后开口说：“听——着。”（Listen。）",
+   "notes": [
+    "<code>I allowed her to touch me</code>：<code>allow sb to do sth</code>＝允许／任由某人做某事；译文作“任由她碰我”，比“允许”更贴无名氏那种半信半疑却不再后退的选择。",
+    "<code>Her nearly fleshless hand brushed gently against my forearm</code>：<code>fleshless</code>＝几乎没肉的（<code>-less</code> 表“没有”），<code>brush against sth</code>＝轻轻擦过某物，<code>forearm</code> 指“小臂、前臂”（肘到腕之间）。",
+    "原文用加括号的 <code>(Listen.)</code> 给出标准拼写的对照，等于让读者自行把 <code>Luhhhssnnn</code> 还原成 <code>listen</code>。译文照原样保留这个括号，只是先给出可读的“听着”，再把英文注释留在其后。"
+   ],
+   "vocab": [
+    {"w": "allowed", "p": "/əˈlaʊd/", "t": "v.", "z": "允许，任由（allow 的过去式）"},
+    {"w": "fleshless", "p": "/ˈfleʃləs/", "t": "adj.", "z": "没有肉的，只剩骨头的；<code>-less</code>＝无……的"},
+    {"w": "brushed", "p": "/brʌʃt/", "t": "v.", "z": "轻擦，拂过（brush 的过去式）；<code>brush against</code>＝擦过"},
+    {"w": "forearm", "p": "/ˈfɔːrɑːm/", "t": "n.", "z": "前臂，小臂（肘至腕的部分）"}
+   ]
+  },
+  {
+   "i": 36,
+   "zh": "“我怎么就能听懂你的话了？”她又碰了我一下。",
+   "notes": [
+    "<code>How is it that I can understand you?</code> 与上一段的 <code>How is it that you speak ...?</code> 结构完全相同，无名氏把同一个疑问绕回来问自己这一侧：为何偏偏他能听懂她。译文保留“我怎么就能……”这一问法，与前面那句形成呼应。",
+    "<code>She touched me once more</code> 中的 <code>once more</code>＝再一次；<code>touch</code> 这一动作在两人之间反复出现，本段只以短短一句带过——她不作解释，只是又碰了他一下，教的意味就藏在动作里。"
+   ],
+   "vocab": [
+    {"w": "understand", "p": "/ˌʌndəˈstænd/", "t": "v.", "z": "听懂，理解"},
+    {"w": "once more", "p": "", "t": "phr.", "z": "再一次，又一次"}
+   ]
+  },
+  {
+   "i": 37,
+   "zh": "“跟、跟、跟我们说，你、你能行。可你、你、你得说、说、说得像、像样。”（Speak to us you can. But you must do it properly.）",
+   "notes": [
+    "这段伪古语的句式是“倒装＋残缺”：<code>Speak to us you can</code> 正常应作 <code>You can speak to us</code>，把 <code>Speak to us</code> 提到句首，是无名氏这门“与死者交谈”的技艺特有的腔调——先抛出动作，再说能力，读来像谶语。",
+    "<code>But you must do it properly</code> 里 <code>must</code> 表必须，<code>properly</code>＝得法地、像样地；朽玛丽的意思不是说“要礼貌”，而是“发音得对、得按规矩来”，这正是后文 <code>Stories-Bones-Tell</code> 那门技能要教的东西。",
+    "括号里的英文仍是给读者对照用的原文，译文在前、括号在后，与第 35 段保持一致的处理方式；<code>yuhhhh kuhnn</code> 对应 <code>you can</code>，<code>puhhhpuhhleee</code> 对应 <code>properly</code>。"
+   ],
+   "vocab": [
+    {"w": "properly", "p": "/ˈprɒpəli/", "t": "adv.", "z": "得当地，规矩地；此处指按正确方式说话"},
+    {"w": "must", "p": "/mʌst/", "t": "modal v.", "z": "必须，得；表义务或必要"}
+   ]
+  },
+  {
+   "i": 38,
+   "zh": "“你能教我吗？”她笑了，脸上硬化的皮肤像厚皮革一样吱嘎作响。",
+   "notes": [
+    "<code>Can you teach me?</code> 省去了 <code>to speak with the dead</code> 之类的宾语，问得极短；无名氏一贯的简短口气在此，译文也不补足。",
+    "<code>She smiled, the hardened skin of her face creaking like thick leather</code>：逗号后是独立主格结构（<code>the hardened skin ... creaking</code>），表示伴随的动作与声响；<code>hardened</code> 是过去分词作定语（＝已经变硬的），<code>creak</code> 是皮革、木门那种“吱嘎”声。",
+    "注意这里的“笑”与声音并置：微笑本是温情的动作，配上的却是干皮革的摩擦声——本章对朽玛丽的刻画，几乎每次都靠这种“残存的人性＋腐坏的身体”的对照。"
+   ],
+   "vocab": [
+    {"w": "hardened", "p": "/ˈhɑːdnd/", "t": "adj.", "z": "变硬的，硬化的（过去分词作定语）"},
+    {"w": "creaking", "p": "/ˈkriːkɪŋ/", "t": "v.", "z": "吱嘎作响（creak 的现在分词）；多形容皮革、木门、老骨头"},
+    {"w": "leather", "p": "/ˈleðə(r)/", "t": "n.", "z": "皮革"}
+   ]
+  },
+  {
+   "i": 39,
+   "zh": "“嗯。”（Yes。）",
+   "notes": [
+    "<code>Yuhhh</code> 是朽玛丽残破喉咙里挤出的 <code>Yes</code>，译文只作一个拉长的“嗯”，比译成“是”更像一声气音，也与后文她一长串含混音节形成轻重对比。",
+    "本段唯一的英文单词也放在括号里作对照，与第 35、37 段同一体例；<code>Yes.</code> 带句号，说明这是一句独立的答话，不是语气词。"
+   ],
+   "vocab": [
+    {"w": "Yuhhh", "p": "", "t": "int.", "z": "朽玛丽含糊的答应声，即 <code>Yes</code>；原文刻意把嗓音的黏浊拼出来"},
+    {"w": "(Yes.)", "p": "/jes/", "t": "adv.", "z": "是，是的；原文加括号给出标准拼写，供读者对照"} 
+   ]
+  },
+  {
+   "i": 40,
+   "zh": "过了一段时间。她教完了与死者交谈所需的技艺，她管这门技艺叫“骨诉之事”。我问她，我是不是跟任何一具尸首都能说话。",
+   "notes": [
+    "<code>She finished teaching me the skills required to speak with the dead</code>：<code>finish doing sth</code>＝做完某事（后接动名词）；<code>required to speak with the dead</code> 是过去分词短语作后置定语，修饰 <code>skills</code>（＝与死者交谈所需的那些本领）。",
+    "<code>a process she called ‘Stories- Bones-Tell’</code> 中，<code>a process</code> 是前面整句的同位语，<code>she called ...</code> 是省略了 <code>that</code> 的定语从句。原文这个名字排版上多了一个空格（<code>Stories- Bones-Tell</code>），实际就是 <code>Stories-Bones-Tell</code>，语气像不死者给孩子起的口诀名，译作“骨诉之事”。",
+    "<code>Some time passed.</code> 是一个单句成段的过渡，不写具体多久，只说“过了一段时间”；译文照此保留这种留白，把时间压缩成一句话。"
+   ],
+   "vocab": [
+    {"w": "Some time passed", "p": "", "t": "phr.", "z": "过了一段时间；单句成段，用于省略时间跨度"},
+    {"w": "skills", "p": "/skɪlz/", "t": "n.", "z": "技艺，本领（skill 的复数）"},
+    {"w": "required", "p": "/rɪˈkwaɪəd/", "t": "adj.", "z": "必需的，所需的（过去分词作定语）；<code>required to do sth</code>＝做某事所必需的"},
+    {"w": "Stories- Bones-Tell", "p": "", "t": "n.", "z": "“骨诉之事”；朽玛丽对与死者交谈之术的称呼"},
+    {"w": "dead body", "p": "", "t": "n.", "z": "死尸，尸首；此处泛指任何死者"}
+   ]
+  },
+  {
+   "i": 41,
+   "zh": "“有些……行。别的……太死……了。得……用……本事。”（Some. Others too dead. Must use skill.）我敢肯定，她要比哈格里姆好说话得多。",
+   "notes": [
+    "朽玛丽的答复由三个残句组成：<code>Some.</code>（有些行）、<code>Others too dead.</code>（另一些死得太透）、<code>Must use skill.</code>（须用技艺）。原文省掉了主语，译文同样不加主语，用省略号拉开每个词，模拟她一词一顿、气都接不上的样子。",
+    "<code>Others too dead.</code> 是省略句（＝<code>Others are too dead</code>）：<code>too</code> 在这里不是“也”，而是“太、过于”，扣在“死得太彻底就唤不回来”这层意思上，正与尘人所讲的“真死”相映。",
+    "<code>I was sure she would be more responsive than Hargrimm</code>：<code>responsive</code>＝肯回应、肯配合的，译文作“好说话”；<code>would be</code> 表对将来情形的推断。哈格里姆是先前那位端着架子、什么都不肯说的高阶祭司，两相对照，无名氏的判断才有分量。"
+   ],
+   "vocab": [
+    {"w": "Some", "p": "/sʌm/", "t": "pron.", "z": "有些，一部分（此处指有些死者能交谈）"},
+    {"w": "too dead", "p": "", "t": "phr.", "z": "死得太透（too＝过于）；此处指已无法唤醒"},
+    {"w": "skill", "p": "/skɪl/", "t": "n.", "z": "技艺，本事；此处指“骨诉之事”"},
+    {"w": "responsive", "p": "/rɪˈspɒnsɪv/", "t": "adj.", "z": "反应积极的，肯回应的；此处指好说话、肯帮忙"},
+    {"w": "Hargrimm", "p": "", "t": "n.", "z": "哈格里姆；亡者国度骷髅的高阶祭司，先前不肯通融"}
+   ]
+  },
+  {
+   "i": 42,
+   "zh": "“玛丽，我得跟沉默之王说话。你能帮我吗？”她盯着我，我明白她需要知道为什么。",
+   "notes": [
+    "<code>I need to speak with the Silent King.</code> 用 <code>need to</code> 直陈需求，不求情、不铺垫，是无名氏的典型口气；“沉默之王”是全章的核心专名，务必与术语统一。",
+    "<code>She stared at me, and I understood she needed to know why</code>：<code>stare at</code> 是“盯着看”，比 <code>look at</code> 更久、更有压迫感；<code>I understood</code> 后面省略了 <code>that</code>，<code>why</code> 是名词性从句（＝为什么），不是疑问句。",
+    "这一句的妙处在于把沉默读成质问：朽玛丽什么都没说，无名氏却从她的目光里读出“你得给我个理由”——译文用“她盯着我，我明白她需要知道为什么”保持这种由注视到领悟的推进。"
+   ],
+   "vocab": [
+    {"w": "Silent King", "p": "", "t": "n.", "z": "沉默之王；亡者国度的君主，本章核心专名"},
+    {"w": "speak with", "p": "", "t": "phr.", "z": "与……谈话（比 speak to 更含“交谈”之意）"},
+    {"w": "stared", "p": "/steəd/", "t": "v.", "z": "盯着看，凝视（stare 的过去式）"}
+   ]
+  },
+  {
+   "i": 43,
+   "zh": "“我得离开这地方，玛丽。我有太多事要做……只因为撞进了亡者国度就把我关在这里，这不公平。求你……我只求一点点怜悯。你能帮我吗？”朽玛丽静了一阵，然后点了点头。她指向北墙上三个传送门里的第一个。",
+   "notes": [
+    "<code>to be imprisoned here, simply for stumbling upon the Dead Nations</code>：<code>simply for</code> 表原因（＝仅仅因为），<code>stumble upon</code>＝无意中撞见、误打误撞碰上，<code>it isn’t right</code> 是无名氏罕有的直白抗议，译文作“这不公平”保留这份气。",
+    "<code>I ask only for a modicum of compassion</code>：<code>ask for</code>＝请求得到；<code>a modicum of</code> 是书面表达，指“一点点、极少量”，<code>compassion</code>＝怜悯、同情。无名氏平时寡言，这里却用上这样一个文绉绉的词，恰见他是认真在求。",
+    "<code>Stale Mary was quiet for a time, then nodded.</code> 中 <code>for a time</code>＝有一阵子；这一顿写的是她的迟疑与权衡。末句 <code>She pointed to the first of the three portals along the northern wall</code> 里 <code>the first of the three portals</code> 是“三个传送门中的第一个”，方位词 <code>northern</code> 定在“北墙”上，与下一段的 <code>northwest alcove</code>（西北壁龛）须区分清楚。"
+   ],
+   "vocab": [
+    {"w": "imprisoned", "p": "/ɪmˈprɪznd/", "t": "v.", "z": "被监禁，被关押（imprison 的过去分词）"},
+    {"w": "stumbling upon", "p": "", "t": "phr.", "z": "无意中撞见，偶然发现（stumble upon sth）"},
+    {"w": "modicum", "p": "/ˈmɒdɪkəm/", "t": "n.", "z": "一点点，少量；<code>a modicum of</code>＝一丝、一丁点"},
+    {"w": "compassion", "p": "/kəmˈpæʃn/", "t": "n.", "z": "同情，怜悯"},
+    {"w": "the three portals", "p": "", "t": "n.", "z": "那三个传送门（portal＝门、入口）；此处指北墙上的三座"}
+   ]
+  },
+  {
+   "i": 44,
+   "zh": "“闭、闭、闭上眼。想、想着、沉默、之王。走、走、穿过、西北、壁龛。但、但、但只、在我、还活、着的时候。”（Close eyes. Think of Silent King. Walk through northwest alcove. But only so long as I live.）",
+   "notes": [
+    "这一长串仍是朽玛丽含混的伪古语，但句式这次完整、还带着规程般的条理：四个短句（闭眼 → 想着沉默之王 → 穿过西北壁龛 → 但只在我活着时），像咒语又像临终许可。译文以顿号把每个字切开，模拟她一字一喘的断续，同时让读者仍能拼出整句意思。",
+    "<code>But only so long as I live</code> 中 <code>so long as</code>＝只要（＝<code>as long as</code>），<code>live</code> 是“活着”。这一句是全段最凉的一笔：她能替无名氏开门，全靠自己尚未彻底消亡——她已经老到只剩一口气，这句许可随时会作废。",
+    "<code>Walk through northwest alcove</code> 是祈使句，<code>through</code>＝穿过（从内部通过），与 <code>across</code>（横过表面）不同；<code>alcove</code> 指墙上的凹室、壁龛，所以是穿过壁龛进入别处。译文作“西北壁龛”，与上一段北墙的三个传送门对应。"
+   ],
+   "vocab": [
+    {"w": "Close eyes", "p": "", "t": "phr.", "z": "闭上眼睛；祈使句，省去了 <code>your</code>"},
+    {"w": "Think of", "p": "", "t": "phr.", "z": "想着，念及（think of sth）"},
+    {"w": "northwest alcove", "p": "", "t": "n.", "z": "西北壁龛，西北凹室（alcove＝墙上的凹进处）"},
+    {"w": "so long as", "p": "", "t": "phr.", "z": "只要；＝<code>as long as</code>，引导条件状语从句"},
+    {"w": "I live", "p": "", "t": "phr.", "z": "我还活着；此处指朽玛丽尚未彻底消亡"}
+   ]
+  }
+ ]
+}

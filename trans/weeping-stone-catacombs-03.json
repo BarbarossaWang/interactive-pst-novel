@@ -1,0 +1,662 @@
+{
+ "chapter": "Weeping Stone Catacombs",
+ "chunk": "weeping-stone-catacombs-03",
+ "items": [
+  {
+   "i": 45,
+   "zh": "（那是苦痛。正是它把所有受尽折磨的灵魂都引向你。）费尔朝我的左臂、我的肩膀点了点头。（肉身知道自己受了苦，哪怕心智已经忘了。所以你才一直戴着那枚符文。）接下来该说我来这儿要问的事了。",
+   "notes": [
+    "费尔是达布斯，不能开口说话，全章都用符号图案与人交流；原文把他的“话”一律放在圆括号里，与无名氏、莫提等人的引号对白区分开，中文按本项目惯例用 <code>（）</code> 承接，全书统一。",
+    "<code>It is that which draws all tormented souls to you.</code> 用的是 <code>It is … that which …</code> 的强调句式，<code>that which</code>＝<code>the thing that</code>，比单个 <code>what</code> 更郑重，故译“正是它把……”。",
+    "<code>Now for what I had brought with me.</code> 是省略句，<code>Now for …</code> 用来把话头一转（“接下来是……”），此处指无名氏终于开口问自己带来的那条断臂。"
+   ],
+   "vocab": [
+    {
+     "w": "torment",
+     "p": "/ˈtɔːment/",
+     "t": "n.",
+     "z": "苦痛，折磨；本书书名即《异域镇魂曲》，此处又扣回无名氏臂上的“苦痛”符文"
+    },
+    {
+     "w": "tormented",
+     "p": "/tɔːˈmentɪd/",
+     "t": "adj.",
+     "z": "受折磨的，受苦的（torment 的过去分词作形容词）"
+    },
+    {
+     "w": "flesh",
+     "p": "/fleʃ/",
+     "t": "n.",
+     "z": "肉身，血肉；与后文“心智”（mind）相对"
+    },
+    {
+     "w": "suffers",
+     "p": "/ˈsʌfəz/",
+     "t": "v.",
+     "z": "遭受痛苦（suffer 的第三人称单数）"
+    },
+    {
+     "w": "rune",
+     "p": "/ruːn/",
+     "t": "n.",
+     "z": "符文，刻符；此处指无名氏左臂／肩上那枚“苦痛”印记"
+    }
+   ]
+  },
+  {
+   "i": 46,
+   "zh": "“我捡到的这条断臂上那些纹身，是你刺的吗，费尔？”费尔看了一会儿，用手指描过那些花纹。然后他抬起头，一串画谜在上方成形，先是模模糊糊，随即清晰地聚焦起来。",
+   "notes": [
+    "<code>Did you do the tattoos …?</code> 中的 <code>do</code> 是口语里“做、弄、刺（纹身）”的万能动词，不译“做纹身”而译“刺的吗”，更合中文说法。",
+    "<code>rebuses</code> 指用图像、符号拼出意思的“画谜”，正是达布斯的语言；<code>hazy at first, then came sharply into focus</code> 是本章写他符号变化的固定句式（第 30、55 段重复出现），译文一律作“先模糊、后清晰聚焦”。"
+   ],
+   "vocab": [
+    {
+     "w": "dismembered",
+     "p": "/dɪsˈmembəd/",
+     "t": "adj.",
+     "z": "被肢解的，被砍下的（dismember 的过去分词）"
+    },
+    {
+     "w": "examined",
+     "p": "/ɪɡˈzæmɪnd/",
+     "t": "v.",
+     "z": "仔细查看（examine 的过去式）"
+    },
+    {
+     "w": "tracing",
+     "p": "/ˈtreɪsɪŋ/",
+     "t": "v.",
+     "z": "描摹，顺着……划过去（trace 的现在分词）"
+    },
+    {
+     "w": "rebuses",
+     "p": "/ˈriːbəsɪz/",
+     "t": "n.",
+     "z": "画谜，字谜画（rebus 的复数）；以图形符号表意的谜语式图画"
+    },
+    {
+     "w": "hazy",
+     "p": "/ˈheɪzi/",
+     "t": "adj.",
+     "z": "模糊的，朦胧的；此处形容符号刚出现时看不清"
+    }
+   ]
+  },
+  {
+   "i": 47,
+   "zh": "（那条手臂是你的。纹身是我刺的。其中一处纹身讲的是这样一段时日：当年与你同行的人，还有另外四个。）",
+   "notes": [
+    "<code>One tattoo speaks of a time when your path was shared by four others.</code> 用了被动语态 <code>was shared by</code>，句子的重心落在 <code>a time</code> 上，所以先译出“一段时日”，再用“当年与你同行的人，还有另外四个”补出细节。",
+    "<code>speak of</code> 在此是“讲述、提到”，不是“谈论”；主语是纹身，属拟物用法。"
+   ],
+   "vocab": [
+    {
+     "w": "tattoo",
+     "p": "/tæˈtuː/",
+     "t": "n.",
+     "z": "纹身，刺青（本章的核心线索）"
+    },
+    {
+     "w": "speaks",
+     "p": "/spiːks/",
+     "t": "v.",
+     "z": "讲述，提到（speak of＝谈到、讲到）"
+    },
+    {
+     "w": "path",
+     "p": "/pɑːθ/",
+     "t": "n.",
+     "z": "道路，人生路途；<code>your path</code> 指无名氏走过的命途"
+    },
+    {
+     "w": "shared",
+     "p": "/ʃeəd/",
+     "t": "v.",
+     "z": "被分享，被共同走过（share 的过去分词，此处为被动语态）"
+    }
+   ]
+  },
+  {
+   "i": 48,
+   "zh": "“另外四个是谁？”四串符号从费尔头顶旋绕而出，与断臂上的花纹一一对应。",
+   "notes": [
+    "<code>What four others?</code> 是省略式追问，等于 <code>What four others [do you mean]?</code>；无名氏的问话一贯简短，译文保留这种直问。",
+    "<code>matching the pattern</code> 是现在分词短语作伴随状语，说明符号与臂上花纹相合，中文用“一一对应”收束。"
+   ],
+   "vocab": [
+    {
+     "w": "strings",
+     "p": "/strɪŋz/",
+     "t": "n.",
+     "z": "串，一串（string 的复数；此处指成串的符号）"
+    },
+    {
+     "w": "symbols",
+     "p": "/ˈsɪmblz/",
+     "t": "n.",
+     "z": "符号，标记（symbol 的复数）"
+    },
+    {
+     "w": "swirled",
+     "p": "/swɜːld/",
+     "t": "v.",
+     "z": "盘旋，打旋（swirl 的过去式）"
+    },
+    {
+     "w": "matching",
+     "p": "/ˈmætʃɪŋ/",
+     "t": "v.",
+     "z": "与……相配，对应（match 的现在分词）"
+    },
+    {
+     "w": "pattern",
+     "p": "/ˈpætn/",
+     "t": "n.",
+     "z": "花纹，图案，样式"
+    }
+   ]
+  },
+  {
+   "i": 49,
+   "zh": "（它们讲的是四个。要我把他们的心念说给你听吗？）我示意他继续。那些符号在我眼前旋绕，我把它们一块块拼了起来。",
+   "notes": [
+    "<code>their hearts</code> 译“他们的心念”，因为费尔讲述的是四人各怀的心事、执念，而不是生理意义上的心脏。",
+    "<code>I motioned him to go on.</code> 用 <code>motion sb to do sth</code>（示意某人做某事）；<code>go on</code> 在此是“继续（说）下去”，不是“走开”。",
+    "<code>piece them together</code> 是固定搭配“把碎片拼合起来、拼凑出意思”，与后文一段段读出四句话相呼应。"
+   ],
+   "vocab": [
+    {
+     "w": "motioned",
+     "p": "/ˈməʊʃnd/",
+     "t": "v.",
+     "z": "向……示意（motion 的过去式）"
+    },
+    {
+     "w": "hearts",
+     "p": "/hɑːts/",
+     "t": "n.",
+     "z": "内心，心念（heart 的复数）"
+    },
+    {
+     "w": "swirled",
+     "p": "/swɜːld/",
+     "t": "v.",
+     "z": "盘旋，回旋（swirl 的过去式）"
+    },
+    {
+     "w": "pieced",
+     "p": "/piːst/",
+     "t": "v.",
+     "z": "拼合（piece together＝把……拼凑起来）"
+    }
+   ]
+  },
+  {
+   "i": 50,
+   "zh": "（一个不被爱的人，爱着一个不爱他的人。）",
+   "notes": [
+    "<code>One unloved who loves one who does not love.</code> 是费尔特有的省略句：<code>One unloved</code> 后省略了 <code>person</code>，两个 <code>one</code> 分别指“一个人”和“另一个人”，<code>who</code> 引导的定语从句层层套叠，读起来像绕口令，译文也用回环句式保留这层缠绕感。",
+    "这一句与后三句构成一组平行结构，都以 <code>One …</code> 开头，是四段谜语式的判词。"
+   ],
+   "vocab": [
+    {
+     "w": "unloved",
+     "p": "/ʌnˈlʌvd/",
+     "t": "adj.",
+     "z": "不被爱的（un- 加 loved 构成否定形容词）"
+    },
+    {
+     "w": "loves",
+     "p": "/lʌvz/",
+     "t": "v.",
+     "z": "爱（love 的第三人称单数）"
+    },
+    {
+     "w": "does not love",
+     "p": "",
+     "t": "phr.",
+     "z": "不爱；<code>does not</code> 在此是实义动词 love 的否定助动词"
+    }
+   ]
+  },
+  {
+   "i": 51,
+   "zh": "（一个看不见旁人所见、却看得见旁人看不见之物的人。）",
+   "notes": [
+    "<code>does not see what others see and sees what others do not.</code> 两个分句用同一动词 <code>see</code> 正反相对（<code>does not see</code> 对 <code>sees</code>），构成对称的对照句式，中文以“看不见……却看得见……”保留这对反差。",
+    "第二个 <code>what others do not</code> 后省略了动词 <code>see</code>，是英语里常见的避免重复的省略。"
+   ],
+   "vocab": [
+    {
+     "w": "sees",
+     "p": "/siːz/",
+     "t": "v.",
+     "z": "看见（see 的第三人称单数）"
+    },
+    {
+     "w": "others",
+     "p": "/ˈʌðəz/",
+     "t": "pron.",
+     "z": "别人，其他人"
+    },
+    {
+     "w": "do not",
+     "p": "",
+     "t": "phr.",
+     "z": "不（助动词否定式；此处后省略了实义动词 see）"
+    }
+   ]
+  },
+  {
+   "i": 52,
+   "zh": "（一个与你相熟、被责任捆住的人。）",
+   "notes": [
+    "<code>is familiar and bound with duty</code> 是两个并列的过去分词／形容词短语，<code>be bound with</code>＝“被……束缚住”，此处指此人身负职责、脱不开身。",
+    "<code>familiar</code> 在此不是“熟悉的（事物）”，而是“熟识的（人）”，故译“与你相熟”。"
+   ],
+   "vocab": [
+    {
+     "w": "familiar",
+     "p": "/fəˈmɪliə/",
+     "t": "adj.",
+     "z": "熟识的，熟悉的；此处指关系亲近相熟"
+    },
+    {
+     "w": "bound",
+     "p": "/baʊnd/",
+     "t": "adj.",
+     "z": "被束缚的（bind 的过去分词，<code>be bound with</code>＝被……捆住）"
+    },
+    {
+     "w": "duty",
+     "p": "/ˈdjuːti/",
+     "t": "n.",
+     "z": "责任，职责，本分"
+    }
+   ]
+  },
+  {
+   "i": 53,
+   "zh": "（一个身为奴隶、锁链便是言语的人。）",
+   "notes": [
+    "<code>his chains are words</code> 是隐喻：这个人的枷锁不是铁链而是言语（誓言、经文、契约之类），译文保留“锁链便是言语”这个判断句，不加解释。",
+    "原文两句用 <code>and</code> 直接并列，节奏短促，中文用顿号断开再加“便是”，保持同样短促的判词感。"
+   ],
+   "vocab": [
+    {
+     "w": "slave",
+     "p": "/sleɪv/",
+     "t": "n.",
+     "z": "奴隶，奴仆"
+    },
+    {
+     "w": "chains",
+     "p": "/tʃeɪnz/",
+     "t": "n.",
+     "z": "锁链，镣铐（chain 的复数）"
+    },
+    {
+     "w": "words",
+     "p": "/wɜːdz/",
+     "t": "n.",
+     "z": "言语，话语（word 的复数）"
+    }
+   ]
+  },
+  {
+   "i": 54,
+   "zh": "等我译完，那四串符号似乎自己结成了环扣，彼此合成了一条锁链……锁链又弯曲起来，成了我认得的一个符号——我臂上那枚苦痛的符号。",
+   "notes": [
+    "原文 <code>translaking</code> 是 <code>translat</code>（<code>translate</code> 之误）加 <code>-ing</code> 的拼写错误，全章仅此一处，属排印／作者笔误，译文照“译完”处理，不必在正文中标注。",
+    "<code>form themselves into links, and they merged into a chain</code>：<code>links</code> 是锁链的一节环扣，<code>merged into</code>＝“合并成”，两步动作写出符号由散到合的过程——四人的命运最终拧成无名氏身上的苦痛印记。",
+    "破折号后的 <code>the symbol of torment on my arm</code> 是同位语，用来点明前面那个“我认得的符号”究竟是什么。"
+   ],
+   "vocab": [
+    {
+     "w": "links",
+     "p": "/lɪŋks/",
+     "t": "n.",
+     "z": "链环，一环（link 的复数）"
+    },
+    {
+     "w": "merged",
+     "p": "/mɜːdʒd/",
+     "t": "v.",
+     "z": "合并，融合（merge 的过去式）"
+    },
+    {
+     "w": "chain",
+     "p": "/tʃeɪn/",
+     "t": "n.",
+     "z": "锁链，链条"
+    },
+    {
+     "w": "bent",
+     "p": "/bent/",
+     "t": "v.",
+     "z": "弯曲（bend 的过去式）"
+    },
+    {
+     "w": "recognized",
+     "p": "/ˈrekəɡnaɪzd/",
+     "t": "v.",
+     "z": "认出，认得（recognize 的过去式）"
+    }
+   ]
+  },
+  {
+   "i": 55,
+   "zh": "“你刚才说手臂上还有别的纹身？还有什么？”费尔又把那条手臂看了一遍，描过表面那些褪色的纹身。他每描一处，那一处就在他头顶浮现成一个符号，先是模糊的，随后清晰地聚拢起来。他转过身面对我。",
+   "notes": [
+    "<code>What others?</code> 是省略式追问，等于 <code>What other tattoos [are there]?</code>，译文用“还有什么”保留无名氏简短、不客气的问法。",
+    "<code>As he did</code> 中的 <code>did</code> 是代动词，代替前面的 <code>traced the other faded tattoos</code>，避免重复，译作“他每描一处”。",
+    "<code>they each appeared as a symbol above his head</code> 是 <code>appear as</code>（以……的形式出现）结构；本段与第 46 段同样是“先模糊、后聚焦”的写法，译文措辞保持一致。"
+   ],
+   "vocab": [
+    {
+     "w": "mentioned",
+     "p": "/ˈmenʃnd/",
+     "t": "v.",
+     "z": "提到，说起（mention 的过去式）"
+    },
+    {
+     "w": "faded",
+     "p": "/ˈfeɪdɪd/",
+     "t": "adj.",
+     "z": "褪色的，淡去的（fade 的过去分词作定语）"
+    },
+    {
+     "w": "surface",
+     "p": "/ˈsɜːfɪs/",
+     "t": "n.",
+     "z": "表面，表层"
+    },
+    {
+     "w": "appeared",
+     "p": "/əˈpɪəd/",
+     "t": "v.",
+     "z": "出现，显现（appear 的过去式）"
+    },
+    {
+     "w": "focus",
+     "p": "/ˈfəʊkəs/",
+     "t": "n.",
+     "z": "焦点；<code>come into focus</code>＝（影像）变清晰"
+    }
+   ]
+  },
+  {
+   "i": 56,
+   "zh": "（一些被遗忘的，如今又被记起了。你愿意的话，可以再把它们戴上。）",
+   "notes": [
+    "<code>Ones forgotten, now remembered.</code> 是两个过去分词短语并列作后置定语，<code>ones</code> 承前指那些纹身；中文用“一些……的”结构收束，不用完整句，与费尔断续、非人的说话方式相符。",
+    "<code>You may wear them again if you wish.</code> 中 <code>may</code> 表许可（“可以”），<code>if you wish</code> 是委婉的条件句；<code>wear</code> 用“戴／穿”而非“刺”，因为费尔的纹身可以随时取下、再贴上，如衣物一般。"
+   ],
+   "vocab": [
+    {
+     "w": "forgotten",
+     "p": "/fəˈɡɒtn/",
+     "t": "v.",
+     "z": "被遗忘的（forget 的过去分词）"
+    },
+    {
+     "w": "remembered",
+     "p": "/rɪˈmembəd/",
+     "t": "v.",
+     "z": "被记起的（remember 的过去分词，与前半句形成对照）"
+    },
+    {
+     "w": "wear",
+     "p": "/weə/",
+     "t": "v.",
+     "z": "佩戴，穿戴；此处指把纹身“贴”在身上"
+    },
+    {
+     "w": "wish",
+     "p": "/wɪʃ/",
+     "t": "v.",
+     "z": "愿意，希望（if you wish＝如果你愿意）"
+    }
+   ]
+  },
+  {
+   "i": 57,
+   "zh": "费尔有一样特别的本事：他能做出魔法纹身，可以随人的心意戴上或取下。除了店里现成的那批纹身，我发现他还能依据我的经历、以及我带来的那条断臂，做出新的纹身来。他用他那种图画语言，把能照着那条断臂做出来的纹身给我看，并一一作了解释。",
+   "notes": [
+    "<code>which could be worn or taken off at will</code> 是定语从句修饰 <code>magical tattoos</code>，被动语态加 <code>at will</code>（随意、随心）说明这种纹身非永久性，与上一段费尔的话相合。",
+    "<code>Besides his stock of ready made tattoos</code> 中 <code>stock</code> 指店里的存货，<code>ready made</code>（原文未加连字符）即“现成的、预先做好的”。",
+    "<code>based on …</code> 出现两次（<code>based on my experiences</code>、<code>based on the arm</code>），都是过去分词短语作后置定语，中文分别译作“依据……”和“照着……”。"
+   ],
+   "vocab": [
+    {
+     "w": "talent",
+     "p": "/ˈtælənt/",
+     "t": "n.",
+     "z": "才能，天赋"
+    },
+    {
+     "w": "magical",
+     "p": "/ˈmædʒɪkl/",
+     "t": "adj.",
+     "z": "魔法的，有魔力的"
+    },
+    {
+     "w": "at will",
+     "p": "",
+     "t": "phr.",
+     "z": "随意，随心所欲地"
+    },
+    {
+     "w": "stock",
+     "p": "/stɒk/",
+     "t": "n.",
+     "z": "存货，储备；此处指店里现成的纹身"
+    },
+    {
+     "w": "experiences",
+     "p": "/ɪkˈspɪəriənsɪz/",
+     "t": "n.",
+     "z": "经历，阅历（experience 的复数）"
+    }
+   ]
+  },
+  {
+   "i": 58,
+   "zh": "有一种他称作“迷失化身之纹身”的，讲的是我某一世化身的经历……那些符号和故事我全然不识，但它似乎讲述的是这样一段时日：我迷失在蜂巢的街头，被人遗弃，只能靠抢劫和偷窃路上遇到的人勉强糊口。那个迷失的化身犯下的罪案，最终逼得他躲进泣石地下墓穴，在那里活了将近一年。",
+   "notes": [
+    "<code>A tattoo which he termed the Tattoo of the Lost Incarnation</code>：<code>term</code> 作动词是“把……称作、命名为”，比 <code>call</code> 更正式；<code>incarnation</code> 在本书里是专门概念，指无名氏的一次次“转世／化身”，译文统一作“化身”。",
+    "<code>told of …</code> 后接由 <code>it seemed to tell of a time when …</code> 引出的内容，<code>when</code> 引导定语从句修饰 <code>a time</code>；<code>barely able to make a living robbing and stealing from others</code> 中 <code>able to …</code> 是形容词短语作伴随状语，两个动名词 <code>robbing and stealing</code> 说明谋生手段。",
+    "<code>drove him to seek shelter</code> 用 <code>drive sb to do sth</code>（迫使某人做某事），罪案成了逼迫他的力量；<code>shelter</code> 译“躲进／栖身”，不是“避难所”实体。"
+   ],
+   "vocab": [
+    {
+     "w": "termed",
+     "p": "/tɜːmd/",
+     "t": "v.",
+     "z": "把……称作（term 的过去式，较正式）"
+    },
+    {
+     "w": "Incarnation",
+     "p": "/ˌɪnkɑːˈneɪʃn/",
+     "t": "n.",
+     "z": "化身，转世之身；本书专指无名氏的某一世"
+    },
+    {
+     "w": "abandoned",
+     "p": "/əˈbændənd/",
+     "t": "v.",
+     "z": "被遗弃的，被抛弃的（abandon 的过去分词）"
+    },
+    {
+     "w": "barely",
+     "p": "/ˈbeəli/",
+     "t": "adv.",
+     "z": "几乎不能，勉强"
+    },
+    {
+     "w": "shelter",
+     "p": "/ˈʃeltə/",
+     "t": "n.",
+     "z": "庇护，藏身处；<code>seek shelter</code>＝寻求栖身之所"
+    }
+   ]
+  },
+  {
+   "i": 59,
+   "zh": "另一枚出于同一时期的，叫“消蚀黑暗之纹身”，讲的是我在街市底下寻找栖身之所，被迫过得像个影子：躲开印记城官府的察觉，也尽力不叫泣石地下墓穴里更危险的住民发现我。",
+   "notes": [
+    "<code>Another, the Tattoo of Wasting Darkness, from the same time, told of when …</code>：主语 <code>Another</code> 后跟同位语，逗号把三处插入成分隔开，句子被切得很碎；译文用“另一枚出于同一时期的，叫……”这样的短句重组，避免一口气拖到底。",
+    "<code>live as a shadow might</code> 是 <code>as</code> 引导的方式状语从句，后面省略了重复的动词，等于 <code>as a shadow might live</code>，故译“过得像个影子”。",
+    "<code>hiding from detection by the Sigil authorities and trying to conceal myself from …</code> 是两个并列的现在分词短语作伴随／方式状语，<code>detection</code> 是“被发现、被察觉”，<code>conceal oneself from</code>＝“把自己藏起来不让……看见”。"
+   ],
+   "vocab": [
+    {
+     "w": "Wasting",
+     "p": "/ˈweɪstɪŋ/",
+     "t": "adj.",
+     "z": "侵蚀的，消损的（waste 的现在分词作定语）"
+    },
+    {
+     "w": "Darkness",
+     "p": "/ˈdɑːknəs/",
+     "t": "n.",
+     "z": "黑暗；此处用作纹身名的一部分"
+    },
+    {
+     "w": "detection",
+     "p": "/dɪˈtekʃn/",
+     "t": "n.",
+     "z": "察觉，发现，侦知"
+    },
+    {
+     "w": "authorities",
+     "p": "/ɔːˈθɒrətiz/",
+     "t": "n.",
+     "z": "当局，官府（authority 的复数）"
+    },
+    {
+     "w": "conceal",
+     "p": "/kənˈsiːl/",
+     "t": "v.",
+     "z": "隐藏，隐匿"
+    }
+   ]
+  },
+  {
+   "i": 60,
+   "zh": "讲述这段时日的最后一枚，是“泣石之纹身”——那时候，印记城街道底下的墓穴就是我的第二个家。它讲的是我一路下到坟墓深处，在黑暗里过活，渐渐懂得了印记城底下的石头为何会哭泣。",
+   "notes": [
+    "<code>The last which told of this time</code>：<code>last</code> 后省略了 <code>tattoo</code>，<code>which</code> 引导定语从句；译文补出“纹身”二字，中文才能自立。",
+    "<code>when the catacombs … were my second home</code> 是 <code>when</code> 引导的定语从句修饰 <code>this time</code>，可理解为“在那段时日里”；<code>second home</code> 是固定说法“第二个家”，指待得极熟、像家一样的地方。",
+    "<code>coming to learn</code> 的 <code>come to do</code> 表示“逐渐、终于（懂得）”，与前面的 <code>travelling</code>、<code>living</code> 三个动名词并列，但语义上是前两个的结果，译文用“渐渐懂得了”点出这层递进；<code>why the stones beneath Sigil weep</code> 是 <code>the nature of</code> 的同位从句，扣回本章开头石面流泪的意象。"
+   ],
+   "vocab": [
+    {
+     "w": "tombs",
+     "p": "/tuːmz/",
+     "t": "n.",
+     "z": "坟墓，墓室（tomb 的复数）"
+    },
+    {
+     "w": "darkness",
+     "p": "/ˈdɑːknəs/",
+     "t": "n.",
+     "z": "黑暗，暗处"
+    },
+    {
+     "w": "learn",
+     "p": "/lɜːn/",
+     "t": "v.",
+     "z": "得知，懂得；<code>come to learn</code>＝逐渐明白"
+    },
+    {
+     "w": "nature",
+     "p": "/ˈneɪtʃə/",
+     "t": "n.",
+     "z": "本质，本性；<code>the nature of why …</code>＝……的缘由所在"
+    },
+    {
+     "w": "weep",
+     "p": "/wiːp/",
+     "t": "v.",
+     "z": "哭泣，流泪；本章标题 Weeping Stone 即由此而来"
+    }
+   ]
+  },
+  {
+   "i": 61,
+   "zh": "我又看了一会儿他别的纹身，拿定主意等日后有更多时间和钱币时，再回来买上一件。出了门，我重新和众人会合。果然，莫提照例要开个玩笑。",
+   "notes": [
+    "<code>resolved to come back and make a purchase</code>：<code>resolve to do sth</code>＝“下定决心做某事”，<code>make a purchase</code> 是 <code>buy</code> 的正式说法，此处带点自嘲的郑重，译“再回来买上一件”。",
+    "<code>Typically, Morte had to make a joke.</code> 中的 <code>typically</code> 单独置于句首，表示“一如往常、不出所料”，语气里带叙述者的无奈；<code>had to</code> 不是“不得不”，而是“总免不了、照例要”。"
+   ],
+   "vocab": [
+    {
+     "w": "examined",
+     "p": "/ɪɡˈzæmɪnd/",
+     "t": "v.",
+     "z": "查看，端详（examine 的过去式）"
+    },
+    {
+     "w": "resolved",
+     "p": "/rɪˈzɒlvd/",
+     "t": "v.",
+     "z": "下定决心（resolve to do sth 的过去式）"
+    },
+    {
+     "w": "purchase",
+     "p": "/ˈpɜːtʃəs/",
+     "t": "n.",
+     "z": "购买；<code>make a purchase</code>＝买一件东西"
+    },
+    {
+     "w": "jink",
+     "p": "/dʒɪŋk/",
+     "t": "n.",
+     "z": "（印记城俚语）钱币，钱"
+    },
+    {
+     "w": "rejoined",
+     "p": "/ˌriːˈdʒɔɪnd/",
+     "t": "v.",
+     "z": "重新加入，与……重新会合（rejoin 的过去式）"
+    }
+   ]
+  },
+  {
+   "i": 62,
+   "zh": "“我就知道你会回来，头儿！总算明白了你需要我，对吧？”我在里面打听到的事，我一句没说——本来也没多少。",
+   "notes": [
+    "<code>I knew you'd be back, chief!</code> 中 <code>you'd</code>＝<code>you would</code>；<code>chief</code> 是莫提对无名氏一贯的称呼，全章统一译“头儿”，<code>huh?</code> 是句末求认同的口气词，译“对吧？”。",
+    "<code>I remained silent on what I had learned inside</code> 中 <code>remain silent on sth</code>＝“对某事闭口不提、保持沉默”；<code>little enough that it was</code> 是 <code>little</code> 提前的倒装式让步／评注（＝<code>as little as it was</code>），意思近似“本来也少得可怜”，译文用“本来也没多少”收尾，保留无名氏简短、隐忍的口吻。"
+   ],
+   "vocab": [
+    {
+     "w": "knew",
+     "p": "/njuː/",
+     "t": "v.",
+     "z": "知道（know 的过去式）"
+    },
+    {
+     "w": "realized",
+     "p": "/ˈriːəlaɪzd/",
+     "t": "v.",
+     "z": "意识到，明白过来（realize 的过去式）"
+    },
+    {
+     "w": "remained",
+     "p": "/rɪˈmeɪnd/",
+     "t": "v.",
+     "z": "保持（某状态）；<code>remain silent on</code>＝对……闭口不谈"
+    },
+    {
+     "w": "silent",
+     "p": "/ˈsaɪlənt/",
+     "t": "adj.",
+     "z": "沉默的，一言不发的"
+    }
+   ]
+  }
+ ]
+}

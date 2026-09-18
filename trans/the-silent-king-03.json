@@ -1,0 +1,669 @@
+{
+ "chapter": "The Silent King",
+ "chunk": "the-silent-king-03",
+ "items": [
+  {
+   "i": 45,
+   "zh": "我谢过她，走向她所指的那处壁龛。我闭上眼，想着沉默之王，向前迈出一步。",
+   "notes": [
+    "<code>the indicated alcove</code> 是“她所指的那处壁龛”，<code>indicated</code> 在此是“指明的”，不是“暗示的”；与上一段朽玛丽指向北墙三座传送门之首相呼应。",
+    "<code>thought of the Silent King, and stepped forward</code> 用两个并列的过去式把动作一气写完，中文也顺着短句走，不作解释性扩充——这正是本段朴素的叙述腔。"
+   ],
+   "vocab": [
+    {
+     "w": "thanked",
+     "p": "/θæŋkt/",
+     "t": "v.",
+     "z": "感谢（thank 的过去式）"
+    },
+    {
+     "w": "indicated",
+     "p": "/ˈɪndɪkeɪtɪd/",
+     "t": "adj.",
+     "z": "所指明的，被指出的（indicate 的过去分词作定语）"
+    },
+    {
+     "w": "alcove",
+     "p": "/ˈælkəʊv/",
+     "t": "n.",
+     "z": "壁龛，墙上凹进去的一小块空间；此处即通往沉默之王处所的传送门"
+    },
+    {
+     "w": "stepped",
+     "p": "/stept/",
+     "t": "v.",
+     "z": "迈步，踏出（step 的过去式）"
+    }
+   ]
+  },
+  {
+   "i": 46,
+   "zh": "我睁开眼，发现自己已经传送到一间宽阔的厅堂里。厅堂正中矗立着一座圆形高台，高出地面约有一人高。高台中央摆着一张王座，座上是一具骷髅般的身影。我向前走去。我看见哈格里姆也在厅里，他叫喊起来。",
+   "notes": [
+    "<code>I had portaled to …</code> 里 <code>portal</code> 被当动词用（“经由传送门抵达”），属游戏小说里常见的名词动用，译“传送到了”。",
+    "<code>raised a man’s height above the floor</code> 是名词短语作后置状语表高度，“比地面高出一个人那么高”；<code>a man’s height</code> 这种量法比数字更有画面感。",
+    "<code>It was dominated by …</code> 直译是“被……主宰”，中文转成“正中矗立着……”，既保留“一进门视线就被它占满”的意味，又合中文语序。"
+   ],
+   "vocab": [
+    {
+     "w": "portaled",
+     "p": "/ˈpɔːtəld/",
+     "t": "v.",
+     "z": "通过传送门抵达（portal 作动词的过去式）；portal 本义“传送门”"
+    },
+    {
+     "w": "chamber",
+     "p": "/ˈtʃeɪmbə/",
+     "t": "n.",
+     "z": "厅堂，室；比 room 更庄重，多用于地下墓穴、王庭一类场所"
+    },
+    {
+     "w": "dais",
+     "p": "/ˈdeɪɪs/",
+     "t": "n.",
+     "z": "（厅内供王座、讲台用的）高台，台座"
+    },
+    {
+     "w": "throne",
+     "p": "/θrəʊn/",
+     "t": "n.",
+     "z": "王座，宝座"
+    },
+    {
+     "w": "skeletal",
+     "p": "/ˈskelətl/",
+     "t": "adj.",
+     "z": "骷髅般的，骨瘦如柴的；此处指端坐王座的那具枯骨身影"
+    }
+   ]
+  },
+  {
+   "i": 47,
+   "zh": "“住手，这是亵渎！不许靠近沉默之王！”我不理他，继续向前，登上高台，要当面质问沉默之王。哈格里姆也上前来拦我。",
+   "notes": [
+    "<code>Stop this heresy!</code> 是祈使句式的喝止，<code>heresy</code> 本指“异端邪说”，在此是宗教性的重话，译“亵渎”更贴中文的喝斥口气。",
+    "<code>Do not approach the Silent King!</code> 用 <code>Do not</code> 而非 <code>Don’t</code>，语气古板严厉，符合哈格里姆一贯的祭司法相。",
+    "本段两处 <code>confront</code>（<code>to confront the Silent King</code> / <code>to confront me</code>）形成对照：一个是无名氏去“质问”，一个是哈格里姆来“拦阻对峙”，中文按角色分译以免重复。"
+   ],
+   "vocab": [
+    {
+     "w": "heresy",
+     "p": "/ˈherəsi/",
+     "t": "n.",
+     "z": "异端，亵渎之举；此处哈格里姆把无名氏逼近王座视为对信仰的冒犯"
+    },
+    {
+     "w": "approach",
+     "p": "/əˈprəʊtʃ/",
+     "t": "v.",
+     "z": "靠近，接近"
+    },
+    {
+     "w": "ignored",
+     "p": "/ɪɡˈnɔːd/",
+     "t": "v.",
+     "z": "不理会，无视（ignore 的过去式）"
+    },
+    {
+     "w": "climbing",
+     "p": "/ˈklaɪmɪŋ/",
+     "t": "v.",
+     "z": "攀登，登上（climb 的现在分词，与 continued 并列）"
+    },
+    {
+     "w": "confront",
+     "p": "/kənˈfrʌnt/",
+     "t": "v.",
+     "z": "当面质问，直面；也有“对抗、拦阻”之义"
+    }
+   ]
+  },
+  {
+   "i": 48,
+   "zh": "“这么说，你终究还是来了。”那骷髅转向那张巨大的王座凝视着。“你在这里看到的，便是我们文明的终局。”王座上那个身影纹丝不动。我抬手指向王座上的那位。",
+   "notes": [
+    "<code>thou have come</code> 是仿古英语的说法，正经的早期现代英语应作 <code>thou hast come</code>；哈格里姆一类不死者说话都带古意，偶尔也出格，译文用“你终究还是来了”这类略带古意的书面语承接。",
+    "<code>the end of our culture</code> 直译“我们文化的终结”，此处指整个沉默者文明的结局／终局，译“终局”更有分量。",
+    "<code>the throne’s occupant</code>＝“王座上的占有者／坐者”，中文说“王座上的那位”最自然，也照应前句“纹丝不动”的悬念。"
+   ],
+   "vocab": [
+    {
+     "w": "thou",
+     "p": "/ðaʊ/",
+     "t": "pron.",
+     "z": "你（古体，主格）；不死者的对白里一律用古语，本段起多次出现"
+    },
+    {
+     "w": "gaze",
+     "p": "/ɡeɪz/",
+     "t": "v.",
+     "z": "凝视，注视（长时间地看）"
+    },
+    {
+     "w": "massive",
+     "p": "/ˈmæsɪv/",
+     "t": "adj.",
+     "z": "巨大的，厚重的"
+    },
+    {
+     "w": "culture",
+     "p": "/ˈkʌltʃə/",
+     "t": "n.",
+     "z": "文化，文明；此处指沉默者苦心维系的一整套制度与信仰"
+    },
+    {
+     "w": "occupant",
+     "p": "/ˈɒkjʊpənt/",
+     "t": "n.",
+     "z": "占用者，占据者；此处指端坐王座的那具枯骨"
+    }
+   ]
+  },
+  {
+   "i": 49,
+   "zh": "“那就是沉默之王？”",
+   "notes": [
+    "无名氏的对白一贯极短，此句只有七个音节，译文也保持干脆，不作任何补语或语气词——他此刻是在确认，不是在感叹。",
+    "<code>that</code> 在此指远处王座上的人（远指用 that 而非 this），中文用“那”对应。"
+   ],
+   "vocab": [
+    {
+     "w": "Silent King",
+     "p": "",
+     "t": "n.",
+     "z": "沉默之王；亡者国度的至尊，全章核心专名"
+    },
+    {
+     "w": "Is that",
+     "p": "",
+     "t": "phr.",
+     "z": "“那就是……吗？”；用于指着远处的对象发问"
+    }
+   ]
+  },
+  {
+   "i": 50,
+   "zh": "“是。绝不能让任何人知道，这位王只会沉默。”我又问了一句，逼哈格里姆亲口证实我的猜测。",
+   "notes": [
+    "<code>None must know that …</code> 中 <code>None</code> 是古雅的“没有人”，<code>must</code> 表禁令，比 <code>No one may know</code> 更严厉；译“绝不能让任何人知道”。",
+    "<code>the King speaks only silence</code> 是刻意的矛盾修辞（speak 后接 silence）：王不是不说话，而是“只说沉默”——此语一语点破全章之谜，中文保留“只会沉默”。",
+    "<code>forcing Hargrimm to confirm what I suspected</code> 是现在分词作伴随状语，无名氏的问话带着目的，译为“逼……亲口证实”。"
+   ],
+   "vocab": [
+    {
+     "w": "None",
+     "p": "/nʌn/",
+     "t": "pron.",
+     "z": "没有人（古雅用法，此处等于 No one）"
+    },
+    {
+     "w": "silence",
+     "p": "/ˈsaɪləns/",
+     "t": "n.",
+     "z": "沉默，无声；本章核心词，指沉默之王从不开口"
+    },
+    {
+     "w": "forcing",
+     "p": "/ˈfɔːsɪŋ/",
+     "t": "v.",
+     "z": "迫使（force 的现在分词，作伴随状语）"
+    },
+    {
+     "w": "confirm",
+     "p": "/kənˈfɜːm/",
+     "t": "v.",
+     "z": "证实，确认"
+    },
+    {
+     "w": "suspected",
+     "p": "/səˈspektɪd/",
+     "t": "v.",
+     "z": "怀疑，猜想（suspect 的过去式）"
+    }
+   ]
+  },
+  {
+   "i": 51,
+   "zh": "“他为什么不开口？”",
+   "notes": [
+    "此处 <code>speak</code> 与第 50 段的 <code>speaks only silence</code> 咬合：上一句是陈述秘密，这一句是追问缘由，中文用“开口”避免与前文“沉默”重复。",
+    "无名氏的问话多为不带称呼的短问句，译文不加“大人”“陛下”一类敬语，保持他急于弄清真相的直白口气。"
+   ],
+   "vocab": [
+    {
+     "w": "speak",
+     "p": "/spiːk/",
+     "t": "v.",
+     "z": "说话，开口；与上段 <code>speaks only silence</code> 相扣"
+    },
+    {
+     "w": "Why does he not speak",
+     "p": "",
+     "t": "phr.",
+     "z": "“他为什么不说话？”；<code>Why don’t/doesn’t …</code> 的完整否定形式，语气比缩写更正式"
+    }
+   ]
+  },
+  {
+   "i": 52,
+   "zh": "“他之所以沉默，是因为他已经离开了此地。他抛下我们去了……真死……只留下这具空壳，代替他坐在这里。”",
+   "notes": [
+    "<code>He is silent because he has left this place.</code> 现在完成时 <code>has left</code> 强调的是“离开”这一动作留下的现状——他不在了，所以沉默。",
+    "<code>He abandoned us for the True Death</code> 中 <code>abandon sb for sth</code> 是“为了某物而抛弃某人”，此处即“为了真死而抛下我们”。",
+    "<code>husk</code> 本指谷物的外壳，引申为“空壳、躯壳”；<code>left only this husk in his place</code>＝“只留下这具空壳顶替他的位置”，是全章反复出现的比喻。"
+   ],
+   "vocab": [
+    {
+     "w": "abandoned",
+     "p": "/əˈbændənd/",
+     "t": "v.",
+     "z": "抛弃，遗弃（abandon 的过去式）"
+    },
+    {
+     "w": "True Death",
+     "p": "",
+     "t": "n.",
+     "z": "真死；《异域镇魂曲》专名，指不死者彻底消亡、不再复生的终结"
+    },
+    {
+     "w": "husk",
+     "p": "/hʌsk/",
+     "t": "n.",
+     "z": "（谷物的）外壳；引申为徒有其形的空壳、躯壳"
+    },
+    {
+     "w": "in his place",
+     "p": "",
+     "t": "phr.",
+     "z": "顶替他的位置，代替他"
+    }
+   ]
+  },
+  {
+   "i": 53,
+   "zh": "“这样已经多久了？”回答我的是另一个声音。朽玛丽进了厅堂。",
+   "notes": [
+    "原文引号内结尾是 <code>“ A new voice</code>（引号后多一个空格，属原文排版疏漏），译文按正常中文引号处理即可，标点不影响句意。",
+    "<code>A new voice answered me.</code> 用无灵主语（a voice 而非 a person）作答，制造“未见其人先闻其声”的效果；中文“回答我的是另一个声音”保留这一层。",
+    "无名氏的追问常用 <code>How long has this gone on?</code> 这类简短现在完成时，问的是持续至今的时间长度。"
+   ],
+   "vocab": [
+    {
+     "w": "gone on",
+     "p": "",
+     "t": "phr.",
+     "z": "（事情）持续下去；<code>How long has this gone on?</code>＝“这样持续多久了？”"
+    },
+    {
+     "w": "voice",
+     "p": "/vɔɪs/",
+     "t": "n.",
+     "z": "声音，嗓音；此处的“另一个声音”即朽玛丽"
+    },
+    {
+     "w": "entered",
+     "p": "/ˈentəd/",
+     "t": "v.",
+     "z": "进入（enter 的过去式）"
+    }
+   ]
+  },
+  {
+   "i": 54,
+   "zh": "“很——久——了。”（久。）哈格里姆怔怔地望着阴影深处。",
+   "notes": [
+    "<code>Luhnnngg.</code> 是朽玛丽那种腐坏嗓音拖长了的“Long”，原文随即用圆括号给出正常拼写与词义 <code>(Long.)</code>，译文照本项目惯例保留括号注释，前面用破折号拖音还原她的腔调。",
+    "<code>Hargrimm stared off into the shadows.</code> 中 <code>stare off into</code> 是“怔怔地望向他处／出神地看着”，不是“盯着看”，透出他的回避与疲惫。"
+   ],
+   "vocab": [
+    {
+     "w": "Luhnnngg",
+     "p": "",
+     "t": "int.",
+     "z": "（朽玛丽拖长音的）“久”；原文括号内注出标准词 Long"
+    },
+    {
+     "w": "stared off",
+     "p": "",
+     "t": "phr.",
+     "z": "怔怔地望向远处，出神地看（stare off into …）"
+    },
+    {
+     "w": "shadows",
+     "p": "/ˈʃædəʊz/",
+     "t": "n.",
+     "z": "阴影，暗处（shadow 的复数）"
+    }
+   ]
+  },
+  {
+   "i": 55,
+   "zh": "“他早就不再对我们开口了——他自己去了那该死的真死。”他的声音里渗出一丝暴怒与绝望。“他把我们扔在这里，在活人之间受苦！我们如今成了……一切活物的……猎物。”",
+   "notes": [
+    "<code>thrice-damned</code> 直译“被诅咒三次的”，是英语里加强骂詈程度的说法（如 <code>thrice-cursed</code>），中文以“该死的”传达咒骂强度即可，不必硬凑“三次”。",
+    "<code>A trace of rage and despair trickled into his voice.</code> 用 <code>trickle</code>（细流渗下）写情绪，是把抽象情绪写成液体的隐喻；“渗出一丝”保留了这个比喻。",
+    "<code>We have become… the prey… of all that lives.</code> 用省略号把 <code>the prey</code> 三字隔开，是被震住的断续语气；<code>the prey of …</code>＝“……的猎物”，<code>all that lives</code> 是“一切活着的（东西）”。此句即本章要揭的真相：不死者在生者世界里沦为猎物。"
+   ],
+   "vocab": [
+    {
+     "w": "thrice-damned",
+     "p": "/ˌθraɪsˈdæmd/",
+     "t": "adj.",
+     "z": "被诅咒三次的，罪该万死的；英语中用以加重咒骂的构词（thrice-＝三倍地）"
+    },
+    {
+     "w": "despair",
+     "p": "/dɪˈspeə/",
+     "t": "n.",
+     "z": "绝望"
+    },
+    {
+     "w": "trickled",
+     "p": "/ˈtrɪkld/",
+     "t": "v.",
+     "z": "滴流，细细渗出（trickle 的过去式）；此处喻情绪慢慢透出"
+    },
+    {
+     "w": "suffer",
+     "p": "/ˈsʌfə/",
+     "t": "v.",
+     "z": "受苦，遭难"
+    },
+    {
+     "w": "prey",
+     "p": "/preɪ/",
+     "t": "n.",
+     "z": "猎物，被捕食者；<code>the prey of …</code>＝“……的猎物”"
+    }
+   ]
+  },
+  {
+   "i": 56,
+   "zh": "“那么，究竟是谁在统治？”",
+   "notes": [
+    "<code>Then who really rules?</code> 一句直插要害：既然王已不在，那“真正”掌权的是谁。<code>really</code> 放在动词前，重音落在“真正”，中文用“究竟”承接。"
+   ],
+   "vocab": [
+    {
+     "w": "really",
+     "p": "/ˈriːəli/",
+     "t": "adv.",
+     "z": "真正地，究竟；此处强调与表面名分的对照"
+    },
+    {
+     "w": "rules",
+     "p": "/ruːlz/",
+     "t": "v.",
+     "z": "统治，治理（rule 的第三人称单数）"
+    }
+   ]
+  },
+  {
+   "i": 57,
+   "zh": "“玛丽和我向沉默之王说话。我们代他统治。我们依据他许多许多年前说过的话，来解释沉默之王的意愿。这并不容易……”哈格里姆听起来疲惫不堪；他在一副看不见的重担下佝偻着身子。“我有许多疑问，许多疑问，想问他。”",
+   "notes": [
+    "<code>We interpret the wishes of the Silent King based on what he said many long years ago.</code> <code>based on</code> 引出的分词短语作方式状语：他们所“解释”的，其实只是王多年前的旧话——政权的合法性全靠这句旧话撑着。",
+    "<code>Many questions, many questions do I have for him.</code> 是 <code>do</code> 引导的倒装（宾语提前＋助动词 do），用于强调，带古意与沉痛；译文以重复“许多疑问”保留这层。",
+    "<code>he sagged beneath the weight of an invisible burden</code> 中 <code>sag</code> 是“（因负重而）下塌、佝偻”，<code>invisible burden</code> 点明压着他的不是实物。"
+   ],
+   "vocab": [
+    {
+     "w": "in his stead",
+     "p": "",
+     "t": "phr.",
+     "z": "代替他，代他（<code>in sb’s stead</code> 为固定搭配）"
+    },
+    {
+     "w": "interpret",
+     "p": "/ɪnˈtɜːprɪt/",
+     "t": "v.",
+     "z": "解释，诠释；此处指把王的旧话当律法来领会"
+    },
+    {
+     "w": "wishes",
+     "p": "/ˈwɪʃɪz/",
+     "t": "n.",
+     "z": "意愿，愿望（wish 的复数）"
+    },
+    {
+     "w": "sagged",
+     "p": "/sæɡd/",
+     "t": "v.",
+     "z": "（因负重而）下塌、佝偻（sag 的过去式）"
+    },
+    {
+     "w": "invisible burden",
+     "p": "",
+     "t": "phr.",
+     "z": "看不见的重担；喻精神上的压力"
+    }
+   ]
+  },
+  {
+   "i": 58,
+   "zh": "“你为什么不对你的人民说出真相？”",
+   "notes": [
+    "<code>Why don’t you tell your people the truth?</code> 是英语口语里常见的建议式反问，但此处不是建议而是质问，译文用“为什么不……？”直问，不加委婉。",
+    "<code>your people</code> 指他所统辖的子民——亡者国度的不死者，不能译作“你家里人”。"
+   ],
+   "vocab": [
+    {
+     "w": "the truth",
+     "p": "",
+     "t": "n.",
+     "z": "真相；本章的题目就在“说与不说真相”上"
+    },
+    {
+     "w": "your people",
+     "p": "",
+     "t": "phr.",
+     "z": "你的人民，你的族人，你的子民"
+    }
+   ]
+  },
+  {
+   "i": 59,
+   "zh": "“我想保住我们亲手造出来的这一切。我不想死。”说话的是朽玛丽，声音沉缓滞重。",
+   "notes": [
+    "原文两句话分别出自两处“I wish…”，第二句后才是 <code>Stale Mary spoke</code>，即前两句同属朽玛丽的话，译文按同一人连续说白处理，末尾补出说话人。",
+    "<code>I wish to preserve</code> 用 <code>wish to do</code>＝want to do 的正式说法（不是虚拟语气的 wish that），译“想保住”。",
+    "<code>her voice ponderous</code> 是独立主格（名词＋形容词），作伴随状态：“她的声音沉缓滞重”。"
+   ],
+   "vocab": [
+    {
+     "w": "preserve",
+     "p": "/prɪˈzɜːv/",
+     "t": "v.",
+     "z": "保全，使……维持原样"
+    },
+    {
+     "w": "ponderous",
+     "p": "/ˈpɒndərəs/",
+     "t": "adj.",
+     "z": "沉重的，迟缓的；形容朽玛丽说话又慢又费力"
+    },
+    {
+     "w": "created",
+     "p": "/kriˈeɪtɪd/",
+     "t": "v.",
+     "z": "创造，建成（create 的过去式）；此处指他们一手建立的亡者国度"
+    }
+   ]
+  },
+  {
+   "i": 60,
+   "zh": "“我——我——我也不想。”（我也不想。）哈格里姆接着说起他更多的理由。",
+   "notes": [
+    "<code>Nuh-nuh-nor I.</code> 是哈格里姆（骷髅）说话时的卡顿，退化的声带让他一个字吐不利索，原文照写结巴并以圆括号补出正常拼写与词义；译文用重复“我”的破折号拖音还原。",
+    "<code>Nor I.</code> 是 <code>Neither do I. / Nor do I.</code> 的省略式，接上文“我不想死”＝“我也不想死”；<code>Nor</code> 起首需部分倒装，此处因省略动词而未显出。",
+    "<code>told me more of his reasons</code> 是 <code>tell sb more of sth</code>（“就某事再告诉某人一些”），引出下段那段更长的辩白。"
+   ],
+   "vocab": [
+    {
+     "w": "Nuh-nuh-nor I",
+     "p": "",
+     "t": "phr.",
+     "z": "（结巴的）“我也不”；原文括号内注 Nor I."
+    },
+    {
+     "w": "Nor I",
+     "p": "",
+     "t": "phr.",
+     "z": "我也不（<code>Nor do I</code> 的省略形，用于承接前句否定）"
+    },
+    {
+     "w": "reasons",
+     "p": "/ˈriːznz/",
+     "t": "n.",
+     "z": "理由，缘故（reason 的复数）"
+    }
+   ]
+  },
+  {
+   "i": 61,
+   "zh": "“倘若我们自己的人知道了这件事……或者食尸鬼的首领阿卡斯特识破了这个骗局……又或者颅鼠的群体意识‘众体如一’发现了……那我们在此建立的一切都会被毁掉。正是这具空壳，把内敌外敌都挡在门外。若有人讲出真相，我们这个小小的文明便会化为尘土。我无法强令你闭嘴。但我求你，请把目光放到你自己之外，想一想：你若说出在此的所见，又会如何。”",
+   "notes": [
+    "<code>Many-As-One, the hive mind of the cranium rats</code> 中 <code>the hive mind</code> 是“群体意识、虫巢意识”，<code>cranium rats</code> 直译“颅鼠”；专名“众体如一”本段首次出现，全章一致。",
+    "<code>This husk is all that keeps the inner and outer enemies at bay.</code> 中 <code>keep sb/sth at bay</code> 是固定搭配，“使……无法近身、抵挡住”；<code>all that</code>＝“唯一能……的东西”。",
+    "<code>look beyond thyself</code> 的 <code>thyself</code> 是 <code>thyself/himself</code> 的古体反身代词；<code>beyond oneself</code>＝“超出一己之私”，故译“把目光放到你自己之外”。"
+   ],
+   "vocab": [
+    {
+     "w": "deception",
+     "p": "/dɪˈsepʃn/",
+     "t": "n.",
+     "z": "欺骗，骗局；此处指“王仍在”的假象"
+    },
+    {
+     "w": "hive mind",
+     "p": "/ˈhaɪv maɪnd/",
+     "t": "n.",
+     "z": "群体意识，虫巢心智；指许多个体共用一个集体意志"
+    },
+    {
+     "w": "cranium rats",
+     "p": "",
+     "t": "n.",
+     "z": "颅鼠；异域设定中寄生／群聚成集体意识的老鼠"
+    },
+    {
+     "w": "at bay",
+     "p": "",
+     "t": "phr.",
+     "z": "（<code>keep/hold … at bay</code>）使……无法近身，挡住"
+    },
+    {
+     "w": "thyself",
+     "p": "/ðaɪˈself/",
+     "t": "pron.",
+     "z": "你自己（古体反身代词，对应 thyself＝yourself）"
+    }
+   ]
+  },
+  {
+   "i": 62,
+   "zh": "我略一思量眼前这个机会。若我把自己献出去，作为一个不死之王坐上面前这张王座，我确信他们两人绝望得足以接受。可亡者国度于我不过是一段旅途上的临时营地，绝非终点。",
+   "notes": [
+    "<code>If I offered myself as an immortal king … I was sure the two of them were desperate enough to accept.</code> 是虚拟语气：条件句用过去式 <code>offered</code> 表与现在事实相反的假定，主句 <code>I was sure …</code> 里再套 <code>were … enough to accept</code>，译文以“若我……我确信……”保留这层假设。",
+    "<code>offer oneself as …</code>＝“自荐充当……、把自己献出去当……”；<code>be desperate enough to do</code>＝“绝望到足以做出某事”。",
+    "<code>could only be a temporary camp on my journey, not the destination</code> 把亡者国度比作途中的营地，与“终点”对举——这是无名氏一以贯之的过客心态，译文保留“营地／终点”的比喻。"
+   ],
+   "vocab": [
+    {
+     "w": "briefly",
+     "p": "/ˈbriːfli/",
+     "t": "adv.",
+     "z": "短暂地，略微；此处“略一思量”"
+    },
+    {
+     "w": "immortal",
+     "p": "/ɪˈmɔːtl/",
+     "t": "adj.",
+     "z": "不死的，永生的；无名氏本人即不死者，此处有反讽意味"
+    },
+    {
+     "w": "desperate",
+     "p": "/ˈdespərət/",
+     "t": "adj.",
+     "z": "绝望的，走投无路的；<code>desperate enough to do</code>＝绝望到肯做某事"
+    },
+    {
+     "w": "temporary",
+     "p": "/ˈtemprəri/",
+     "t": "adj.",
+     "z": "临时的，短暂的"
+    },
+    {
+     "w": "destination",
+     "p": "/ˌdestɪˈneɪʃn/",
+     "t": "n.",
+     "z": "目的地，终点；与 temporary camp（临时营地）对举"
+    }
+   ]
+  },
+  {
+   "i": 63,
+   "zh": "“我只想离开，哈格里姆。答应我这一件事，我就替你守口如瓶。”哈格里姆沉默了片刻。",
+   "notes": [
+    "<code>Grant me this</code> 是“答应我这一件事、成全我这一回”，<code>grant</code> 比 <code>give</code> 庄重，常用在向人求情求恩的场合，恰合无名氏此刻的谈判口气。",
+    "<code>you shall have my silence</code> 中 <code>shall</code> 用于第二、三人称表说话人的承诺／保证（“你必将得到我的沉默”），是带古意的誓言式说法；译“我就替你守口如瓶”。",
+    "<code>Hargrimm was silent for a moment.</code> 用 <code>silent</code> 一词写哈格里姆的反应，与全章“沉默之王／沉默者”的主题词重叠，是一处刻意的用词回声。"
+   ],
+   "vocab": [
+    {
+     "w": "Grant",
+     "p": "/ɡrɑːnt/",
+     "t": "v.",
+     "z": "准许，赐予，答应（请求）；语气庄重"
+    },
+    {
+     "w": "silence",
+     "p": "/ˈsaɪləns/",
+     "t": "n.",
+     "z": "沉默，缄口；此处指“替你保密”"
+    },
+    {
+     "w": "a moment",
+     "p": "",
+     "t": "phr.",
+     "z": "一会儿，片刻（<code>for a moment</code>＝有一小会儿）"
+    }
+   ]
+  },
+  {
+   "i": 64,
+   "zh": "“你可以离开此地。走吧，现在就走……我求你：信守你的诺言。”",
+   "notes": [
+    "<code>Thou may leave</code> 又是仿古用法（正规应为 <code>thou mayst leave</code>），古体与不规范并存的腔调是本书不死者对白的统一特征，译文以“你可以离开”这类略古的书面语承接。",
+    "<code>I beg of thee</code> 是 <code>I beg of you</code> 的古体，<code>beg of sb</code>＝“向某人恳求”；<code>thee</code> 是 thou 的宾格。",
+    "<code>honor thy word</code>＝“信守你的诺言、守信”，<code>thy</code> 是 thou 的物主代词；全章以哈格里姆这句恳求收尾，把“沉默”的代价交回到无名氏手上。"
+   ],
+   "vocab": [
+    {
+     "w": "thee",
+     "p": "/ðiː/",
+     "t": "pron.",
+     "z": "你（古体，thou 的宾格）"
+    },
+    {
+     "w": "thy",
+     "p": "/ðaɪ/",
+     "t": "pron.",
+     "z": "你的（古体物主代词，对应 thine/thy）"
+    },
+    {
+     "w": "honor",
+     "p": "/ˈɒnə/",
+     "t": "v.",
+     "z": "信守，履行（诺言）；<code>honor one’s word</code>＝守信"
+    },
+    {
+     "w": "beg",
+     "p": "/beɡ/",
+     "t": "v.",
+     "z": "恳求，乞求；<code>beg of sb</code>＝向某人恳求"
+    }
+   ]
+  }
+ ]
+}

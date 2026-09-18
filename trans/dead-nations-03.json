@@ -1,0 +1,723 @@
+{
+ "chapter": "Dead Nations",
+ "chunk": "dead-nations-03",
+ "items": [
+  {
+   "i": 45,
+   "zh": "“我们的君主、我们的主人被称为沉默之王，因为只有在最危急的关头，他才会开口。”骷髅一边说，一边比划着，古老的关节随之咯咯作响。“关于他，你去问我们的高阶祭司哈格里姆。他能告诉你更多。”",
+   "notes": [
+    "后半句 <code>Ask Hargrimm, our high priest, of him</code> 中，<code>of him</code> 指的是沉默之王；<code>our high priest</code> 是 <code>Hargrimm</code> 的同位语，插在中间作补充，译成中文时用“我们的高阶祭司哈格里姆”这样的同位结构最顺。",
+    "骷髅满口古腔：<code>thee</code> 是古英语第二人称单数宾格（＝<code>you</code>），<code>thou</code>／<code>thee</code>／<code>thy</code> 这一套在本章不死者的台词里反复出现，是他们“活在旧时代”的语言标记。",
+    "<code>gesticulated</code> 与 <code>creaking and popping</code> 是同一句里并置的动作与声响，译文用“一边说，一边比划着，关节随之咯咯作响”保留这种边说边响的画面感。"
+   ],
+   "vocab": [
+    {
+     "w": "Silent King",
+     "p": "",
+     "t": "n.",
+     "z": "沉默之王；亡者国度的统治者，本章核心专名"
+    },
+    {
+     "w": "dire",
+     "p": "/ˈdaɪə(r)/",
+     "t": "adj.",
+     "z": "危急的，极严重的；<code>times of dire need</code>＝万分危急的关头"
+    },
+    {
+     "w": "gesticulated",
+     "p": "/dʒeˈstɪkjuleɪtɪd/",
+     "t": "v.",
+     "z": "打手势，比比划划（gesticulate 的过去式）"
+    },
+    {
+     "w": "high priest",
+     "p": "",
+     "t": "n.",
+     "z": "高阶祭司，主祭；此处指哈格里姆"
+    },
+    {
+     "w": "joints",
+     "p": "/dʒɔɪnts/",
+     "t": "n.",
+     "z": "关节（joint 的复数）；骷髅的“骨头架子”即由关节咬合而成"
+    }
+   ]
+  },
+  {
+   "i": 46,
+   "zh": "我问起这些厅堂里各种不死者的分别，骷髅点了点头。",
+   "notes": [
+    "<code>asked about</code>＝问起、打听某事；介词 <code>about</code> 后面接的是话题，译成“问起……的分别”比直译“问了……的类型”更像中文小说。",
+    "<code>the types of undead in the halls</code> 是名词短语作 <code>about</code> 的宾语，中心词 <code>types</code> 被 <code>of undead</code> 和 <code>in the halls</code> 两层修饰；<code>halls</code> 指亡者国度里的甬道厅堂。"
+   ],
+   "vocab": [
+    {
+     "w": "asked about",
+     "p": "",
+     "t": "phr.",
+     "z": "问起，打听；后接话题名词"
+    },
+    {
+     "w": "types",
+     "p": "/taɪps/",
+     "t": "n.",
+     "z": "种类，类型（type 的复数）"
+    },
+    {
+     "w": "undead",
+     "p": "/ˌʌnˈded/",
+     "t": "n.",
+     "z": "不死者（集合用法，单复数同形）"
+    },
+    {
+     "w": "nodded",
+     "p": "/ˈnɒdɪd/",
+     "t": "v.",
+     "z": "点头（nod 的过去式）"
+    },
+    {
+     "w": "halls",
+     "p": "/hɔːlz/",
+     "t": "n.",
+     "z": "厅堂，甬道（hall 的复数）"
+    }
+   ]
+  },
+  {
+   "i": 47,
+   "zh": "“我们是不死者中活得最久的，也是离血肉最远的。我们尽力充当其他同类的向导和导师，维持着这里安康的秩序。”",
+   "notes": [
+    "<code>the most free of flesh</code> 直译是“最不受血肉束缚的”，说的是骷髅已彻底脱去皮肉，只剩骨头，因此最接近纯粹的“不死”；<code>free of</code>＝没有、免于。",
+    "<code>make an effort to</code>＝努力去（做某事），语气比 <code>try to</code> 正式，符合骷髅一板一眼的官腔；<code>serve as</code>＝充当、担任。",
+    "<code>healthy community</code> 里的 <code>healthy</code> 不是“健康的身体”，而是引申指社群“运转良好、安泰有序”，译文作“安康的秩序”。"
+   ],
+   "vocab": [
+    {
+     "w": "oldest",
+     "p": "/ˈəʊldɪst/",
+     "t": "adj.",
+     "z": "最古老的，活得最久的（old 的最高级）"
+    },
+    {
+     "w": "flesh",
+     "p": "/fleʃ/",
+     "t": "n.",
+     "z": "血肉，肉体；<code>free of flesh</code>＝不沾血肉"
+    },
+    {
+     "w": "make an effort",
+     "p": "",
+     "t": "phr.",
+     "z": "作出努力，尽力（做某事）"
+    },
+    {
+     "w": "mentors",
+     "p": "/ˈmentɔːz/",
+     "t": "n.",
+     "z": "导师，指导者（mentor 的复数）"
+    },
+    {
+     "w": "maintaining",
+     "p": "/meɪnˈteɪnɪŋ/",
+     "t": "v.",
+     "z": "维持，保持（maintain 的现在分词）"
+    }
+   ]
+  },
+  {
+   "i": 48,
+   "zh": "“僵尸。力大，可身心都迟缓，他们比我们保留了更多的‘人性’——更多的情绪。他们在朽玛丽的带领下替我们的群落做工、出力；朽玛丽是他们当中最体贴、也最聪明的一个。”",
+   "notes": [
+    "<code>Strong, but slow of mind and body</code> 是省略句，省去了主语和系动词，完整说法是 <code>They are strong, but slow of mind and body</code>；<code>slow of mind</code> 是“（在）心智上迟钝”的书面表达，与 <code>slow of body</code> 对举。",
+    "<code>they have retained more of their humanity — their emotions — than we</code>：破折号后的 <code>their emotions</code> 是对 <code>their humanity</code> 的补说，句末的 <code>than we</code> 后省略了 <code>have</code>（＝<code>than we have</code>），比较对象是我们骷髅。",
+    "<code>under the guidance of</code>＝在……的带领／指导之下，是常见的正式搭配，译文“在朽玛丽的带领下”既保住了这层“受指导”的关系，也贴合僵尸只能做粗活的身份。"
+   ],
+   "vocab": [
+    {
+     "w": "zombies",
+     "p": "/ˈzɒmbiz/",
+     "t": "n.",
+     "z": "僵尸（zombie 的复数）；本章中指行动迟缓、保留情感的劳动者"
+    },
+    {
+     "w": "slow of mind and body",
+     "p": "",
+     "t": "phr.",
+     "z": "身心迟钝的；<code>slow of + 名词</code> 表示在某方面迟钝"
+    },
+    {
+     "w": "retained",
+     "p": "/rɪˈteɪnd/",
+     "t": "v.",
+     "z": "保留，留存（retain 的过去式／过去分词）"
+    },
+    {
+     "w": "humanity",
+     "p": "/hjuːˈmænəti/",
+     "t": "n.",
+     "z": "人性；此处与后面的 <code>emotions</code>（情感）互文"
+    },
+    {
+     "w": "under the guidance of",
+     "p": "",
+     "t": "phr.",
+     "z": "在……的带领／指导之下"
+    }
+   ]
+  },
+  {
+   "i": 49,
+   "zh": "“朽玛丽虽慢，却体贴，也明智。她像母亲一样照料别的僵尸。她就在你最初进入亡者国度那处西边的房间里。”",
+   "notes": [
+    "<code>She acts as a mother of sorts to the other zombies</code>：<code>act as</code>＝充当；<code>of sorts</code> 是固定说法，表示“勉强算得上的、某种意义上的”，所以是“像母亲一样”，而不是名正言顺的母亲。",
+    "<code>west of where thou first entered the Dead Nations</code> 是“在……以西”的空间表述，<code>where</code> 引导的从句作 <code>west of</code> 的宾语；译文按方位提示的习惯改说“你最初进入亡者国度那处西边”。",
+    "这一段的 <code>thou</code> 是古体第二人称主格（＝<code>you</code>），与前面的 <code>thee</code>、后面的 <code>thy</code> 同属不死者的旧式口吻，不可误当作笔误。"
+   ],
+   "vocab": [
+    {
+     "w": "of sorts",
+     "p": "",
+     "t": "phr.",
+     "z": "勉强算得上的，某种意义上的；<code>a mother of sorts</code>＝算是个母亲的角色"
+    },
+    {
+     "w": "chamber",
+     "p": "/ˈtʃeɪmbə(r)/",
+     "t": "n.",
+     "z": "房间，室（书面语，常指较大或有特定用途的房室）"
+    },
+    {
+     "w": "thou",
+     "p": "/ðaʊ/",
+     "t": "pron.",
+     "z": "（古）你（主格）；不死者台词中的旧式说法"
+    },
+    {
+     "w": "west of",
+     "p": "",
+     "t": "phr.",
+     "z": "在……以西"
+    },
+    {
+     "w": "wise",
+     "p": "/waɪz/",
+     "t": "adj.",
+     "z": "明智的，有智慧的"
+    }
+   ]
+  },
+  {
+   "i": 50,
+   "zh": "“食尸鬼强壮、暴戾、贪得无厌，由他们那可怕的族母阿卡斯特率领。他们替群落——替亡者国度——充当守卫……可他们是不安定的一环。对其它不死者数目的畏惧、对沉默之王的畏惧，把他们按住了。要是没有我们伟大的君主辖制他们，我们……还有我们照看的人……总有一天会落到他们嘴里。”",
+   "notes": [
+    "<code>keeps them in check</code>＝<code>keep sb/sth in check</code>“把……控制住、压制住”，这里主语是前面的 <code>Fear of ... and of ...</code>，译文用“把他们按住了”保留这种被外力压住的感觉。",
+    "<code>fall prey to them</code>＝沦为他们的猎物、被他们吃掉；<code>fall prey to</code> 是固定搭配，也可引申为“受……之害”。",
+    "<code>led by their ghastly matriarch, Acaste</code> 是过去分词短语作后置定语，修饰 <code>creatures</code>；<code>as well as our charges</code> 插在两个 <code>we</code> 与 <code>our charges</code> 之间作并列补充，<code>charges</code> 在这里是“受照看、受保护者”。"
+   ],
+   "vocab": [
+    {
+     "w": "ghouls",
+     "p": "/ɡuːlz/",
+     "t": "n.",
+     "z": "食尸鬼（ghoul 的复数）；此地充当守卫的凶暴不死者"
+    },
+    {
+     "w": "ravenous",
+     "p": "/ˈrævənəs/",
+     "t": "adj.",
+     "z": "饿极了的，贪食的，贪得无厌的"
+    },
+    {
+     "w": "matriarch",
+     "p": "/ˈmeɪtriɑːk/",
+     "t": "n.",
+     "z": "女族长，族母；此处指食尸鬼的首领阿卡斯特"
+    },
+    {
+     "w": "in check",
+     "p": "",
+     "t": "phr.",
+     "z": "受控制，被压住；<code>keep ... in check</code>＝把……控制住"
+    },
+    {
+     "w": "fall prey to",
+     "p": "",
+     "t": "phr.",
+     "z": "沦为……的猎物，为……所害"
+    }
+   ]
+  },
+  {
+   "i": 51,
+   "zh": "我问他，他说的“照看的人”是什么意思。",
+   "notes": [
+    "<code>what he meant by his charges</code> 是间接疑问句作 <code>asked</code> 的宾语，注意 <code>mean by</code>＝“说（某词）是指什么意思”，疑问词 <code>what</code> 提到从句开头。",
+    "<code>charges</code> 在上一段刚出现过，此处译作“照看的人”，与后文 <code>the silent ones</code>（沉默者）呼应；不要与动词 <code>charge</code>（冲锋、收费、指控）混淆。"
+   ],
+   "vocab": [
+    {
+     "w": "meant by",
+     "p": "",
+     "t": "phr.",
+     "z": "（说某话／用某词）是指……的意思"
+    },
+    {
+     "w": "charges",
+     "p": "/ˈtʃɑːdʒɪz/",
+     "t": "n.",
+     "z": "受照看、受保护的人（charge 的复数）；此处指沉默者"
+    }
+   ]
+  },
+  {
+   "i": 52,
+   "zh": "“沉默者……那些除了沉睡什么也不做的死者。我们保护他们，在他们安眠时守着他们。”",
+   "notes": [
+    "<code>do naught but sleep</code>：<code>naught</code> 是古体的 <code>nothing</code>，<code>do naught but + 动词原形</code>＝“除了……什么也不做”，译文“除了沉睡什么也不做”正对应这个句式。",
+    "<code>watch over them as they rest</code> 里 <code>as</code> 引导时间状语从句（＝在他们休息的时候），<code>watch over</code>＝守护、照看；<code>rest</code> 在这里是“安息、安眠”的委婉说法。"
+   ],
+   "vocab": [
+    {
+     "w": "The silent ones",
+     "p": "",
+     "t": "n.",
+     "z": "沉默者；被骷髅们小心守护的沉睡死者"
+    },
+    {
+     "w": "naught",
+     "p": "/nɔːt/",
+     "t": "pron.",
+     "z": "（古）无，什么也没有；＝<code>nothing</code>"
+    },
+    {
+     "w": "watch over",
+     "p": "",
+     "t": "phr.",
+     "z": "守护，照看"
+    },
+    {
+     "w": "rest",
+     "p": "/rest/",
+     "t": "v.",
+     "z": "休息；此处指长眠、安息"
+    }
+   ]
+  },
+  {
+   "i": 53,
+   "zh": "“谁会来打搅他们？”",
+   "notes": [
+    "<code>Who would disturb them?</code> 用 <code>would</code> 而非 <code>will</code>，语气上不是单纯问将来，而是带“竟会有谁去做这种事”的揣测与不解，译文用“谁会来打搅”保留这层疑问。",
+    "<code>disturb</code>＝打扰、搅扰；此处指惊扰沉睡的沉默者，也与后文“常有人下来翻动墓室”相呼应。"
+   ],
+   "vocab": [
+    {
+     "w": "disturb",
+     "p": "/dɪˈstɜːb/",
+     "t": "v.",
+     "z": "打扰，搅扰，惊动"
+    },
+    {
+     "w": "Who would disturb",
+     "p": "",
+     "t": "phr.",
+     "z": "谁会来打搅；<code>would</code> 在此带揣测、不解的语气"
+    }
+   ]
+  },
+  {
+   "i": 54,
+   "zh": "“多着呢。”他一边说，一边用蒙尘泛黄的手指骨把这几种一一数过。“饥饿失控的食尸鬼，老鼠，而最要紧的是……活人。埋骨村来的那些人——一个叫法罗德的家伙的仆从——时常下到亡者国度的墓室里，惊扰沉默者。我不知道为什么，也不在乎……我唯一放在心上的是：得把这种下作的活计拦住。”",
+   "notes": [
+    "<code>He ticked them off on yellowed, dust-covered finger-bones</code>：<code>tick off</code> 是“逐条点数、打勾列出”；这个词组在美式口语里还能表示“惹恼”，这里显然是“一一点数”，不可误读。",
+    "<code>Those from the buried village — servants of a man named Pharod — often descend into the vaults</code> 中，破折号里的 <code>servants of a man named Pharod</code> 是 <code>Those</code> 的同位补充；<code>descend into</code>＝下到（深处），用词带“自上而下侵入”的方向感。",
+    "<code>nor do I care</code> 是 <code>nor</code> 置于句首引起的部分倒装（＝<code>and I do not care either</code>），译文“也不在乎”自然承接；<code>my only concern is that...</code> 用表语从句交代他唯一在意的事。"
+   ],
+   "vocab": [
+    {
+     "w": "ticked them off",
+     "p": "",
+     "t": "phr.",
+     "z": "把它们逐一数过、点出（tick off＝逐条点数；也作“惹恼”，此处取前者）"
+    },
+    {
+     "w": "buried village",
+     "p": "",
+     "t": "n.",
+     "z": "埋骨村；法罗德盘踞的拾荒者聚落"
+    },
+    {
+     "w": "Pharod",
+     "p": "",
+     "t": "n.",
+     "z": "法罗德；埋骨村的首领，无名氏先前见过的人物"
+    },
+    {
+     "w": "vaults",
+     "p": "/vɔːlts/",
+     "t": "n.",
+     "z": "（地下）墓室，穹顶地窖（vault 的复数）"
+    },
+    {
+     "w": "foul",
+     "p": "/faʊl/",
+     "t": "adj.",
+     "z": "邪恶的，下作的；也可指气味恶臭"
+    }
+   ]
+  },
+  {
+   "i": 55,
+   "zh": "僵尸的话我几乎听不懂；看来他们还在试着使用自己那副腐烂的发声器官，没学会骷髅那种不用上颚、不用喉头也能说话的本事。",
+   "notes": [
+    "分号前后是“结论＋解释”：<code>The zombies I could barely understand</code> 是宾语前置的说法（＝<code>I could barely understand the zombies</code>），译作“僵尸的话我几乎听不懂”更合中文语序。",
+    "<code>not having learned the skeletons’ trick of speech without palate or larynx</code> 是现在分词完成式作原因／补充说明，等于“因为他们不曾学会……”；<code>trick</code> 此处是“诀窍、门道”。",
+    "<code>apparently</code> 表示叙述者的推断——“看样子、显然”，用来点出无名氏只能凭观感猜测。"
+   ],
+   "vocab": [
+    {
+     "w": "barely",
+     "p": "/ˈbeəli/",
+     "t": "adv.",
+     "z": "几乎不，勉强"
+    },
+    {
+     "w": "vocal apparatus",
+     "p": "",
+     "t": "n.",
+     "z": "发声器官（apparatus＝器官、装置）"
+    },
+    {
+     "w": "palate",
+     "p": "/ˈpælət/",
+     "t": "n.",
+     "z": "上颚；人靠它与舌头配合发音"
+    },
+    {
+     "w": "larynx",
+     "p": "/ˈlærɪŋks/",
+     "t": "n.",
+     "z": "喉，喉头"
+    },
+    {
+     "w": "trick",
+     "p": "/trɪk/",
+     "t": "n.",
+     "z": "诀窍，窍门；此处指说话的“法子”"
+    }
+   ]
+  },
+  {
+   "i": 56,
+   "zh": "我犹豫着靠近一个食尸鬼。那东西淌着口水，眼珠泛黄，浑身是血和腐肉的臭气。它用又长又脏的爪子剔着歪斜的獠牙，鼻子不停地朝四周抽动。它的皮肉泛出一种病态的绿色，覆满腐坏和流脓的创口。",
+   "notes": [
+    "整段由一串短句并置而成，像一幅静止的特写：气味、动作、皮肉一层层堆上去，译文也保持这种逐个镜头推进的节奏，不加连接词。",
+    "<code>picked at its crooked fangs with long, filthy talons</code>＝用……剔牙：<code>pick at</code> 是“（用指尖或工具）挑、剔”，<code>talons</code> 特指猛禽／怪物般的利爪。",
+    "注意原文 <code>yellow- eyed</code> 处排版多了一个空格，实际就是形容词 <code>yellow-eyed</code>（黄眼睛的）。"
+   ],
+   "vocab": [
+    {
+     "w": "drooling",
+     "p": "/ˈdruːlɪŋ/",
+     "t": "adj.",
+     "z": "淌口水的（drool 的现在分词作定语）"
+    },
+    {
+     "w": "reeked",
+     "p": "/riːkt/",
+     "t": "v.",
+     "z": "散发（浓烈难闻的气味）（reek 的过去式）；<code>reek of</code>＝散发出……的气味"
+    },
+    {
+     "w": "carrion",
+     "p": "/ˈkæriən/",
+     "t": "n.",
+     "z": "腐肉，动物尸体"
+    },
+    {
+     "w": "talons",
+     "p": "/ˈtælənz/",
+     "t": "n.",
+     "z": "利爪（talon 的复数），多指猛禽或怪物的爪"
+    },
+    {
+     "w": "weeping sores",
+     "p": "",
+     "t": "n.",
+     "z": "流脓的创口（weeping＝渗液、流脓的）"
+    }
+   ]
+  },
+  {
+   "i": 57,
+   "zh": "“呃……”我走近时莫提开了口，“不知道你是不是真想跟那……玩意儿说话。”",
+   "notes": [
+    "<code>don’t know if you want to be talking to that… thing</code> 是省略主语的随口一句（＝<code>I don’t know...</code>）；<code>want to be talking to</code> 用进行式，暗示这是一件最好别做下去的事。",
+    "破折号前的 <code>that… thing</code> 语带犹豫和嫌弃，译文用省略号加“玩意儿”还原莫提那种油滑又躲闪的口吻；他称无名氏为 <code>chief</code>（头儿）也见下一段。"
+   ],
+   "vocab": [
+    {
+     "w": "Eh",
+     "p": "/eɪ/",
+     "t": "int.",
+     "z": "呃，嗯；表示迟疑、不以为然的语气词"
+    },
+    {
+     "w": "commented",
+     "p": "/ˈkɒmentɪd/",
+     "t": "v.",
+     "z": "评论道，说道（comment 的过去式）"
+    },
+    {
+     "w": "that… thing",
+     "p": "",
+     "t": "phr.",
+     "z": "那……玩意儿；用 <code>thing</code> 称活物，含嫌弃与轻蔑"
+    }
+   ]
+  },
+  {
+   "i": 58,
+   "zh": "“为什么不呢，莫提？”",
+   "notes": [
+    "<code>Why not?</code> 是省略句，完整意思要看上文：<code>Why not talk to it?</code>（为什么不能跟它说话呢）。译文只作“为什么不呢”，保留无名氏一贯简短、几乎不带修饰的问法。",
+    "称呼 <code>Morte</code> 放在句末，是口语里先提问、后点名的习惯，中文同样把称呼后置最自然。"
+   ],
+   "vocab": [
+    {
+     "w": "Why not",
+     "p": "",
+     "t": "phr.",
+     "z": "为什么不呢；省略式反问，承接对方前一句的建议"
+    },
+    {
+     "w": "Morte",
+     "p": "",
+     "t": "n.",
+     "z": "莫提；那颗会说话、爱贫嘴的浮空骷髅"
+    }
+   ]
+  },
+  {
+   "i": 59,
+   "zh": "“他们原本也是人来着……他们，或者他们的祖先，吃过死尸，就变成了这副样子。挺恶心的东西，头儿……说白了，他们跟畜生差不多少。会伤人的畜生。”",
+   "notes": [
+    "<code>they, or their ancestors, feasted on corpses, and this is what they've become</code>：<code>feast on</code> 原意是“大吃大喝、享用”，用在这里带黑色讽刺；<code>this is what they’ve become</code> 是表语从句，直译“这就是他们变成的东西”，译文顺成“就变成了这副样子”。",
+    "<code>little more than animals</code>＝“不过是畜生罢了”，<code>little more than</code> 是固定说法，表示“几乎只是、无非是”，语气比 <code>only</code> 更轻蔑。",
+    "<code>chief</code> 是莫提对无名氏的惯用称呼，译作“头儿”最贴合他油腔滑调的口气；三个短句把他的话切成三段，末句 <code>Dangerous animals.</code> 是补刀式的单独一句。"
+   ],
+   "vocab": [
+    {
+     "w": "feasted on",
+     "p": "",
+     "t": "phr.",
+     "z": "大吃，饱餐（feast on sth＝以……为食、享用）"
+    },
+    {
+     "w": "corpses",
+     "p": "/ˈkɔːpsɪz/",
+     "t": "n.",
+     "z": "死尸，尸体（corpse 的复数）"
+    },
+    {
+     "w": "nasty",
+     "p": "/ˈnɑːsti/",
+     "t": "adj.",
+     "z": "令人作呕的，恶心的；此处兼有“难缠”之意"
+    },
+    {
+     "w": "little more than",
+     "p": "",
+     "t": "phr.",
+     "z": "不过是，几乎只是；带贬低语气"
+    },
+    {
+     "w": "chief",
+     "p": "/tʃiːf/",
+     "t": "n.",
+     "z": "（口语）头儿，老大；莫提对无名氏的称呼"
+    }
+   ]
+  },
+  {
+   "i": 60,
+   "zh": "我试着跟那食尸鬼说话，结果证明莫提说对了。它一声不答，看上去勉勉强强才忍住没扑上来。",
+   "notes": [
+    "<code>Morte was proved right</code> 是被动结构（＝事实证明莫提是对的），译文用“结果证明莫提说对了”更合中文叙述习惯。",
+    "<code>seemed only barely capable of preventing itself attacking me</code>：<code>be capable of doing</code>＝有能力做某事，前面加 <code>only barely</code>（勉强、几乎不能）就成了“勉强忍住了”；<code>prevent oneself doing sth</code> 是“克制自己不去做”。",
+    "<code>It would not answer</code> 的 <code>would</code> 表示意愿上的拒绝——“死活不答”，不是单纯的将来时。"
+   ],
+   "vocab": [
+    {
+     "w": "proved right",
+     "p": "",
+     "t": "phr.",
+     "z": "被证明是对的；<code>prove</code> 在此作系动词，后接形容词"
+    },
+    {
+     "w": "barely capable of",
+     "p": "",
+     "t": "phr.",
+     "z": "勉强能做……；<code>capable of doing sth</code>＝有能力做某事"
+    },
+    {
+     "w": "preventing",
+     "p": "/prɪˈventɪŋ/",
+     "t": "v.",
+     "z": "阻止，防止（prevent 的现在分词）"
+    }
+   ]
+  },
+  {
+   "i": 61,
+   "zh": "我继续找遇上的骷髅攀谈，因为看样子只有他们可能帮得上忙。其中有个骷髅似乎真在考虑索戈宣讲的“真死”。这机会太好了，不能放过。",
+   "notes": [
+    "<code>since they seemed to be the only ones who might be of help</code>：<code>be of help</code>＝<code>be helpful</code>，是 <code>be of + 抽象名词</code> 的书面式表达；<code>might</code> 表示不确定的推测。",
+    "<code>one who actually seemed to be considering Soego’s preaching on True Death</code>：“真死”是索戈（尘人派来的传教者）宣扬的教义，<code>preaching on sth</code>＝关于某事的说教／宣讲。",
+    "<code>Here was an opportunity too good to waste.</code> 是倒装＋<code>too...to...</code> 结构：<code>too good to waste</code>＝好到不能浪费；<code>Here was...</code> 把 <code>Here</code> 提到句首，起强调“机会就在眼前”的作用。"
+   ],
+   "vocab": [
+    {
+     "w": "be of help",
+     "p": "",
+     "t": "phr.",
+     "z": "帮得上忙；＝<code>be helpful</code>"
+    },
+    {
+     "w": "considering",
+     "p": "/kənˈsɪdərɪŋ/",
+     "t": "v.",
+     "z": "考虑，斟酌（consider 的现在分词）"
+    },
+    {
+     "w": "preaching",
+     "p": "/ˈpriːtʃɪŋ/",
+     "t": "n.",
+     "z": "讲道，说教（preach 的动名词）；此处指索戈的传教"
+    },
+    {
+     "w": "opportunity",
+     "p": "/ˌɒpəˈtjuːnəti/",
+     "t": "n.",
+     "z": "机会，时机"
+    },
+    {
+     "w": "too good to waste",
+     "p": "",
+     "t": "phr.",
+     "z": "好得不能浪费；<code>too + 形容词 + to do</code>＝太……以致不能……"
+    }
+   ]
+  },
+  {
+   "i": 62,
+   "zh": "我赶紧回去告诉索戈，说我碰上一个正在考虑真死的骷髅。索戈动身去见他了。",
+   "notes": [
+    "<code>I hurried back to tell Soego that...</code>：<code>hurry back</code>＝急忙赶回，<code>to tell</code> 是表示目的的动词不定式，后面再由 <code>that</code> 引导宾语从句交代内容。",
+    "<code>Soego headed out to see him</code>：<code>head out</code>＝出发、动身前往；<code>to see him</code> 同样表目的，两句一连，就把“支开索戈”这一步交代完了。"
+   ],
+   "vocab": [
+    {
+     "w": "hurried back",
+     "p": "",
+     "t": "phr.",
+     "z": "急忙赶回去（hurry back）"
+    },
+    {
+     "w": "true death",
+     "p": "",
+     "t": "n.",
+     "z": "真死；尘人宣扬的教义，指不死者彻底归于消亡"
+    },
+    {
+     "w": "headed out",
+     "p": "",
+     "t": "phr.",
+     "z": "动身出发，出门前往（head out）"
+    }
+   ]
+  },
+  {
+   "i": 63,
+   "zh": "他刚离开房间，我就把金属石台侧面的挡板撬了下来。里面是一本书。那本书原来是索戈的日记。日记里写着他如何遭到鼠人袭击，最终退化成狼人，又如何在无意间杀死并吃掉一个朋友之后逃离停尸间。为了找个藏身之处，他闯进思维之窟，答应效忠众体如一——聚在那里的颅鼠组成的群体意识。如今他又来到亡者国度，替众体如一窥探不死者的动静，因为众体如一盼着有朝一日把地下墓穴的这一片也攥在手里。",
+   "notes": [
+    "<code>As soon as he left the room</code>＝他一离开房间（就……），<code>as soon as</code> 引导的时间状语从句强调两个动作紧接；<code>pried the panel off</code> 中 <code>pry...off</code>＝把……撬下来。",
+    "<code>his being attacked by a wererat, his eventual regression into lycanthropy, and his flight from the Mortuary after unwittingly slaying and devouring a friend</code> 是三个并列的动名词短语，充当 <code>detailed</code>（详述）的宾语；<code>after</code> 后接动名词，表示“在无意间杀死并吃掉一个朋友之后”。",
+    "<code>hive mind</code>＝群体意识、蜂巢式共有心智，此处用作 <code>Many-As-One</code> 的同位语；<code>spy on sb</code>＝暗中窥探某人，<code>hoped to one day control</code> 说明他此行的目的。"
+   ],
+   "vocab": [
+    {
+     "w": "pried",
+     "p": "/praɪd/",
+     "t": "v.",
+     "z": "撬，撬开（pry 的过去式）；<code>pry sth off</code>＝把某物撬下来"
+    },
+    {
+     "w": "panel",
+     "p": "/ˈpænl/",
+     "t": "n.",
+     "z": "（嵌在框架上的）板，护板；此处指石台侧面的挡板"
+    },
+    {
+     "w": "slab",
+     "p": "/slæb/",
+     "t": "n.",
+     "z": "石板台，厚板；停尸间那种石台"
+    },
+    {
+     "w": "journal",
+     "p": "/ˈdʒɜːnl/",
+     "t": "n.",
+     "z": "日记，日志"
+    },
+    {
+     "w": "lycanthropy",
+     "p": "/laɪˈkænθrəpi/",
+     "t": "n.",
+     "z": "变狼症，狼化（人变成狼的诅咒）"
+    }
+   ]
+  },
+  {
+   "i": 64,
+   "zh": "我把日记和挡板都放回原处，然后去找哈格里姆。我把自己查到的关于索戈的事都告诉了他，并说明证据就在索戈房里那本日记中。",
+   "notes": [
+    "<code>replaced the journal and panel</code>＝把日记和挡板放回原位；<code>replace</code> 在这里是“放回原处”，不是“替换”。",
+    "<code>set out to find Hargrimm</code>＝动身去找哈格里姆，<code>set out to do sth</code> 是“着手／出发去做某事”的固定搭配。",
+    "<code>I told him what I had learned of Soego, and that the proof was contained in a journal in his quarters</code>：<code>told</code> 后面挂了两个宾语：一个是 <code>what</code> 引导的从句，一个是 <code>that</code> 引导的从句；<code>his quarters</code> 指索戈的住处，<code>be contained in</code>＝载于、包含在……之中。"
+   ],
+   "vocab": [
+    {
+     "w": "replaced",
+     "p": "/rɪˈpleɪst/",
+     "t": "v.",
+     "z": "放回（原处）（replace 的过去式）；此处不是“替换”"
+    },
+    {
+     "w": "set out",
+     "p": "",
+     "t": "phr.",
+     "z": "动身，出发（去做某事）"
+    },
+    {
+     "w": "proof",
+     "p": "/pruːf/",
+     "t": "n.",
+     "z": "证据，证明"
+    },
+    {
+     "w": "contained",
+     "p": "/kənˈteɪnd/",
+     "t": "v.",
+     "z": "包含，载有（contain 的过去分词）；<code>be contained in</code>＝载于"
+    },
+    {
+     "w": "quarters",
+     "p": "/ˈkwɔːtəz/",
+     "t": "n.",
+     "z": "住处，营房（恒用复数）；此处指索戈的房间"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,326 @@
+{
+ "chapter": "The Silent King",
+ "chunk": "the-silent-king-01",
+ "items": [
+  {
+   "i": 1,
+   "zh": "替他找出这个奸细之后，我以为哈格里姆会更愿意放我们三个走。可我没兴趣跟他一起去和索戈对质，于是决定在亡者国度里再多探一探。",
+   "notes": [
+    "<code>assumed</code> 后面跟的是宾语从句 <code>that Hargrimm might be more inclined...</code>；<code>I assumed (that)...</code>＝“我以为……”，说话人只是推测，并不确定，所以下半句马上用 <code>However</code> 转折，露出落空的味道。",
+    "<code>be inclined to do sth</code>＝倾向于做某事、有……的意思，比 <code>want</code> 委婉；<code>let the three of us go</code> 里的 <code>let...go</code>＝放……走、放行。",
+    "<code>had no desire to do sth</code> 是 <code>did not want to</code> 的书面说法，语气更冷；<code>follow him in his confrontation with Soego</code> 中 <code>follow sb in sth</code>＝跟随某人参与某事，<code>confrontation</code> 指当面对质、摊牌。"
+   ],
+   "vocab": [
+    {"w": "assumed", "p": "/əˈsjuːmd/", "t": "v.", "z": "以为，想当然地认为（assume 的过去式）"},
+    {"w": "inclined", "p": "/ɪnˈklaɪnd/", "t": "adj.", "z": "倾向于……的；<code>be inclined to do</code>＝有意做某事"},
+    {"w": "desire", "p": "/dɪˈzaɪə(r)/", "t": "n.", "z": "意愿，欲望；<code>have no desire to</code>＝无意于"},
+    {"w": "confrontation with", "p": "", "t": "n.", "z": "与……的对质、正面交锋"},
+    {"w": "exploration", "p": "/ˌekspləˈreɪʃn/", "t": "n.", "z": "探索，探察；这里指在亡者国度里四处走动"}
+   ]
+  },
+  {
+   "i": 2,
+   "zh": "我碰到一具满脸困惑的骷髅，它正在琢磨另一具骷髅给它出的谜语。我觉得谜底挺明显，却没有说破——心想它除了这个，也没别的事可打发时间。",
+   "notes": [
+    "<code>a riddle he had been posed by another of the skeletons</code> 是“出谜语”的被动式：<code>pose a riddle to sb</code>＝给某人出谜，改成被动就是 <code>sb be posed a riddle</code>；<code>another of the skeletons</code>＝“另一具骷髅”，用 <code>of</code> 表示同类中的一个。",
+    "<code>Although I thought the answer rather obvious, I forbore from telling him</code> 是让步从句：虽然……但是……；<code>forbear from doing</code>＝忍住不做，文言味略重的书面词。",
+    "<code>while away the time</code> 是固定搭配，＝消磨时间、打发时光；<code>figuring</code> 是现在分词作伴随状语，说明“不说破”时心里的盘算。"
+   ],
+   "vocab": [
+    {"w": "puzzled", "p": "/ˈpʌzld/", "t": "adj.", "z": "困惑的，茫然的"},
+    {"w": "riddle", "p": "/ˈrɪdl/", "t": "n.", "z": "谜语，谜题"},
+    {"w": "posed", "p": "/pəʊzd/", "t": "v.", "z": "提出（问题、谜语）；<code>pose a riddle</code>＝出谜"},
+    {"w": "forbore", "p": "/fɔːˈbɔː(r)/", "t": "v.", "z": "忍住了（forbear 的过去式）；<code>forbear from doing</code>＝忍住不做"},
+    {"w": "while away", "p": "", "t": "phr.", "z": "消磨、打发（时间）"}
+   ]
+  },
+  {
+   "i": 3,
+   "zh": "过了一会儿，我遇上了出谜的那一具。它没有别的骷髅那种毫无表情的呆相。它一边摇头一边偷偷笑，时不时咯咯哈哈地笑出声，还得咬住自己的骨头手才忍得住。它老得骨头上一点肉都不剩了……只有几块花布片。我向它打了招呼。",
+   "notes": [
+    "<code>the one who had posed the riddle</code> 用 <code>the one</code>＋定语从句指人，避免重复 <code>skeleton</code>；“出谜的那一具”既保留骷髅的量词感，又不像“那一个”那样平淡。",
+    "<code>giggling to itself</code>／<code>guffawed and snorted</code> 是一串“笑”的同义词：<code>giggle</code> 是咯咯的偷笑，<code>guffaw</code> 是放声大笑，<code>snort</code> 是从鼻子里哼笑；<code>to itself</code>＝自得其乐地对着自己。",
+    "<code>It was old enough so that no meat was left on its bones</code> 是 <code>so...that</code> 结构换用 <code>so that</code> 的写法，表示“老到……的程度，以至于……”。"
+   ],
+   "vocab": [
+    {"w": "came upon", "p": "", "t": "phr.", "z": "偶然遇见，碰上（come upon sb/sth）"},
+    {"w": "demeanor", "p": "/dɪˈmiːnə(r)/", "t": "n.", "z": "举止，神情，风度"},
+    {"w": "giggling", "p": "/ˈɡɪɡlɪŋ/", "t": "v.", "z": "咯咯地偷笑（giggle 的现在分词）"},
+    {"w": "guffawed", "p": "/ɡʌˈfɔːd/", "t": "v.", "z": "哈哈大笑（guffaw 的过去式）"},
+    {"w": "snorted", "p": "/snɔːtɪd/", "t": "v.", "z": "哼笑，喷鼻息（snort 的过去式）"}
+   ]
+  },
+  {
+   "i": 4,
+   "zh": "“我听说你手上有个难谜。”它点着头，咯咯地笑。",
+   "notes": [
+    "<code>you've got</code> 是 <code>you have got</code> 的缩写，口语里＝<code>you have</code>，意思就是“你有”；<code>I understand (that)...</code>＝“我听说／我了解到……”，比 <code>I know</code> 委婉。",
+    "<code>a difficult riddle</code> 用不定冠词，暗示是“有那么一个（特定的）难谜”，不是泛指所有谜语。"
+   ],
+   "vocab": [
+    {"w": "understand", "p": "/ˌʌndəˈstænd/", "t": "v.", "z": "听说，了解到；<code>I understand (that)...</code>＝我听说……"},
+    {"w": "difficult", "p": "/ˈdɪfɪkəlt/", "t": "adj.", "z": "难的，费解的"},
+    {"w": "nodded", "p": "/ˈnɒdɪd/", "t": "v.", "z": "点头（nod 的过去式），表示同意或示意"}
+   ]
+  },
+  {
+   "i": 5,
+   "zh": "“汝可要听？”我点点头，它便接着讲：“咳！听着，想几个以‘-GRY’结尾的词。angry 和 hungry 是其中两个。通用语里只有三个这样的词……第三个是什么？那个词是人天天都要用的东西。你若是听得仔细，我其实已经告诉你了。”明摆着。",
+   "notes": [
+    "谜面的机关在最后一句：<code>I have already told thee what it is</code>——“我已经告诉你答案了”。答案不是某个以 -GRY 结尾的词，而是 <code>tongue</code>，因为谜面里的 <code>the Common Tongue</code>（通用语）正好由三个词组成，第三个词就是 <code>tongue</code>。",
+    "古语语法：<code>Dost thou want...</code> 中 <code>thou</code> 是第二人称单数主格（＝you），配 <code>dost</code>（do 的第二人称单数形式）；<code>thou hast listened</code> 里 <code>hast</code> 是 have 的对应形式，<code>thee</code> 则是宾格（＝you 作宾语）。这一套在《异域镇魂曲》的不死者口中是固定的“老派腔”。",
+    "<code>There are but three words</code> 里 <code>but</code> 是副词，＝only，“只有三个”；<code>Ahem!</code> 是清嗓子引起注意的拟声词，译成“咳！”最自然。"
+   ],
+   "vocab": [
+    {"w": "Dost thou", "p": "", "t": "v.", "z": "古体“你要……吗”；dost＝do 的第二人称单数，thou＝你（主格）"},
+    {"w": "Common Tongue", "p": "", "t": "n.", "z": "通用语；<code>the Common Tongue</code> 恰是三个词，正是谜底所在"},
+    {"w": "Ahem", "p": "/əˈhem/", "t": "int.", "z": "（清嗓子的声音）咳！用以引起注意"},
+    {"w": "hast", "p": "/hæst/", "t": "v.", "z": "古体 have 的第二人称单数形式，＝have（你有）"},
+    {"w": "thee", "p": "/ðiː/", "t": "pron.", "z": "古体第二人称单数宾格，＝you（你）"}
+   ]
+  },
+  {
+   "i": 6,
+   "zh": "“你当然说过了。就是‘tongue’。”哪怕它身上一点肉都没有，我也看得出这具骷髅很不好受。",
+   "notes": [
+    "<code>Of course you have.</code> 是省略式：<code>you have</code> 后面省掉了 <code>told me</code>，英语里回答用完成时常这样只留助动词，中文要把省掉的意思补出来——“你当然说过了”。",
+    "<code>tongue</code> 在这里是双关兼答案：它既指“舌头”，又出现在 <code>the Common Tongue</code>（通用语）这个短语里，所以谜底既在谜面之内，又确实是人天天在用的词。",
+    "<code>Even with no flesh, I could tell...</code> 中 <code>even with</code>＝“即使有／尽管有”，<code>could tell</code>＝“看得出来、能判断”，不是“能告诉”。"
+   ],
+   "vocab": [
+    {"w": "Of course", "p": "", "t": "phr.", "z": "当然，自然；作答语时常单独成句"},
+    {"w": "tongue", "p": "/tʌŋ/", "t": "n.", "z": "舌头；语言。此处一语双关，正是谜底"},
+    {"w": "flesh", "p": "/fleʃ/", "t": "n.", "z": "肉，肌肉；骨头上的“肉”"},
+    {"w": "upset", "p": "/ˌʌpˈset/", "t": "adj.", "z": "心烦的，不痛快的"}
+   ]
+  },
+  {
+   "i": 7,
+   "zh": "“嘎啊啊！汝如何知道？！”",
+   "notes": [
+    "译注：原句 <code>How did thou know?!</code> 其实不合古语语法——<code>thou</code> 是主格，配过去式助动词该用 <code>didst</code>（<code>How didst thou know?</code>）。作者让骷髅用错古语，恰好显出它硬撑老派腔的滑稽，所以译文用“汝如何知道”保留这股怪味，而不去替它改正。",
+    "<code>Gaaaah!</code> 是纯拟声的惨叫，译成“嘎啊啊！”比“啊！”更能传达骷髅那种夸张的挫败感；<code>?!</code> 并用表示又惊又气。"
+   ],
+   "vocab": [
+    {"w": "Gaaaah", "p": "/ɡɑː/", "t": "int.", "z": "（拟声）嘎啊——惊怒、挫败的怪叫"},
+    {"w": "thou", "p": "/ðaʊ/", "t": "pron.", "z": "古体第二人称单数主格，＝you（你）"},
+    {"w": "know", "p": "/nəʊ/", "t": "v.", "z": "知道，晓得"}
+   ]
+  },
+  {
+   "i": 8,
+   "zh": "“头两句跟谜底没关系，只是用来骗你的。‘the — Common — Tongue’里有三个词。第三个词就是‘tongue’。”",
+   "notes": [
+    "<code>only there to trick you</code> 是 <code>be there to do</code> 结构，＝“摆在那里就是为了……”，省略主语后作补语，语气像揭穿把戏。",
+    "<code>There are three words in ‘the — Common — Tongue.’</code> 是谜底的关键句：<code>the</code>、<code>Common</code>、<code>Tongue</code> 三个词，第三个就是 <code>tongue</code>。原文用破折号把短语拆开读，译文照搬这个节奏，读者才跟得上。",
+    "<code>unrelated</code>＝互不相关的；<code>anger</code>／<code>hunger</code> 那两条线索只是干扰项，这里不译成“无关的句子”以免读起来太术语化。"
+   ],
+   "vocab": [
+    {"w": "unrelated", "p": "/ˌʌnrɪˈleɪtɪd/", "t": "adj.", "z": "不相关的，没有联系的"},
+    {"w": "trick", "p": "/trɪk/", "t": "v.", "z": "欺骗，耍弄；<code>trick sb</code>＝骗某人"},
+    {"w": "sentences", "p": "/ˈsentənsɪz/", "t": "n.", "z": "句子（sentence 的复数）"}
+   ]
+  },
+  {
+   "i": 9,
+   "zh": "“唉，巨魔的残渣！算了算了。只是别把答案告诉别人。你且答应我这一件事，成不成？”我问它凭什么，它答道：“因为我喜欢看他们围在那儿，绞尽脑汁想到永远。”",
+   "notes": [
+    "<code>troll’s leavings!</code> 是游戏世界观里的粗口，<code>leavings</code>＝吃剩的残渣、丢弃的剩饭；<code>troll</code>（巨魔）是印记城人见人嫌的东西，所以这句话相当于“什么破烂玩意儿！”。",
+    "<code>Will thou promise me that, at least?</code> 又是古语用法：情态动词 <code>will</code> 直接提到句首构成疑问，配 <code>thou</code>（严格说该用 <code>wilt thou</code>，骷髅又露了一次马脚）；<code>at least</code>＝“至少”，暗示它只求这一点。",
+    "<code>puzzle it out</code> 是固定搭配，＝苦思冥想解出（难题）；<code>for all eternity</code>＝直到永远。整句的黑色幽默在于：这些骷髅本来就永远有时间。"
+   ],
+   "vocab": [
+    {"w": "leavings", "p": "/ˈliːvɪŋz/", "t": "n.", "z": "残渣，剩饭（常用复数）；此处是粗口的一部分"},
+    {"w": "at least", "p": "", "t": "phr.", "z": "至少，起码"},
+    {"w": "promise", "p": "/ˈprɒmɪs/", "t": "v.", "z": "答应，承诺"},
+    {"w": "puzzle it out", "p": "", "t": "phr.", "z": "把（难题）琢磨出来，冥思苦想解出"},
+    {"w": "eternity", "p": "/ɪˈtɜːnəti/", "t": "n.", "z": "永恒，无穷的时间；<code>for all eternity</code>＝直到永远"}
+   ]
+  },
+  {
+   "i": 10,
+   "zh": "我环顾四周，随口说了一句：“我看你解谜的本事，怕是不如出谜。”",
+   "notes": [
+    "<code>looked about</code>＝四下张望，与 <code>look around</code> 同义，英式说法略多；<code>commented casually</code>＝随口评论，<code>casually</code> 正是无名氏那种漫不经心的挑衅口吻。",
+    "<code>I suppose...</code> 是委婉的论断句式，＝“我想／我看……”；<code>not as good at answering riddles as posing them</code> 是 <code>as...as</code> 的否定式比较，回答与出谜两个动名词并列，译成“解谜不如出谜”最顺。",
+    "中文把 <code>I suppose</code> 化进句子里用“我看……怕是不如”，既保留推测的余味，也符合说话人不动声色的语气。"
+   ],
+   "vocab": [
+    {"w": "looked about", "p": "", "t": "phr.", "z": "四下张望，环顾周围"},
+    {"w": "commented", "p": "/ˈkɒmentɪd/", "t": "v.", "z": "评论，说了一句（comment 的过去式）"},
+    {"w": "casually", "p": "/ˈkæʒuəli/", "t": "adv.", "z": "随口地，漫不经心地"},
+    {"w": "suppose", "p": "/səˈpəʊz/", "t": "v.", "z": "猜想，认为；<code>I suppose</code>＝我看、我想"},
+    {"w": "answering", "p": "/ˈɑːnsərɪŋ/", "t": "v.", "z": "回答，解答（answer 的动名词）；与后面的 <code>posing</code> 并列比较"}
+   ]
+  },
+  {
+   "i": 11,
+   "zh": "“哦？什么话？”它把一只骨头手罩在脑壳边上。“我是不是听见……一个挑战？好啊……好啊……来吧！不过你要是输了，或者半路不玩了，我就再也不跟你说话！”",
+   "notes": [
+    "<code>What's this?</code> 是表示意外、来了兴趣的口语，相当于“哟，什么情况？”，不宜直译成“这是什么”。",
+    "<code>cupped a bony hand to the side of its skull</code> 描写的是“把手拢成杯状贴到耳边”这个听声音的动作；<code>cup sth to sth</code>＝把某物拢成杯形贴在……上。",
+    "<code>shan't</code>＝<code>shall not</code>，古旧的第一人称将来否定式；<code>should thou lose</code> 是古语虚拟条件句（＝<code>if you should lose</code>），<code>leave half-way through</code>＝中途退出。"
+   ],
+   "vocab": [
+    {"w": "challenge", "p": "/ˈtʃælɪndʒ/", "t": "n.", "z": "挑战，叫阵"},
+    {"w": "cupped", "p": "/kʌpt/", "t": "v.", "z": "把（手）拢成杯状（cup 的过去式）"},
+    {"w": "skull", "p": "/skʌl/", "t": "n.", "z": "头骨，脑壳"},
+    {"w": "go ahead", "p": "", "t": "phr.", "z": "（口语）来吧，动手吧；鼓励对方开始"},
+    {"w": "shan’t", "p": "/ʃɑːnt/", "t": "v.", "z": "＝shall not，古旧的将来否定式，“我不会、我绝不”"}
+   ]
+  },
+  {
+   "i": 12,
+   "zh": "它等着我先出题。我这才意识到，自己刚才那份解谜的自信，并不足以应付“凭几天记忆”来出题这件事。我临时编了一个。",
+   "notes": [
+    "<code>my confidence in answering its riddle didn't extend to telling ones</code> 是 <code>extend to</code>＝“延伸到、适用于”的用法，直译“我的自信并不延伸到出谜”，中文说成“不足以应付……这件事”更自然；<code>ones</code> 代指 <code>riddles</code>，避免重复。",
+    "<code>based on only a few day's memories</code> 是过去分词短语作后置定语，修饰出谜这件事；原文写作 <code>day’s</code>（单数所有格）其实该是 <code>days’</code>，译者照原文的意思译，不必去修。",
+    "<code>made something up</code> 是固定搭配，＝临时编造、瞎编一个，正对“失忆者只能现编”的窘境。"
+   ],
+   "vocab": [
+    {"w": "realized", "p": "/ˈriːəlaɪzd/", "t": "v.", "z": "意识到，明白过来（realize 的过去式）"},
+    {"w": "confidence", "p": "/ˈkɒnfɪdəns/", "t": "n.", "z": "自信，信心；<code>confidence in doing sth</code>＝做某事的底气"},
+    {"w": "extend", "p": "/ɪkˈstend/", "t": "v.", "z": "延伸，扩展；<code>extend to</code>＝扩展到、适用于"},
+    {"w": "hastily", "p": "/ˈheɪstɪli/", "t": "adv.", "z": "匆忙地，草草地"},
+    {"w": "made something up", "p": "", "t": "phr.", "z": "临时编造，瞎编一气（make sth up）"}
+   ]
+  },
+  {
+   "i": 13,
+   "zh": "“嗯。哪个更值钱？一磅通用的纯金币，还是半磅通用的纯金币？”它急切地点着头。",
+   "notes": [
+    "原文 <code>one-hundred- common, pure gold coins</code> 的写法像是排版或扫描时弄乱了，大意是“一百枚通用的纯金币”；<code>common</code> 指通用币制，<code>pure gold</code> 强调成色，这些都是这条谜语用来分心的信息。",
+    "谜语的陷阱在单位：<code>a pound of...</code> 与 <code>half a pound of...</code> 比的是重量，金币上标“一百”还是“二百”都改变不了“一磅金总比半磅金重”这一点；译文说“一磅（的）……金币”，正是在暗示称的是重量、不是面额。",
+    "<code>It nodded eagerly</code> 里 <code>eagerly</code>＝急切地、迫不及待，写出骷髅一听见新谜就兴奋的样子。"
+   ],
+   "vocab": [
+    {"w": "worth", "p": "/wɜːθ/", "t": "adj.", "z": "值……的；<code>be worth more</code>＝更值钱"},
+    {"w": "pound", "p": "/paʊnd/", "t": "n.", "z": "磅（重量单位）；谜语的关键就在重量"},
+    {"w": "pure", "p": "/pjʊə(r)/", "t": "adj.", "z": "纯的，不掺杂的；<code>pure gold</code>＝纯金"},
+    {"w": "coins", "p": "/kɔɪnz/", "t": "n.", "z": "硬币，金币（coin 的复数）"},
+    {"w": "eagerly", "p": "/ˈiːɡəli/", "t": "adv.", "z": "急切地，迫不及待地"}
+   ]
+  },
+  {
+   "i": 14,
+   "zh": "“容易，太容易了！一磅金子总比半磅值钱！蠢材，蠢材！”它咯咯笑着。接着骷髅蹲下身，在尘土里画了一张简笔的人脸，指着它说：“我无叔无兄，可那人的父亲是我父亲的儿子。他是谁，嗯？”",
+   "notes": [
+    "<code>One pound of gold is always worth more than one half pound!</code> 是骷髅的“得意解”，它完全没被面额迷惑，直接抓住重量比较——这也说明这条谜对它来说实在太浅。",
+    "<code>Uncles and brothers have I none</code> 是倒装：宾语提前到句首，等于 <code>I have no uncles and brothers</code>，为的是押古英语民谣的节奏；破案的关键是 <code>my father's son</code>——“我父亲的儿子”可以是说话人自己。",
+    "谜语逻辑：<code>that man's father</code> 是我父亲的儿子，也就是我自己，所以“那个人”是我的儿子，答案是 <code>your son</code>（你的儿子）。<code>eh?</code> 是句尾的追问语气，“嗯？”"
+   ],
+   "vocab": [
+    {"w": "Foolish", "p": "/ˈfuːlɪʃ/", "t": "adj.", "z": "愚蠢的，傻的；这里作骂人的话"},
+    {"w": "crouched down", "p": "", "t": "phr.", "z": "蹲下身子（crouch down）"},
+    {"w": "dust", "p": "/dʌst/", "t": "n.", "z": "尘土，灰尘；地下墓穴里到处是灰"},
+    {"w": "Uncles", "p": "/ˈʌŋklz/", "t": "n.", "z": "叔伯，舅父（uncle 的复数）；原文此处大写是谜面开头的书写习惯"}
+   ]
+  },
+  {
+   "i": 15,
+   "zh": "“他是你儿子。”我答道。",
+   "notes": [
+    "<code>He is your son.</code> 是谜底，回答时人称要跟着说话人转换：谜面里的 <code>my father's son</code> 是出谜人自己，所以 <code>that man</code> 就是出谜人的儿子，对出谜人说话时用 <code>your son</code>。",
+    "无名氏的答话极短，只有一句；译文也保持简短，不加任何解释，符合他“少言、困惑”的说话风格。"
+   ],
+   "vocab": [
+    {"w": "replied", "p": "/rɪˈplaɪd/", "t": "v.", "z": "回答，答道（reply 的过去式）"},
+    {"w": "son", "p": "/sʌn/", "t": "n.", "z": "儿子"}
+   ]
+  },
+  {
+   "i": 16,
+   "zh": "“呸！换你了。”我沉默地站了一会儿，又想出一个来。",
+   "notes": [
+    "<code>Bah!</code> 是表示轻蔑、不耐烦的感叹词，译成“呸！”最贴；<code>Your turn.</code> 是口语省略句，＝“轮到你了”。",
+    "<code>came up with</code> 是固定搭配，＝想出（主意、办法、答案），与上文的 <code>made something up</code>（编造）不同：前者侧重“想出来”，后者侧重“现编”。"
+   ],
+   "vocab": [
+    {"w": "Bah", "p": "/bɑː/", "t": "int.", "z": "（表示轻蔑、不屑）呸！"},
+    {"w": "Your turn", "p": "", "t": "phr.", "z": "轮到你了（口语省略句）"},
+    {"w": "came up with", "p": "", "t": "phr.", "z": "想出，提出（主意、答案）"}
+   ]
+  },
+  {
+   "i": 17,
+   "zh": "“做它的人不要它，买它的人不用它，用它的人看不见它。是什么？”骷髅孩子气地吃吃笑着。",
+   "notes": [
+    "这句是经典的 <code>coffin riddle</code>（棺材谜），三句排比分别从制作者、购买者、使用者三个角度描述同一件东西；英文用 <code>the maker / the buyer / the user</code> 三个 <code>the + 名词</code> 结构对仗，译文保持“做它的人／买它的人／用它的人”的整齐。",
+    "<code>tittered childishly</code> 中 <code>titter</code> 是压着嗓子的“吃吃笑”，比 <code>giggle</code> 更轻、更神经质；<code>childishly</code>＝孩子气地，正配这具骷髅的幼稚得意。"
+   ],
+   "vocab": [
+    {"w": "maker", "p": "/ˈmeɪkə(r)/", "t": "n.", "z": "制造者，制作者"},
+    {"w": "buyer", "p": "/ˈbaɪə(r)/", "t": "n.", "z": "买主，购买者"},
+    {"w": "tittered", "p": "/ˈtɪtəd/", "t": "v.", "z": "吃吃地笑，窃笑（titter 的过去式）"},
+    {"w": "childishly", "p": "/ˈtʃaɪldɪʃli/", "t": "adv.", "z": "孩子气地，幼稚地"}
+   ]
+  },
+  {
+   "i": 18,
+   "zh": "“不对，不对！答案是‘棺材’，我自己的棺材我肯定看得见！”它已经备好了自己的谜。“哪个五个字母的词，连最伟大的凡人贤者都会念错？”又是一个一眼看穿的。",
+   "notes": [
+    "<code>Not true, not true!</code> 里的 <code>true</code> 不是“真实”而是“对、正确”，＝“不对，不对！”，这是谜语主持人惯用的否定语。",
+    "<code>What five letter word does even the greatest of mortal sages pronounce wrong?</code> 是 <code>pronounce sth wrong</code> 结构（把某词念错），不是 <code>pronounce wrong</code> 作动词短语；谜底是 <code>wrong</code> 这个词本身——因为念出它的时候你就在说“错”。",
+    "<code>even the greatest of mortal sages</code> 中 <code>mortal</code>＝会死的、凡人的，用来与不死的骷髅对照；<code>Another obvious one.</code> 是无名氏的内心短评，译文用“又是一个一眼看穿的”保持他简短的评判口气。"
+   ],
+   "vocab": [
+    {"w": "mortal", "p": "/ˈmɔːtl/", "t": "adj.", "z": "凡人的，会死的；<code>mortal sages</code>＝凡间的贤者"},
+    {"w": "sages", "p": "/ˈseɪdʒɪz/", "t": "n.", "z": "贤者，智者（sage 的复数）"},
+    {"w": "pronounce", "p": "/prəˈnaʊns/", "t": "v.", "z": "发音，念（词）"},
+    {"w": "obvious", "p": "/ˈɒbviəs/", "t": "adj.", "z": "明显的，一眼看穿的"}
+   ]
+  },
+  {
+   "i": 19,
+   "zh": "“嗯。‘wrong’。”它冲我挥起拳头。",
+   "notes": [
+    "<code>‘Wrong.’</code> 这个回答本身构成双关：说出 <code>wrong</code> 这个字，既是在回答“哪个词”，又像是在宣告自己“错了”。中文用引号标出 <code>wrong</code>，并在注释里点明这层双关，读者才接得住这个梗。",
+    "<code>shook its fist at me</code>＝朝我挥拳头，是恼羞又不甘的动作，<code>shake one's fist at sb</code> 是固定说法。"
+   ],
+   "vocab": [
+    {"w": "Wrong", "p": "/rɒŋ/", "t": "adj.", "z": "错误的；此处作为被念出来的“词”，正是谜底"},
+    {"w": "shook", "p": "/ʃʊk/", "t": "v.", "z": "挥动，摇（shake 的过去式）"},
+    {"w": "fist", "p": "/fɪst/", "t": "n.", "z": "拳头"}
+   ]
+  },
+  {
+   "i": 20,
+   "zh": "“哦哦，可恶！你出。”",
+   "notes": [
+    "<code>curses!</code> 是旧式口语的咒骂，＝“该死！”“可恶！”，比 <code>damn</code> 文雅一点，正合骷髅装老派腔的品味。",
+    "<code>Go.</code> 是极简的口语指令，＝“你出题吧／继续”，不是“走”。无名氏与骷髅的对话都很短，译文也保持这种干脆的节奏。"
+   ],
+   "vocab": [
+    {"w": "curses", "p": "/ˈkɜːsɪz/", "t": "int.", "z": "（旧式咒骂）可恶！该死！"},
+    {"w": "Go", "p": "/ɡəʊ/", "t": "v.", "z": "（口语祈使）来吧，开始吧；此处指“你出题”"}
+   ]
+  },
+  {
+   "i": 21,
+   "zh": "“夜里它们不请自来，白天它们不翼而飞。”",
+   "notes": [
+    "这句是传统的 <code>stars</code>（星星）谜，靠 <code>without being fetched</code>（没人去取）与 <code>without being stolen</code>（没人偷走）两个被动短语工整对仗；中文用“不请自来／不翼而飞”两个成语，正好对应“无取而来／无窃而失”的对句。",
+    "<code>by day</code> 与 <code>at night</code> 是时间的固定搭配，＝白天／夜里；<code>they are lost</code> 用的是被动意义，指星星隐没不见。"
+   ],
+   "vocab": [
+    {"w": "fetched", "p": "/fetʃt/", "t": "v.", "z": "取来，去拿来（fetch 的过去分词）"},
+    {"w": "lost", "p": "/lɒst/", "t": "adj.", "z": "失去的，不见的；<code>be lost</code>＝消失、不见了"},
+    {"w": "stolen", "p": "/ˈstəʊlən/", "t": "v.", "z": "偷走（steal 的过去分词）"}
+   ]
+  },
+  {
+   "i": 22,
+   "zh": "“呃……嗯。啊……星星！是星星，嘿嘿！”我暗暗骂了一声——这骷髅不知多少年没见过星星了，我原以为它会多费点劲。",
+   "notes": [
+    "<code>hmm / ah</code> 这些叹词连用，写出骷髅一路磨蹭、忽然开窍的过程；译文保留“呃……嗯。啊……”的停顿感。",
+    "<code>since it had been so long since...</code> 是“双重 since”结构：前一个 <code>since</code> 引出原因（因为……），后一个 <code>since</code> 引出时间（自……以来）。<code>it had been so long since the skeleton must have seen stars</code>＝“这骷髅上一次看见星星已经过去太久了”，<code>must have seen</code> 表示对过去的推测。",
+    "<code>I silently cursed</code>＝心里暗骂（没出声）；<code>would have more trouble</code> 是与过去事实相反的推测，＝“我本以为它会更费劲”。"
+   ],
+   "vocab": [
+    {"w": "silently cursed", "p": "", "t": "phr.", "z": "暗暗咒骂，心里骂了一声"},
+    {"w": "stars", "p": "/stɑːz/", "t": "n.", "z": "星星（star 的复数）；本条谜语的谜底"},
+    {"w": "trouble", "p": "/ˈtrʌbl/", "t": "n.", "z": "麻烦，费劲；<code>have trouble</code>＝犯难，费力气"}
+   ]
+  }
+ ]
+}
