@@ -1,34 +1,98 @@
 [
  {
-  "name": "drowned-nations-01",
-  "chapter": "Drowned Nations",
-  "slug": "drowned-nations",
-  "first": 1,
-  "last": 10,
-  "count": 10
- },
- {
-  "name": "the-tomb-01",
-  "chapter": "The Tomb",
-  "slug": "the-tomb",
+  "name": "pharod-01",
+  "chapter": "Pharod",
+  "slug": "pharod",
   "first": 1,
   "last": 22,
   "count": 22
  },
  {
-  "name": "the-tomb-02",
-  "chapter": "The Tomb",
-  "slug": "the-tomb",
+  "name": "pharod-02",
+  "chapter": "Pharod",
+  "slug": "pharod",
   "first": 23,
   "last": 44,
   "count": 22
  },
  {
-  "name": "the-tomb-03",
-  "chapter": "The Tomb",
-  "slug": "the-tomb",
+  "name": "pharod-03",
+  "chapter": "Pharod",
+  "slug": "pharod",
   "first": 45,
-  "last": 50,
-  "count": 6
+  "last": 66,
+  "count": 22
+ },
+ {
+  "name": "pharod-04",
+  "chapter": "Pharod",
+  "slug": "pharod",
+  "first": 67,
+  "last": 73,
+  "count": 7
+ },
+ {
+  "name": "xachariah-part-i-01",
+  "chapter": "Xachariah, Part I",
+  "slug": "xachariah-part-i",
+  "first": 1,
+  "last": 22,
+  "count": 22
+ },
+ {
+  "name": "xachariah-part-i-02",
+  "chapter": "Xachariah, Part I",
+  "slug": "xachariah-part-i",
+  "first": 23,
+  "last": 44,
+  "count": 22
+ },
+ {
+  "name": "xachariah-part-i-03",
+  "chapter": "Xachariah, Part I",
+  "slug": "xachariah-part-i",
+  "first": 45,
+  "last": 49,
+  "count": 5
+ },
+ {
+  "name": "dak-kon-part-ii-01",
+  "chapter": "Dak'kon, Part II",
+  "slug": "dak-kon-part-ii",
+  "first": 1,
+  "last": 22,
+  "count": 22
+ },
+ {
+  "name": "dak-kon-part-ii-02",
+  "chapter": "Dak'kon, Part II",
+  "slug": "dak-kon-part-ii",
+  "first": 23,
+  "last": 44,
+  "count": 22
+ },
+ {
+  "name": "dak-kon-part-ii-03",
+  "chapter": "Dak'kon, Part II",
+  "slug": "dak-kon-part-ii",
+  "first": 45,
+  "last": 58,
+  "count": 14
+ },
+ {
+  "name": "xachariah-part-ii-01",
+  "chapter": "Xachariah, Part II",
+  "slug": "xachariah-part-ii",
+  "first": 1,
+  "last": 22,
+  "count": 22
+ },
+ {
+  "name": "xachariah-part-ii-02",
+  "chapter": "Xachariah, Part II",
+  "slug": "xachariah-part-ii",
+  "first": 23,
+  "last": 33,
+  "count": 11
  }
 ]
