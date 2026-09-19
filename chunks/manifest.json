@@ -1,98 +1,122 @@
 [
  {
-  "name": "pharod-01",
-  "chapter": "Pharod",
-  "slug": "pharod",
+  "name": "annah-part-i-01",
+  "chapter": "Annah, Part I",
+  "slug": "annah-part-i",
   "first": 1,
   "last": 22,
   "count": 22
  },
  {
-  "name": "pharod-02",
-  "chapter": "Pharod",
-  "slug": "pharod",
+  "name": "annah-part-i-02",
+  "chapter": "Annah, Part I",
+  "slug": "annah-part-i",
   "first": 23,
   "last": 44,
   "count": 22
  },
  {
-  "name": "pharod-03",
-  "chapter": "Pharod",
-  "slug": "pharod",
+  "name": "annah-part-i-03",
+  "chapter": "Annah, Part I",
+  "slug": "annah-part-i",
   "first": 45,
-  "last": 66,
-  "count": 22
+  "last": 59,
+  "count": 15
  },
  {
-  "name": "pharod-04",
-  "chapter": "Pharod",
-  "slug": "pharod",
-  "first": 67,
-  "last": 73,
-  "count": 7
- },
- {
-  "name": "xachariah-part-i-01",
-  "chapter": "Xachariah, Part I",
-  "slug": "xachariah-part-i",
+  "name": "chaos-dogs-barking-01",
+  "chapter": "Chaos Dogs Barking",
+  "slug": "chaos-dogs-barking",
   "first": 1,
   "last": 22,
   "count": 22
  },
  {
-  "name": "xachariah-part-i-02",
-  "chapter": "Xachariah, Part I",
-  "slug": "xachariah-part-i",
+  "name": "chaos-dogs-barking-02",
+  "chapter": "Chaos Dogs Barking",
+  "slug": "chaos-dogs-barking",
   "first": 23,
   "last": 44,
   "count": 22
  },
  {
-  "name": "xachariah-part-i-03",
-  "chapter": "Xachariah, Part I",
-  "slug": "xachariah-part-i",
+  "name": "chaos-dogs-barking-03",
+  "chapter": "Chaos Dogs Barking",
+  "slug": "chaos-dogs-barking",
   "first": 45,
-  "last": 49,
-  "count": 5
+  "last": 62,
+  "count": 18
  },
  {
-  "name": "dak-kon-part-ii-01",
-  "chapter": "Dak'kon, Part II",
-  "slug": "dak-kon-part-ii",
+  "name": "alley-of-lingering-sighs-01",
+  "chapter": "Alley Of Lingering Sighs",
+  "slug": "alley-of-lingering-sighs",
   "first": 1,
   "last": 22,
   "count": 22
  },
  {
-  "name": "dak-kon-part-ii-02",
-  "chapter": "Dak'kon, Part II",
-  "slug": "dak-kon-part-ii",
+  "name": "alley-of-lingering-sighs-02",
+  "chapter": "Alley Of Lingering Sighs",
+  "slug": "alley-of-lingering-sighs",
   "first": 23,
   "last": 44,
   "count": 22
  },
  {
-  "name": "dak-kon-part-ii-03",
-  "chapter": "Dak'kon, Part II",
-  "slug": "dak-kon-part-ii",
+  "name": "alley-of-lingering-sighs-03",
+  "chapter": "Alley Of Lingering Sighs",
+  "slug": "alley-of-lingering-sighs",
   "first": 45,
-  "last": 58,
-  "count": 14
+  "last": 47,
+  "count": 3
  },
  {
-  "name": "xachariah-part-ii-01",
-  "chapter": "Xachariah, Part II",
-  "slug": "xachariah-part-ii",
+  "name": "master-of-the-bones-01",
+  "chapter": "Master Of The Bones",
+  "slug": "master-of-the-bones",
   "first": 1,
   "last": 22,
   "count": 22
  },
  {
-  "name": "xachariah-part-ii-02",
-  "chapter": "Xachariah, Part II",
-  "slug": "xachariah-part-ii",
+  "name": "master-of-the-bones-02",
+  "chapter": "Master Of The Bones",
+  "slug": "master-of-the-bones",
   "first": 23,
-  "last": 33,
-  "count": 11
+  "last": 44,
+  "count": 22
+ },
+ {
+  "name": "master-of-the-bones-03",
+  "chapter": "Master Of The Bones",
+  "slug": "master-of-the-bones",
+  "first": 45,
+  "last": 57,
+  "count": 13
+ },
+ {
+  "name": "unbroken-circle-of-zerthimon-part-ii-01",
+  "chapter": "Unbroken Circle Of Zerthimon, Part II",
+  "slug": "unbroken-circle-of-zerthimon-part-ii",
+  "first": 1,
+  "last": 22,
+  "count": 22
+ },
+ {
+  "name": "unbroken-circle-of-zerthimon-part-ii-02",
+  "chapter": "Unbroken Circle Of Zerthimon, Part II",
+  "slug": "unbroken-circle-of-zerthimon-part-ii",
+  "first": 23,
+  "last": 44,
+  "count": 22
+ },
+ {
+  "name": "unbroken-circle-of-zerthimon-part-ii-03",
+  "chapter": "Unbroken Circle Of Zerthimon, Part II",
+  "slug": "unbroken-circle-of-zerthimon-part-ii",
+  "first": 45,
+  "last": 59,
+  "count": 15
  }
 ]

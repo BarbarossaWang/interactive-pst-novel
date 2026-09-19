@@ -27,6 +27,11 @@
 | 十九 | Xachariah, Part I 扎卡利亚（上） | 49 | 110–113 | 116–119 |
 | 二十 | Dak'kon, Part II 达肯（下） | 58 | 114–118 | 120–124 |
 | 二十一 | Xachariah, Part II 扎卡利亚（下） | 33 | 119–121 | 125–127 |
+| 二十二 | Annah, Part I 安娜（上） | 59 | 122–127 | 128–133 |
+| 二十三 | Chaos Dogs Barking 混沌犬吠 | 62 | 128–133 | 134–139 |
+| 二十四 | Alley Of Lingering Sighs 长叹巷 | 47 | 134–137 | 140–143 |
+| 二十五 | Master Of The Bones 骸骨之主 | 57 | 138–143 | 144–149 |
+| 二十六 | Unbroken Circle Of Zerthimon, Part II 泽西蒙不破之环（下） | 59 | 144–149 | 150–155 |
 
 ## 打开方式
 
