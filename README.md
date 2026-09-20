@@ -32,6 +32,9 @@
 | 二十四 | Alley Of Lingering Sighs 长叹巷 | 47 | 134–137 | 140–143 |
 | 二十五 | Master Of The Bones 骸骨之主 | 57 | 138–143 | 144–149 |
 | 二十六 | Unbroken Circle Of Zerthimon, Part II 泽西蒙不破之环（下） | 59 | 144–149 | 150–155 |
+| 二十七 | Lower Ward 下城区 | 172 | 150–162 | 156–168 |
+| 二十八 | Coaxmetal 科克斯梅塔尔 | 67 | 163–166 | 169–172 |
+| 二十九 | Clerks' Ward 书记区 | 76 | 167–173 | 173–179 |
 
 ## 打开方式
 
@@ -106,5 +109,17 @@ PDF 版式特殊：每个字形单独绘制、行内被切成多段、换行处�
 | The Silent King | 93–97 | 99–103 |
 | Drowned Nations | 98–99 | 104–105 |
 | The Tomb | 100–103 | 106–109 |
+| Pharod | 104–109 | 110–115 |
+| Xachariah, Part I | 110–113 | 116–119 |
+| Dak'kon, Part II | 114–118 | 120–124 |
+| Xachariah, Part II | 119–121 | 125–127 |
+| Annah, Part I | 122–127 | 128–133 |
+| Chaos Dogs Barking | 128–133 | 134–139 |
+| Alley Of Lingering Sighs | 134–137 | 140–143 |
+| Master Of The Bones | 138–143 | 144–149 |
+| Unbroken Circle Of Zerthimon, Part II | 144–149 | 150–155 |
+| Lower Ward | 150–162 | 156–168 |
+| Coaxmetal | 163–166 | 169–172 |
+| Clerks' Ward | 167–173 | 173–179 |
 
 仅供个人英语学习使用。

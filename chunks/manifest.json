@@ -1,122 +1,130 @@
 [
  {
-  "name": "annah-part-i-01",
-  "chapter": "Annah, Part I",
-  "slug": "annah-part-i",
+  "name": "lower-ward-01",
+  "chapter": "Lower Ward",
+  "slug": "lower-ward",
   "first": 1,
   "last": 22,
   "count": 22
  },
  {
-  "name": "annah-part-i-02",
-  "chapter": "Annah, Part I",
-  "slug": "annah-part-i",
+  "name": "lower-ward-02",
+  "chapter": "Lower Ward",
+  "slug": "lower-ward",
   "first": 23,
   "last": 44,
   "count": 22
  },
  {
-  "name": "annah-part-i-03",
-  "chapter": "Annah, Part I",
-  "slug": "annah-part-i",
+  "name": "lower-ward-03",
+  "chapter": "Lower Ward",
+  "slug": "lower-ward",
   "first": 45,
-  "last": 59,
-  "count": 15
- },
- {
-  "name": "chaos-dogs-barking-01",
-  "chapter": "Chaos Dogs Barking",
-  "slug": "chaos-dogs-barking",
-  "first": 1,
-  "last": 22,
+  "last": 66,
   "count": 22
  },
  {
-  "name": "chaos-dogs-barking-02",
-  "chapter": "Chaos Dogs Barking",
-  "slug": "chaos-dogs-barking",
-  "first": 23,
-  "last": 44,
+  "name": "lower-ward-04",
+  "chapter": "Lower Ward",
+  "slug": "lower-ward",
+  "first": 67,
+  "last": 88,
   "count": 22
  },
  {
-  "name": "chaos-dogs-barking-03",
-  "chapter": "Chaos Dogs Barking",
-  "slug": "chaos-dogs-barking",
-  "first": 45,
-  "last": 62,
+  "name": "lower-ward-05",
+  "chapter": "Lower Ward",
+  "slug": "lower-ward",
+  "first": 89,
+  "last": 110,
+  "count": 22
+ },
+ {
+  "name": "lower-ward-06",
+  "chapter": "Lower Ward",
+  "slug": "lower-ward",
+  "first": 111,
+  "last": 132,
+  "count": 22
+ },
+ {
+  "name": "lower-ward-07",
+  "chapter": "Lower Ward",
+  "slug": "lower-ward",
+  "first": 133,
+  "last": 154,
+  "count": 22
+ },
+ {
+  "name": "lower-ward-08",
+  "chapter": "Lower Ward",
+  "slug": "lower-ward",
+  "first": 155,
+  "last": 172,
   "count": 18
  },
  {
-  "name": "alley-of-lingering-sighs-01",
-  "chapter": "Alley Of Lingering Sighs",
-  "slug": "alley-of-lingering-sighs",
+  "name": "coaxmetal-01",
+  "chapter": "Coaxmetal",
+  "slug": "coaxmetal",
   "first": 1,
   "last": 22,
   "count": 22
  },
  {
-  "name": "alley-of-lingering-sighs-02",
-  "chapter": "Alley Of Lingering Sighs",
-  "slug": "alley-of-lingering-sighs",
+  "name": "coaxmetal-02",
+  "chapter": "Coaxmetal",
+  "slug": "coaxmetal",
   "first": 23,
   "last": 44,
   "count": 22
  },
  {
-  "name": "alley-of-lingering-sighs-03",
-  "chapter": "Alley Of Lingering Sighs",
-  "slug": "alley-of-lingering-sighs",
+  "name": "coaxmetal-03",
+  "chapter": "Coaxmetal",
+  "slug": "coaxmetal",
   "first": 45,
-  "last": 47,
-  "count": 3
+  "last": 66,
+  "count": 22
  },
  {
-  "name": "master-of-the-bones-01",
-  "chapter": "Master Of The Bones",
-  "slug": "master-of-the-bones",
+  "name": "coaxmetal-04",
+  "chapter": "Coaxmetal",
+  "slug": "coaxmetal",
+  "first": 67,
+  "last": 67,
+  "count": 1
+ },
+ {
+  "name": "clerks-ward-01",
+  "chapter": "Clerks' Ward",
+  "slug": "clerks-ward",
   "first": 1,
   "last": 22,
   "count": 22
  },
  {
-  "name": "master-of-the-bones-02",
-  "chapter": "Master Of The Bones",
-  "slug": "master-of-the-bones",
+  "name": "clerks-ward-02",
+  "chapter": "Clerks' Ward",
+  "slug": "clerks-ward",
   "first": 23,
   "last": 44,
   "count": 22
  },
  {
-  "name": "master-of-the-bones-03",
-  "chapter": "Master Of The Bones",
-  "slug": "master-of-the-bones",
+  "name": "clerks-ward-03",
+  "chapter": "Clerks' Ward",
+  "slug": "clerks-ward",
   "first": 45,
-  "last": 57,
-  "count": 13
- },
- {
-  "name": "unbroken-circle-of-zerthimon-part-ii-01",
-  "chapter": "Unbroken Circle Of Zerthimon, Part II",
-  "slug": "unbroken-circle-of-zerthimon-part-ii",
-  "first": 1,
-  "last": 22,
+  "last": 66,
   "count": 22
  },
  {
-  "name": "unbroken-circle-of-zerthimon-part-ii-02",
-  "chapter": "Unbroken Circle Of Zerthimon, Part II",
-  "slug": "unbroken-circle-of-zerthimon-part-ii",
-  "first": 23,
-  "last": 44,
-  "count": 22
- },
- {
-  "name": "unbroken-circle-of-zerthimon-part-ii-03",
-  "chapter": "Unbroken Circle Of Zerthimon, Part II",
-  "slug": "unbroken-circle-of-zerthimon-part-ii",
-  "first": 45,
-  "last": 59,
-  "count": 15
+  "name": "clerks-ward-04",
+  "chapter": "Clerks' Ward",
+  "slug": "clerks-ward",
+  "first": 67,
+  "last": 76,
+  "count": 10
  }
 ]
