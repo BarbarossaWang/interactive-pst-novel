@@ -35,6 +35,11 @@
 | 二十七 | Lower Ward 下城区 | 172 | 150–162 | 156–168 |
 | 二十八 | Coaxmetal 科克斯梅塔尔 | 67 | 163–166 | 169–172 |
 | 二十九 | Clerks' Ward 书记区 | 76 | 167–173 | 173–179 |
+| 三十 | Ignus 伊格纳斯 | 93 | 174–182 | 180–188 |
+| 三十一 | Fall-From-Grace, Part I 失宠（上） | 63 | 183–187 | 189–193 |
+| 三十二 | Brothel Of Slaking Intellectual Lusts 智欲馆 | 23 | 188–190 | 194–196 |
+| 三十三 | Nenny Nine-Eyes 妮妮九眼 | 35 | 191–193 | 197–199 |
+| 三十四 | Marissa 玛丽莎 | 29 | 194–195 | 200–201 |
 
 ## 打开方式
 
@@ -121,5 +126,10 @@ PDF 版式特殊：每个字形单独绘制、行内被切成多段、换行处�
 | Lower Ward | 150–162 | 156–168 |
 | Coaxmetal | 163–166 | 169–172 |
 | Clerks' Ward | 167–173 | 173–179 |
+| Ignus | 174–182 | 180–188 |
+| Fall-From-Grace, Part I | 183–187 | 189–193 |
+| Brothel Of Slaking Intellectual Lusts | 188–190 | 194–196 |
+| Nenny Nine-Eyes | 191–193 | 197–199 |
+| Marissa | 194–195 | 200–201 |
 
 仅供个人英语学习使用。

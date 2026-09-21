@@ -1,130 +1,50 @@
 [
  {
-  "name": "lower-ward-01",
-  "chapter": "Lower Ward",
-  "slug": "lower-ward",
+  "name": "brothel-of-slaking-intellectual-lusts-01",
+  "chapter": "Brothel Of Slaking Intellectual Lusts",
+  "slug": "brothel-of-slaking-intellectual-lusts",
   "first": 1,
   "last": 22,
   "count": 22
  },
  {
-  "name": "lower-ward-02",
-  "chapter": "Lower Ward",
-  "slug": "lower-ward",
+  "name": "brothel-of-slaking-intellectual-lusts-02",
+  "chapter": "Brothel Of Slaking Intellectual Lusts",
+  "slug": "brothel-of-slaking-intellectual-lusts",
   "first": 23,
-  "last": 44,
-  "count": 22
- },
- {
-  "name": "lower-ward-03",
-  "chapter": "Lower Ward",
-  "slug": "lower-ward",
-  "first": 45,
-  "last": 66,
-  "count": 22
- },
- {
-  "name": "lower-ward-04",
-  "chapter": "Lower Ward",
-  "slug": "lower-ward",
-  "first": 67,
-  "last": 88,
-  "count": 22
- },
- {
-  "name": "lower-ward-05",
-  "chapter": "Lower Ward",
-  "slug": "lower-ward",
-  "first": 89,
-  "last": 110,
-  "count": 22
- },
- {
-  "name": "lower-ward-06",
-  "chapter": "Lower Ward",
-  "slug": "lower-ward",
-  "first": 111,
-  "last": 132,
-  "count": 22
- },
- {
-  "name": "lower-ward-07",
-  "chapter": "Lower Ward",
-  "slug": "lower-ward",
-  "first": 133,
-  "last": 154,
-  "count": 22
- },
- {
-  "name": "lower-ward-08",
-  "chapter": "Lower Ward",
-  "slug": "lower-ward",
-  "first": 155,
-  "last": 172,
-  "count": 18
- },
- {
-  "name": "coaxmetal-01",
-  "chapter": "Coaxmetal",
-  "slug": "coaxmetal",
-  "first": 1,
-  "last": 22,
-  "count": 22
- },
- {
-  "name": "coaxmetal-02",
-  "chapter": "Coaxmetal",
-  "slug": "coaxmetal",
-  "first": 23,
-  "last": 44,
-  "count": 22
- },
- {
-  "name": "coaxmetal-03",
-  "chapter": "Coaxmetal",
-  "slug": "coaxmetal",
-  "first": 45,
-  "last": 66,
-  "count": 22
- },
- {
-  "name": "coaxmetal-04",
-  "chapter": "Coaxmetal",
-  "slug": "coaxmetal",
-  "first": 67,
-  "last": 67,
+  "last": 23,
   "count": 1
  },
  {
-  "name": "clerks-ward-01",
-  "chapter": "Clerks' Ward",
-  "slug": "clerks-ward",
+  "name": "nenny-nine-eyes-01",
+  "chapter": "Nenny Nine-Eyes",
+  "slug": "nenny-nine-eyes",
   "first": 1,
   "last": 22,
   "count": 22
  },
  {
-  "name": "clerks-ward-02",
-  "chapter": "Clerks' Ward",
-  "slug": "clerks-ward",
+  "name": "nenny-nine-eyes-02",
+  "chapter": "Nenny Nine-Eyes",
+  "slug": "nenny-nine-eyes",
   "first": 23,
-  "last": 44,
+  "last": 35,
+  "count": 13
+ },
+ {
+  "name": "marissa-01",
+  "chapter": "Marissa",
+  "slug": "marissa",
+  "first": 1,
+  "last": 22,
   "count": 22
  },
  {
-  "name": "clerks-ward-03",
-  "chapter": "Clerks' Ward",
-  "slug": "clerks-ward",
-  "first": 45,
-  "last": 66,
-  "count": 22
- },
- {
-  "name": "clerks-ward-04",
-  "chapter": "Clerks' Ward",
-  "slug": "clerks-ward",
-  "first": 67,
-  "last": 76,
-  "count": 10
+  "name": "marissa-02",
+  "chapter": "Marissa",
+  "slug": "marissa",
+  "first": 23,
+  "last": 29,
+  "count": 7
  }
 ]
